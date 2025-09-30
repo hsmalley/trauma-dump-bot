@@ -15,7 +15,6 @@ type: meta
 │   ├── Context_Notes
 │   ├── Conversations
 │   ├── Meta
-│   │   └── README.md
 │   ├── Reflections
 │   └── Relationship_Map
 ├── Frameworks
