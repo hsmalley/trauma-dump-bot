@@ -47,8 +47,6 @@ type: meta
 │   ├── README.md
 │   ├── Tagging System.md
 │   ├── Tools
-│   │   ├── __pycache__
-│   │   │   └── validate_vault.cpython-311.pyc
 │   │   └── validate_vault.py
 │   ├── Validator Usage.md
 │   ├── Vault Graph Overview.md
