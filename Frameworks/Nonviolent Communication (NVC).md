@@ -1,3 +1,8 @@
+---
+tags: []
+type: framework
+---
+
 <!-- @format -->
 
 # Nonviolent Communication (NVC)

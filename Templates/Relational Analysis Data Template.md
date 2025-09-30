@@ -1,3 +1,8 @@
+---
+tags: []
+type: template
+---
+
 <!-- @format -->
 
 # Relational Analysis Data Template

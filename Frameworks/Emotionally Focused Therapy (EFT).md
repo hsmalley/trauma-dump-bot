@@ -1,3 +1,8 @@
+---
+tags: []
+type: framework
+---
+
 <!-- @format -->
 
 # Emotionally Focused Therapy (EFT)

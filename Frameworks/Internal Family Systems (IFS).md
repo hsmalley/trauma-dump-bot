@@ -1,3 +1,8 @@
+---
+tags: []
+type: framework
+---
+
 <!-- @format -->
 
 # Internal Family Systems (IFS)
