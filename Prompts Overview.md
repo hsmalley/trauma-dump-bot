@@ -16,6 +16,7 @@ They are designed to reference frameworks directly and encourage nonjudgmental i
 
 ## Analysis Prompts
 
+- [[GPT Relational Analysis Prompt]]
 - [[Analysis Prompt - Conflict]]
 - [[Analysis Prompt - Attachment]]
 - [[Analysis Prompt - Repair Attempts]]
