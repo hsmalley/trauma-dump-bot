@@ -2,8 +2,10 @@
 import os, re, sys, json
 from pathlib import Path
 
+
 def read_text(p):
     return Path(p).read_text(encoding="utf-8", errors="ignore")
+
 
 def parse_frontmatter(text):
     if text.startswith("---"):
@@ -16,7 +18,7 @@ def parse_frontmatter(text):
             while i < len(lines):
                 line = lines[i]
                 if re.match(r"^\s*[A-Za-z0-9_-]+:\s*$", line):
-                    key = line.split(":",1)[0].strip()
+                    key = line.split(":", 1)[0].strip()
                     arr = []
                     i += 1
                     while i < len(lines) and re.match(r"^\s*-\s", lines[i]):
@@ -25,11 +27,12 @@ def parse_frontmatter(text):
                     fm[key] = arr
                     continue
                 if ":" in line:
-                    k,v = line.split(":",1)
+                    k, v = line.split(":", 1)
                     fm[k.strip()] = v.strip()
                 i += 1
             return fm, body
     return {}, text
+
 
 def index_notes(root: Path):
     files = list(root.rglob("*.md"))
@@ -43,12 +46,13 @@ def index_notes(root: Path):
                     aliases[a] = f
     return files, by_stem, aliases
 
+
 def find_broken_links(root: Path, by_stem, aliases):
     broken = []
     for f in root.rglob("*.md"):
         text = read_text(f)
         for m in re.finditer(r"\[\[([^\]]+)\]\]", text):
-            target = m.group(1).split("|",1)[0].strip()
+            target = m.group(1).split("|", 1)[0].strip()
             # Resolve by stem match or alias
             if target in by_stem:
                 continue
@@ -62,6 +66,7 @@ def find_broken_links(root: Path, by_stem, aliases):
             broken.append({"file": str(f.relative_to(root)), "link": target})
     return broken
 
+
 def find_duplicate_titles(root: Path):
     seen = {}
     dups = []
@@ -70,10 +75,19 @@ def find_duplicate_titles(root: Path):
         fm, _ = parse_frontmatter(text)
         title = fm.get("title") or f.stem
         if title in seen and str(f) != seen[title]:
-            dups.append({"title": title, "files": [str(Path(seen[title]).relative_to(root)), str(f.relative_to(root))]})
+            dups.append(
+                {
+                    "title": title,
+                    "files": [
+                        str(Path(seen[title]).relative_to(root)),
+                        str(f.relative_to(root)),
+                    ],
+                }
+            )
         else:
             seen[title] = str(f)
     return dups
+
 
 def main():
     root = Path(sys.argv[1]) if len(sys.argv) > 1 else Path(".")
@@ -81,9 +95,10 @@ def main():
     report = {
         "total_files": len(files),
         "broken_links": find_broken_links(root, by_stem, aliases),
-        "duplicate_titles": find_duplicate_titles(root)
+        "duplicate_titles": find_duplicate_titles(root),
     }
     print(json.dumps(report, indent=2))
+
 
 if __name__ == "__main__":
     main()

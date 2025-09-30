@@ -5,6 +5,8 @@ tags:
 type: meta
 ---
 
+<!-- @format -->
+
 # Vault File Tree
 
 ```
