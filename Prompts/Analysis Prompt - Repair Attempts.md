@@ -4,20 +4,27 @@ tags:
   - prompt
 type: prompt
 ---
+
+<!-- @format -->
+
 # Prompt
-Identify repair strategies and their effectiveness.  
+
+Identify repair strategies and their effectiveness.
 
 # Frameworks Referenced
-- [[Polyvagal Theory]]  
-- [[Frameworks/Internal Family Systems (IFS)]]  
-- [[Nonviolent Communication (NVC)]]  
-- [[Attachment Theory]]  
-- [[Gottman Method]]  
+
+- [[Polyvagal Theory]]
+- [[Frameworks/Internal Family Systems (IFS)]]
+- [[Nonviolent Communication (NVC)]]
+- [[Attachment Theory]]
+- [[Gottman Method]]
 
 # Use Cases
-- When to apply this prompt.  
+
+- When to apply this prompt.
 
 ## Workflow
+
 - Spot repair attempts (humor, apology, affection, compromise).
 - Identify whether they land or miss (attunement check).
 - Connect failures to flooding/defensiveness (Polyvagal/Gottman).

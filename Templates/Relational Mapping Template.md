@@ -4,22 +4,30 @@ tags:
   - template
 type: template
 ---
+
+<!-- @format -->
+
 # Relational Map
 
 ## Roles & Dynamics
-- Role 1  
-- Role 2  
-- Role 3  
+
+- Role 1
+- Role 2
+- Role 3
 
 ## Boundaries
-- Clear / permeable  
-- Controlling / rigid  
+
+- Clear / permeable
+- Controlling / rigid
 
 ## Power Dynamics
-- Who holds influence, resources, or decision-making power?  
+
+- Who holds influence, resources, or decision-making power?
 
 ## Systemic Influences
-Consider cultural, social, or structural layers.  
+
+Consider cultural, social, or structural layers.
 
 ## Opportunities for Change
+
 Identify leverage points for healthier dynamics.

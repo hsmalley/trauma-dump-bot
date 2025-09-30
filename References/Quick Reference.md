@@ -4,6 +4,9 @@ tags:
   - reference
 type: reference
 ---
+
+<!-- @format -->
+
 # Quick Reference
 
 - Polyvagal: Safety vs. mobilization vs. shutdown

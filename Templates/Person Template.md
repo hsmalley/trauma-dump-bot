@@ -4,16 +4,22 @@ tags:
   - template
 type: template
 ---
+
+<!-- @format -->
+
 # {{title}}
 
 ## Background
-- Age:  
-- Role:  
-- Context:  
+
+- Age:
+- Role:
+- Context:
 
 ## Traits
--  
+
+-
 
 ## Links
-- Cases:  
+
+- Cases:
 - Conversations:

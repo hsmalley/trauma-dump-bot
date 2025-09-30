@@ -4,24 +4,32 @@ tags:
   - template
 type: template
 ---
+
+<!-- @format -->
+
 # Conversation Analysis
 
 ## Context
-Describe the conversation background.  
+
+Describe the conversation background.
 
 ## Transcript
-Paste dialogue excerpt here.  
+
+Paste dialogue excerpt here.
 
 ## Observations
-- Emotional tone  
-- Nervous system state (Polyvagal, Somatic Experiencing)  
-- Attachment signals  
-- Power dynamics  
+
+- Emotional tone
+- Nervous system state (Polyvagal, Somatic Experiencing)
+- Attachment signals
+- Power dynamics
 
 ## Framework Analysis
-- [[Frameworks/Internal Family Systems (IFS)]]  
-- [[Nonviolent Communication (NVC)]]  
-- [[Polyvagal Theory]]  
+
+- [[Frameworks/Internal Family Systems (IFS)]]
+- [[Nonviolent Communication (NVC)]]
+- [[Polyvagal Theory]]
 
 ## Insights & Reflections
+
 Summarize key patterns, themes, and possible reframes.

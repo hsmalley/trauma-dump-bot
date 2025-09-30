@@ -4,6 +4,9 @@ tags:
   - template
 type: template
 ---
+
+<!-- @format -->
+
 # Case: {{title}}
 
 ## People

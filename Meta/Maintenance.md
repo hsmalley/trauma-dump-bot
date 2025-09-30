@@ -4,6 +4,9 @@ tags:
   - meta
 type: meta
 ---
+
+<!-- @format -->
+
 # 🧰 Vault Maintenance
 
 This note collects quick commands, checklists, and tips to keep the vault healthy: validated links, consistent metadata, and working diagrams.
@@ -13,6 +16,7 @@ This note collects quick commands, checklists, and tips to keep the vault health
 ## 🚀 Quick Commands
 
 ### Validate links & titles
+
 ```bash
 python Meta/Tools/validate_vault.py .
 ```
@@ -21,10 +25,13 @@ python Meta/Tools/validate_vault.py .
 - Resolves references by **filename** and `aliases:` frontmatter.
 
 ### (Optional) Rebuild the Master Map
-> The master map is generated from real links in notes. If you add many new items and want to refresh the map, re-run the **“Master Map”** update steps:
-1) Ensure new notes link frameworks via markdown [[Framework Name (ACRONYM)]]
 
-2) Run the “Maintenance → Master Map: Refresh” checklist below (manual update steps).
+> The master map is generated from real links in notes. If you add many new items and want to refresh the map, re-run the **“Master Map”** update steps:
+
+1. Ensure new notes link frameworks via markdown [[Framework Name (ACRONYM)]]
+
+2. Run the “Maintenance → Master Map: Refresh” checklist below (manual update steps).
+
 ---
 
 ## ✅ Regular Maintenance Checklist
@@ -63,11 +70,12 @@ The master map is in **Meta/Master Relationship Map.md** and is generated based 
 1. Ensure new notes include concrete links like `[[Polyvagal Theory]]`, `[[Internal Family Systems (IFS)]]`.
 2. In large batches of changes, re-run your local generation script (or request the assistant to rebuild the map):
    - Confirm Mermaid block syntax:
-     ```
-     ```mermaid
-graph TD
-F_Framework --> P_Prompt
-```
+     `
+     `mermaid
+     graph TD
+     F_Framework --> P_Prompt
+
+````
      ```
    - Node IDs: use only letters, numbers, underscores.
 3. Open the map in Obsidian and confirm it renders.
@@ -98,3 +106,4 @@ F_Framework --> P_Prompt
 - [[Workflow Map]]
 - [[Vault Graph Overview]]
 - [[Worked Analyses]]
+````

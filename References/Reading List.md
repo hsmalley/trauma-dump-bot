@@ -4,11 +4,14 @@ tags:
   - reference
 type: reference
 ---
+
+<!-- @format -->
+
 # Reading List
 
-- *Polyvagal Theory* by Stephen Porges
-- *No Bad Parts* by Richard Schwartz
-- *Nonviolent Communication* by Marshall Rosenberg
-- *Hold Me Tight* by Sue Johnson
-- *The Body Keeps the Score* by Bessel van der Kolk
-- *The Seven Principles for Making Marriage Work* by John Gottman
+- _Polyvagal Theory_ by Stephen Porges
+- _No Bad Parts_ by Richard Schwartz
+- _Nonviolent Communication_ by Marshall Rosenberg
+- _Hold Me Tight_ by Sue Johnson
+- _The Body Keeps the Score_ by Bessel van der Kolk
+- _The Seven Principles for Making Marriage Work_ by John Gottman

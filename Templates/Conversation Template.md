@@ -4,26 +4,31 @@ tags:
   - template
 type: template
 ---
+
+<!-- @format -->
+
 # Conversation - {{date:YYYY-MM-DD}}
 
-**Participants:**  
+**Participants:**
 
-
-**Context:**  
+**Context:**
 
 ---
 
 ## Transcript
+
 > Speaker: "..."  
-> Speaker: "..."  
+> Speaker: "..."
 
 ---
 
 ## Next Steps
-- Apply [[Analysis Prompt - Conflict]] / [[Analysis Prompt - Attachment]] / [[Analysis Prompt - Repair Attempts]]  
-- Save results in [[Worked Analyses]]  
+
+- Apply [[Analysis Prompt - Conflict]] / [[Analysis Prompt - Attachment]] / [[Analysis Prompt - Repair Attempts]]
+- Save results in [[Worked Analyses]]
 
 ## Related
-- People:  
-- Cases:  
+
+- People:
+- Cases:
 - Backgrounds:

@@ -4,6 +4,9 @@ tags:
   - meta
 type: meta
 ---
+
+<!-- @format -->
+
 # 🕸 Vault Graph
 
 ```mermaid

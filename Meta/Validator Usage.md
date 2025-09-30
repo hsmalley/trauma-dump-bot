@@ -4,6 +4,9 @@ tags:
   - meta
 type: meta
 ---
+
+<!-- @format -->
+
 # 🔧 Vault Validator
 
 Run this locally to check for **broken links** and **duplicate titles**:

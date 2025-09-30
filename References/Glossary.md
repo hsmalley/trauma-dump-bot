@@ -4,6 +4,9 @@ tags:
   - reference
 type: reference
 ---
+
+<!-- @format -->
+
 # Glossary
 
 - **Co-regulation**: Mutual calming through relationship signals.

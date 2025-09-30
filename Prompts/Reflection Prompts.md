@@ -4,6 +4,9 @@ tags:
   - prompt
 type: prompt
 ---
+
+<!-- @format -->
+
 # Reflection Prompts
 
 - What nervous system state might be present here?

@@ -4,6 +4,9 @@ tags:
   - reference
 type: reference
 ---
+
+<!-- @format -->
+
 # 🧪 Worked Analyses
 
 - [[Attachment Example (Long)]]

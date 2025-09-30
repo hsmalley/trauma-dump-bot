@@ -4,22 +4,29 @@ tags:
   - framework
 type: framework
 ---
+
+<!-- @format -->
+
 # Intersectional Feminist Psychology
 
 ## Overview
+
 Applies intersectionality (Crenshaw) to psychology, examining how overlapping identities and systems of power shape experience.
 
 ## Core Principles
-- Multiple identities intersect to amplify or buffer risk  
-- Power dynamics and bias operate at micro/macro levels  
-- Safety and consent are identity-contextual  
+
+- Multiple identities intersect to amplify or buffer risk
+- Power dynamics and bias operate at micro/macro levels
+- Safety and consent are identity-contextual
 
 ## Application
-- Assess safety and inclusion for all identities involved  
-- Use bias checks and perspectival humility  
-- Tailor consent and repair to power differentials  
+
+- Assess safety and inclusion for all identities involved
+- Use bias checks and perspectival humility
+- Tailor consent and repair to power differentials
 
 ## Related
+
 - [[Liberation Psychology]]
 - [[Consent Culture]]
 - [[Trauma-Informed Care]]

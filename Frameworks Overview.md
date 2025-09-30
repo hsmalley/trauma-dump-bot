@@ -4,6 +4,9 @@ tags:
   - note
 type: note
 ---
+
+<!-- @format -->
+
 # 📚 Frameworks Overview
 
 This section contains reference notes for psychological and relational frameworks.  
@@ -12,6 +15,7 @@ Use them to **interpret communication patterns, nervous system states, and relat
 ---
 
 ## Core Frameworks
+
 - [[Polyvagal Theory]]
 - [[Frameworks/Internal Family Systems (IFS)]]
 - [[Emotionally Focused Therapy (EFT)]]
@@ -21,6 +25,7 @@ Use them to **interpret communication patterns, nervous system states, and relat
 - [[Consent Culture]]
 
 ## Additional Frameworks
+
 - [[Attachment Theory]]
 - [[Trauma-Informed Care]]
 - [[Somatic Experiencing]]
