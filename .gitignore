@@ -1,4 +1,5 @@
 *.lock
+*.json
 .obsidian
 .obsidian/**
 .DS_Store
