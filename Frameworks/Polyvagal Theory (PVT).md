@@ -1,72 +1,69 @@
 ---
 title: Polyvagal Theory (PVT)
-tags: [framework, neuroregulation, trauma, nervous‑system]
-aliases: [PVT, Polyvagal, Stephen Porges]
-type: framework
+aliases: ["PVT", "Polyvagal", "Vagus Nerve Theory", "Nervous System States"]
+tags:
+  [frameworks, somatics, trauma, regulation, attachment, nervous system, safety]
 ---
 
 <!-- @format -->
 
-## Overview
+# 🌿 Polyvagal Theory (PVT)
 
-Polyvagal Theory was developed by Stephen W. Porges in the 1990s to reconceptualize how the autonomic nervous system (ANS) influences emotional regulation, social engagement, and trauma responses. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Polyvagal_theory?utm_source=chatgpt.com))  
-It posits a hierarchical model of bodily states (ventral vagal, sympathetic, dorsal vagal) and introduces the concept of _neuroception_—an unconscious system that detects safety or threat. ([polyvagalinstitute.org](https://www.polyvagalinstitute.org/whatispolyvagaltheory?utm_source=chatgpt.com))  
-In relational and trauma‑informed work, Polyvagal Theory is used to help clients map and regulate physiological states and to support co‑regulation between people (e.g. therapist/client, couples) via _social engagement_. ([frontiersin.org](https://www.frontiersin.org/journals/integrative-neuroscience/articles/10.3389/fnint.2022.871227/full?utm_source=chatgpt.com))
+**Polyvagal Theory (PVT)**, developed by **Dr. Stephen Porges**, explains how our **nervous system responds to cues of safety, danger, or threat**—influencing our emotions, behaviors, and relationships. It reframes trauma and dysregulation not as pathology but as **adaptive survival responses**.
 
-## Core Concepts
+The theory maps three primary states driven by the **autonomic nervous system** via the **vagus nerve**: **ventral vagal**, **sympathetic**, and **dorsal vagal**. Each state affects connection, communication, and regulation.
 
-### Hierarchical Autonomic States
+---
 
-- **Ventral Vagal State (Safety / Social Engagement):** The “safe” mode; supports calm, connection, and regulation.
-- **Sympathetic Activation (Mobilization):** Fight, flight, or defensive charging responses when threat is perceived.
-- **Dorsal Vagal State (Immobilization / Shutdown):** Collapse, freeze, dissociation, or shutdown when threat is overwhelming.
+## 🧠 Core States
 
-These states are viewed as a phylogenetic hierarchy: the system shifts downward when higher modes (ventral or sympathetic) cannot resolve the challenge.
+| State                          | Description                                   | Signals & Behaviors                                           |
+| ------------------------------ | --------------------------------------------- | ------------------------------------------------------------- |
+| **Ventral Vagal (Safety)**     | Social engagement, presence, calm.            | Open body language, eye contact, voice modulation, curiosity. |
+| **Sympathetic (Mobilization)** | Fight or flight response to perceived danger. | Fast speech, fidgeting, anger, anxiety, urgency, avoidance.   |
+| **Dorsal Vagal (Shutdown)**    | Collapse or freeze in overwhelming threat.    | Numbness, fatigue, withdrawal, dissociation, silence.         |
 
-### Neuroception
+---
 
-“Neuroception” refers to a non‑conscious neural process that continuously scans internal and external cues (e.g. face, voice, posture, environment) for safety or threat, and triggers autonomic responses accordingly.  
-Because it operates beneath awareness, clients may feel reactive without conscious understanding of “why.”
+## 🔄 State Transitions & Blended States
 
-### Co‑regulation & Social Engagement
+- **Blended States**: We often move between or combine states (e.g., fawning = ventral + dorsal).
+- **Neuroception**: Subconscious detection of safety/threat in people, tone, environment.
+- **State Shifts**: Not a choice—nervous system leads before cognition.
 
-- The _social engagement system_ is tied to the ventral vagal complex and includes facial muscles, vocalization, and listening mechanisms.
-- Co‑regulation describes how two or more nervous systems influence each other.
-- Safety cues (tone of voice, facial expressivity, slow rhythmic breathing) help “downregulate” threat states and promote social openness.
+---
 
-## Applications
+## 🛠 Applications in Relational Work
 
-- **Trauma therapy & regulation work**
-- **Couples / relational work**
-- **Psychoeducation / somatic practices**
-- **Therapist self‑regulation**
+- **Co-Regulation**: One person’s nervous system can help regulate another’s (tone, posture, presence).
+- **Tracking Cues**: In conversations, note shifts in tone, posture, pace—clues to state change.
+- **Repair**: Ventral access is needed for true repair; rupture in sympathetic/dorsal needs containment first.
+- **Containment**: Use grounding, rhythm, pacing, and space to help return to safety.
 
-## Best Practices & Considerations
+---
 
-- Start slowly: for clients in chronic dorsal or hyperactive sympathetic states, pushing too fast toward ventral can backfire.
-- Use _anchoring safety cues_: slow voice, attuned facial expression, presence.
-- Polyvagal is a model—not a hard law.
-- Be humble about interpretation: observable cues may not map cleanly to PVT states.
-- Integrate with other frameworks (e.g. IFS, NVC, EFT) to avoid overreliance on one lens.
+## 💬 Reflection Prompts
 
-## Integration & Related Models
+- What does ventral vagal feel like in my body? What helps me access it?
+- How do I behave in sympathetic—fight or flight? What tends to trigger it?
+- When do I go dorsal—shut down, disconnect, disappear?
+- What helps me co-regulate with others—and what throws me off?
 
-- [[Internal Family Systems (IFS)]]
-- [[Nonviolent Communication (NVC)]]
-- [[Consent Culture]], [[Containment Models (Containment)]], [[Attachment Theory]]
-- [[Interpersonal neurobiology (IPNB)]]
+---
 
-## Example Prompts or Practices
+## 🔗 Related Frameworks
 
-- “Where in my body do I sense tension or constriction right now?”
-- “I’m noticing I’m in fight mode, can you slow your voice or tone?”
-- Rhythmic breathing (4 in / 6 out) with gentle eye contact
-- Mapping states: triggers → response → pattern → strategy
+- [[Somatic Experiencing]]
+- [[Containment Models]]
+- [[Attachment Theory]]
+- [[Internal Family Systems (IFS)]] — parts often tied to specific nervous system states
+- [[Trauma-Informed Care]]
 
-## Citations
+---
 
-- Porges, S. W. (2011). _The Polyvagal Theory_. W. W. Norton.
-- Porges, S. W. (2021). _Polyvagal Theory: A biobehavioral journey to sociality_.
-- Doody, J. S., et al. (2023). _The Evolution of Sociality and the Polyvagal Theory_.
-- _PMC_. (n.d.). New insights into ANS reactions.
-- _Frontiers in Integrative Neuroscience_.
+## 📚 Further Reading
+
+- Stephen Porges – _The Polyvagal Theory_, _Pocket Guide to the Polyvagal Theory_
+- Deb Dana – _The Polyvagal Theory in Therapy_, _Anchored_
+- Staci K. Haines – _The Politics of Trauma_
+- Irene Lyon – Nervous system education (YouTube, courses)

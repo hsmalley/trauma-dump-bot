@@ -31,10 +31,10 @@ type: meta
 - [[Nonviolent Communication (NVC)]]
 - [[Polyvagal Theory (PVT)]]
 - [[Relational Theory]]
-- [[Somatic Experiencing]]
+- [[Somatic Experiencing (SE)]]
 - [[Systems Thinking]]
-- [[Transactional Analysis]]
-- [[Trauma-Informed Care]]
+- [[Transactional Analysis (TA)]]
+- [[Trauma-Informed Care (TIC)]]
 
 ## Templates
 

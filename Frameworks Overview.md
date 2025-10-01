@@ -40,9 +40,9 @@ Use them to **interpret communication patterns, nervous system states, and relat
 - [[Karpman Drama Triangle]]
 - [[Liberation Psychology (LP)]]
 - [[Narrative Therapy]]
-- [[Somatic Experiencing]]
-- [[Transactional Analysis]]
-- [[Trauma-Informed Care]]
+- [[Somatic Experiencing (SE)]]
+- [[Transactional Analysis (TA)]]
+- [[Trauma-Informed Care (TIC)]]
 
 ## Overview
 

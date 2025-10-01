@@ -1,69 +1,105 @@
 ---
-title: Gottman Method (GM)
-tags: [framework, couples, relational, communication]
-aliases: [Gottman, Gottman Method Couples Therapy]
-type: framework
+title: Gottman Method
+aliases: ["Gottman", "Gottman Relationship Method"]
+tags:
+  [
+    frameworks,
+    conflict,
+    repair,
+    emotion,
+    relationships,
+    communication,
+    bids,
+    boundaries,
+  ]
 ---
 
 <!-- @format -->
 
-## Overview
+# 🧪 The Gottman Method
 
-The **Gottman Method** is a research‑based couples therapy model developed by John and Julie Gottman, grounded in decades of observational studies on what makes relationships succeed or fail. It emphasizes building relational strength, fostering positive sentiment, and managing conflict rather than eliminating it.
+The **Gottman Method** is a research-based relationship framework developed by John and Julie Gottman. Based on over four decades of observational research, it provides concrete tools for improving **communication, conflict repair, emotional connection, and relational longevity**.
 
-## Core Concepts
+The model is best known for identifying the **“Four Horsemen”** of relational breakdown, along with practical antidotes.
 
-### The Sound Relationship House
+---
 
-1. Build Love Maps
-2. Share Fondness & Admiration
-3. Turn Toward Instead of Away
-4. The Positive Perspective
-5. Manage Conflict
-6. Make Life Dreams Come True
-7. Create Shared Meaning
-8. Trust & Commitment
+## 🧠 Core Concepts
 
-### The Four Horsemen & Antidotes
+### 1. **Love Maps**
 
-- Criticism → Gentle Start‑Up
-- Contempt → Appreciation
-- Defensiveness → Responsibility
-- Stonewalling → Self‑soothing
+- Knowing each other’s inner world: hopes, fears, triggers, goals.
+- Practice: Regular curiosity and attunement.
 
-### Conflict is Natural
+### 2. **Bids for Connection**
 
-~69% of relational problems are perpetual. Managing—not solving—is the key.
+- Small or large requests for attention, affection, or support.
+- Healthy couples **turn toward** bids (even subtle ones) more often.
 
-## Applications
+### 3. **Conflict Repair**
 
-- Couples therapy
-- Premarital counseling
-- Conflict coaching
-- Relational education
+- Repair attempts are active efforts to de-escalate or reconnect.
+- Gottman found that the _success of repair, not the presence of conflict_, predicts relationship strength.
 
-## Best Practices & Considerations
+---
 
-- Monitor escalation and repair early
-- Accept influence from each partner
-- Avoid mechanical repairs—attune sincerely
-- May feel too structured for some couples
+## 🐎 The Four Horsemen of Disconnection
 
-## Integration & Related Models
+1. **Criticism**  
+   Global attacks on character (“You always…” “You’re so selfish…”).  
+   → _Antidote: Use gentle start-up with “I” statements and specific behavior._
 
-- [[Nonviolent Communication (NVC)]]
-- [[Polyvagal Theory (PVT)]
-- [[Consent Culture]]
-- [[Attachment Theory]]
+2. **Contempt**  
+   Disrespect, mocking, or moral superiority (eye-rolling, sarcasm).  
+   → _Antidote: Build appreciation and express needs with care._
 
-## Example Prompts or Practices
+3. **Defensiveness**  
+   Denying responsibility, counterattacking, or playing victim.  
+   → _Antidote: Own your part, however small, and stay open._
 
-- “When I hear you say X, I feel Y”
-- “I’m sorry I snapped. I was overwhelmed.”
-- Weekly appreciation ritual
-- Conflict grid: triggers → escalation → repair
+4. **Stonewalling**  
+   Withdrawing, shutting down, or going numb.  
+   → _Antidote: Take breaks, self-soothe, and re-enter when regulated._
 
-## Citations
+---
 
-- Gottman, J., & Silver, N. (1999). _The Seven Principles for Making Marriage Work_.
-- The Gottman Institute resources
+## 🛠 Gottman Repair Tools
+
+- “Let me try that again…”
+- “Can we pause and reset?”
+- “What you’re saying makes sense—let me take a breath and respond.”
+- “I think I misunderstood—can you say it another way?”
+
+---
+
+## 💬 Rituals & Maintenance
+
+- **Rituals of connection**: Weekly check-ins, shared meals, affectionate routines.
+- **State of the Union meetings**: Structured time to debrief conflict, celebrate wins, and realign values.
+- **Six Magic Hours**: Daily micro-moments of connection that add up.
+
+---
+
+## 🔄 Integration with Other Frameworks
+
+- Pairs well with [[Emotionally Focused Therapy (EFT)]] for attachment repair.
+- Informs boundary-setting and consent in [[Consent Culture]].
+- Use with [[IFS]] to soften protector parts during escalations.
+- Complements communication tools in [[Nonviolent Communication (NVC)]] and [[DBT]].
+
+---
+
+## 💬 Reflection Prompts
+
+- What bids from my partner do I tend to miss or reject?
+- Which Horseman shows up most often—and what might the antidote be?
+- How do I make or receive repair attempts during conflict?
+- What rituals of connection could we start or revive?
+
+---
+
+## 📚 Further Reading
+
+- John Gottman – _The Seven Principles for Making Marriage Work_, _What Makes Love Last?_
+- Julie & John Gottman – _Eight Dates_, _The Love Prescription_
+- [https://www.gottman.com](https://www.gottman.com)

@@ -1,69 +1,88 @@
 ---
-title: Containment Models (Containment)
-tags: [framework, therapeutic, relational, boundary]
-aliases: [Containment, Relational Containment]
-type: framework
+title: Containment Models
+aliases: ["Containment", "Emotional Containment", "Relational Containment"]
+tags:
+  [
+    frameworks,
+    containment,
+    trauma-informed,
+    nervous system,
+    boundaries,
+    co-regulation,
+  ]
 ---
 
 <!-- @format -->
 
-## Overview
+# 🧲 Containment Models
 
-Containment in psychoanalytic and relational theory refers to the process by which a therapist (or caregiver) holds, processes, and returns emotional content that a client/patient cannot tolerate alone. It is rooted in Bion’s “container/contained” concept and further adapted in contemporary relational and attachment models.  
-In relational work, containment frames how one person can safely hold another’s distress so it becomes transformable rather than overwhelming.
+**Containment** refers to the internal and relational capacity to **hold emotions, experiences, and boundaries** in ways that foster safety, integration, and attunement. In trauma-informed care, containment models help distinguish between **what we can hold, what we should release, and what we need help regulating**.
 
-## Core Concepts
+Containment is not about suppression or control—it’s about _supporting coherence without overwhelm_.
 
-### Container / Contained
+---
 
-The “contained” is the raw affect, trauma, or dysregulation projected by a client. The “container” (therapist, partner, space) receives it, metabolizes it (e.g. empathic reflection, regulation), and returns a processed (smoothed, understood) version.
+## 🧱 Types of Containment
 
-### Attunement, Boundaries & Holding
+### **Internal Containment**
 
-Containment depends on attuned presence, clear boundaries, and consistency of holding. A container must not collapse (lose structure) nor be too rigid (reject content).  
-Holding may include verbal mirroring, affect labeling, pacing, and co-regulation.
+- Self-regulation and emotional resilience.
+- Involves nervous system awareness, part-to-part attunement (IFS), and self-boundaried presence.
 
-### Rupture & Repair in Containment
+### **Relational Containment**
 
-Containers sometimes fail (rupture)—the client feels misunderstood, abandoned, or unsafe. Repair is essential: acknowledging the miss, re-establishing holding, restoring containment.
+- Co-regulation through attuned, grounded presence of another.
+- Holding space without fixing, rescuing, or collapsing.
 
-### Scalability & Nested Containers
+### **Systemic Containment**
 
-Containment can operate at multiple levels: moment-to-moment within a session, over a therapeutic relationship, or across systems (family, group).  
-In broader systems, individuals or groups may act as containers for collective distress.
+- Organizational, cultural, or structural supports that create predictability and safety (e.g., agreements, norms, policies).
 
-## Applications
+---
 
-- Therapy / counseling: holding client affect, trauma processing
-- Supervision & consultation: supervisor containing the emotional load of supervisees
-- Couples / relational repair: one partner holding the other’s reactivity to de-escalate
-- Family / group therapy: establishment of group norms of safe holding
-- Conflict mediation: third-party facilitator as container for difficult emotion
+## 🧠 Trauma & Nervous System Relevance
 
-## Best Practices & Considerations
+- Trauma often disrupts containment: flooding, shutdown, or externalization.
+- **Fawn and overfunctioning** can mimic relational containment but actually signal collapse or dysregulation.
+- Containment restores agency by offering **predictability, boundaries, and felt safety**.
 
-- Container must maintain regulated state—if the container is dysregulated, it can amplify chaos.
-- Be explicit about safety: “I can’t hold this all right now” is better than silent collapse.
-- Use micro‑repairs quickly when misattunement is detected.
-- Limitations: some material may be too overwhelming to contain in early stages; escalation might require external scaffolding.
-- Watch for role entanglement: container should not become rescuer or merge with the content.
+---
 
-## Integration & Related Models
+## 🛠 Containment Practices
 
-- Deep connection to **Attachment Theory** and **Trauma Regulated Models**
-- Works with **IFS / Parts**: parts may project burdened content to the container
-- Complements **NVC** and **Consent Culture** by embedding requests and boundaries in containment
-- Use along **Polyvagal Theory**: co-regulation via autonomic synchrony is core in holding distress
+- **Body Check-Ins**: “What’s my capacity right now?”
+- **Containment Mapping**:
+  - _What’s mine to hold?_
+  - _What’s not mine?_
+  - _What do I need help holding?_
+- **Window of Tolerance Anchoring**: Identifying cues of too much / too little activation.
+- **Container Scripts**:
+  - “I hear that this is big. Can we pause so I can show up fully?”
+  - “I want to stay with you, but I need a boundary to hold both of us safely.”
 
-## Example Prompts or Practices
+---
 
-- _“I’m feeling overwhelmed — can you pause while I collect my breath so I can continue holding this with you?”_
-- Reflect & reframe: “I hear your anger; I don’t collapse, let me name what I’m receiving.”
-- In couples: “When you get triggered, I’ll hold space for 30 seconds of silence to let you come back.”
-- In supervision: “You can unload that burden now; I’ll hold it with you and reflect.”
+## 🔄 Integration with Other Frameworks
 
-## Citations
+- **IFS**: Helps parts build inner containers and renegotiate trauma burdens.
+- **Polyvagal Theory**: Anchors containment in ventral vagal states (regulation, connection).
+- **Consent Culture**: Encourages emotional honesty and capacity-based engagement.
+- **Empowerment Triangle**: Supports boundaries without slipping into rescuer/victim modes.
 
-- Böhmer, M. W. (2019). _Therapeutic Relationships and the Problem of Containment_.
-- Wallis, A. (2017). _Relational containment: exploring the effect of family‑based containment_.
-- “Attunement & Containment Help Form Healthy Attachments.” Lindsay Braman blog.
+---
+
+## 💬 Reflection Prompts
+
+- What emotions or topics feel “too big” to hold alone?
+- When do I overcontain for others at the cost of myself?
+- What helps me ground and recontain when overwhelmed?
+- Where do I confuse containing with controlling?
+
+---
+
+## 📚 Further Reading
+
+- Babette Rothschild – _The Body Remembers_
+- Janina Fisher – _Transforming the Living Legacy of Trauma_
+- Deb Dana – _Anchored: How to Befriend Your Nervous System_
+- Prentis Hemphill – Emotional boundaries and somatic integrity in relational justice work

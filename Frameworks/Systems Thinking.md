@@ -1,44 +1,83 @@
 ---
 title: Systems Thinking
-tags: [framework]
-aliases: []
-type: framework
+aliases: ["Systemic Lens", "Systemic Analysis", "Ecological Systems"]
+tags:
+  [frameworks, systems, context, power, relational dynamics, patterns, change]
 ---
 
 <!-- @format -->
 
-# Systems Thinking
+# 🔄 Systems Thinking
 
-## Overview
+**Systems Thinking** is a framework for understanding how individual experiences and behaviors are shaped by **larger patterns, feedback loops, and contexts**. It moves beyond linear cause-and-effect to ask: _How do parts influence each other within a whole?_
 
-A lens that views problems as products of interacting parts, feedback loops, and delays rather than isolated events.
+Originally rooted in ecology, biology, and organizational theory, Systems Thinking now informs **family therapy, social justice work, trauma healing**, and complex relational analysis.
 
-## Core Principles
+---
 
-- Look for reinforcing and balancing feedback loops
-- Small, well-placed interventions (leverage points) shift systems
-- Beware of linear cause–effect oversimplification
+## 🧩 Core Principles
 
-## Application
+### 1. **Everything Exists in a System**
 
-- Map conversational loops (trigger → reaction → counter-reaction)
-- Identify leverage points (pause, meta-communication, time-outs)
-- Design experiments and measure system response, not blame
+- People are embedded in multiple systems: family, culture, work, history, identity, body.
+- Change in one part affects the whole.
 
-## Related
+### 2. **Patterns > Events**
 
-- [[Relational Theory]]
-- [[Karpman Drama Triangle]]
-- [[Gottman Method]]
+- Focuses on **repeating dynamics** over isolated incidents.
+- Asks: “What pattern is this part of?” rather than “Who caused this?”
 
-## Core Concepts
+### 3. **Feedback Loops**
 
-## Applications
+- Reinforcing loops amplify a dynamic (e.g., escalation).
+- Balancing loops stabilize or suppress change (e.g., guilt-shutdown-withdraw-repeat).
 
-## Best Practices & Considerations
+### 4. **Boundaries & Roles**
 
-## Integration & Related Models
+- Systems rely on roles (e.g., scapegoat, peacekeeper, hero) and boundaries.
+- Who is allowed to feel, speak, need, or shift?
 
-## Example Prompts or Practices
+---
 
-## Citations
+## 🧠 Applications in Relational Work
+
+- **Identify Relational Roles**: Who consistently over-functions or under-functions?
+- **Map Cycles**: What happens _before_, _during_, and _after_ a rupture?
+- **Zoom Out**: What broader system (e.g., cultural, family, identity) is influencing this behavior?
+- **Distinguish Person from Pattern**: "This isn’t just you—it’s something we're caught in."
+
+---
+
+## 🔍 Systems Thinking in Practice
+
+- Use genograms, role maps, or timeline arcs to visualize multi-layered systems.
+- Identify “attractors” (roles, traumas, norms) that keep dynamics in place.
+- Introduce “perturbations” (new behaviors, insights) to shift the system.
+
+---
+
+## 💬 Reflection Prompts
+
+- What cycles or feedback loops do I see repeating in this relationship?
+- What role do I often end up in—and how is that reinforced?
+- What system (family, identity, culture) shaped my sense of safety, voice, or belonging?
+- What small change might ripple outward through the system?
+
+---
+
+## 🔗 Related Frameworks
+
+- [[Karpman Drama Triangle]] / [[Empowerment Triangle]]
+- [[Internal Family Systems (IFS)]] — inner systems reflect outer systems
+- [[Liberation & Intersectional Feminist Psychology]] — systemic power lens
+- [[Containment Models]] — relational and systemic holding
+- [[Attachment Theory]] — shaped by early systemic interactions
+
+---
+
+## 📚 Further Reading
+
+- Donella Meadows – _Thinking in Systems_
+- Gregory Bateson – _Steps to an Ecology of Mind_
+- Murray Bowen – Family Systems Theory
+- Daniel Kim – Systems archetypes and causal loop mapping

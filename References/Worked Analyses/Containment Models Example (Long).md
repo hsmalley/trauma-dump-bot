@@ -32,4 +32,4 @@ type: reference
 - Define pause words and cooldown protocols.
 - Schedule debrief and next steps.
 
-**Related:** [[Boundary Models]], [[Trauma-Informed Care]], [[Analysis Prompt - Conflict]]
+**Related:** [[Boundary Models]], [[Trauma-Informed Care (TIC)]], [[Analysis Prompt - Conflict]]

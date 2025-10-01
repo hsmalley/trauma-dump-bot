@@ -1,67 +1,101 @@
 ---
 title: Nonviolent Communication (NVC)
-tags: [framework, communication, empathy, conflict]
-aliases: [NVC, Compassionate Communication, Rosenberg NVC]
-type: framework
+aliases: ["NVC", "Compassionate Communication"]
+tags:
+  [
+    frameworks,
+    communication,
+    conflict,
+    emotions,
+    needs,
+    relational dynamics,
+    repair,
+  ]
 ---
 
 <!-- @format -->
 
-## Overview
+# 💬 Nonviolent Communication (NVC)
 
-Nonviolent Communication (NVC), developed by Marshall Rosenberg, is a communication framework emphasizing empathy, honest expression, and needs-awareness to foster connection and collaboration.
+**Nonviolent Communication (NVC)** is a relational and emotional literacy framework developed by Marshall Rosenberg. It provides a four-part model for identifying needs, expressing feelings, and making requests **without blame, demand, or defensiveness**.
 
-## Core Concepts
+NVC is grounded in the belief that all behavior stems from attempts to meet needs—and that conflict arises when strategies clash, not because needs themselves are in conflict.
 
-### Four Components of NVC
+---
 
-1. Observation (without evaluation)
-2. Feelings
-3. Needs
-4. Request
+## 🧠 Core Principles
 
-### Empathy & Self‑empathy
+### 1. **All Humans Share Universal Needs**
 
-- Empathy: presence and reflection
-- Self‑empathy: internal clarity before dialogue
+- Needs include belonging, autonomy, safety, respect, rest, meaning, connection, and more.
+- Strategies for meeting needs may be healthy or harmful—but the underlying needs are never wrong.
 
-### Needs vs Strategies
+### 2. **Feelings Signal Needs**
 
-Focus on shared needs rather than specific strategies.
+- Emotions are **messengers**, not problems.
+- They arise when needs are met (joy, peace) or unmet (sadness, frustration).
 
-### Requests vs Demands
+### 3. **Empathy and Honesty**
 
-True requests invite freedom to say no.
+- NVC balances _self-expression (honesty)_ and _attuned listening (empathy)_.
+- Connection > coercion.
 
-## Applications
+---
 
-- Conflict resolution
-- Couples / relational repair
-- Parenting / education
-- Organizational dialogue
-- Inner work / journaling
+## 🔄 The Four-Part NVC Model
 
-## Best Practices & Considerations
+1. **Observation**
+   - "When I see/hear..."
+   - _Just the facts_—no judgments or assumptions.
 
-- Start with self‑empathy
-- Avoid evaluative language
-- Clarify specific, doable requests
-- Recognize threat states may block access to NVC
+2. **Feeling**
+   - "I feel..."
+   - Use emotion words, not thoughts (“I feel abandoned” = thought).
 
-## Integration & Related Models
+3. **Need**
+   - "...because I need/value..."
+   - Names the unmet or met universal need.
 
-- [[Gottman Method]]
-- [[Polyvagal Theory]]
-- [[Consent Culture]]
-- [[Containment Models]], [[Attachment Theory]]
+4. **Request**
+   - "Would you be willing to...?"
+   - Clear, doable, and based on consent—not demand.
 
-## Example Prompts or Practices
+---
 
-- “When I hear X, I feel Y, because I need Z. Would you be willing to \_\_\_?”
-- Empathy rounds: one partner listens, reflects needs/feelings
-- Separate inner critics from needs
+## 🛠 Sample NVC Sentence
 
-## Citations
+> “When I heard you cancel, I felt disappointed, because I value consistency. Would you be willing to let me know earlier next time?”
 
-- Rosenberg, M. B. (2003). _Nonviolent Communication: A Language of Life_.
-- Related blog and workshop material
+---
+
+## 🧠 Trauma & Conflict Adaptations
+
+- **Modify for safety**: In high-conflict or trauma contexts, it’s okay to lead with empathy or modify structure.
+- **Blend with parts work**: “A part of me feels angry because it needs clarity” (see [[IFS]]).
+- **Consent-aware use**: Not everyone has equal voice or safety to use this model in power-imbalanced dynamics.
+
+---
+
+## 💬 Reflection Prompts
+
+- What feelings am I experiencing—and what might they be pointing to?
+- Is this a request or a demand? Can the other person say no safely?
+- Am I hearing needs behind the other person’s words—or reacting to tone?
+- What need might _their_ strategy be trying to meet?
+
+---
+
+## 🔄 Integration with Other Frameworks
+
+- Complements [[Gottman Method]] repair tools and bid recognition.
+- Works well with [[DBT]] for emotion-regulation language.
+- Pairs with [[Consent Culture]] for boundaries and clarity.
+- Can be integrated with [[Narrative Therapy]] to deconstruct internalized blame.
+
+---
+
+## 📚 Further Reading
+
+- Marshall Rosenberg – _Nonviolent Communication: A Language of Life_
+- Oren Jay Sofer – _Say What You Mean_
+- CNVC.org – Center for Nonviolent Communication

@@ -70,12 +70,15 @@ The master map is in **Meta/[[Master Relationship Map]].md** and is generated ba
 1. Ensure new notes include concrete links like `[[Polyvagal Theory (PVT)]]]`, `[[Frameworks/Internal Family Systems (IFS)|Internal Family Systems (IFS)]], [[Nonviolent Communication (NVC)]]`.
 2. In large batches of changes, re-run your local generation script (or request the assistant to rebuild the map):
    - Confirm Mermaid block syntax:
+
 ```
 mermaid
  graph TD
  F_Framework --> P_Prompt
-````
-   - Node IDs: use only letters, numbers, underscores.
+```
+
+- Node IDs: use only letters, numbers, underscores.
+
 3. Open the map in Obsidian and confirm it renders.
 
 ---
@@ -83,14 +86,17 @@ mermaid
 ## 🛠 Fixing Common Issues
 
 ### Broken links
+
 - Replace deleted/renamed targets with canonical titles (prefer acronym forms).
 - If two notes refer to the same concept with different names, merge content into the canonical file and add `aliases:` to it.
 
 ### Duplicate titles
+
 - Keep the canonical acronym version as the primary title.
 - Update or remove the duplicate; move any unique content into a `## Additional Notes (Merged)` section on the canonical note.
 
 ### Mermaid errors
+
 - Use code fences with the `mermaid` language tag.
 - Simplify IDs: `F_Polyvagal_Theory` instead of names with spaces.
 - Place `classDef` lines before nodes/edges or at top of the graph block.
@@ -98,6 +104,7 @@ mermaid
 ---
 
 ## 📎 Reference Indexes
+
 - [[Master Relationship Map]]
 - [[Tagging System]]
 - [[Worked Analyses]]

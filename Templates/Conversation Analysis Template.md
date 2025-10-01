@@ -19,7 +19,7 @@ Paste dialogue excerpt here.
 ## Observations
 
 - Emotional tone
-- Nervous system state (Polyvagal, [[Somatic Experiencing]])
+- Nervous system state (Polyvagal, [[Somatic Experiencing (SE)]])
 - Attachment signals
 - Power dynamics
 

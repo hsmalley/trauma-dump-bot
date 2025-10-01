@@ -1,65 +1,90 @@
 ---
 title: Liberation Psychology (LP)
+aliases: ["LP", "Psychology of Liberation", "Liberatory Psychology"]
 tags:
-  - framework
-  - justice
-  - context
-aliases:
-  - Liberation
-  - Psicología de la Liberación
-  - LP
-type: framework
+  [
+    frameworks,
+    systems,
+    power,
+    community,
+    trauma-informed,
+    decolonial,
+    relational dynamics,
+  ]
 ---
 
 <!-- @format -->
 
-## Overview
+# ✊ Liberation Psychology (LP)
 
-Liberation Psychology emerged in Latin America in the 1970s–80s as a critical corrective to mainstream Western psychology. It was pioneered by Ignacio Martín‑Baró, who sought to foreground the sociopolitical contexts of oppression, power, and injustice in psychological theory and practice.  
-Rather than treating distress as only intrapsychic, Liberation Psychology insists on situating individuals within systems of power, historical trauma, and structural inequality.
+**Liberation Psychology (LP)**, founded by Ignacio Martín-Baró, centers psychological healing within the struggle for **justice, dignity, and collective liberation**. It critiques dominant clinical models that decontextualize suffering and offers tools for **naming, resisting, and transforming oppression** through relational and community practices.
 
-## Core Concepts
+Rather than treating symptoms in isolation, LP views distress as often arising from **structural violence, cultural disconnection, and systemic power imbalances**.
 
-### Critical Consciousness & Conscientización
+---
 
-A process of raising awareness about how sociopolitical forces shape psychological suffering.
+## 🌍 Core Tenets
 
-### De‑Ideologized Reality
+### 1. **Conscientización** (Critical Consciousness)
 
-Helps clients unveil how dominant ideologies conceal the structural roots of pain and oppression.
+- Inspired by Paulo Freire.
+- Awakening to the social and political roots of suffering.
+- Healing begins by recognizing the broader system at play.
 
-### Social Orientation & Preferential Option for the Oppressed
+### 2. **De-ideologizing Experience**
 
-Prioritizes marginalized voices and collective liberation over individual pathologizing.
+- Unmask dominant narratives that uphold inequality.
+- Ask: “Who defines what’s normal, broken, or valuable—and why?”
 
-### Methodological Eclecticism
+### 3. **Praxis**
 
-Incorporates qualitative, narrative, and participatory methods.
+- Reflection + action for justice.
+- Healing includes **participating in transformation**, not just adapting to harm.
 
-## Applications
+### 4. **Community-Based Healing**
 
-- Therapy that situates trauma in systemic oppression
-- Community mental health initiatives
-- Research methods that prioritize community voice
+- Emphasizes collective care, mutual aid, and cultural resilience.
+- Rejects the myth of the “isolated individual” in favor of relational interdependence.
 
-## Best Practices & Considerations
+---
 
-- Attend to clinician/client power differences
-- Situate psychological practices in political-historical context
-- Scaffold awareness gently in trauma survivors
+## 🧠 Nervous System & Trauma Lens
 
-## Integration & Related Models
+- LP sees trauma as **historical, systemic, and embodied**.
+- Symptoms like dissociation, rage, or withdrawal may be adaptations to **colonial, racialized, or gendered oppression**.
+- Reconnection with land, ancestry, and collective memory is often part of healing.
 
-- [[Consent Culture]], [[Containment Models]], [[Narrative Therapy]]
-- [[Polyvagal Theory]], [[Internal Family Systems (IFS)]]
+---
 
-## Example Prompts or Practices
+## 🛠 Relational Applications
 
-- “How has society taught you to see yourself in this situation?”
-- Collaborative history-mapping (personal + political)
-- Dialogic group storytelling
+- Ask: “How is this relational pattern shaped by survival within unjust systems?”
+- Validate adaptive responses like fawning, hyper-independence, or code-switching.
+- Support boundary-setting and voice reclamation as acts of **liberatory agency**.
 
-## Citations
+---
 
-- Martín‑Baró, I. (1994). _Writings for a Liberation Psychology_. Harvard University Press.
-- Burton, M., & Kagan, C. (2005). _Liberation Social Psychology: Learning From Latin America_.
+## 💬 Reflection Prompts
+
+- What have I internalized about who gets to feel, speak, or rest?
+- How does my pain reflect more than just personal history?
+- What would liberation feel like—in my body, in my relationships, in my choices?
+- Where do I locate justice within my healing?
+
+---
+
+## 🔄 Integration with Other Frameworks
+
+- Complements [[Intersectional Feminist Psychology]] and [[Consent Culture]].
+- Grounds parts work ([[IFS]]) in cultural and systemic context.
+- Aligns with [[Containment Models]] that include cultural holding and collective care.
+
+---
+
+## 📚 Further Reading
+
+- Ignacio Martín-Baró – _Writings for a Liberation Psychology_
+- Paulo Freire – _Pedagogy of the Oppressed_
+- Laura Brown – _Feminist Therapy_
+- Resmaa Menakem – _My Grandmother’s Hands_
+- Shawn Ginwright – _The Four Pivots_

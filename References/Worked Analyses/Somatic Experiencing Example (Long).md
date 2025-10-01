@@ -33,4 +33,4 @@ type: reference
 - Resource before content (touch object, lengthen exhale).
 - Complete small defensive impulses (press, step, shake).
 
-**Related:** [[Polyvagal Theory]], [[Trauma-Informed Care]], [[Analysis Prompt - Conflict]]
+**Related:** [[Polyvagal Theory]], [[Trauma-Informed Care (TIC)]], [[Analysis Prompt - Conflict]]

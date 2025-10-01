@@ -1,53 +1,88 @@
 ---
-title: Cognitive_Behavioral_Therapy_(CBT)
-tags: [framework]
-aliases: [CBT]
-type: framework
+title: Cognitive Behavioral Therapy (CBT)
+aliases: ["CBT"]
+tags:
+  [frameworks, CBT, cognitive distortions, behavioral activation, thought work]
 ---
 
 <!-- @format -->
 
----
+# 🧠 Cognitive Behavioral Therapy (CBT)
 
-title: Cognitive Behavioral Therapy (CBT)
-tags: [framework]
-aliases: [CBT]
-type: framework
+**Cognitive Behavioral Therapy (CBT)** is a structured, present-focused therapeutic model that targets the relationship between **thoughts, feelings, and behaviors**. It helps individuals identify and shift unhelpful thinking patterns and behavior cycles that contribute to distress.
 
 ---
 
-# Cognitive Behavioral Therapy (CBT)
+## 🔄 CBT Core Model
 
-## Overview
+**Situation → Thought → Emotion → Behavior → Outcome**
 
-Structured, goal-oriented therapy focused on identifying and changing unhelpful thoughts and behaviors to improve emotional regulation and coping.
+- External or internal events trigger automatic thoughts.
+- Thoughts shape how we feel.
+- Feelings drive behaviors.
+- Behaviors reinforce beliefs—creating feedback loops.
 
-## Core Principles
+---
 
-- Thoughts, feelings, and behaviors are interconnected
-- Cognitive distortions influence emotional responses
-- Behavioral experiments can challenge unhelpful beliefs
+## 🔎 Cognitive Distortions
 
-## Application
+CBT targets habitual, often unconscious **thinking traps** that distort perception. Examples include:
 
-- Spot thought traps (e.g., catastrophizing, black-and-white thinking)
-- Use cognitive reframing to shift negative interpretations
-- Track behavior-impact patterns in relational cycles
+- **All-or-Nothing Thinking**: “If I’m not perfect, I’m a failure.”
+- **Catastrophizing**: Expecting the worst to happen.
+- **Mind Reading**: Assuming others are judging or rejecting you.
+- **Overgeneralization**: “This always happens to me.”
+- **Should Statements**: Rigid expectations of self or others.
 
-## Related
+---
 
-- [[Nonviolent Communication (NVC)]]
-- [[Narrative Therapy]]
-- [[Gottman Method]]
+## 🛠 CBT Tools & Techniques
 
-## Core Concepts
+- **Thought Records**: Tracking situations, automatic thoughts, emotions, and alternative responses.
+- **Cognitive Restructuring**: Challenging and reframing distortions with evidence-based thinking.
+- **Behavioral Experiments**: Testing beliefs through planned actions.
+- **Exposure Work**: Gradual desensitization to feared situations or emotions.
+- **Activity Scheduling**: Building rewarding and mood-enhancing behaviors.
 
-## Applications
+---
 
-## Best Practices & Considerations
+## 💬 Relational Applications
 
-## Integration & Related Models
+- **Reframing interpersonal triggers**: “What am I telling myself this means?”
+- **Breaking conflict loops**: Understanding how interpretations fuel escalation.
+- **Differentiating emotion vs story**: “What am I feeling vs what am I thinking?”
+- **Challenging fused identity narratives**: “I am too much” → “I’m having a critical thought.”
 
-## Example Prompts or Practices
+---
 
-## Citations
+## 🧠 Nervous System Considerations
+
+- Works well alongside **somatic regulation**—CBT alone may bypass stored trauma.
+- Can be over-intellectualizing for some neurodivergent or trauma-impacted individuals.
+- Pairing CBT with **mindfulness** and **embodiment** enhances integration.
+
+---
+
+## 🔄 Integration with Other Frameworks
+
+- Pairs well with **DBT** (adds emotion regulation) and **ACT** (adds acceptance/defusion).
+- Supports **IFS** by identifying manager or critic parts.
+- Useful in **Consent Culture** for unpacking internalized scripts and self-talk.
+
+---
+
+## 🔁 Reflection Prompts
+
+- What’s the story I’m telling myself about this?
+- What evidence supports and challenges this thought?
+- Is this thought helpful, kind, or wise?
+- What action could align better with my values?
+
+---
+
+## 📚 Source & Further Reading
+
+- Judith Beck – _Cognitive Therapy: Basics and Beyond_
+- David Burns – _Feeling Good: The New Mood Therapy_
+- Christine Padesky – _Mind Over Mood_
+- National Association for Cognitive-Behavioral Therapies: [https://www.nacbt.org](https://www.nacbt.org)
