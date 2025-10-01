@@ -91,7 +91,8 @@ EFT views conflict not as the problem—but as a signal of **unmet attachment ne
 
 ## 🔗 Related Frameworks
 
-[[Crucial Conversations]]
-[[Frameworks_Overview]]
-[[Internal Family Systems (IFS)]]
-[[Somatic Experiencing (SE)]]
+- [[Attachment Theory]] — how openness interacts with security or anxiety
+- [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
+- [[Gottman Method]]
+- [[IFS]] — Internal parts often take on drama triangle roles
+- [[NVC]]

@@ -1,15 +1,15 @@
 ---
-title: Dungeons & Dragons (D&D)
+title: "Dungeons & Dragons (D&D)"
 aliases: ["DnD", "Tabletop Roleplaying", "TTRPGs"]
 tags:
   [
-    frameworks,
-    imagination,
-    identity,
-    storytelling,
-    systems,
-    play,
-    relational dynamics,
+    "frameworks",
+    "imagination",
+    "identity",
+    "storytelling",
+    "systems",
+    "play",
+    "relational dynamics",
   ]
 ---
 
@@ -79,14 +79,12 @@ D&D invites participants to **co-create meaning, experiment with roles, and buil
 
 ## 🔗 Related Frameworks
 
-- [[Internal Family Systems (IFS)]]
-- [[Containment Models]]
-- [[Consent Culture]]
-- [[Narrative Therapy]]
-- [[Systems Thinking]]
+- [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
+- [[Containment Models]] — where emotional energy needs boundaries or holding
+- [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
+- [[Narrative Therapy]] — exploring dominant and alternative stories
 - [[Play & Imagination in Healing]]
-
----
+- [[Systems Thinking]] — relational feedback loops and structure
 
 ## 📚 Further Reading
 

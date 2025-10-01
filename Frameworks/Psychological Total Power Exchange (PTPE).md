@@ -86,15 +86,14 @@ PTPE often transcends overt rituals—it involves **mental surrender, symbolic h
 
 ## 🔗 Related Frameworks
 
-- [[Total Power Exchange (TPE)]]
-- [[Internal Family Systems (IFS)]]
+- [[Attachment Theory]] — how openness interacts with security or anxiety
 - [[BSDM]]
-- [[Consent Culture]]
-- [[Containment Models]]
-- [[Attachment Theory]]
-- [[Trauma-Informed Care (TIC)]]
-
----
+- [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
+- [[Containment Models]] — where emotional energy needs boundaries or holding
+- [[IFS]] — Internal parts often take on drama triangle roles
+- [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
+- [[Total Power Exchange (TPE)]]
+- [[Trauma-Informed Care (TIC)]] — systemic and environmental trauma response
 
 ## 📚 Further Reading
 
@@ -102,7 +101,3 @@ PTPE often transcends overt rituals—it involves **mental surrender, symbolic h
 - Evie Lupine – Mental D/s dynamics
 - D/s Therapy Project – Power-aware reflective prompts
 - D/s Reddit and FetLife forums (search “PTPE” or “internalized D/s”)
-  [[Consensual Non-Consent (CNC)]]
-  [[Female-Led Relationship (FLR)]]
-  [[Kink Dynamics]]
-  [[Power Exchange]]

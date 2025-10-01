@@ -84,8 +84,9 @@ TPE is not a literal loss of autonomy but a **highly structured, negotiated rela
 
 ## 🔗 Related Frameworks
 
-[[Edge Play]]
-[[Female-Led Relationship (FLR)]]
-[[Kink Dynamics]]
-[[Power Exchange]]
-[[Psychological Total Power Exchange (PTPE)]]
+- [[BDSM]]
+- [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
+- [[Containment Models]] — where emotional energy needs boundaries or holding
+- [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
+- [[Risk-Aware Consensual Kink]]
+- [[Trauma-Informed Care]] — recognition of chronic misattunement and sensory trauma

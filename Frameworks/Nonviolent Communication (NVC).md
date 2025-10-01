@@ -102,14 +102,8 @@ NVC is grounded in the belief that all behavior stems from attempts to meet need
 
 ## 🔗 Related Frameworks
 
-[[Crucial Conversations]]
-[[Empowerment Triangle]]
-[[Frameworks_Overview]]
-[[Gestalt Therapy]]
-[[Motivational Interviewing (MI)]]
-[[Radical Candor]]
-[[Restorative Circles]]
-[[Restorative Justice (RJ)]]
-[[Socratic Questioning]]
-[[Transactional Analysis (TA)]]
-[[Transformative Justice (TJ)]]
+- [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
+- [[DBT]]
+- [[Gottman Method]]
+- [[IFS]] — Internal parts often take on drama triangle roles
+- [[Narrative Therapy]] — exploring dominant and alternative stories

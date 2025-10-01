@@ -80,18 +80,14 @@ To exit the cycle, shift to conscious, empowered roles (see [[Empowerment Triang
 
 ## 🔗 Related Frameworks
 
+- [[Boundary Models]] — relational, emotional, and sexual boundaries
+- [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
+- [[Containment Models]] — where emotional energy needs boundaries or holding
 - [[Empowerment Triangle]]
 - [[IFS]] — Internal parts often take on drama triangle roles
-- [[Boundary Models]]
-- [[Consent Culture]] — Distinguishes between support and over-functioning
-- [[Containment Models]] — Helps regulate role-based reactivity
-
----
 
 ## 📚 Further Reading
 
 - Stephen Karpman – _A Game Free Life_
 - David Emerald – _The Power of TED_
 - Pia Mellody – Codependence and relational role scripts
-  [[Frameworks_Overview]]
-  [[Systems Thinking]]

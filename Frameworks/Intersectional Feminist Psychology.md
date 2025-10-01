@@ -89,13 +89,11 @@ Coined by Kimberlé Crenshaw, _intersectionality_ emphasizes that people experie
 
 ## 🔗 Related Frameworks
 
-- [[Trauma-Informed Care (TIC)]]
-- [[Consent Culture]]
-- [[Internal Family Systems (IFS)]] — with culturally aware parts language
+- [[Boundaries and Power Models]] — rooted in justice, not control.
+- [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
+- [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
 - [[Liberatory Containment Models]]
-- [[Boundaries and Power Models]]
-
----
+- [[Trauma-Informed Care (TIC)]] — systemic and environmental trauma response
 
 ## 📚 Further Reading
 
@@ -104,5 +102,3 @@ Coined by Kimberlé Crenshaw, _intersectionality_ emphasizes that people experie
 - Layla Saad – _Me and White Supremacy_
 - Thema Bryant – _Homecoming_
 - Kimberlé Crenshaw – _Mapping the Margins_
-  [[Frameworks_Overview]]
-  [[Liberation Psychology (LP)]]

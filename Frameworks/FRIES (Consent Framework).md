@@ -1,7 +1,15 @@
 ---
-title: FRIES (Consent Framework)
+title: "FRIES (Consent Framework)"
 aliases: ["FRIES", "Freely Given Reversible Informed Enthusiastic Specific"]
-tags: [frameworks, consent, boundaries, ethics, communication, trauma-informed]
+tags:
+  [
+    "frameworks",
+    "consent",
+    "boundaries",
+    "ethics",
+    "communication",
+    "trauma-informed",
+  ]
 ---
 
 <!-- @format -->
@@ -77,3 +85,12 @@ tags: [frameworks, consent, boundaries, ethics, communication, trauma-informed]
 - Planned Parenthood – FRIES consent model: [plannedparenthood.org](https://www.plannedparenthood.org)
 - Prentis Hemphill – Consent in somatics and justice movements
 - Kai Cheng Thom – _I Hope We Choose Love_
+
+## 🔗 Related Frameworks
+
+- [[BDSM]]
+- [[Boundary Models]] — relational, emotional, and sexual boundaries
+- [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
+- [[PRICK]]
+- [[RACK]]
+- [[Trauma-Informed Care (TIC)]] — systemic and environmental trauma response

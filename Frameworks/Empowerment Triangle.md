@@ -80,19 +80,15 @@ Instead of reacting from fear or control, the Empowerment Triangle supports **cr
 
 ## 🔗 Related Frameworks
 
+- [[Boundary Models]] — relational, emotional, and sexual boundaries
+- [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
+- [[Drama Triangle]] — often emerges from Parent-Child dynamics
 - [[Drama Triangle & Empowerment Triangle]]
-- [[Boundary Models]]
-- [[Consent Culture]]
-- [[Internal Family Systems (IFS)]]
-- [[Nonviolent Communication (NVC)]]
-
----
+- [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
+- [[Nonviolent Communication (NVC)]] — tools for emotional expression and repair
 
 ## 📚 Further Reading
 
 - David Emerald – _The Power of TED (The Empowerment Dynamic)_
 - Pia Mellody – Rescuer/Victim/Persecutor in Codependence
 - Prentis Hemphill – Boundaries and power in relational justice
-  [[Frameworks_Overview]]
-  [[Karpman Drama Triangle]]
-  [[Systems Thinking]]

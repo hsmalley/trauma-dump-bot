@@ -94,8 +94,6 @@ All acknowledge the presence of **risk** and emphasize **clear, informed, and re
 
 ## 🔗 Related Frameworks
 
-[[FRIES (Consent Framework)]]
-[[Personal Responsibility, Informed Consensual Kink (PRICK)]]
-[[Risk-Aware Consensual Kink (RACK)]]
-[[Safe, Sane, and Consensual (SSC)]]
-[[Total Power Exchange (TPE)]]
+- [[Personal Responsibility, Informed Consensual Kink (PRICK)|PRICK]] — Personal Responsibility, Informed Consensual Kink
+- [[Risk-Aware Consensual Kink (RACK)|RACK]]
+- [[Safe, Sane, and Consensual (SSC)|SSC]] — Safe, Sane, and Consensual

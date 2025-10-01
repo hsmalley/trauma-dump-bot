@@ -63,14 +63,14 @@ What counts as “edge” is **subjective**—based on a person’s trauma histo
 
 ## 🔗 Related Frameworks
 
+- [[CNC]]
+- [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
+- [[Containment Models]] — where emotional energy needs boundaries or holding
+- [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
+- [[PTPE]]
 - [[Risk-Aware Consensual Kink]]
-- [[Consent Culture]]
-- [[Containment Models]]
-- [[Total Power Exchange (TPE)]], [[CNC]], [[PTPE]]
-- [[Trauma-Informed Care]]
-- [[Internal Family Systems (IFS)]] — for tracking activated or overwhelmed parts
-
----
+- [[Total Power Exchange (TPE)]]
+- [[Trauma-Informed Care]] — recognition of chronic misattunement and sensory trauma
 
 ## 📚 Further Reading
 
@@ -78,4 +78,3 @@ What counts as “edge” is **subjective**—based on a person’s trauma histo
 - _Playing Well With Others_ – Easton & Hardy
 - Evie Lupine – Edge play risk profiles and psychological kink
 - Consent Academy – Advanced negotiation and ethics modules
-  [[Consensual Non-Consent (CNC)]]

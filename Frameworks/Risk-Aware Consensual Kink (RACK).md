@@ -77,20 +77,13 @@ RACK offers a realistic and adult-centered alternative to **SSC (Safe, Sane, Con
 ## 🔗 Related Frameworks
 
 - [[BDSM]]
-- [[Consent Culture]]
-- [[Boundary Models]]
-- [[Polyvagal Theory]]
-- [[Internal Family Systems (IFS)]]
-
----
+- [[Boundary Models]] — relational, emotional, and sexual boundaries
+- [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
+- [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
+- [[Polyvagal Theory]] — window of tolerance guides pacing and resourcing.
 
 ## 📚 Further Reading
 
 - Wiseman, Mark – _SM 101_
 - Easton & Hardy – _The New Topping Book_, _The New Bottoming Book_
 - Harrington & Williams – _Playing Well With Others_
-  [[Consensual Non-Consent (CNC)]]
-  [[Kink Dynamics]]
-  [[Personal Responsibility, Informed Consensual Kink (PRICK)]]
-  [[Safe, Sane, and Consensual (SSC)]]
-  [[Scene-Based Kink]]

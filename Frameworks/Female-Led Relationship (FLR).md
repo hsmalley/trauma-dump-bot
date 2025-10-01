@@ -1,8 +1,16 @@
 ---
-title: Female-Led Relationship (FLR)
+title: "Female-Led Relationship (FLR)"
 aliases: ["FLR", "Female Authority", "Matriarchal D/s"]
 tags:
-  [frameworks, relationships, power, kink, roles, relational design, authority]
+  [
+    "frameworks",
+    "relationships",
+    "power",
+    "kink",
+    "roles",
+    "relational design",
+    "authority",
+  ]
 ---
 
 <!-- @format -->
@@ -66,14 +74,12 @@ FLRs center **negotiated power**, not fixed gender roles. Power can be symbolic,
 
 ## 🔗 Related Frameworks
 
-- [[Total Power Exchange (TPE)]]
-- [[Psychological Total Power Exchange (PTPE)]]
-- [[Consent Culture]]
-- [[Containment Models]]
-- [[Internal Family Systems (IFS)]] — for understanding parts that desire to lead or yield
+- [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
+- [[Containment Models]] — where emotional energy needs boundaries or holding
+- [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
 - [[Kink Dynamics]]
-
----
+- [[Psychological Total Power Exchange (PTPE)]]
+- [[Total Power Exchange (TPE)]]
 
 ## 📚 Further Reading
 

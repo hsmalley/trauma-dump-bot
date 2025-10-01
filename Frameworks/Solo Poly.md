@@ -1,16 +1,16 @@
 ---
-title: Solo Polyamory
+title: "Solo Polyamory"
 aliases: ["Solo Poly", "Solo Polyam", "Non-Hierarchical Poly"]
 tags:
   [
-    frameworks,
-    relationships,
-    polyamory,
-    ENM,
-    autonomy,
-    identity,
-    consent,
-    design,
+    "frameworks",
+    "relationships",
+    "polyamory",
+    "ENM",
+    "autonomy",
+    "identity",
+    "consent",
+    "design",
   ]
 ---
 
@@ -80,14 +80,12 @@ Solo Poly isn’t “single” or commitment-averse—it’s a **relational orie
 
 ## 🔗 Related Frameworks
 
-- [[Ethical Non-Monogamy (ENM)]]
+- [[Boundary Models]] — relational, emotional, and sexual boundaries
+- [[Containment Models]] — where emotional energy needs boundaries or holding
+- [[Ethical Non-Monogamy (ENM)]] — shared commitment to openness
+- [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
 - [[Polyamory]]
 - [[Relationship Anarchy (RA)]] — overlapping but distinct
-- [[Boundary Models]]
-- [[Internal Family Systems (IFS)]] — parts work for relational tension
-- [[Containment Models]] — grounding autonomy and interdependence
-
----
 
 ## 📚 Further Reading
 

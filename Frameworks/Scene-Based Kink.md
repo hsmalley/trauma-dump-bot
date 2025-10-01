@@ -89,13 +89,11 @@ Scenes can range from sensual and nurturing to intense and edgy—but all hinge 
 ## 🔗 Related Frameworks
 
 - [[BSDM]]
-- [[Containment Models]]
-- [[Consent Culture]]
+- [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
+- [[Containment Models]] — where emotional energy needs boundaries or holding
+- [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
 - [[Risk-Aware Consensual Kink (RACK)]]
-- [[Internal Family Systems (IFS)]] — parts involved in scenes
-- [[Trauma-Informed Care (TIC)]] — integrating kink with regulation
-
----
+- [[Trauma-Informed Care (TIC)]] — systemic and environmental trauma response
 
 ## 📚 Further Reading
 
@@ -103,4 +101,3 @@ Scenes can range from sensual and nurturing to intense and edgy—but all hinge 
 - _The New Topping Book / Bottoming Book_ – Easton & Hardy
 - Evie Lupine – scene walkthroughs and negotiation tools (YouTube)
 - Midori – The Art of Feminine Dominance / Rope Dojo
-  [[Play & Imagination in Healing]]

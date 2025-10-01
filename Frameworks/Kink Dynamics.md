@@ -78,15 +78,18 @@ Kink dynamics are not just about play—they can be **part-time, scene-based, li
 
 ## 🔗 Related Frameworks
 
-- [[Total Power Exchange (TPE)]]
+- [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
+- [[Containment Models]] — where emotional energy needs boundaries or holding
+- [[FRIES]]
+- [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
+- [[PRICK]]
+- [[PRICK (Personal Responsibility, Informed Consensual Kink)]]
 - [[Psychological Total Power Exchange (PTPE)]]
-- [[Consent Culture]]
-- [[Containment Models]]
-- [[Internal Family Systems (IFS)]] — understanding parts that participate in kink
-- [[Trauma-Informed Care]]
-- [[Safe, Sane, and Consensual (SSC)]], [[RACK]], [[FRIES]], [[PRICK]]
-
----
+- [[RACK]]
+- [[Risk-Aware Consensual Kink (RACK)]]
+- [[Safe, Sane, and Consensual (SSC)]]
+- [[Total Power Exchange (TPE)]]
+- [[Trauma-Informed Care]] — recognition of chronic misattunement and sensory trauma
 
 ## 📚 Further Reading
 
@@ -94,5 +97,3 @@ Kink dynamics are not just about play—they can be **part-time, scene-based, li
 - _The New Topping Book / Bottoming Book_ – Dossie Easton & Janet Hardy
 - Evie Lupine – YouTube series on kink identities, protocols, and dynamics
 - Submissive Guide, Domme Chronicles – community storytelling and lived experience
-  [[Female-Led Relationship (FLR)]]
-  [[Power Exchange]]

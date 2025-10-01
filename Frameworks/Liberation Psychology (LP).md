@@ -91,5 +91,7 @@ Rather than treating symptoms in isolation, LP views distress as often arising f
 
 ## 🔗 Related Frameworks
 
-[[Frameworks_Overview]]
-[[Restorative Justice (RJ)]]
+- [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
+- [[Containment Models]] — where emotional energy needs boundaries or holding
+- [[IFS]] — Internal parts often take on drama triangle roles
+- [[Intersectional Feminist Psychology]]

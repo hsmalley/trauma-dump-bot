@@ -57,14 +57,14 @@ Originally popularized in the 1990s, SSC remains widely used as a basic ethical 
 
 ## 🔗 Related Frameworks
 
-- [[Consent Culture]]
 - [[BDSM]]
-- [[Boundary Models]]
-- [[RACK]]
+- [[Boundary Models]] — relational, emotional, and sexual boundaries
+- [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
 - [[PRICK]]
-- [[Trauma-Informed Care (TIC)]]
-
----
+- [[Personal Responsibility Informed Consensual Kink (PRICK)]]
+- [[RACK]]
+- [[Risk-Aware Consensual Kink (RACK)]]
+- [[Trauma-Informed Care (TIC)]] — systemic and environmental trauma response
 
 ## 💬 Reflection Prompts
 
@@ -79,5 +79,3 @@ Originally popularized in the 1990s, SSC remains widely used as a basic ethical 
 - Gayle Rubin – “Thinking Sex”
 - Wiseman, Mark – _SM 101_
 - Easton & Hardy – _The Ethical Slut_, _The New Topping Book_, _The New Bottoming Book_
-  [[Kink Dynamics]]
-  [[Personal Responsibility, Informed Consensual Kink (PRICK)]]

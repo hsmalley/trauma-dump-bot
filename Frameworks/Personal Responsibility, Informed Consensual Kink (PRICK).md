@@ -1,7 +1,16 @@
 ---
-title: Personal Responsibility, Informed Consensual Kink (PRICK)
+title: "Personal Responsibility, Informed Consensual Kink (PRICK)"
 aliases: ["PRICK", "Informed Consensual Kink"]
-tags: [frameworks, BDSM, kink, consent, ethics, responsibility, trauma-informed]
+tags:
+  [
+    "frameworks",
+    "BDSM",
+    "kink",
+    "consent",
+    "ethics",
+    "responsibility",
+    "trauma-informed",
+  ]
 ---
 
 <!-- @format -->
@@ -70,14 +79,14 @@ PRICK centers the idea that **participants are responsible for their own boundar
 
 ## 🔗 Related Frameworks
 
-- [[Consent Culture]]
 - [[BDSM]]
+- [[Boundary Models]] — relational, emotional, and sexual boundaries
+- [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
 - [[RACK]]
+- [[Risk-Aware Consensual Kink (RACK)]]
 - [[SSC]]
-- [[Trauma-Informed Care (TIC)]]
-- [[Boundary Models]]
-
----
+- [[Safe, Sane, and Consensual (SSC)]]
+- [[Trauma-Informed Care (TIC)]] — systemic and environmental trauma response
 
 ## 🧩 Reflection Prompts
 

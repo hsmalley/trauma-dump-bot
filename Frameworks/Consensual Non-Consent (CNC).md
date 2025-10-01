@@ -1,7 +1,17 @@
 ---
-title: Consensual Non-Consent (CNC)
+title: "Consensual Non-Consent (CNC)"
 aliases: ["CNC", "Non-Consent Play", "Rape Play", "Forced Play"]
-tags: [frameworks, kink, consent, trauma, risk, power, psychology, edge play]
+tags:
+  [
+    "frameworks",
+    "kink",
+    "consent",
+    "trauma",
+    "risk",
+    "power",
+    "psychology",
+    "edge play",
+  ]
 ---
 
 <!-- @format -->
@@ -57,14 +67,12 @@ CNC is one of the **most high-risk forms of play** due to its proximity to traum
 
 ## 🔗 Related Frameworks
 
+- [[Containment Models]] — where emotional energy needs boundaries or holding
 - [[Edge Play]]
-- [[Risk-Aware Consensual Kink (RACK)]]
-- [[Containment Models]]
-- [[Trauma-Informed Care]]
+- [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
 - [[Psychological Total Power Exchange (PTPE)]]
-- [[Internal Family Systems (IFS)]]
-
----
+- [[Risk-Aware Consensual Kink (RACK)]]
+- [[Trauma-Informed Care]] — recognition of chronic misattunement and sensory trauma
 
 ## 📚 Further Reading
 

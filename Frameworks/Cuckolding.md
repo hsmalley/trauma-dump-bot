@@ -1,7 +1,17 @@
 ---
-title: Cuckolding
+title: "Cuckolding"
 aliases: ["Cuckqueaning", "Hotwifing", "Cuckoldry", "Cuck"]
-tags: [frameworks, kink, sexuality, ENM, dynamics, power, emotion, consent]
+tags:
+  [
+    "frameworks",
+    "kink",
+    "sexuality",
+    "ENM",
+    "dynamics",
+    "power",
+    "emotion",
+    "consent",
+  ]
 ---
 
 <!-- @format -->
@@ -73,12 +83,10 @@ It can be practiced as **part of ENM**, as a **scene-based kink**, or as a **lon
 ## 🔗 Related Frameworks
 
 - [[BSDM]]
-- [[Consent Culture]]
-- [[Containment Models]] — holding intensity, jealousy, and identity
+- [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
+- [[Containment Models]] — where emotional energy needs boundaries or holding
+- [[Ethical Non-Monogamy (ENM)]] — shared commitment to openness
 - [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
-- [[Ethical Non-Monogamy (ENM)]]
-
----
 
 ## 📚 Further Reading
 

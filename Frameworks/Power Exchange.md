@@ -1,8 +1,16 @@
 ---
-title: Power Exchange
+title: "Power Exchange"
 aliases: ["Authority Transfer", "D/s", "Control Play", "Power Dynamics"]
 tags:
-  [frameworks, kink, power, authority, negotiation, roles, relational design]
+  [
+    "frameworks",
+    "kink",
+    "power",
+    "authority",
+    "negotiation",
+    "roles",
+    "relational design",
+  ]
 ---
 
 <!-- @format -->
@@ -71,15 +79,18 @@ Power exchange is about **agency, containment, and trust**—not coercion or ent
 
 ## 🔗 Related Frameworks
 
+- [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
+- [[Containment Models]] — where emotional energy needs boundaries or holding
+- [[FRIES]]
+- [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
 - [[Kink Dynamics]]
-- [[Total Power Exchange (TPE)]]
+- [[PRICK]]
+- [[PTPE]]
 - [[Psychological Total Power Exchange (PTPE)]]
-- [[Containment Models]]
-- [[Consent Culture]]
-- [[Internal Family Systems (IFS)]]
-- [[Trauma-Informed Care]]
-
----
+- [[RACK]]
+- [[SSC]]
+- [[Total Power Exchange (TPE)]]
+- [[Trauma-Informed Care]] — recognition of chronic misattunement and sensory trauma
 
 ## 📚 Further Reading
 

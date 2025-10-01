@@ -75,13 +75,12 @@ Originally rooted in ecology, biology, and organizational theory, Systems Thinki
 
 ## 🔗 Related Frameworks
 
-- [[Karpman Drama Triangle]] / [[Empowerment Triangle]]
-- [[Internal Family Systems (IFS)]] — inner systems reflect outer systems
-- [[Liberation & Intersectional Feminist Psychology]] — systemic power lens
-- [[Containment Models]] — relational and systemic holding
-- [[Attachment Theory]] — shaped by early systemic interactions
-
----
+- [[Attachment Theory]] — how openness interacts with security or anxiety
+- [[Containment Models]] — where emotional energy needs boundaries or holding
+- [[Empowerment Triangle]]
+- [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
+- [[Karpman Drama Triangle]]
+- [[Liberation & Intersectional Feminist Psychology]] — politicized mental health
 
 ## 📚 Further Reading
 
@@ -89,6 +88,3 @@ Originally rooted in ecology, biology, and organizational theory, Systems Thinki
 - Gregory Bateson – _Steps to an Ecology of Mind_
 - Murray Bowen – Family Systems Theory
 - Daniel Kim – Systems archetypes and causal loop mapping
-  [[Art-Based Relational Mapping]]
-  [[Dungeons & Dragons (D&D)]]
-  [[Frameworks_Overview]]
