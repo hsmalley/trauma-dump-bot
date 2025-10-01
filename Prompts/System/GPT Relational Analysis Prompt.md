@@ -89,6 +89,6 @@ When analyzing a conversation and background context provided by the user:
 - Gather transcript/context.
 - Apply multi-framework scan (Polyvagal, IFS, EFT, NVC, Systems, Consent).
 - Identify tones, states, roles, dynamics.
-- Cross-validate with Attachment, Trauma-Informed Care, Somatic cues.
+- Cross-validate with Attachment, [[Trauma-Informed Care]], Somatic cues.
 - Generate compassionate, non-pathologizing insights.
-- Offer reflection prompts, tools, framings (IFS check-ins, NVC reframes, Gottman rituals).
+- Offer [[Reflection Prompts]], tools, framings (IFS check-ins, NVC reframes, Gottman rituals).

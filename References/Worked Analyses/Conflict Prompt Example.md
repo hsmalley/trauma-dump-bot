@@ -25,7 +25,7 @@ type: reference
 ## Dynamics
 
 - Criticism ↔ defensiveness loop (Gottman Horsemen).
-- Drama Triangle roles: Persecutor ↔ Victim.
+- [[Karpman Drama Triangle]] roles: Persecutor ↔ Victim.
 
 ## Insights
 

@@ -29,7 +29,7 @@ type: reference
 ## Insights
 
 - Decline role invitations; name needs/requests.
-- Shift to Empowerment Triangle (Creator/Coach/Challenger).
+- Shift to [[Empowerment Triangle]] (Creator/Coach/Challenger).
 - Establish boundaries and clarity of responsibilities.
 
 **Related:** [[Empowerment Triangle]], [[Transactional Analysis]], [[Analysis Prompt - Conflict]]

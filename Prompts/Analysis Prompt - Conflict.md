@@ -29,5 +29,5 @@ Explore recurring patterns of conflict in conversations.
 - Map protest/withdraw cycles (EFT, Attachment).
 - Note nervous system cues (Polyvagal).
 - Translate accusations → needs (NVC).
-- Identify roles (Drama Triangle) and possible exits.
-- Offer reframes + repair attempts (Gottman Method).
+- Identify roles ([[Karpman Drama Triangle]]) and possible exits.
+- Offer reframes + repair attempts ([[Gottman Method]]).
