@@ -1,6 +1,16 @@
 #!/usr/bin/env python3
-import os, re, sys, json
+import re
+import sys
 from pathlib import Path
+
+from datetime import date, datetime
+import json
+
+
+def default_converter(o):
+    if isinstance(o, (datetime, date)):
+        return o.isoformat()
+    raise TypeError(f"Object of type {o.__class__.__name__} is not JSON serializable")
 
 
 def read_text(p):
