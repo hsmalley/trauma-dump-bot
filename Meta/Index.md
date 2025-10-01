@@ -70,7 +70,7 @@ type: meta
 - [[Index]]
 - [[Maintenance]]
 - [[Master Relationship Map]]
-- [[README]]
+- [[Meta/README]]
 - [[Tagging System]]
 - [[Validator Usage]]
 - [[Vault File Tree]]
