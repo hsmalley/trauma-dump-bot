@@ -1,15 +1,15 @@
 ---
-title: Complex PTSD
+title: "Complex PTSD"
 aliases: ["C-PTSD", "Relational Trauma", "Developmental Trauma"]
 tags:
   [
-    frameworks,
-    trauma,
-    nervous system,
-    identity,
-    relationships,
-    containment,
-    care,
+    "frameworks",
+    "trauma",
+    "nervous system",
+    "identity",
+    "relationships",
+    "containment",
+    "care",
   ]
 ---
 
@@ -106,3 +106,4 @@ These modes are **adaptive responses**, not pathologies.
 - Bessel van der Kolk – _The Body Keeps the Score_
 - Resmaa Menakem – _My Grandmother’s Hands_
 - Carolyn Spring – _Reversing Adverse Childhood Experiences_
+  [[Spoon Theory]]

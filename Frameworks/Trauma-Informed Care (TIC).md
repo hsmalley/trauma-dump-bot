@@ -1,16 +1,16 @@
 ---
-title: Trauma-Informed Care (TIC)
+title: "Trauma-Informed Care (TIC)"
 aliases: ["TIC", "Trauma-Informed Practice", "Trauma-Aware Support"]
 tags:
   [
-    frameworks,
-    trauma,
-    care,
-    systems,
-    safety,
-    consent,
-    identity,
-    relational dynamics,
+    "frameworks",
+    "trauma",
+    "care",
+    "systems",
+    "safety",
+    "consent",
+    "identity",
+    "relational dynamics",
   ]
 ---
 
@@ -99,3 +99,14 @@ TIC is not a specific technique—it’s a **paradigm shift** in how we understa
 - Fallot & Harris – _Creating Cultures of Trauma-Informed Care_
 - Resmaa Menakem – _My Grandmother’s Hands_
 - Prentis Hemphill – Power, boundaries, and embodiment
+  [[Complex PTSD]]
+  [[Eye Movement Desensitization and Reprocessing (EMDR)]]
+  [[FRIES (Consent Framework)]]
+  [[Frameworks_Overview]]
+  [[Intersectional Feminist Psychology]]
+  [[Intersectional Psychology]]
+  [[Personal Responsibility, Informed Consensual Kink (PRICK)]]
+  [[Psychological Total Power Exchange (PTPE)]]
+  [[Restorative Justice (RJ)]]
+  [[Safe, Sane, and Consensual (SSC)]]
+  [[Scene-Based Kink]]

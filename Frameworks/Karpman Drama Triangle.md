@@ -1,7 +1,8 @@
 ---
-title: Karpman Drama Triangle
+title: "Karpman Drama Triangle"
 aliases: ["Drama Triangle", "Victim-Rescuer-Persecutor"]
-tags: [frameworks, relational dynamics, power, roles, conflict, systems]
+tags:
+  ["frameworks", "relational dynamics", "power", "roles", "conflict", "systems"]
 ---
 
 <!-- @format -->
@@ -92,3 +93,5 @@ To exit the cycle, shift to conscious, empowered roles (see [[Empowerment Triang
 - Stephen Karpman – _A Game Free Life_
 - David Emerald – _The Power of TED_
 - Pia Mellody – Codependence and relational role scripts
+  [[Frameworks_Overview]]
+  [[Systems Thinking]]

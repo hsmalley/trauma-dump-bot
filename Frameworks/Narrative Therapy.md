@@ -1,14 +1,14 @@
 ---
-title: Narrative Therapy
+title: "Narrative Therapy"
 aliases: ["Narrative Practice", "Narrative Psychology"]
 tags:
   [
-    frameworks,
-    identity,
-    storytelling,
-    meaning-making,
-    trauma-informed,
-    relational dynamics,
+    "frameworks",
+    "identity",
+    "storytelling",
+    "meaning-making",
+    "trauma-informed",
+    "relational dynamics",
   ]
 ---
 
@@ -95,3 +95,16 @@ Narrative Therapy helps people **externalize problems**, **re-author their lives
 - Alice Morgan – _What is Narrative Therapy?_
 - Vikki Reynolds – _Justice-Doing in Community Work and Therapy_
 - Narrative Therapy Centre (NTC) – [narrativetherapycentre.com](https://narrativetherapycentre.com)
+
+## 🔗 Related Frameworks
+
+[[Decolonizing Therapy]]
+[[Drama Therapy]]
+[[Dungeons & Dragons (D&D)]]
+[[Eye Movement Desensitization and Reprocessing (EMDR)]]
+[[Frameworks_Overview]]
+[[Gestalt Therapy]]
+[[Narrative Exposure Therapy (NET)]]
+[[Nonviolent Communication (NVC)]]
+[[Socratic Questioning]]
+[[Trauma-Informed Care (TIC)]]

@@ -1,16 +1,16 @@
 ---
-title: Relationship Anarchy (RA)
+title: "Relationship Anarchy (RA)"
 aliases: ["RA", "Relational Autonomy", "Anarchist Relationships"]
 tags:
   [
-    frameworks,
-    relationships,
-    autonomy,
-    ENM,
-    identity,
-    consent,
-    boundaries,
-    systems,
+    "frameworks",
+    "relationships",
+    "autonomy",
+    "ENM",
+    "identity",
+    "consent",
+    "boundaries",
+    "systems",
   ]
 ---
 
@@ -99,3 +99,5 @@ RA is not just a style of non-monogamy—it’s a broader **political and ethica
 - Kim TallBear – _The Critical Polyamorist_
 - Meg-John Barker – _Rewriting the Rules_, _Queer Intimacies_
 - Dr. Zelaika Hepworth Clarke – RA & queer Black feminist practice
+  [[Queer Relational Anarchy (QRA)]]
+  [[Solo Polyamory]]

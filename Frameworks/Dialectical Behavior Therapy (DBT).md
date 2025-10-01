@@ -1,14 +1,14 @@
 ---
-title: Dialectical Behavior Therapy (DBT)
+title: "Dialectical Behavior Therapy (DBT)"
 aliases: ["DBT", "Dialectical Therapy"]
 tags:
   [
-    frameworks,
-    DBT,
-    emotion regulation,
-    distress tolerance,
-    mindfulness,
-    relational skills,
+    "frameworks",
+    "DBT",
+    "emotion regulation",
+    "distress tolerance",
+    "mindfulness",
+    "relational skills",
   ]
 ---
 
@@ -96,3 +96,8 @@ DBT teaches that opposites can coexist. This dialectical stance reduces shame an
 - Marsha Linehan – _DBT Skills Training Manual_
 - _The Dialectical Behavior Therapy Skills Workbook_ – McKay, Wood, Brantley
 - Lane Pederson – _The Expanded Dialectical Behavior Therapy Skills Training Manual_
+
+## 🔗 Related Frameworks
+
+[[Frameworks_Overview]]
+[[Radical Acceptance]]

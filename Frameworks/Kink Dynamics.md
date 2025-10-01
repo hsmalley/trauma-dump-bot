@@ -1,8 +1,17 @@
 ---
-title: Kink Dynamics
+title: "Kink Dynamics"
 aliases:
   ["D/s Dynamics", "Power Exchange", "Kink Structures", "Erotic Authority"]
-tags: [frameworks, kink, power, roles, negotiation, identity, relational design]
+tags:
+  [
+    "frameworks",
+    "kink",
+    "power",
+    "roles",
+    "negotiation",
+    "identity",
+    "relational design",
+  ]
 ---
 
 <!-- @format -->
@@ -85,3 +94,5 @@ Kink dynamics are not just about play—they can be **part-time, scene-based, li
 - _The New Topping Book / Bottoming Book_ – Dossie Easton & Janet Hardy
 - Evie Lupine – YouTube series on kink identities, protocols, and dynamics
 - Submissive Guide, Domme Chronicles – community storytelling and lived experience
+  [[Female-Led Relationship (FLR)]]
+  [[Power Exchange]]

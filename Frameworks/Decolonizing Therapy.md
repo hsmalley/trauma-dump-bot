@@ -1,17 +1,17 @@
 ---
-title: Decolonizing Therapy
+title: "Decolonizing Therapy"
 aliases:
   ["Liberatory Healing", "Decolonized Mental Health", "Ancestral Reclamation"]
 tags:
   [
-    frameworks,
-    trauma,
-    identity,
-    systems,
-    healing,
-    culture,
-    decolonization,
-    justice,
+    "frameworks",
+    "trauma",
+    "identity",
+    "systems",
+    "healing",
+    "culture",
+    "decolonization",
+    "justice",
   ]
 ---
 
@@ -86,3 +86,4 @@ tags:
 - Sonya Renee Taylor – _The Body Is Not an Apology_
 - Lama Rod Owens – _Love and Rage_
 - Decolonizing Therapy Instagram + Patreon archives
+  [[Disability Justice]]

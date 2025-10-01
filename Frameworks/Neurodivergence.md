@@ -1,16 +1,16 @@
 ---
-title: Neurodivergence
+title: "Neurodivergence"
 aliases: ["Neurodiverse", "Neurodivergent", "ND", "Neurodivergent Identity"]
 tags:
   [
-    frameworks,
-    neurodivergence,
-    identity,
-    systems,
-    trauma,
-    care,
-    relationships,
-    liberation,
+    "frameworks",
+    "neurodivergence",
+    "identity",
+    "systems",
+    "trauma",
+    "care",
+    "relationships",
+    "liberation",
   ]
 ---
 
@@ -99,3 +99,4 @@ tags:
 - Lydia X. Z. Brown – _All the Weight of Our Dreams_
 - The Neurodivergent Narwhal (infographics + scripts)
 - Disability Visibility Project
+  [[Spoon Theory]]

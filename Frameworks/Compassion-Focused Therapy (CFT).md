@@ -1,8 +1,17 @@
 ---
-title: Compassion-Focused Therapy (CFT)
+title: "Compassion-Focused Therapy (CFT)"
 aliases: ["CFT", "Compassion Therapy", "Paul Gilbert"]
 tags:
-  [frameworks, therapy, compassion, shame, regulation, trauma, identity, CBT]
+  [
+    "frameworks",
+    "therapy",
+    "compassion",
+    "shame",
+    "regulation",
+    "trauma",
+    "identity",
+    "CBT",
+  ]
 ---
 
 <!-- @format -->
@@ -90,3 +99,7 @@ CFT blends insights from **evolutionary psychology, attachment theory, affective
 - Kristin Neff – _Self-Compassion_, Compassionate Self-Test
 - Chris Germer – _The Mindful Path to Self-Compassion_
 - Compassionate Mind Foundation – trainings, guided practices
+
+## 🔗 Related Frameworks
+
+[[Radical Acceptance]]

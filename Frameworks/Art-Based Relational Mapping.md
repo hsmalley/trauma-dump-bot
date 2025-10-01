@@ -1,5 +1,5 @@
 ---
-title: Art-Based Relational Mapping
+title: "Art-Based Relational Mapping"
 aliases:
   [
     "Relational Mapping",
@@ -8,14 +8,14 @@ aliases:
   ]
 tags:
   [
-    frameworks,
-    reflection,
-    systems,
-    relationships,
-    mapping,
-    art-based,
-    embodiment,
-    creativity,
+    "frameworks",
+    "reflection",
+    "systems",
+    "relationships",
+    "mapping",
+    "art-based",
+    "embodiment",
+    "creativity",
   ]
 ---
 
@@ -96,3 +96,4 @@ tags:
 - adrienne maree brown – Emergent Strategy mapping practices
 - Art Therapy literature – Symbolic process and emotional expression
 - “Relational Constellations” and systemic family mapping
+  [[Play & Imagination in Healing]]

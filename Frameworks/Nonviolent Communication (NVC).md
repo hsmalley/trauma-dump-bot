@@ -1,15 +1,15 @@
 ---
-title: Nonviolent Communication (NVC)
+title: "Nonviolent Communication (NVC)"
 aliases: ["NVC", "Compassionate Communication"]
 tags:
   [
-    frameworks,
-    communication,
-    conflict,
-    emotions,
-    needs,
-    relational dynamics,
-    repair,
+    "frameworks",
+    "communication",
+    "conflict",
+    "emotions",
+    "needs",
+    "relational dynamics",
+    "repair",
   ]
 ---
 
@@ -99,3 +99,17 @@ NVC is grounded in the belief that all behavior stems from attempts to meet need
 - Marshall Rosenberg – _Nonviolent Communication: A Language of Life_
 - Oren Jay Sofer – _Say What You Mean_
 - CNVC.org – Center for Nonviolent Communication
+
+## 🔗 Related Frameworks
+
+[[Crucial Conversations]]
+[[Empowerment Triangle]]
+[[Frameworks_Overview]]
+[[Gestalt Therapy]]
+[[Motivational Interviewing (MI)]]
+[[Radical Candor]]
+[[Restorative Circles]]
+[[Restorative Justice (RJ)]]
+[[Socratic Questioning]]
+[[Transactional Analysis (TA)]]
+[[Transformative Justice (TJ)]]

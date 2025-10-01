@@ -1,16 +1,16 @@
 ---
-title: Psychological Total Power Exchange (PTPE)
+title: "Psychological Total Power Exchange (PTPE)"
 aliases: ["PTPE", "Psych TPE", "Internal D/s", "Mental Submission"]
 tags:
   [
-    frameworks,
-    kink,
-    power,
-    psychology,
-    authority,
-    identity,
-    D/s,
-    relational dynamics,
+    "frameworks",
+    "kink",
+    "power",
+    "psychology",
+    "authority",
+    "identity",
+    "D/s",
+    "relational dynamics",
   ]
 ---
 
@@ -102,3 +102,7 @@ PTPE often transcends overt rituals—it involves **mental surrender, symbolic h
 - Evie Lupine – Mental D/s dynamics
 - D/s Therapy Project – Power-aware reflective prompts
 - D/s Reddit and FetLife forums (search “PTPE” or “internalized D/s”)
+  [[Consensual Non-Consent (CNC)]]
+  [[Female-Led Relationship (FLR)]]
+  [[Kink Dynamics]]
+  [[Power Exchange]]

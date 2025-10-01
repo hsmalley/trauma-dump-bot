@@ -1,8 +1,15 @@
 ---
-title: Empowerment Triangle
+title: "Empowerment Triangle"
 aliases: ["Creator-Challenger-Coach Model", "TED Triangle", "Power of TED"]
 tags:
-  [frameworks, empowerment, boundaries, relational dynamics, systems, coaching]
+  [
+    "frameworks",
+    "empowerment",
+    "boundaries",
+    "relational dynamics",
+    "systems",
+    "coaching",
+  ]
 ---
 
 <!-- @format -->
@@ -86,3 +93,6 @@ Instead of reacting from fear or control, the Empowerment Triangle supports **cr
 - David Emerald – _The Power of TED (The Empowerment Dynamic)_
 - Pia Mellody – Rescuer/Victim/Persecutor in Codependence
 - Prentis Hemphill – Boundaries and power in relational justice
+  [[Frameworks_Overview]]
+  [[Karpman Drama Triangle]]
+  [[Systems Thinking]]

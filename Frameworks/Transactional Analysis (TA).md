@@ -1,7 +1,15 @@
 ---
-title: Transactional Analysis (TA)
+title: "Transactional Analysis (TA)"
 aliases: ["TA", "Ego States", "Parent-Adult-Child Model"]
-tags: [frameworks, communication, relational dynamics, psychology, roles, parts]
+tags:
+  [
+    "frameworks",
+    "communication",
+    "relational dynamics",
+    "psychology",
+    "roles",
+    "parts",
+  ]
 ---
 
 <!-- @format -->
@@ -101,3 +109,4 @@ TA describes three core ego states—not as age or pathology, but as learned rel
 - Thomas Harris – _I’m OK – You’re OK_
 - Claude Steiner – _Scripts People Live_
 - TA Today – Stewart & Joines (accessible TA primer)
+  [[Frameworks_Overview]]

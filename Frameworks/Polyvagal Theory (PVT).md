@@ -1,8 +1,16 @@
 ---
-title: Polyvagal Theory (PVT)
+title: "Polyvagal Theory (PVT)"
 aliases: ["PVT", "Polyvagal", "Vagus Nerve Theory", "Nervous System States"]
 tags:
-  [frameworks, somatics, trauma, regulation, attachment, nervous system, safety]
+  [
+    "frameworks",
+    "somatics",
+    "trauma",
+    "regulation",
+    "attachment",
+    "nervous system",
+    "safety",
+  ]
 ---
 
 <!-- @format -->
@@ -67,3 +75,9 @@ The theory maps three primary states driven by the **autonomic nervous system** 
 - Deb Dana – _The Polyvagal Theory in Therapy_, _Anchored_
 - Staci K. Haines – _The Politics of Trauma_
 - Irene Lyon – Nervous system education (YouTube, courses)
+  [[Attention Deficit Hyperactivity Disorder]]
+  [[Compassion-Focused Therapy (CFT)]]
+  [[Complex PTSD]]
+  [[Frameworks_Overview]]
+  [[Play & Imagination in Healing]]
+  [[Sensorimotor Psychotherapy]]

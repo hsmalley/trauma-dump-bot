@@ -1,17 +1,17 @@
 ---
-title: Transformative Justice (TJ)
+title: "Transformative Justice (TJ)"
 aliases: ["Community Accountability", "TJ", "Abolitionist Justice"]
 tags:
   [
-    frameworks,
-    justice,
-    trauma,
-    repair,
-    accountability,
-    power,
-    systems,
-    identity,
-    care,
+    "frameworks",
+    "justice",
+    "trauma",
+    "repair",
+    "accountability",
+    "power",
+    "systems",
+    "identity",
+    "care",
   ]
 ---
 
@@ -85,3 +85,6 @@ tags:
 - Mia Mingus – Transformative Justice writings (Leaving Evidence blog)
 - Creative Interventions Toolkit – community-based responses to interpersonal violence
 - Barnard Center for Research on Women – Abolitionist study resources
+  [[Decolonizing Therapy]]
+  [[Restorative Circles]]
+  [[Restorative Justice (RJ)]]

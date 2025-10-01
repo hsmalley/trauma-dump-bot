@@ -1,7 +1,16 @@
 ---
-title: Internal Family Systems (IFS)
+title: "Internal Family Systems (IFS)"
 aliases: ["IFS", "Parts Work", "Self-Leadership"]
-tags: [frameworks, IFS, parts, trauma, healing, self-leadership, inner system]
+tags:
+  [
+    "frameworks",
+    "IFS",
+    "parts",
+    "trauma",
+    "healing",
+    "self-leadership",
+    "inner system",
+  ]
 ---
 
 <!-- @format -->
@@ -94,3 +103,46 @@ IFS is widely used in trauma recovery, attachment repair, and inner systems navi
 - Richard Schwartz – _No Bad Parts_, _Internal Family Systems Therapy_
 - Jay Earley – _Self-Therapy_
 - [https://ifs-institute.com](https://ifs-institute.com)
+  [[AUDHD]]
+  [[Art-Based Relational Mapping]]
+  [[Attention Deficit Hyperactivity Disorder]]
+  [[Autism Spectrum Disorder (ASD)]]
+  [[Compassion-Focused Therapy (CFT)]]
+  [[Complex PTSD]]
+  [[Consensual Non-Consent (CNC)]]
+  [[Crucial Conversations]]
+  [[Cuckolding]]
+  [[Drama Therapy]]
+  [[Dungeons & Dragons (D&D)]]
+  [[Edge Play]]
+  [[Empowerment Triangle]]
+  [[Ethical Non-Monogamy (ENM)]]
+  [[Eye Movement Desensitization and Reprocessing (EMDR)]]
+  [[Female-Led Relationship (FLR)]]
+  [[Frameworks_Overview]]
+  [[Gestalt Therapy]]
+  [[Intersectional Feminist Psychology]]
+  [[Intersectional Psychology]]
+  [[Kink Dynamics]]
+  [[Liberation & Intersectional Feminist Psychology]]
+  [[Motivational Interviewing (MI)]]
+  [[Narrative Exposure Therapy (NET)]]
+  [[Narrative Therapy]]
+  [[Play & Imagination in Healing]]
+  [[Polyamory]]
+  [[Polyvagal Theory (PVT)]]
+  [[Power Exchange]]
+  [[Psychological Total Power Exchange (PTPE)]]
+  [[Radical Acceptance]]
+  [[Radical Candor]]
+  [[Relationship Anarchy (RA)]]
+  [[Risk-Aware Consensual Kink (RACK)]]
+  [[Scene-Based Kink]]
+  [[Sensorimotor Psychotherapy]]
+  [[Socratic Questioning]]
+  [[Solo Polyamory]]
+  [[Somatic Experiencing (SE)]]
+  [[Spoon Theory]]
+  [[Systems Thinking]]
+  [[Total Power Exchange (TPE)]]
+  [[Transactional Analysis (TA)]]

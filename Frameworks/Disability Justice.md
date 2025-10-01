@@ -1,17 +1,17 @@
 ---
-title: Disability Justice
+title: "Disability Justice"
 aliases: ["DJ", "Crip Liberation", "Anti-Ableist Healing"]
 tags:
   [
-    frameworks,
-    justice,
-    disability,
-    systems,
-    identity,
-    trauma,
-    care,
-    access,
-    intersectionality,
+    "frameworks",
+    "justice",
+    "disability",
+    "systems",
+    "identity",
+    "trauma",
+    "care",
+    "access",
+    "intersectionality",
   ]
 ---
 
@@ -89,3 +89,10 @@ Coined and shaped by groups like _Sins Invalid_, Disability Justice asserts that
 - Mia Mingus – _Access Is Love_
 - Alice Wong – _Year of the Tiger_, Disability Visibility Project
 - Crip Camp (Netflix) – Documentary on disability rights and community
+  [[AUDHD]]
+  [[Attention Deficit Hyperactivity Disorder]]
+  [[Autism Spectrum Disorder (ASD)]]
+  [[Complex PTSD]]
+  [[Neurodivergence]]
+  [[Queer Relational Anarchy (QRA)]]
+  [[Spoon Theory]]

@@ -1,5 +1,5 @@
 ---
-title: Liberation & Intersectional Feminist Psychology
+title: "Liberation & Intersectional Feminist Psychology"
 aliases:
   [
     "Liberation Psychology",
@@ -8,13 +8,13 @@ aliases:
   ]
 tags:
   [
-    frameworks,
-    systems,
-    identity,
-    power,
-    trauma-informed,
-    relational dynamics,
-    social justice,
+    "frameworks",
+    "systems",
+    "identity",
+    "power",
+    "trauma-informed",
+    "relational dynamics",
+    "social justice",
   ]
 ---
 
@@ -102,3 +102,14 @@ These frameworks draw from **Kimberlé Crenshaw’s intersectionality**, **Paulo
 - Laura Brown – _Feminist Therapy_
 - Maria Yellow Horse Brave Heart – Historical trauma frameworks
 - Paulo Freire – _Pedagogy of the Oppressed_
+
+## 🔗 Related Frameworks
+
+[[Decolonizing Therapy]]
+[[Intersectional Psychology]]
+[[Narrative Therapy]]
+[[Queer Relational Anarchy (QRA)]]
+[[Relationship Anarchy (RA)]]
+[[Systems Thinking]]
+[[Transformative Justice (TJ)]]
+[[Trauma-Informed Care (TIC)]]

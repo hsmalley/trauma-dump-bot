@@ -1,8 +1,16 @@
 ---
-title: Systems Thinking
+title: "Systems Thinking"
 aliases: ["Systemic Lens", "Systemic Analysis", "Ecological Systems"]
 tags:
-  [frameworks, systems, context, power, relational dynamics, patterns, change]
+  [
+    "frameworks",
+    "systems",
+    "context",
+    "power",
+    "relational dynamics",
+    "patterns",
+    "change",
+  ]
 ---
 
 <!-- @format -->
@@ -81,3 +89,6 @@ Originally rooted in ecology, biology, and organizational theory, Systems Thinki
 - Gregory Bateson – _Steps to an Ecology of Mind_
 - Murray Bowen – Family Systems Theory
 - Daniel Kim – Systems archetypes and causal loop mapping
+  [[Art-Based Relational Mapping]]
+  [[Dungeons & Dragons (D&D)]]
+  [[Frameworks_Overview]]

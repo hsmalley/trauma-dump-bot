@@ -1,8 +1,15 @@
 ---
-title: Crucial Conversations
+title: "Crucial Conversations"
 aliases: ["High-Stakes Dialogue", "Difficult Conversations", "Crucial Skills"]
 tags:
-  [frameworks, communication, conflict, safety, emotional regulation, skills]
+  [
+    "frameworks",
+    "communication",
+    "conflict",
+    "safety",
+    "emotional regulation",
+    "skills",
+  ]
 ---
 
 <!-- @format -->
@@ -72,3 +79,8 @@ tags:
 - VitalSmarts courses and videos
 - Evie Lupine, TherapyJeff – Crucial skills for relational safety and repair
 - Crucial Learning workshops
+
+## 🔗 Related Frameworks
+
+[[Motivational Interviewing (MI)]]
+[[Radical Candor]]

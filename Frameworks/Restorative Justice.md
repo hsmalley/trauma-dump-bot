@@ -1,17 +1,17 @@
 ---
-title: Restorative Justice (RJ)
+title: "Restorative Justice (RJ)"
 aliases: ["RJ", "Restorative Practices", "Circle Processes"]
 tags:
   [
-    frameworks,
-    justice,
-    repair,
-    communication,
-    harm,
-    conflict,
-    systems,
-    trauma,
-    community,
+    "frameworks",
+    "justice",
+    "repair",
+    "communication",
+    "harm",
+    "conflict",
+    "systems",
+    "trauma",
+    "community",
   ]
 ---
 
@@ -100,3 +100,4 @@ Often used in schools, communities, and some legal settings, RJ is rooted in **i
 - Restorative Justice Project (University of Wisconsin)
 - Restorative Practices Handbook (Wachtel et al.)
 - Oakland Unified School District RJ Toolkit
+  [[Restorative Circles]]

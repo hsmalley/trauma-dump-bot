@@ -1,16 +1,16 @@
 ---
-title: Polyamory
+title: "Polyamory"
 aliases: ["Polyam", "Poly", "Consensual Non-Monogamy", "ENM - Polyamory"]
 tags:
   [
-    frameworks,
-    relationships,
-    polyamory,
-    love,
-    consent,
-    communication,
-    identity,
-    relational dynamics,
+    "frameworks",
+    "relationships",
+    "polyamory",
+    "love",
+    "consent",
+    "communication",
+    "identity",
+    "relational dynamics",
   ]
 ---
 
@@ -104,3 +104,4 @@ It differs from other forms of non-monogamy in its emphasis on **emotional conne
 - Kathy Labriola – _The Jealousy Workbook_
 - Meg-John Barker – _Rewriting the Rules_, _The Psychology of Sex_
 - Poly.Land, Multiamory Podcast, The Anxious Person’s Guide to Non-Monogamy
+  [[Solo Polyamory]]

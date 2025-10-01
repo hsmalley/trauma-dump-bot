@@ -1,7 +1,7 @@
 ---
-title: Safe, Sane, and Consensual (SSC)
+title: "Safe, Sane, and Consensual (SSC)"
 aliases: ["SSC", "Safe Sane Consensual"]
-tags: [frameworks, BDSM, kink, consent, safety, relational_ethics]
+tags: ["frameworks", "BDSM", "kink", "consent", "safety", "relational_ethics"]
 ---
 
 <!-- @format -->
@@ -79,3 +79,5 @@ Originally popularized in the 1990s, SSC remains widely used as a basic ethical 
 - Gayle Rubin – “Thinking Sex”
 - Wiseman, Mark – _SM 101_
 - Easton & Hardy – _The Ethical Slut_, _The New Topping Book_, _The New Bottoming Book_
+  [[Kink Dynamics]]
+  [[Personal Responsibility, Informed Consensual Kink (PRICK)]]

@@ -1,5 +1,5 @@
 ---
-title: Intersectional Psychology
+title: "Intersectional Psychology"
 aliases:
   [
     "Intersectionality in Psychology",
@@ -8,13 +8,13 @@ aliases:
   ]
 tags:
   [
-    frameworks,
-    systems,
-    identity,
-    power,
-    relational dynamics,
-    trauma-informed,
-    psychology,
+    "frameworks",
+    "systems",
+    "identity",
+    "power",
+    "relational dynamics",
+    "trauma-informed",
+    "psychology",
   ]
 ---
 
@@ -96,3 +96,4 @@ It challenges traditional psychology’s tendency to decontextualize suffering, 
 - Alicia Garza – On Black mental health and intersectional care
 - Laura Brown – _Cultural Competence in Trauma Therapy_
 - The Psychology of Liberation – Martín-Baró, Watts, & Serrano-García
+  [[Frameworks_Overview]]

@@ -1,7 +1,15 @@
 ---
-title: Somatic Experiencing (SE)
+title: "Somatic Experiencing (SE)"
 aliases: ["SE", "Somatic Therapy", "Peter Levine"]
-tags: [frameworks, trauma, somatics, nervous system, regulation, embodiment]
+tags:
+  [
+    "frameworks",
+    "trauma",
+    "somatics",
+    "nervous system",
+    "regulation",
+    "embodiment",
+  ]
 ---
 
 <!-- @format -->
@@ -94,3 +102,6 @@ SE emphasizes **felt-sense awareness**, micro-movements, and pacing to **avoid o
 - Peter Levine – _Waking the Tiger_, _In an Unspoken Voice_
 - SE International – [https://traumahealing.org](https://traumahealing.org)
 - Irene Lyon – nervous system education and applied SE
+  [[Eye Movement Desensitization and Reprocessing (EMDR)]]
+  [[Frameworks_Overview]]
+  [[Play & Imagination in Healing]]

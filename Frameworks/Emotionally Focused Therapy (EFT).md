@@ -1,7 +1,15 @@
 ---
-title: Emotionally Focused Therapy (EFT)
+title: "Emotionally Focused Therapy (EFT)"
 aliases: ["EFT", "Emotionally Focused Therapy"]
-tags: [frameworks, EFT, attachment, relationships, repair, emotion processing]
+tags:
+  [
+    "frameworks",
+    "EFT",
+    "attachment",
+    "relationships",
+    "repair",
+    "emotion processing",
+  ]
 ---
 
 <!-- @format -->
@@ -80,3 +88,10 @@ EFT views conflict not as the problem—but as a signal of **unmet attachment ne
 - Sue Johnson – _Hold Me Tight_, _Emotionally Focused Couple Therapy with Trauma Survivors_
 - Leanne Campbell & Sue Johnson – _Attachment Theory in Practice_
 - ICEEFT: [https://iceeft.com](https://iceeft.com)
+
+## 🔗 Related Frameworks
+
+[[Crucial Conversations]]
+[[Frameworks_Overview]]
+[[Internal Family Systems (IFS)]]
+[[Somatic Experiencing (SE)]]

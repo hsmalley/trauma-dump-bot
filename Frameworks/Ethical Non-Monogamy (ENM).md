@@ -1,15 +1,15 @@
 ---
-title: Ethical Non-Monogamy (ENM)
+title: "Ethical Non-Monogamy (ENM)"
 aliases: ["ENM", "Consensual Non-Monogamy", "Relationship Diversity"]
 tags:
   [
-    frameworks,
-    relationships,
-    consent,
-    boundaries,
-    communication,
-    identity,
-    relational dynamics,
+    "frameworks",
+    "relationships",
+    "consent",
+    "boundaries",
+    "communication",
+    "identity",
+    "relational dynamics",
   ]
 ---
 
@@ -104,3 +104,10 @@ ENM is not a singular identity or practice—it’s an umbrella term encompassin
 - Meg-John Barker – _Rewriting the Rules_
 - Kim TallBear – _The Critical Polyamorist_
 - Multiamory Podcast – tools and education for ENM
+  [[Cuckolding]]
+  [[Open Relationships]]
+  [[Polyamory]]
+  [[Queer Relational Anarchy (QRA)]]
+  [[Relationship Anarchy (RA)]]
+  [[Solo Polyamory]]
+  [[Swinging]]

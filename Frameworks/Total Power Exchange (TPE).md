@@ -1,7 +1,16 @@
 ---
-title: Total Power Exchange (TPE)
+title: "Total Power Exchange (TPE)"
 aliases: ["24/7 D/s", "Total Authority Transfer", "TPE", "Full-Time D/s"]
-tags: [frameworks, kink, power, consent, D/s, relationship models, dynamics]
+tags:
+  [
+    "frameworks",
+    "kink",
+    "power",
+    "consent",
+    "D/s",
+    "relationship models",
+    "dynamics",
+  ]
 ---
 
 <!-- @format -->
@@ -72,3 +81,11 @@ TPE is not a literal loss of autonomy but a **highly structured, negotiated rela
 - Evie Lupine – TPE videos, protocol walkthroughs
 - The Ms. Kristine Protocol Manual
 - FetLife groups on Total Power Exchange, 24/7 D/s
+
+## 🔗 Related Frameworks
+
+[[Edge Play]]
+[[Female-Led Relationship (FLR)]]
+[[Kink Dynamics]]
+[[Power Exchange]]
+[[Psychological Total Power Exchange (PTPE)]]

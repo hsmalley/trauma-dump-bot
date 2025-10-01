@@ -1,16 +1,16 @@
 ---
-title: AUDHD
+title: "AUDHD"
 aliases: ["Autistic + ADHD", "Autism and ADHD", "Neurodivergent Intersection"]
 tags:
   [
-    frameworks,
-    neurodivergence,
-    identity,
-    trauma,
-    relationships,
-    systems,
-    masking,
-    regulation,
+    "frameworks",
+    "neurodivergence",
+    "identity",
+    "trauma",
+    "relationships",
+    "systems",
+    "masking",
+    "regulation",
   ]
 ---
 
@@ -95,3 +95,4 @@ tags:
 - The Neurodivergent Magic podcast (focus on comorbidities)
 - Twitter and TikTok #AUDHD tags for lived strategies and reframes
 - Emerging AUDHD-specific therapy collectives and mutual aid groups
+  [[Neurodivergence]]

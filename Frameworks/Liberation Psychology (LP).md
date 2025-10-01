@@ -1,15 +1,15 @@
 ---
-title: Liberation Psychology (LP)
+title: "Liberation Psychology (LP)"
 aliases: ["LP", "Psychology of Liberation", "Liberatory Psychology"]
 tags:
   [
-    frameworks,
-    systems,
-    power,
-    community,
-    trauma-informed,
-    decolonial,
-    relational dynamics,
+    "frameworks",
+    "systems",
+    "power",
+    "community",
+    "trauma-informed",
+    "decolonial",
+    "relational dynamics",
   ]
 ---
 
@@ -88,3 +88,8 @@ Rather than treating symptoms in isolation, LP views distress as often arising f
 - Laura Brown – _Feminist Therapy_
 - Resmaa Menakem – _My Grandmother’s Hands_
 - Shawn Ginwright – _The Four Pivots_
+
+## 🔗 Related Frameworks
+
+[[Frameworks_Overview]]
+[[Restorative Justice (RJ)]]

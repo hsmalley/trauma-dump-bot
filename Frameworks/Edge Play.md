@@ -1,7 +1,8 @@
 ---
-title: Edge Play
+title: "Edge Play"
 aliases: ["Risk Play", "Advanced Kink", "Edge Dynamics"]
-tags: [frameworks, kink, risk, ethics, containment, power, psychology]
+tags:
+  ["frameworks", "kink", "risk", "ethics", "containment", "power", "psychology"]
 ---
 
 <!-- @format -->
@@ -77,3 +78,4 @@ What counts as “edge” is **subjective**—based on a person’s trauma histo
 - _Playing Well With Others_ – Easton & Hardy
 - Evie Lupine – Edge play risk profiles and psychological kink
 - Consent Academy – Advanced negotiation and ethics modules
+  [[Consensual Non-Consent (CNC)]]

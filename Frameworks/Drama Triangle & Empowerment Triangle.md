@@ -1,7 +1,15 @@
 ---
-title: Drama Triangle & Empowerment Triangle
+title: "Drama Triangle & Empowerment Triangle"
 aliases: ["Drama Triangle", "Empowerment Triangle", "Karpman Triangle"]
-tags: [frameworks, relational dynamics, boundaries, roles, empowerment, systems]
+tags:
+  [
+    "frameworks",
+    "relational dynamics",
+    "boundaries",
+    "roles",
+    "empowerment",
+    "systems",
+  ]
 ---
 
 <!-- @format -->
@@ -111,3 +119,5 @@ Three conscious roles that promote growth, autonomy, and collaboration:
 - David Emerald – _The Power of TED (The Empowerment Dynamic)_
 - Stephen Karpman – _A Game Free Life_
 - Pia Mellody – Codependence and rescuing dynamics
+  [[Empowerment Triangle]]
+  [[Frameworks_Overview]]

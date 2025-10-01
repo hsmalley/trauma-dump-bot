@@ -1,7 +1,17 @@
 ---
-title: Scene-Based Kink
+title: "Scene-Based Kink"
 aliases: ["Kink Scenes", "Scenes", "BDSM Play", "Scene Dynamics"]
-tags: [frameworks, kink, BDSM, consent, containment, play, dynamics, power]
+tags:
+  [
+    "frameworks",
+    "kink",
+    "BDSM",
+    "consent",
+    "containment",
+    "play",
+    "dynamics",
+    "power",
+  ]
 ---
 
 <!-- @format -->
@@ -93,3 +103,4 @@ Scenes can range from sensual and nurturing to intense and edgy—but all hinge 
 - _The New Topping Book / Bottoming Book_ – Easton & Hardy
 - Evie Lupine – scene walkthroughs and negotiation tools (YouTube)
 - Midori – The Art of Feminine Dominance / Rope Dojo
+  [[Play & Imagination in Healing]]

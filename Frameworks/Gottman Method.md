@@ -1,16 +1,16 @@
 ---
-title: Gottman Method
+title: "Gottman Method"
 aliases: ["Gottman", "Gottman Relationship Method"]
 tags:
   [
-    frameworks,
-    conflict,
-    repair,
-    emotion,
-    relationships,
-    communication,
-    bids,
-    boundaries,
+    "frameworks",
+    "conflict",
+    "repair",
+    "emotion",
+    "relationships",
+    "communication",
+    "bids",
+    "boundaries",
   ]
 ---
 
@@ -103,3 +103,7 @@ The model is best known for identifying the **“Four Horsemen”** of relationa
 - John Gottman – _The Seven Principles for Making Marriage Work_, _What Makes Love Last?_
 - Julie & John Gottman – _Eight Dates_, _The Love Prescription_
 - [https://www.gottman.com](https://www.gottman.com)
+
+## 🔗 Related Frameworks
+
+[[Frameworks_Overview]]

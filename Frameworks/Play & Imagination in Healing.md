@@ -1,16 +1,16 @@
 ---
-title: Play & Imagination in Healing
+title: "Play & Imagination in Healing"
 aliases: ["Therapeutic Play", "Imaginative Healing", "Healing Through Play"]
 tags:
   [
-    frameworks,
-    creativity,
-    healing,
-    trauma,
-    regulation,
-    parts,
-    embodiment,
-    relational,
+    "frameworks",
+    "creativity",
+    "healing",
+    "trauma",
+    "regulation",
+    "parts",
+    "embodiment",
+    "relational",
   ]
 ---
 
@@ -94,3 +94,4 @@ tags:
 - Peter Levine – _Trauma and Memory_ (on imaginative repair)
 - Drama Therapy and Expressive Arts Therapy literature
 - Therapeutic roleplay models (e.g., narrative therapy, D&D for healing, psychodrama)
+  [[Dungeons & Dragons (D&D)]]

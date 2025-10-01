@@ -1,5 +1,5 @@
 ---
-title: Intersectional Feminist Psychology
+title: "Intersectional Feminist Psychology"
 aliases:
   [
     "Liberation Psychology",
@@ -9,13 +9,13 @@ aliases:
   ]
 tags:
   [
-    frameworks,
-    systems,
-    power,
-    identity,
-    liberation,
-    trauma-informed,
-    relational dynamics,
+    "frameworks",
+    "systems",
+    "power",
+    "identity",
+    "liberation",
+    "trauma-informed",
+    "relational dynamics",
   ]
 ---
 
@@ -104,3 +104,5 @@ Coined by Kimberlé Crenshaw, _intersectionality_ emphasizes that people experie
 - Layla Saad – _Me and White Supremacy_
 - Thema Bryant – _Homecoming_
 - Kimberlé Crenshaw – _Mapping the Margins_
+  [[Frameworks_Overview]]
+  [[Liberation Psychology (LP)]]

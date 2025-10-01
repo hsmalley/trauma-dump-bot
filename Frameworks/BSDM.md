@@ -1,7 +1,16 @@
 ---
-title: BDSM
+title: "BDSM"
 aliases: ["Kink", "Power Exchange", "Consensual Non-vanilla Play"]
-tags: [frameworks, BDSM, kink, consent, power, trauma-informed, embodiment]
+tags:
+  [
+    "frameworks",
+    "BDSM",
+    "kink",
+    "consent",
+    "power",
+    "trauma-informed",
+    "embodiment",
+  ]
 ---
 
 <!-- @format -->
@@ -82,3 +91,11 @@ All acknowledge the presence of **risk** and emphasize **clear, informed, and re
 - _Playing Well With Others_ – Lee Harrington & Mollena Williams
 - _Healing Sex_ – Staci Haines (includes trauma-informed kink)
 - _Boundaries, Consent and Kink_ – Mark Wiseman
+
+## 🔗 Related Frameworks
+
+[[FRIES (Consent Framework)]]
+[[Personal Responsibility, Informed Consensual Kink (PRICK)]]
+[[Risk-Aware Consensual Kink (RACK)]]
+[[Safe, Sane, and Consensual (SSC)]]
+[[Total Power Exchange (TPE)]]

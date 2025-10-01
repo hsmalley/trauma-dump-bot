@@ -1,16 +1,16 @@
 ---
-title: Radical Acceptance
+title: "Radical Acceptance"
 aliases: ["DBT Acceptance", "Total Acceptance", "Non-Resistance"]
 tags:
   [
-    frameworks,
-    DBT,
-    trauma,
-    emotion,
-    mindfulness,
-    regulation,
-    validation,
-    healing,
+    "frameworks",
+    "DBT",
+    "trauma",
+    "emotion",
+    "mindfulness",
+    "regulation",
+    "validation",
+    "healing",
   ]
 ---
 
@@ -90,3 +90,4 @@ This concept is central to **Dialectical Behavior Therapy (DBT)** and is also us
 - Tara Brach – _Radical Acceptance_
 - Kristin Neff – Self-Compassion practices
 - RAIN model (Recognize, Allow, Investigate, Nurture)
+  [[Socratic Questioning]]

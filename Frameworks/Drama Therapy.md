@@ -1,16 +1,16 @@
 ---
-title: Drama Therapy
+title: "Drama Therapy"
 aliases: ["Therapeutic Theatre", "Embodied Story Work", "Role-Based Healing"]
 tags:
   [
-    frameworks,
-    therapy,
-    somatic,
-    trauma,
-    creativity,
-    parts work,
-    narrative,
-    embodiment,
+    "frameworks",
+    "therapy",
+    "somatic",
+    "trauma",
+    "creativity",
+    "parts work",
+    "narrative",
+    "embodiment",
   ]
 ---
 
@@ -96,3 +96,4 @@ Rooted in psychology, theatre, and ritual, it supports integration by making spa
 - Drama Therapy Review (journal)
 - North American Drama Therapy Association (NADTA)
 - Theatre of the Oppressed (Augusto Boal) – Political liberation through performance
+  [[Play & Imagination in Healing]]

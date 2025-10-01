@@ -1,7 +1,8 @@
 ---
-title: Risk-Aware Consensual Kink (RACK)
+title: "Risk-Aware Consensual Kink (RACK)"
 aliases: ["RACK", "Risk-Aware Kink"]
-tags: [frameworks, BDSM, kink, risk, consent, power, trauma-informed]
+tags:
+  ["frameworks", "BDSM", "kink", "risk", "consent", "power", "trauma-informed"]
 ---
 
 <!-- @format -->
@@ -88,3 +89,8 @@ RACK offers a realistic and adult-centered alternative to **SSC (Safe, Sane, Con
 - Wiseman, Mark – _SM 101_
 - Easton & Hardy – _The New Topping Book_, _The New Bottoming Book_
 - Harrington & Williams – _Playing Well With Others_
+  [[Consensual Non-Consent (CNC)]]
+  [[Kink Dynamics]]
+  [[Personal Responsibility, Informed Consensual Kink (PRICK)]]
+  [[Safe, Sane, and Consensual (SSC)]]
+  [[Scene-Based Kink]]
