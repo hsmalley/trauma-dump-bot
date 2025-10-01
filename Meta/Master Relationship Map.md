@@ -1,8 +1,7 @@
 ---
-title: Master Relationship Map
-tags:
-  - meta
-type: meta
+title: "Master Relationship Map"
+tags: ["meta"]
+type: "meta"
 ---
 
 <!-- @format -->
@@ -143,3 +142,9 @@ F_ACT --> F_Polyvagal_Theory
 F_ACT --> F_Relational_Theory
 F_ACT --> P_Reflection_Prompts
 ```
+
+## 🔗 Suggested Framework Anchors
+
+[[Attachment Theory]]
+[[Consent Culture]]
+[[Internal Family Systems (IFS)]]

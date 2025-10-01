@@ -1,7 +1,7 @@
 ---
-title: Conflict Repair Template
-tags: [template]
-tag type: template
+title: "Conflict Repair Template"
+tags: ["template"]
+tag type: "template"
 ---
 
 <!-- @format -->
@@ -41,3 +41,10 @@ Use this template as a guided conversation or journaling aid. Each section repre
 
 "I care about you and want us to feel safe with each other. I respect whatever pace or boundary you need right now."
 ```
+
+## 🔗 Suggested Framework Anchors
+
+[[Conflict Navigation]]
+[[Emotionally Focused Therapy (EFT)]]
+[[Gottman Method]]
+[[Nonviolent Communication (NVC)]]
