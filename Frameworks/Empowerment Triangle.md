@@ -83,7 +83,7 @@ Instead of reacting from fear or control, the Empowerment Triangle supports **cr
 - [[Boundary Models]] — relational, emotional, and sexual boundaries
 - [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
 - [[Drama Triangle]] — often emerges from Parent-Child dynamics
-- [[Drama Triangle & Empowerment Triangle]]
+- [[Drama Triangle & Empowerment Triangle]] — overview of drama triangle & empowerment triangle concepts and relevance to relationships
 - [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
 - [[Nonviolent Communication (NVC)]] — tools for emotional expression and repair
 

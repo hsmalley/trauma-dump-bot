@@ -94,6 +94,6 @@ All acknowledge the presence of **risk** and emphasize **clear, informed, and re
 
 ## 🔗 Related Frameworks
 
-- [[Personal Responsibility, Informed Consensual Kink (PRICK)|PRICK]] — Personal Responsibility, Informed Consensual Kink
-- [[Risk-Aware Consensual Kink (RACK)|RACK]]
-- [[Safe, Sane, and Consensual (SSC)|SSC]] — Safe, Sane, and Consensual
+- [[Personal Responsibility, Informed Consensual Kink (PRICK)|PRICK]] — overview of personal responsibility, informed consensual kink concepts and relevance to relationships
+- [[Risk-Aware Consensual Kink (RACK)|RACK]] — overview of risk-aware consensual kink concepts and relevance to relationships
+- [[Safe, Sane, and Consensual (SSC)|SSC]] — overview of safe, sane, and consensual concepts and relevance to relationships

@@ -79,13 +79,13 @@ PRICK centers the idea that **participants are responsible for their own boundar
 
 ## 🔗 Related Frameworks
 
-- [[BDSM]]
+- [[BDSM]] — overview of bdsm concepts and relevance to relationships
 - [[Boundary Models]] — relational, emotional, and sexual boundaries
 - [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
-- [[RACK]]
-- [[Risk-Aware Consensual Kink (RACK)]]
-- [[SSC]]
-- [[Safe, Sane, and Consensual (SSC)]]
+- [[RACK]] — overview of rack concepts and relevance to relationships
+- [[Risk-Aware Consensual Kink (RACK)]] — overview of risk-aware consensual kink concepts and relevance to relationships
+- [[SSC]] — overview of ssc concepts and relevance to relationships
+- [[Safe, Sane, and Consensual (SSC)]] — overview of safe, sane, and consensual concepts and relevance to relationships
 - [[Trauma-Informed Care (TIC)]] — systemic and environmental trauma response
 
 ## 🧩 Reflection Prompts

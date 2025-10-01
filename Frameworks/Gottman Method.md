@@ -107,7 +107,7 @@ The model is best known for identifying the **“Four Horsemen”** of relationa
 ## 🔗 Related Frameworks
 
 - [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
-- [[DBT]]
+- [[DBT]] — overview of dbt concepts and relevance to relationships
 - [[Emotionally Focused Therapy (EFT)]] — protest behaviors and attachment needs
 - [[IFS]] — Internal parts often take on drama triangle roles
 - [[Nonviolent Communication (NVC)]] — tools for emotional expression and repair

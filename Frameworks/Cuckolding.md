@@ -82,7 +82,7 @@ It can be practiced as **part of ENM**, as a **scene-based kink**, or as a **lon
 
 ## 🔗 Related Frameworks
 
-- [[BSDM]]
+- [[BSDM]] — overview of bsdm concepts and relevance to relationships
 - [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
 - [[Containment Models]] — where emotional energy needs boundaries or holding
 - [[Ethical Non-Monogamy (ENM)]] — shared commitment to openness

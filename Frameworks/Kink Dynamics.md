@@ -80,15 +80,15 @@ Kink dynamics are not just about play—they can be **part-time, scene-based, li
 
 - [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
 - [[Containment Models]] — where emotional energy needs boundaries or holding
-- [[FRIES]]
+- [[FRIES]] — overview of fries concepts and relevance to relationships
 - [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
-- [[PRICK]]
-- [[PRICK (Personal Responsibility, Informed Consensual Kink)]]
-- [[Psychological Total Power Exchange (PTPE)]]
-- [[RACK]]
-- [[Risk-Aware Consensual Kink (RACK)]]
-- [[Safe, Sane, and Consensual (SSC)]]
-- [[Total Power Exchange (TPE)]]
+- [[PRICK]] — overview of prick concepts and relevance to relationships
+- [[PRICK (Personal Responsibility, Informed Consensual Kink)]] — overview of prick (personal responsibility, informed consensual kink) concepts and relevance to relationships
+- [[Psychological Total Power Exchange (PTPE)]] — overview of psychological total power exchange concepts and relevance to relationships
+- [[RACK]] — overview of rack concepts and relevance to relationships
+- [[Risk-Aware Consensual Kink (RACK)]] — overview of risk-aware consensual kink concepts and relevance to relationships
+- [[Safe, Sane, and Consensual (SSC)]] — overview of safe, sane, and consensual concepts and relevance to relationships
+- [[Total Power Exchange (TPE)]] — overview of total power exchange concepts and relevance to relationships
 - [[Trauma-Informed Care]] — recognition of chronic misattunement and sensory trauma
 
 ## 📚 Further Reading

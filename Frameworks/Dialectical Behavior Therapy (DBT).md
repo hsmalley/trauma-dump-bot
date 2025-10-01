@@ -99,7 +99,7 @@ DBT teaches that opposites can coexist. This dialectical stance reduces shame an
 
 ## 🔗 Related Frameworks
 
-- [[ACT]]
+- [[ACT]] — overview of act concepts and relevance to relationships
 - [[Boundary Models]] — relational, emotional, and sexual boundaries
 - [[CBT]] — cognitive reappraisal through a compassionate lens
 - [[Consent Culture]] — collaborative check-ins around needs, pacing, and support

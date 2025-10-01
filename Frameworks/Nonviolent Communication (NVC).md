@@ -103,7 +103,7 @@ NVC is grounded in the belief that all behavior stems from attempts to meet need
 ## 🔗 Related Frameworks
 
 - [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
-- [[DBT]]
-- [[Gottman Method]]
+- [[DBT]] — overview of dbt concepts and relevance to relationships
+- [[Gottman Method]] — overview of gottman method concepts and relevance to relationships
 - [[IFS]] — Internal parts often take on drama triangle roles
 - [[Narrative Therapy]] — exploring dominant and alternative stories

@@ -77,9 +77,9 @@ FLRs center **negotiated power**, not fixed gender roles. Power can be symbolic,
 - [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
 - [[Containment Models]] — where emotional energy needs boundaries or holding
 - [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
-- [[Kink Dynamics]]
-- [[Psychological Total Power Exchange (PTPE)]]
-- [[Total Power Exchange (TPE)]]
+- [[Kink Dynamics]] — overview of kink dynamics concepts and relevance to relationships
+- [[Psychological Total Power Exchange (PTPE)]] — overview of psychological total power exchange concepts and relevance to relationships
+- [[Total Power Exchange (TPE)]] — overview of total power exchange concepts and relevance to relationships
 
 ## 📚 Further Reading
 

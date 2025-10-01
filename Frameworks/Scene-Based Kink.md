@@ -88,11 +88,11 @@ Scenes can range from sensual and nurturing to intense and edgy—but all hinge 
 
 ## 🔗 Related Frameworks
 
-- [[BSDM]]
+- [[BSDM]] — overview of bsdm concepts and relevance to relationships
 - [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
 - [[Containment Models]] — where emotional energy needs boundaries or holding
 - [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
-- [[Risk-Aware Consensual Kink (RACK)]]
+- [[Risk-Aware Consensual Kink (RACK)]] — overview of risk-aware consensual kink concepts and relevance to relationships
 - [[Trauma-Informed Care (TIC)]] — systemic and environmental trauma response
 
 ## 📚 Further Reading

@@ -57,13 +57,13 @@ Originally popularized in the 1990s, SSC remains widely used as a basic ethical 
 
 ## 🔗 Related Frameworks
 
-- [[BDSM]]
+- [[BDSM]] — overview of bdsm concepts and relevance to relationships
 - [[Boundary Models]] — relational, emotional, and sexual boundaries
 - [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
-- [[PRICK]]
-- [[Personal Responsibility Informed Consensual Kink (PRICK)]]
-- [[RACK]]
-- [[Risk-Aware Consensual Kink (RACK)]]
+- [[PRICK]] — overview of prick concepts and relevance to relationships
+- [[Personal Responsibility Informed Consensual Kink (PRICK)]] — overview of personal responsibility informed consensual kink (prick) concepts and relevance to relationships
+- [[RACK]] — overview of rack concepts and relevance to relationships
+- [[Risk-Aware Consensual Kink (RACK)]] — overview of risk-aware consensual kink concepts and relevance to relationships
 - [[Trauma-Informed Care (TIC)]] — systemic and environmental trauma response
 
 ## 💬 Reflection Prompts

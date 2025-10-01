@@ -92,7 +92,7 @@ Coined by Kimberlé Crenshaw, _intersectionality_ emphasizes that people experie
 - [[Boundaries and Power Models]] — rooted in justice, not control.
 - [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
 - [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
-- [[Liberatory Containment Models]]
+- [[Liberatory Containment Models]] — overview of liberatory containment models concepts and relevance to relationships
 - [[Trauma-Informed Care (TIC)]] — systemic and environmental trauma response
 
 ## 📚 Further Reading

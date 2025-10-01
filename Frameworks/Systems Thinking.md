@@ -77,9 +77,9 @@ Originally rooted in ecology, biology, and organizational theory, Systems Thinki
 
 - [[Attachment Theory]] — how openness interacts with security or anxiety
 - [[Containment Models]] — where emotional energy needs boundaries or holding
-- [[Empowerment Triangle]]
+- [[Empowerment Triangle]] — overview of empowerment triangle concepts and relevance to relationships
 - [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
-- [[Karpman Drama Triangle]]
+- [[Karpman Drama Triangle]] — overview of karpman drama triangle concepts and relevance to relationships
 - [[Liberation & Intersectional Feminist Psychology]] — politicized mental health
 
 ## 📚 Further Reading

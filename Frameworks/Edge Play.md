@@ -63,13 +63,13 @@ What counts as “edge” is **subjective**—based on a person’s trauma histo
 
 ## 🔗 Related Frameworks
 
-- [[CNC]]
+- [[CNC]] — overview of cnc concepts and relevance to relationships
 - [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
 - [[Containment Models]] — where emotional energy needs boundaries or holding
 - [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
-- [[PTPE]]
-- [[Risk-Aware Consensual Kink]]
-- [[Total Power Exchange (TPE)]]
+- [[PTPE]] — overview of ptpe concepts and relevance to relationships
+- [[Risk-Aware Consensual Kink]] — overview of risk-aware consensual kink concepts and relevance to relationships
+- [[Total Power Exchange (TPE)]] — overview of total power exchange concepts and relevance to relationships
 - [[Trauma-Informed Care]] — recognition of chronic misattunement and sensory trauma
 
 ## 📚 Further Reading

@@ -143,8 +143,6 @@ F_ACT --> F_Relational_Theory
 F_ACT --> P_Reflection_Prompts
 ```
 
-## 🔗 Suggested Framework Anchors
+## 🔗 Related Frameworks
 
-[[Attachment Theory]]
-[[Consent Culture]]
-[[Internal Family Systems (IFS)]]
+- [[Art-Based Relational Mapping]]

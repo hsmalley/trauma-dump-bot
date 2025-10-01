@@ -87,12 +87,12 @@ PTPE often transcends overt rituals—it involves **mental surrender, symbolic h
 ## 🔗 Related Frameworks
 
 - [[Attachment Theory]] — how openness interacts with security or anxiety
-- [[BSDM]]
+- [[BSDM]] — overview of bsdm concepts and relevance to relationships
 - [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
 - [[Containment Models]] — where emotional energy needs boundaries or holding
 - [[IFS]] — Internal parts often take on drama triangle roles
 - [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
-- [[Total Power Exchange (TPE)]]
+- [[Total Power Exchange (TPE)]] — overview of total power exchange concepts and relevance to relationships
 - [[Trauma-Informed Care (TIC)]] — systemic and environmental trauma response
 
 ## 📚 Further Reading

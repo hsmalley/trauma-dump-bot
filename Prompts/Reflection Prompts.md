@@ -1,8 +1,7 @@
 ---
-title: Reflection Prompts
-tags:
-  - prompt
-type: prompt
+title: "Reflection Prompts"
+tags: ["prompt"]
+type: "prompt"
 ---
 
 <!-- @format -->
@@ -15,3 +14,7 @@ type: prompt
 - How does systemic context influence this exchange?
 - What boundary dynamics are at play?
 - What reframe could invite connection?
+
+## 🔗 Related Frameworks
+
+- [[Art-Based Relational Mapping]]

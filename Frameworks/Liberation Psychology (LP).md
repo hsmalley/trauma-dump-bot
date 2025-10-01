@@ -94,4 +94,4 @@ Rather than treating symptoms in isolation, LP views distress as often arising f
 - [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
 - [[Containment Models]] — where emotional energy needs boundaries or holding
 - [[IFS]] — Internal parts often take on drama triangle roles
-- [[Intersectional Feminist Psychology]]
+- [[Intersectional Feminist Psychology]] — overview of intersectional feminist psychology concepts and relevance to relationships

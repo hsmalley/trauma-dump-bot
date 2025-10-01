@@ -83,7 +83,7 @@ D&D invites participants to **co-create meaning, experiment with roles, and buil
 - [[Containment Models]] — where emotional energy needs boundaries or holding
 - [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
 - [[Narrative Therapy]] — exploring dominant and alternative stories
-- [[Play & Imagination in Healing]]
+- [[Play & Imagination in Healing]] — overview of play & imagination in healing concepts and relevance to relationships
 - [[Systems Thinking]] — relational feedback loops and structure
 
 ## 📚 Further Reading

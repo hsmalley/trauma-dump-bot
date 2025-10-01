@@ -84,7 +84,7 @@ Solo Poly isn’t “single” or commitment-averse—it’s a **relational orie
 - [[Containment Models]] — where emotional energy needs boundaries or holding
 - [[Ethical Non-Monogamy (ENM)]] — shared commitment to openness
 - [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
-- [[Polyamory]]
+- [[Polyamory]] — overview of polyamory concepts and relevance to relationships
 - [[Relationship Anarchy (RA)]] — overlapping but distinct
 
 ## 📚 Further Reading

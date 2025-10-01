@@ -83,7 +83,7 @@ To exit the cycle, shift to conscious, empowered roles (see [[Empowerment Triang
 - [[Boundary Models]] — relational, emotional, and sexual boundaries
 - [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
 - [[Containment Models]] — where emotional energy needs boundaries or holding
-- [[Empowerment Triangle]]
+- [[Empowerment Triangle]] — overview of empowerment triangle concepts and relevance to relationships
 - [[IFS]] — Internal parts often take on drama triangle roles
 
 ## 📚 Further Reading

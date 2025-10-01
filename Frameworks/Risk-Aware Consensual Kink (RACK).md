@@ -76,7 +76,7 @@ RACK offers a realistic and adult-centered alternative to **SSC (Safe, Sane, Con
 
 ## 🔗 Related Frameworks
 
-- [[BDSM]]
+- [[BDSM]] — overview of bdsm concepts and relevance to relationships
 - [[Boundary Models]] — relational, emotional, and sexual boundaries
 - [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
 - [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)

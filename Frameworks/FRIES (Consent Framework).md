@@ -88,9 +88,9 @@ tags:
 
 ## 🔗 Related Frameworks
 
-- [[BDSM]]
+- [[BDSM]] — overview of bdsm concepts and relevance to relationships
 - [[Boundary Models]] — relational, emotional, and sexual boundaries
 - [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
-- [[PRICK]]
-- [[RACK]]
+- [[PRICK]] — overview of prick concepts and relevance to relationships
+- [[RACK]] — overview of rack concepts and relevance to relationships
 - [[Trauma-Informed Care (TIC)]] — systemic and environmental trauma response

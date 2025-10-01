@@ -93,6 +93,6 @@ EFT views conflict not as the problem—but as a signal of **unmet attachment ne
 
 - [[Attachment Theory]] — how openness interacts with security or anxiety
 - [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
-- [[Gottman Method]]
+- [[Gottman Method]] — overview of gottman method concepts and relevance to relationships
 - [[IFS]] — Internal parts often take on drama triangle roles
-- [[NVC]]
+- [[NVC]] — overview of nvc concepts and relevance to relationships

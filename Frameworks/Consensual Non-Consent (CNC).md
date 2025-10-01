@@ -68,10 +68,10 @@ CNC is one of the **most high-risk forms of play** due to its proximity to traum
 ## 🔗 Related Frameworks
 
 - [[Containment Models]] — where emotional energy needs boundaries or holding
-- [[Edge Play]]
+- [[Edge Play]] — overview of edge play concepts and relevance to relationships
 - [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
-- [[Psychological Total Power Exchange (PTPE)]]
-- [[Risk-Aware Consensual Kink (RACK)]]
+- [[Psychological Total Power Exchange (PTPE)]] — overview of psychological total power exchange concepts and relevance to relationships
+- [[Risk-Aware Consensual Kink (RACK)]] — overview of risk-aware consensual kink concepts and relevance to relationships
 - [[Trauma-Informed Care]] — recognition of chronic misattunement and sensory trauma
 
 ## 📚 Further Reading

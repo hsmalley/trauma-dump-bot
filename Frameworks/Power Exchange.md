@@ -81,15 +81,15 @@ Power exchange is about **agency, containment, and trust**—not coercion or ent
 
 - [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
 - [[Containment Models]] — where emotional energy needs boundaries or holding
-- [[FRIES]]
+- [[FRIES]] — overview of fries concepts and relevance to relationships
 - [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
-- [[Kink Dynamics]]
-- [[PRICK]]
-- [[PTPE]]
-- [[Psychological Total Power Exchange (PTPE)]]
-- [[RACK]]
-- [[SSC]]
-- [[Total Power Exchange (TPE)]]
+- [[Kink Dynamics]] — overview of kink dynamics concepts and relevance to relationships
+- [[PRICK]] — overview of prick concepts and relevance to relationships
+- [[PTPE]] — overview of ptpe concepts and relevance to relationships
+- [[Psychological Total Power Exchange (PTPE)]] — overview of psychological total power exchange concepts and relevance to relationships
+- [[RACK]] — overview of rack concepts and relevance to relationships
+- [[SSC]] — overview of ssc concepts and relevance to relationships
+- [[Total Power Exchange (TPE)]] — overview of total power exchange concepts and relevance to relationships
 - [[Trauma-Informed Care]] — recognition of chronic misattunement and sensory trauma
 
 ## 📚 Further Reading
