@@ -1,17 +1,17 @@
 ---
-title: "Drama Therapy"
-aliases: ["Therapeutic Theatre", "Embodied Story Work", "Role-Based Healing"]
+title: Drama Therapy
+aliases:
+  - Therapeutic Theatre
+  - Embodied Story Work
+  - Role-Based Healing
 tags:
-  [
-    "frameworks",
-    "therapy",
-    "somatic",
-    "trauma",
-    "creativity",
-    "parts work",
-    "narrative",
-    "embodiment",
-  ]
+  - frameworks
+  - therapy
+  - somatic
+  - trauma
+  - creativity
+  - narrative
+  - embodiment
 ---
 
 <!-- @format -->

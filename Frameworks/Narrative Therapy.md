@@ -1,15 +1,14 @@
 ---
-title: "Narrative Therapy"
-aliases: ["Narrative Practice", "Narrative Psychology"]
+title: Narrative Therapy
+aliases:
+  - Narrative Practice
+  - Narrative Psychology
 tags:
-  [
-    "frameworks",
-    "identity",
-    "storytelling",
-    "meaning-making",
-    "trauma-informed",
-    "relational dynamics",
-  ]
+  - frameworks
+  - identity
+  - storytelling
+  - meaning-making
+  - trauma-informed
 ---
 
 <!-- @format -->

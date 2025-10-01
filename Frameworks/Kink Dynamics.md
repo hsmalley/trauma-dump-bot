@@ -1,17 +1,17 @@
 ---
-title: "Kink Dynamics"
+title: Kink Dynamics
 aliases:
-  ["D/s Dynamics", "Power Exchange", "Kink Structures", "Erotic Authority"]
+  - D/s Dynamics
+  - Power Exchange
+  - Kink Structures
+  - Erotic Authority
 tags:
-  [
-    "frameworks",
-    "kink",
-    "power",
-    "roles",
-    "negotiation",
-    "identity",
-    "relational design",
-  ]
+  - frameworks
+  - kink
+  - power
+  - roles
+  - negotiation
+  - identity
 ---
 
 <!-- @format -->

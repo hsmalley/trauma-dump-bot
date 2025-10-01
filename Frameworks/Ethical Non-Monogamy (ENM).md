@@ -1,16 +1,16 @@
 ---
-title: "Ethical Non-Monogamy (ENM)"
-aliases: ["ENM", "Consensual Non-Monogamy", "Relationship Diversity"]
+title: Ethical Non-Monogamy (ENM)
+aliases:
+  - ENM
+  - Consensual Non-Monogamy
+  - Relationship Diversity
 tags:
-  [
-    "frameworks",
-    "relationships",
-    "consent",
-    "boundaries",
-    "communication",
-    "identity",
-    "relational dynamics",
-  ]
+  - frameworks
+  - relationships
+  - consent
+  - boundaries
+  - communication
+  - identity
 ---
 
 <!-- @format -->

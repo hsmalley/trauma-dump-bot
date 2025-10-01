@@ -1,17 +1,17 @@
 ---
-title: "Restorative Circles"
-aliases: ["Healing Circles", "RJ Circles", "Restorative Dialogue"]
+title: Restorative Circles
+aliases:
+  - Healing Circles
+  - RJ Circles
+  - Restorative Dialogue
 tags:
-  [
-    "frameworks",
-    "restorative justice",
-    "communication",
-    "repair",
-    "facilitation",
-    "harm",
-    "trauma",
-    "community",
-  ]
+  - frameworks
+  - communication
+  - repair
+  - facilitation
+  - harm
+  - trauma
+  - community
 ---
 
 <!-- @format -->

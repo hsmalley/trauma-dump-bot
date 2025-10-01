@@ -1,16 +1,17 @@
 ---
-title: "Total Power Exchange (TPE)"
-aliases: ["24/7 D/s", "Total Authority Transfer", "TPE", "Full-Time D/s"]
+title: Total Power Exchange (TPE)
+aliases:
+  - 24/7 D/s
+  - Total Authority Transfer
+  - TPE
+  - Full-Time D/s
 tags:
-  [
-    "frameworks",
-    "kink",
-    "power",
-    "consent",
-    "D/s",
-    "relationship models",
-    "dynamics",
-  ]
+  - frameworks
+  - kink
+  - power
+  - consent
+  - D/s
+  - dynamics
 ---
 
 <!-- @format -->

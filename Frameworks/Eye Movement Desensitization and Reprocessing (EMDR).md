@@ -1,16 +1,15 @@
 ---
-title: "Eye Movement Desensitization and Reprocessing (EMDR)"
-aliases: ["EMDR", "Bilateral Processing"]
+title: Eye Movement Desensitization and Reprocessing (EMDR)
+aliases:
+  - EMDR
+  - Bilateral Processing
 tags:
-  [
-    "frameworks",
-    "trauma",
-    "memory",
-    "somatics",
-    "nervous system",
-    "PTSD",
-    "regulation",
-  ]
+  - frameworks
+  - trauma
+  - memory
+  - somatics
+  - PTSD
+  - regulation
 ---
 
 <!-- @format -->

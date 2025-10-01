@@ -1,15 +1,15 @@
 ---
-title: "Containment Models"
-aliases: ["Containment", "Emotional Containment", "Relational Containment"]
+title: Containment Models
+aliases:
+  - Containment
+  - Emotional Containment
+  - Relational Containment
 tags:
-  [
-    "frameworks",
-    "containment",
-    "trauma-informed",
-    "nervous system",
-    "boundaries",
-    "co-regulation",
-  ]
+  - frameworks
+  - containment
+  - trauma-informed
+  - boundaries
+  - co-regulation
 ---
 
 <!-- @format -->

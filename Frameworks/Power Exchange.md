@@ -1,16 +1,17 @@
 ---
-title: "Power Exchange"
-aliases: ["Authority Transfer", "D/s", "Control Play", "Power Dynamics"]
+title: Power Exchange
+aliases:
+  - Authority Transfer
+  - D/s
+  - Control Play
+  - Power Dynamics
 tags:
-  [
-    "frameworks",
-    "kink",
-    "power",
-    "authority",
-    "negotiation",
-    "roles",
-    "relational design",
-  ]
+  - frameworks
+  - kink
+  - power
+  - authority
+  - negotiation
+  - roles
 ---
 
 <!-- @format -->

@@ -1,14 +1,13 @@
 ---
-title: "Attachment Theory"
-aliases: ["Attachment Styles", "Attachment Patterns"]
+title: Attachment Theory
+aliases:
+  - Attachment Styles
+  - Attachment Patterns
 tags:
-  [
-    "frameworks",
-    "attachment",
-    "relationships",
-    "developmental psychology",
-    "EFT",
-  ]
+  - frameworks
+  - attachment
+  - relationships
+  - EFT
 ---
 
 <!-- @format -->

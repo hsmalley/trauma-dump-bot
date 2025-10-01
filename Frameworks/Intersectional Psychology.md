@@ -1,21 +1,16 @@
 ---
-title: "Intersectional Psychology"
+title: Intersectional Psychology
 aliases:
-  [
-    "Intersectionality in Psychology",
-    "Intersectional Lens",
-    "Identity-Aware Psychology",
-  ]
+  - Intersectionality in Psychology
+  - Intersectional Lens
+  - Identity-Aware Psychology
 tags:
-  [
-    "frameworks",
-    "systems",
-    "identity",
-    "power",
-    "relational dynamics",
-    "trauma-informed",
-    "psychology",
-  ]
+  - frameworks
+  - systems
+  - identity
+  - power
+  - trauma-informed
+  - psychology
 ---
 
 <!-- @format -->

@@ -1,17 +1,17 @@
 ---
-title: "Trauma-Informed Care (TIC)"
-aliases: ["TIC", "Trauma-Informed Practice", "Trauma-Aware Support"]
+title: Trauma-Informed Care (TIC)
+aliases:
+  - TIC
+  - Trauma-Informed Practice
+  - Trauma-Aware Support
 tags:
-  [
-    "frameworks",
-    "trauma",
-    "care",
-    "systems",
-    "safety",
-    "consent",
-    "identity",
-    "relational dynamics",
-  ]
+  - frameworks
+  - trauma
+  - care
+  - systems
+  - safety
+  - consent
+  - identity
 ---
 
 <!-- @format -->

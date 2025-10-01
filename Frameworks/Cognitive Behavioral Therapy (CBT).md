@@ -1,14 +1,10 @@
 ---
-title: "Cognitive Behavioral Therapy (CBT)"
-aliases: ["CBT"]
+title: Cognitive Behavioral Therapy (CBT)
+aliases:
+  - CBT
 tags:
-  [
-    "frameworks",
-    "CBT",
-    "cognitive distortions",
-    "behavioral activation",
-    "thought work",
-  ]
+  - frameworks
+  - CBT
 ---
 
 <!-- @format -->

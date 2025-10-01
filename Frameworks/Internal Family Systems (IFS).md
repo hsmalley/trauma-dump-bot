@@ -1,16 +1,16 @@
 ---
-title: "Internal Family Systems (IFS)"
-aliases: ["IFS", "Parts Work", "Self-Leadership"]
+title: Internal Family Systems (IFS)
+aliases:
+  - IFS
+  - Parts Work
+  - Self-Leadership
 tags:
-  [
-    "frameworks",
-    "IFS",
-    "parts",
-    "trauma",
-    "healing",
-    "self-leadership",
-    "inner system",
-  ]
+  - frameworks
+  - IFS
+  - parts
+  - trauma
+  - healing
+  - self-leadership
 ---
 
 <!-- @format -->

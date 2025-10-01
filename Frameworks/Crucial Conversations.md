@@ -1,15 +1,15 @@
 ---
-title: "Crucial Conversations"
-aliases: ["High-Stakes Dialogue", "Difficult Conversations", "Crucial Skills"]
+title: Crucial Conversations
+aliases:
+  - High-Stakes Dialogue
+  - Difficult Conversations
+  - Crucial Skills
 tags:
-  [
-    "frameworks",
-    "communication",
-    "conflict",
-    "safety",
-    "emotional regulation",
-    "skills",
-  ]
+  - frameworks
+  - communication
+  - conflict
+  - safety
+  - skills
 ---
 
 <!-- @format -->

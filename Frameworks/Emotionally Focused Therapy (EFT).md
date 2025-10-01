@@ -1,15 +1,14 @@
 ---
-title: "Emotionally Focused Therapy (EFT)"
-aliases: ["EFT", "Emotionally Focused Therapy"]
+title: Emotionally Focused Therapy (EFT)
+aliases:
+  - EFT
+  - Emotionally Focused Therapy
 tags:
-  [
-    "frameworks",
-    "EFT",
-    "attachment",
-    "relationships",
-    "repair",
-    "emotion processing",
-  ]
+  - frameworks
+  - EFT
+  - attachment
+  - relationships
+  - repair
 ---
 
 <!-- @format -->

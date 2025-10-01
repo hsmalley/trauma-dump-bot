@@ -1,17 +1,18 @@
 ---
-title: "Consensual Non-Consent (CNC)"
-aliases: ["CNC", "Non-Consent Play", "Rape Play", "Forced Play"]
+title: Consensual Non-Consent (CNC)
+aliases:
+  - CNC
+  - Non-Consent Play
+  - Rape Play
+  - Forced Play
 tags:
-  [
-    "frameworks",
-    "kink",
-    "consent",
-    "trauma",
-    "risk",
-    "power",
-    "psychology",
-    "edge play",
-  ]
+  - frameworks
+  - kink
+  - consent
+  - trauma
+  - risk
+  - power
+  - psychology
 ---
 
 <!-- @format -->

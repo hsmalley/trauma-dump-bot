@@ -1,16 +1,16 @@
 ---
-title: "Female-Led Relationship (FLR)"
-aliases: ["FLR", "Female Authority", "Matriarchal D/s"]
+title: Female-Led Relationship (FLR)
+aliases:
+  - FLR
+  - Female Authority
+  - Matriarchal D/s
 tags:
-  [
-    "frameworks",
-    "relationships",
-    "power",
-    "kink",
-    "roles",
-    "relational design",
-    "authority",
-  ]
+  - frameworks
+  - relationships
+  - power
+  - kink
+  - roles
+  - authority
 ---
 
 <!-- @format -->

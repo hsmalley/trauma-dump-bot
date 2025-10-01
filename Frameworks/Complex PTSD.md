@@ -1,16 +1,16 @@
 ---
-title: "Complex PTSD"
-aliases: ["C-PTSD", "Relational Trauma", "Developmental Trauma"]
+title: Complex PTSD
+aliases:
+  - C-PTSD
+  - Relational Trauma
+  - Developmental Trauma
 tags:
-  [
-    "frameworks",
-    "trauma",
-    "nervous system",
-    "identity",
-    "relationships",
-    "containment",
-    "care",
-  ]
+  - frameworks
+  - trauma
+  - identity
+  - relationships
+  - containment
+  - care
 ---
 
 <!-- @format -->

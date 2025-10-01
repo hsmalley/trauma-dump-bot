@@ -1,15 +1,15 @@
 ---
-title: "Empowerment Triangle"
-aliases: ["Creator-Challenger-Coach Model", "TED Triangle", "Power of TED"]
+title: Empowerment Triangle
+aliases:
+  - Creator-Challenger-Coach Model
+  - TED Triangle
+  - Power of TED
 tags:
-  [
-    "frameworks",
-    "empowerment",
-    "boundaries",
-    "relational dynamics",
-    "systems",
-    "coaching",
-  ]
+  - frameworks
+  - empowerment
+  - boundaries
+  - systems
+  - coaching
 ---
 
 <!-- @format -->

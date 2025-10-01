@@ -1,14 +1,12 @@
 ---
-title: "Boundary Models"
-aliases: ["Boundaries", "Boundary Frameworks"]
+title: Boundary Models
+aliases:
+  - Boundaries
+  - Boundary Frameworks
 tags:
-  [
-    "frameworks",
-    "boundaries",
-    "relational skills",
-    "containment",
-    "consent culture",
-  ]
+  - frameworks
+  - boundaries
+  - containment
 ---
 
 <!-- @format -->

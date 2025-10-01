@@ -1,22 +1,17 @@
 ---
-title: "Intersectional Feminist Psychology"
+title: Intersectional Feminist Psychology
 aliases:
-  [
-    "Liberation Psychology",
-    "Feminist Therapy",
-    "Intersectionality",
-    "Feminist Psych",
-  ]
+  - Liberation Psychology
+  - Feminist Therapy
+  - Intersectionality
+  - Feminist Psych
 tags:
-  [
-    "frameworks",
-    "systems",
-    "power",
-    "identity",
-    "liberation",
-    "trauma-informed",
-    "relational dynamics",
-  ]
+  - frameworks
+  - systems
+  - power
+  - identity
+  - liberation
+  - trauma-informed
 ---
 
 <!-- @format -->

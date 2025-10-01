@@ -1,8 +1,14 @@
 ---
-title: "Karpman Drama Triangle"
-aliases: ["Drama Triangle", "Victim-Rescuer-Persecutor"]
+title: Karpman Drama Triangle
+aliases:
+  - Drama Triangle
+  - Victim-Rescuer-Persecutor
 tags:
-  ["frameworks", "relational dynamics", "power", "roles", "conflict", "systems"]
+  - frameworks
+  - power
+  - roles
+  - conflict
+  - systems
 ---
 
 <!-- @format -->

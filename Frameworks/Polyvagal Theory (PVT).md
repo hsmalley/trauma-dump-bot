@@ -1,16 +1,17 @@
 ---
-title: "Polyvagal Theory (PVT)"
-aliases: ["PVT", "Polyvagal", "Vagus Nerve Theory", "Nervous System States"]
+title: Polyvagal Theory (PVT)
+aliases:
+  - PVT
+  - Polyvagal
+  - Vagus Nerve Theory
+  - Nervous System States
 tags:
-  [
-    "frameworks",
-    "somatics",
-    "trauma",
-    "regulation",
-    "attachment",
-    "nervous system",
-    "safety",
-  ]
+  - frameworks
+  - somatics
+  - trauma
+  - regulation
+  - attachment
+  - safety
 ---
 
 <!-- @format -->

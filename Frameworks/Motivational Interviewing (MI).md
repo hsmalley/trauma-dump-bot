@@ -1,15 +1,15 @@
 ---
-title: "Motivational Interviewing (MI)"
-aliases: ["MI", "Motivational Interviewing", "Change Talk", "OARS"]
+title: Motivational Interviewing (MI)
+aliases:
+  - MI
+  - Motivational Interviewing
+  - Change Talk
+  - OARS
 tags:
-  [
-    "frameworks",
-    "communication",
-    "behavior change",
-    "autonomy",
-    "reflection",
-    "relational skills",
-  ]
+  - frameworks
+  - communication
+  - autonomy
+  - reflection
 ---
 
 <!-- @format -->

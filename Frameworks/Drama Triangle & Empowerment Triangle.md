@@ -1,15 +1,15 @@
 ---
-title: "Drama Triangle & Empowerment Triangle"
-aliases: ["Drama Triangle", "Empowerment Triangle", "Karpman Triangle"]
+title: Drama Triangle & Empowerment Triangle
+aliases:
+  - Drama Triangle
+  - Empowerment Triangle
+  - Karpman Triangle
 tags:
-  [
-    "frameworks",
-    "relational dynamics",
-    "boundaries",
-    "roles",
-    "empowerment",
-    "systems",
-  ]
+  - frameworks
+  - boundaries
+  - roles
+  - empowerment
+  - systems
 ---
 
 <!-- @format -->

@@ -1,16 +1,15 @@
 ---
-title: "Nonviolent Communication (NVC)"
-aliases: ["NVC", "Compassionate Communication"]
+title: Nonviolent Communication (NVC)
+aliases:
+  - NVC
+  - Compassionate Communication
 tags:
-  [
-    "frameworks",
-    "communication",
-    "conflict",
-    "emotions",
-    "needs",
-    "relational dynamics",
-    "repair",
-  ]
+  - frameworks
+  - communication
+  - conflict
+  - emotions
+  - needs
+  - repair
 ---
 
 <!-- @format -->

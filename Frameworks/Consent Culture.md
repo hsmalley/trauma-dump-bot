@@ -1,15 +1,15 @@
 ---
-title: "Consent Culture"
-aliases: ["Consent", "Consent Framework", "Consent-Based Culture"]
+title: Consent Culture
+aliases:
+  - Consent
+  - Consent Framework
+  - Consent-Based Culture
 tags:
-  [
-    "frameworks",
-    "consent",
-    "boundaries",
-    "communication",
-    "trauma-informed",
-    "relational skills",
-  ]
+  - frameworks
+  - consent
+  - boundaries
+  - communication
+  - trauma-informed
 ---
 
 <!-- @format -->

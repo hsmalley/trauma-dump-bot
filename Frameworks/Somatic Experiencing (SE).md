@@ -1,15 +1,15 @@
 ---
-title: "Somatic Experiencing (SE)"
-aliases: ["SE", "Somatic Therapy", "Peter Levine"]
+title: Somatic Experiencing (SE)
+aliases:
+  - SE
+  - Somatic Therapy
+  - Peter Levine
 tags:
-  [
-    "frameworks",
-    "trauma",
-    "somatics",
-    "nervous system",
-    "regulation",
-    "embodiment",
-  ]
+  - frameworks
+  - trauma
+  - somatics
+  - regulation
+  - embodiment
 ---
 
 <!-- @format -->

@@ -1,15 +1,12 @@
 ---
-title: "Dialectical Behavior Therapy (DBT)"
-aliases: ["DBT", "Dialectical Therapy"]
+title: Dialectical Behavior Therapy (DBT)
+aliases:
+  - DBT
+  - Dialectical Therapy
 tags:
-  [
-    "frameworks",
-    "DBT",
-    "emotion regulation",
-    "distress tolerance",
-    "mindfulness",
-    "relational skills",
-  ]
+  - frameworks
+  - DBT
+  - mindfulness
 ---
 
 <!-- @format -->

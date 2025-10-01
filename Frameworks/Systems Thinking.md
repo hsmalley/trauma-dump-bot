@@ -1,16 +1,16 @@
 ---
-title: "Systems Thinking"
-aliases: ["Systemic Lens", "Systemic Analysis", "Ecological Systems"]
+title: Systems Thinking
+aliases:
+  - Systemic Lens
+  - Systemic Analysis
+  - Ecological Systems
 tags:
-  [
-    "frameworks",
-    "systems",
-    "context",
-    "power",
-    "relational dynamics",
-    "patterns",
-    "change",
-  ]
+  - frameworks
+  - systems
+  - context
+  - power
+  - patterns
+  - change
 ---
 
 <!-- @format -->

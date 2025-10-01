@@ -1,16 +1,16 @@
 ---
-title: "Dungeons & Dragons (D&D)"
-aliases: ["DnD", "Tabletop Roleplaying", "TTRPGs"]
+title: Dungeons & Dragons (D&D)
+aliases:
+  - DnD
+  - Tabletop Roleplaying
+  - TTRPGs
 tags:
-  [
-    "frameworks",
-    "imagination",
-    "identity",
-    "storytelling",
-    "systems",
-    "play",
-    "relational dynamics",
-  ]
+  - frameworks
+  - imagination
+  - identity
+  - storytelling
+  - systems
+  - play
 ---
 
 <!-- @format -->

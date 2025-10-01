@@ -1,15 +1,15 @@
 ---
-title: "Transactional Analysis (TA)"
-aliases: ["TA", "Ego States", "Parent-Adult-Child Model"]
+title: Transactional Analysis (TA)
+aliases:
+  - TA
+  - Ego States
+  - Parent-Adult-Child Model
 tags:
-  [
-    "frameworks",
-    "communication",
-    "relational dynamics",
-    "psychology",
-    "roles",
-    "parts",
-  ]
+  - frameworks
+  - communication
+  - psychology
+  - roles
+  - parts
 ---
 
 <!-- @format -->

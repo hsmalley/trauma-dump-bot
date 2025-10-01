@@ -1,16 +1,16 @@
 ---
-title: "Spoon Theory"
-aliases: ["Spoonie Framework", "Energy Budgeting", "Capacity Tracking"]
+title: Spoon Theory
+aliases:
+  - Spoonie Framework
+  - Energy Budgeting
+  - Capacity Tracking
 tags:
-  [
-    "frameworks",
-    "disability",
-    "neurodivergence",
-    "care",
-    "containment",
-    "pacing",
-    "chronic illness",
-  ]
+  - frameworks
+  - disability
+  - neurodivergence
+  - care
+  - containment
+  - pacing
 ---
 
 <!-- @format -->

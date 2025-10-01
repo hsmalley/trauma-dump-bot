@@ -1,17 +1,18 @@
 ---
-title: "Polyamory"
-aliases: ["Polyam", "Poly", "Consensual Non-Monogamy", "ENM - Polyamory"]
+title: Polyamory
+aliases:
+  - Polyam
+  - Poly
+  - Consensual Non-Monogamy
+  - ENM - Polyamory
 tags:
-  [
-    "frameworks",
-    "relationships",
-    "polyamory",
-    "love",
-    "consent",
-    "communication",
-    "identity",
-    "relational dynamics",
-  ]
+  - frameworks
+  - relationships
+  - polyamory
+  - love
+  - consent
+  - communication
+  - identity
 ---
 
 <!-- @format -->

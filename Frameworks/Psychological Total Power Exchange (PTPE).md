@@ -1,17 +1,18 @@
 ---
-title: "Psychological Total Power Exchange (PTPE)"
-aliases: ["PTPE", "Psych TPE", "Internal D/s", "Mental Submission"]
+title: Psychological Total Power Exchange (PTPE)
+aliases:
+  - PTPE
+  - Psych TPE
+  - Internal D/s
+  - Mental Submission
 tags:
-  [
-    "frameworks",
-    "kink",
-    "power",
-    "psychology",
-    "authority",
-    "identity",
-    "D/s",
-    "relational dynamics",
-  ]
+  - frameworks
+  - kink
+  - power
+  - psychology
+  - authority
+  - identity
+  - D/s
 ---
 
 <!-- @format -->

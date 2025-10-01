@@ -1,16 +1,16 @@
 ---
-title: "Liberation Psychology (LP)"
-aliases: ["LP", "Psychology of Liberation", "Liberatory Psychology"]
+title: Liberation Psychology (LP)
+aliases:
+  - LP
+  - Psychology of Liberation
+  - Liberatory Psychology
 tags:
-  [
-    "frameworks",
-    "systems",
-    "power",
-    "community",
-    "trauma-informed",
-    "decolonial",
-    "relational dynamics",
-  ]
+  - frameworks
+  - systems
+  - power
+  - community
+  - trauma-informed
+  - decolonial
 ---
 
 <!-- @format -->
