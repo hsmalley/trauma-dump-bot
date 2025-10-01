@@ -22,8 +22,8 @@ Usage examples:
 from __future__ import annotations
 
 import argparse
-import datetime
 import json
+from datetime import date, datetime
 import os
 import posixpath
 import re
@@ -35,6 +35,12 @@ try:
     import yaml  # type: ignore
 except Exception:
     yaml = None  # fallback parser will be used if needed
+
+
+def default_converter(o):
+    if isinstance(o, (datetime, date)):
+        return o.isoformat()
+    raise TypeError(f"Object of type {o.__class__.__name__} is not JSON serializable")
 
 
 def parse_frontmatter(text: str) -> Tuple[Optional[Dict], str]:
@@ -230,7 +236,7 @@ def build_md_tree(root_dir: str, tagfiles: Set[str]):
                         "type": "file",
                         "relpath": rel,
                         "size_bytes": stat.st_size,
-                        "mtime_utc": datetime.datetime.utcfromtimestamp(
+                        "mtime_utc": datetime.utcfromtimestamp(
                             stat.st_mtime
                         ).isoformat()
                         + "Z",
@@ -320,16 +326,20 @@ def main():
     # Save JSON (optionally record exclusions)
     if args.record_exclusions:
         result = {
-            "generated_at": datetime.datetime.utcnow().isoformat() + "Z",
+            "generated_at": datetime.utcnow().isoformat() + "Z",
             "root_name": os.path.basename(root_dir),
             "excluded_dirs": sorted(excluded_dirs),
             "tree": tree,
         }
         with open(args.output, "w", encoding="utf-8") as outf:
-            json.dump(result, outf, indent=2, ensure_ascii=False)
+            json.dump(
+                result, outf, default=default_converter, indent=2, ensure_ascii=False
+            )
     else:
         with open(args.output, "w", encoding="utf-8") as outf:
-            json.dump(tree, outf, indent=2, ensure_ascii=False)
+            json.dump(
+                tree, outf, default=default_converter, indent=2, ensure_ascii=False
+            )
 
     print(f"Wrote JSON to {args.output}")
 

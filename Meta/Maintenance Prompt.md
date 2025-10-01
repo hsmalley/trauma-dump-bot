@@ -31,6 +31,10 @@ Choose one to start with:
 - Which tools are stale or undocumented?
 - What would I hand off to a collaborator? What needs me?
 
+## 🔗 Related
+
+- [[Maintenance]]
+
 ---
 
 > _“If I were onboarding a new user to this vault today, what would I need to fix first?”_
