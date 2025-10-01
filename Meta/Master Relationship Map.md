@@ -133,4 +133,13 @@ F_Transactional_Analysis --> A_Karpman_Drama_Triangle_Example__Long_
 F_Transactional_Analysis --> A_NVC_Example__Long_
 F_Trauma_Informed_Care --> A_Containment_Models_Example__Long_
 F_Trauma_Informed_Care --> A_Somatic_Experiencing_Example__Long_
+F_DBT --> F_Internal_Family_Systems__IFS_
+F_DBT --> F_Trauma_Informed_Care
+F_DBT --> F_Consent_Culture
+F_CBT --> F_Nonviolent_Communication__NVC_
+F_CBT --> F_Narrative_Therapy
+F_CBT --> F_Gottman_Method
+F_ACT --> F_Polyvagal_Theory
+F_ACT --> F_Relational_Theory
+F_ACT --> P_Reflection_Prompts
 ```

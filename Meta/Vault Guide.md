@@ -69,7 +69,7 @@ type: meta
   - [[Key Researchers]]
   - [[Quick Reference]]
   - [[Reading List]]
-  - **Worked Analyses/**
+  - **[[Worked Analyses]]/**
     - [[Attachment Example (Long)]]
     - [[Attachment Prompt Example]]
     - [[Boundary Models Example (Long)]]

@@ -13,7 +13,7 @@ This vault contains:
 
 - **Frameworks**: Core and additional psychological/communication frameworks.
 - **Templates**: Tools for analysis, reflection, and mapping.
-- **Prompts**: GPT relational analysis prompt(s).
+- **Prompts**: [[GPT Relational Analysis Prompt]](s).
 - **References**: Space for external material.
 
-Use `Index.md` as your navigation hub.
+Use `[[Index]].md` as your navigation hub.
