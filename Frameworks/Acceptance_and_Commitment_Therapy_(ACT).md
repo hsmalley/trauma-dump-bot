@@ -43,20 +43,14 @@ Therapeutic model that emphasizes psychological flexibility through acceptance, 
 - [[Relational Theory]]
 - [[Reflection Prompts]]
 
-
 ## Core Concepts
-
 
 ## Applications
 
-
 ## Best Practices & Considerations
-
 
 ## Integration & Related Models
 
-
 ## Example Prompts or Practices
-
 
 ## Citations

@@ -44,23 +44,16 @@ Use them to **interpret communication patterns, nervous system states, and relat
 - [[Transactional Analysis]]
 - [[Trauma-Informed Care]]
 
-
 ## Overview
-
 
 ## Core Concepts
 
-
 ## Applications
-
 
 ## Best Practices & Considerations
 
-
 ## Integration & Related Models
 
-
 ## Example Prompts or Practices
-
 
 ## Citations

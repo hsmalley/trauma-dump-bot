@@ -40,20 +40,14 @@ Structured, goal-oriented therapy focused on identifying and changing unhelpful 
 - [[Narrative Therapy]]
 - [[Gottman Method]]
 
-
 ## Core Concepts
-
 
 ## Applications
 
-
 ## Best Practices & Considerations
-
 
 ## Integration & Related Models
 
-
 ## Example Prompts or Practices
-
 
 ## Citations

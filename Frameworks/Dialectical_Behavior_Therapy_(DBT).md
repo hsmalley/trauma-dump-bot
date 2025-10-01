@@ -42,20 +42,14 @@ Integrative therapy blending cognitive-behavioral and mindfulness-based strategi
 - [[Trauma-Informed Care]]
 - [[Consent Culture]]
 
-
 ## Core Concepts
-
 
 ## Applications
 
-
 ## Best Practices & Considerations
-
 
 ## Integration & Related Models
 
-
 ## Example Prompts or Practices
-
 
 ## Citations

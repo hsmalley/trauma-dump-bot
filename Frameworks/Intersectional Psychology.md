@@ -27,20 +27,14 @@ type: framework
 
 Links to: [[Relational Theory]], [[Trauma-Informed Care]], [[Consent Culture]]
 
-
 ## Overview
-
 
 ## Core Concepts
 
-
 ## Best Practices & Considerations
-
 
 ## Integration & Related Models
 
-
 ## Example Prompts or Practices
-
 
 ## Citations

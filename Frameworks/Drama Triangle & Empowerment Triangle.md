@@ -27,20 +27,14 @@ Framework for mapping dysfunctional vs. empowered roles.
 
 [[Transactional Analysis]], [[Relational Theory]][[Consent Culture]]
 
-
 ## Core Concepts
-
 
 ## Applications
 
-
 ## Best Practices & Considerations
-
 
 ## Integration & Related Models
 
-
 ## Example Prompts or Practices
-
 
 ## Citations

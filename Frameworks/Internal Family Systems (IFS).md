@@ -27,20 +27,14 @@ Richard Schwartz’s model emphasizing multiplicity of the mind and healing thro
 
 [[Narrative Therapy]], [[Reflection Prompts]]
 
-
 ## Core Concepts
-
 
 ## Applications
 
-
 ## Best Practices & Considerations
-
 
 ## Integration & Related Models
 
-
 ## Example Prompts or Practices
-
 
 ## Citations

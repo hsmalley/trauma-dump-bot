@@ -26,20 +26,14 @@ Principles for safe, supportive, and non-pathologizing engagement.
 
 [[Polyvagal Theory]], [[Somatic Experiencing]]
 
-
 ## Core Concepts
-
 
 ## Applications
 
-
 ## Best Practices & Considerations
-
 
 ## Integration & Related Models
 
-
 ## Example Prompts or Practices
-
 
 ## Citations

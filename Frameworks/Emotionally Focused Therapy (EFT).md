@@ -28,20 +28,14 @@ Attachment-based approach to relational conflict and bonding.
 
 [[Attachment Theory]], [[Gottman Method]]
 
-
 ## Core Concepts
-
 
 ## Applications
 
-
 ## Best Practices & Considerations
-
 
 ## Integration & Related Models
 
-
 ## Example Prompts or Practices
-
 
 ## Citations
