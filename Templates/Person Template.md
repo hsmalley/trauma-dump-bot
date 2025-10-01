@@ -1,8 +1,7 @@
 ---
 title: Person Template
-tags:
-  - template
-type: template
+tags: [template]
+tag type: template
 ---
 
 <!-- @format -->

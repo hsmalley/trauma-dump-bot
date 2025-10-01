@@ -65,13 +65,13 @@ type: framework
 
 ## 🧩 Master Map: Refresh
 
-The master map is in **Meta/Master Relationship Map.md** and is generated based on links from prompts/references/analyses to frameworks.
+The master map is in **Meta/[[Master Relationship Map]].md** and is generated based on links from prompts/references/analyses to frameworks.
 
-1. Ensure new notes include concrete links like `[[Polyvagal Theory]]`, `[[Internal Family Systems (IFS)]]`.
+1. Ensure new notes include concrete links like `[[[[Polyvagal Theory]]]]`, `[[Internal Family Systems (IFS)]]`.
 2. In large batches of changes, re-run your local generation script (or request the assistant to rebuild the map):
    - Confirm Mermaid block syntax:
      `
-     `mermaid
+`mermaid
      graph TD
      F_Framework --> P_Prompt
 

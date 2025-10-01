@@ -1,5 +1,7 @@
 ---
-tags: []
+title: Narrative Therapy
+tags: [framework]
+aliases: []
 type: framework
 ---
 
@@ -24,3 +26,21 @@ Approach focused on re-authoring identity and stories.
 ## Links
 
 [[Internal Family Systems (IFS)]], [[Reflection Prompts]]
+
+
+## Core Concepts
+
+
+## Applications
+
+
+## Best Practices & Considerations
+
+
+## Integration & Related Models
+
+
+## Example Prompts or Practices
+
+
+## Citations

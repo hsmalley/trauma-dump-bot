@@ -1,5 +1,7 @@
 ---
-tags: []
+title: Attachment Theory
+tags: [framework]
+aliases: []
 type: framework
 ---
 
@@ -23,3 +25,21 @@ Adult attachment patterns influencing relationship dynamics.
 ## Links
 
 [[Emotionally Focused Therapy (EFT)]], [[Gottman Method]]
+
+
+## Core Concepts
+
+
+## Applications
+
+
+## Best Practices & Considerations
+
+
+## Integration & Related Models
+
+
+## Example Prompts or Practices
+
+
+## Citations

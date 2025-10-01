@@ -1,5 +1,7 @@
 ---
-tags: []
+title: Somatic Experiencing
+tags: [framework]
+aliases: []
 type: framework
 ---
 
@@ -25,3 +27,21 @@ Peter Levine’s body-based trauma resolution framework.
 ## Links
 
 [[Polyvagal Theory]], [[Trauma-Informed Care]]
+
+
+## Core Concepts
+
+
+## Applications
+
+
+## Best Practices & Considerations
+
+
+## Integration & Related Models
+
+
+## Example Prompts or Practices
+
+
+## Citations

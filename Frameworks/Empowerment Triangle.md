@@ -1,7 +1,7 @@
 ---
 title: Empowerment Triangle
-tags:
-  - framework
+tags: [framework]
+aliases: []
 type: framework
 ---
 
@@ -33,3 +33,21 @@ A constructive alternative to drama roles: Creator (agency), Coach (support), Ch
 - [[Analysis Prompt - Attachment]]
 - [[Analysis Prompt - Repair Attempts]]
 - [[GPT Relational Analysis Prompt]]
+
+
+## Core Concepts
+
+
+## Applications
+
+
+## Best Practices & Considerations
+
+
+## Integration & Related Models
+
+
+## Example Prompts or Practices
+
+
+## Citations

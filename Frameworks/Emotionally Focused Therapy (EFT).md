@@ -1,5 +1,7 @@
 ---
-tags: []
+title: Emotionally Focused Therapy (EFT)
+tags: [framework]
+aliases: [EFT]
 type: framework
 ---
 
@@ -25,3 +27,21 @@ Attachment-based approach to relational conflict and bonding.
 ## Links
 
 [[Attachment Theory]], [[Gottman Method]]
+
+
+## Core Concepts
+
+
+## Applications
+
+
+## Best Practices & Considerations
+
+
+## Integration & Related Models
+
+
+## Example Prompts or Practices
+
+
+## Citations

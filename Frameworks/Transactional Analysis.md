@@ -1,5 +1,7 @@
 ---
-tags: []
+title: Transactional Analysis
+tags: [framework]
+aliases: []
 type: framework
 ---
 
@@ -24,3 +26,21 @@ Eric Berne’s model of ego states and communication patterns.
 ## Links
 
 [[Drama Triangle & Empowerment Triangle]]
+
+
+## Core Concepts
+
+
+## Applications
+
+
+## Best Practices & Considerations
+
+
+## Integration & Related Models
+
+
+## Example Prompts or Practices
+
+
+## Citations

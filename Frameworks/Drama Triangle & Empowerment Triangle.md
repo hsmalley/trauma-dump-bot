@@ -1,5 +1,7 @@
 ---
-tags: []
+title: Drama Triangle & Empowerment Triangle
+tags: [framework]
+aliases: []
 type: framework
 ---
 
@@ -24,3 +26,21 @@ Framework for mapping dysfunctional vs. empowered roles.
 ## Links
 
 [[Transactional Analysis]], [[Relational Theory]][[Consent Culture]]
+
+
+## Core Concepts
+
+
+## Applications
+
+
+## Best Practices & Considerations
+
+
+## Integration & Related Models
+
+
+## Example Prompts or Practices
+
+
+## Citations

@@ -1,7 +1,7 @@
 ---
 title: Relational Theory
-tags:
-  - framework
+tags: [framework]
+aliases: []
 type: framework
 ---
 
@@ -34,3 +34,21 @@ Emphasizes mutuality, context, and the co-construction of meaning; growth occurs
 - [[Analysis Prompt - Attachment]]
 - [[Analysis Prompt - Repair Attempts]]
 - [[GPT Relational Analysis Prompt]]
+
+
+## Core Concepts
+
+
+## Applications
+
+
+## Best Practices & Considerations
+
+
+## Integration & Related Models
+
+
+## Example Prompts or Practices
+
+
+## Citations

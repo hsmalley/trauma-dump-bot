@@ -1,8 +1,7 @@
 ---
 title: Analysis Prompt Template
-tags:
-  - template
-type: template
+tags: [template]
+tag type: template
 ---
 
 <!-- @format -->

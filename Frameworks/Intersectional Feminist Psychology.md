@@ -1,7 +1,7 @@
 ---
 title: Intersectional Feminist Psychology
-tags:
-  - framework
+tags: [framework]
+aliases: []
 type: framework
 ---
 
@@ -34,3 +34,21 @@ Applies intersectionality (Crenshaw) to psychology, examining how overlapping id
 - [[Analysis Prompt - Attachment]]
 - [[Analysis Prompt - Repair Attempts]]
 - [[GPT Relational Analysis Prompt]]
+
+
+## Core Concepts
+
+
+## Applications
+
+
+## Best Practices & Considerations
+
+
+## Integration & Related Models
+
+
+## Example Prompts or Practices
+
+
+## Citations

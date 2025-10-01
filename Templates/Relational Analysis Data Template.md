@@ -1,6 +1,7 @@
 ---
-tags: []
-type: template
+title: Relational Analysis Data Template
+tags: [template]
+tag type: template
 ---
 
 <!-- @format -->
@@ -36,6 +37,6 @@ Data/
 - **Agreements_Boundaries/**: Any explicit or working agreements, consent boundaries, or household/shared norms.
 - **Relationship_Map/**: Visual or textual relationship network map (can include roles, proximity, tension).
 - **Context_Notes/**: Background data about identities, trauma, access needs, or relational intentions.
-- **Meta/**: Info for indexing or customizing the analysis (e.g., tag dictionary, README).
+- **Meta/**: Info for indexing or customizing the analysis (e.g., tag dictionary, [[README]]).
 
 Example tags: #attachment, #parts, #boundaries, #repair

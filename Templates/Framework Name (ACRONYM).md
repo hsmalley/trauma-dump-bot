@@ -1,6 +1,7 @@
 ---
-tags: []
-type: template
+title: Framework Name (ACRONYM)
+tags: [template]
+tag type: template
 ---
 
 <!-- @format -->

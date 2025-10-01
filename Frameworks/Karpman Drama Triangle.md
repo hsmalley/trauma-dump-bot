@@ -1,9 +1,7 @@
 ---
 title: Karpman Drama Triangle
-tags:
-  - framework
-aliases:
-  - Drama Triangle
+tags: [framework]
+aliases: []
 type: framework
 ---
 
@@ -36,3 +34,21 @@ Describes dysfunctional conflict roles: Victim, Persecutor, Rescuer; interaction
 - [[Analysis Prompt - Attachment]]
 - [[Analysis Prompt - Repair Attempts]]
 - [[GPT Relational Analysis Prompt]]
+
+
+## Core Concepts
+
+
+## Applications
+
+
+## Best Practices & Considerations
+
+
+## Integration & Related Models
+
+
+## Example Prompts or Practices
+
+
+## Citations

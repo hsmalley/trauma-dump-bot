@@ -1,7 +1,7 @@
 ---
 title: Intersectional Psychology
-tags:
-  - framework
+tags: [framework]
+aliases: []
 type: framework
 ---
 
@@ -26,3 +26,21 @@ type: framework
 ## Integration
 
 Links to: [[Relational Theory]], [[Trauma-Informed Care]], [[Consent Culture]]
+
+
+## Overview
+
+
+## Core Concepts
+
+
+## Best Practices & Considerations
+
+
+## Integration & Related Models
+
+
+## Example Prompts or Practices
+
+
+## Citations

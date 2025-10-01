@@ -1,7 +1,7 @@
 ---
 title: Consent Culture
-tags:
-  - framework
+tags: [framework]
+aliases: []
 type: framework
 ---
 
@@ -34,3 +34,21 @@ A values framework emphasizing ongoing, enthusiastic, informed consent; honors a
 - [[Analysis Prompt - Attachment]]
 - [[Analysis Prompt - Repair Attempts]]
 - [[GPT Relational Analysis Prompt]]
+
+
+## Core Concepts
+
+
+## Applications
+
+
+## Best Practices & Considerations
+
+
+## Integration & Related Models
+
+
+## Example Prompts or Practices
+
+
+## Citations

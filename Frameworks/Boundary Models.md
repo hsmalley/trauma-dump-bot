@@ -1,7 +1,7 @@
 ---
 title: Boundary Models
-tags:
-  - framework
+tags: [framework]
+aliases: []
 type: framework
 ---
 
@@ -33,3 +33,21 @@ Conceptualizes boundaries as flexible membranes that define what's okay/not okay
 - [[Analysis Prompt - Attachment]]
 - [[Analysis Prompt - Repair Attempts]]
 - [[GPT Relational Analysis Prompt]]
+
+
+## Core Concepts
+
+
+## Applications
+
+
+## Best Practices & Considerations
+
+
+## Integration & Related Models
+
+
+## Example Prompts or Practices
+
+
+## Citations

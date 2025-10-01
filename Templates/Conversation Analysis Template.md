@@ -1,8 +1,7 @@
 ---
 title: Conversation Analysis Template
-tags:
-  - template
-type: template
+tags: [template]
+tag type: template
 ---
 
 <!-- @format -->
@@ -20,7 +19,7 @@ Paste dialogue excerpt here.
 ## Observations
 
 - Emotional tone
-- Nervous system state (Polyvagal, Somatic Experiencing)
+- Nervous system state (Polyvagal, [[Somatic Experiencing]])
 - Attachment signals
 - Power dynamics
 

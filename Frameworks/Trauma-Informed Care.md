@@ -1,5 +1,7 @@
 ---
-tags: []
+title: Trauma-Informed Care
+tags: [framework]
+aliases: []
 type: framework
 ---
 
@@ -23,3 +25,21 @@ Principles for safe, supportive, and non-pathologizing engagement.
 ## Links
 
 [[Polyvagal Theory]], [[Somatic Experiencing]]
+
+
+## Core Concepts
+
+
+## Applications
+
+
+## Best Practices & Considerations
+
+
+## Integration & Related Models
+
+
+## Example Prompts or Practices
+
+
+## Citations

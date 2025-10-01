@@ -1,27 +1,57 @@
 ---
-tags: []
+title: Gottman Method (GM)
+tags: [framework, couples, relational, communication]
+aliases: [Gottman, Gottman Method Couples Therapy]
 type: framework
 ---
 
-<!-- @format -->
+## Overview  
+The **Gottman Method** is a research‑based couples therapy model developed by John and Julie Gottman, grounded in decades of observational studies on what makes relationships succeed or fail. It emphasizes building relational strength, fostering positive sentiment, and managing conflict rather than eliminating it.  
 
-# Gottman Method
+## Core Concepts  
 
-## Overview
+### The Sound Relationship House  
+1. Build Love Maps  
+2. Share Fondness & Admiration  
+3. Turn Toward Instead of Away  
+4. The Positive Perspective  
+5. Manage Conflict  
+6. Make Life Dreams Come True  
+7. Create Shared Meaning  
+8. Trust & Commitment  
 
-Research-based couples therapy method.
+### The Four Horsemen & Antidotes  
+- Criticism → Gentle Start‑Up  
+- Contempt → Appreciation  
+- Defensiveness → Responsibility  
+- Stonewalling → Self‑soothing  
 
-## Key Concepts
+### Conflict is Natural  
+~69% of relational problems are perpetual. Managing—not solving—is the key.
 
-- Bids for connection
-- Repair attempts
-- Four Horsemen of the Apocalypse
+## Applications  
+- Couples therapy  
+- Premarital counseling  
+- Conflict coaching  
+- Relational education  
 
-## Application in Relational Analysis
+## Best Practices & Considerations  
+- Monitor escalation and repair early  
+- Accept influence from each partner  
+- Avoid mechanical repairs—attune sincerely  
+- May feel too structured for some couples
 
-- Identify bids and missed connections.
-- Spot destructive patterns.
+## Integration & Related Models  
+- [[Nonviolent Communication (NVC)]]  
+- [[Polyvagal Theory]]  
+- [[Consent Culture]], [[Attachment Theory]]  
 
-## Links
+## Example Prompts or Practices  
+- “When I hear you say X, I feel Y”  
+- “I’m sorry I snapped. I was overwhelmed.”  
+- Weekly appreciation ritual  
+- Conflict grid: triggers → escalation → repair
 
-[[Attachment Theory]], [[Emotionally Focused Therapy (EFT)]]
+## Citations  
+- Gottman, J., & Silver, N. (1999). *The Seven Principles for Making Marriage Work*.  
+- The Gottman Institute resources  

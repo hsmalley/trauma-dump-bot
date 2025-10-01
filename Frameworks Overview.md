@@ -38,3 +38,6 @@ Use them to **interpret communication patterns, nervous system states, and relat
 - [[Intersectional Feminist Psychology]]
 - [[Narrative Therapy]]
 - [[Gottman Method]]
+- [[Dialectical_Behavior_Therapy_(DBT)]]
+- [[Cognitive_Behavioral_Therapy_(CBT)]]
+- [[Acceptance_and_Commitment_Therapy_(ACT)]]
