@@ -15,7 +15,7 @@ This vault uses a **controlled set of tags** to maintain consistency.
 
 ## Core Tags
 
-- `framework` → Theoretical models (e.g., [[Polyvagal Theory]])
+- `framework` → Theoretical models (e.g., [[Polyvagal Theory (PVT)]])
 - `prompt` → Structured instructions for analysis
 - `template` → Pre-built reusable structures
 - `reference` → Reading lists, resources, example conversations

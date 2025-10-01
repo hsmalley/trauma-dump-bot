@@ -9,7 +9,7 @@ type: reference
 
 # 👩‍🔬 Key Researchers
 
-- Stephen Porges ([[Polyvagal Theory]])
+- Stephen Porges ([[Polyvagal Theory (PVT)]]
 - Richard Schwartz (IFS)
 - Sue Johnson (EFT)
 - Marshall Rosenberg (NVC)

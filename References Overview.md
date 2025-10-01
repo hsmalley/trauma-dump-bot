@@ -19,3 +19,6 @@ They provide background knowledge, curated reading, and example applications.
 - [[Reading List]]
 - [[Key Researchers]]
 - [[Example Conversations]]
+- [[Glossary]]
+- [[Worked Analyses]]
+- [[Case Study Examples]]

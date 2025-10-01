@@ -26,10 +26,10 @@ type: meta
 - [[Intersectional Feminist Psychology]]
 - [[Intersectional Psychology]]
 - [[Karpman Drama Triangle]]
-- [[Liberation Psychology]]
+- [[Liberation Psychology (LP)]]
 - [[Narrative Therapy]]
 - [[Nonviolent Communication (NVC)]]
-- [[Polyvagal Theory]]
+- [[Polyvagal Theory (PVT)]]
 - [[Relational Theory]]
 - [[Somatic Experiencing]]
 - [[Systems Thinking]]
@@ -38,9 +38,8 @@ type: meta
 
 ## Templates
 
-- [[Analysis Prompt Template]]
 - [[Conversation Analysis Template]]
-- [[Conversation Template]]
+- [[Conversation Analysis Template]]
 - [[Framework Name (ACRONYM)]]
 - [[Framework Reference Template]]
 - [[Person Template]]
@@ -75,8 +74,3 @@ type: meta
 - [[Tagging System]]
 - [[Validator Usage]]
 - [[Vault File Tree]]
-- [[Vault Graph Overview]]
-- [[Vault Graph]]
-- [[Vault Guide]]
-- [[Vault Guidelines]]
-- [[Workflow Map]]

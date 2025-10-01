@@ -20,5 +20,6 @@ tag type: template
 
 ## Links
 
-- Cases:
-- Conversations:
+%% Conversations or other context files %%
+
+%% NOTE THIS IS A OBSIDIAN TEMPLATE %%

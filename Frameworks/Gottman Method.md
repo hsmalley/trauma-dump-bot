@@ -52,8 +52,9 @@ The **Gottman Method** is a research‑based couples therapy model developed by 
 ## Integration & Related Models
 
 - [[Nonviolent Communication (NVC)]]
-- [[Polyvagal Theory]]
-- [[Consent Culture]], [[Attachment Theory]]
+- [[Polyvagal Theory (PVT)]
+- [[Consent Culture]]
+- [[Attachment Theory]]
 
 ## Example Prompts or Practices
 

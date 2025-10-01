@@ -1,7 +1,13 @@
 ---
 title: Liberation Psychology (LP)
-tags: [framework, justice, context, critical psychology]
-aliases: [Liberation, Psicología de la Liberación]
+tags:
+  - framework
+  - justice
+  - context
+aliases:
+  - Liberation
+  - Psicología de la Liberación
+  - LP
 type: framework
 ---
 

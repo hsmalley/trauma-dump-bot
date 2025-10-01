@@ -26,7 +26,7 @@ Peter Levine’s body-based trauma resolution framework.
 
 ## Links
 
-[[Polyvagal Theory]], [[Trauma-Informed Care]]
+[[Polyvagal Theory (PVT)]], [[Trauma-Informed Care]]
 
 ## Core Concepts
 

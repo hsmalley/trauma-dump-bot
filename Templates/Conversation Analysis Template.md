@@ -27,7 +27,7 @@ Paste dialogue excerpt here.
 
 - [[Frameworks/Internal Family Systems (IFS)]]
 - [[Nonviolent Communication (NVC)]]
-- [[Polyvagal Theory]]
+- [[Polyvagal Theory (PVT)]]
 
 ## Insights & Reflections
 

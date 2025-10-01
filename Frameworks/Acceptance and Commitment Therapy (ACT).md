@@ -7,15 +7,6 @@ type: framework
 
 <!-- @format -->
 
----
-
-title: Acceptance and Commitment Therapy (ACT)
-tags: [framework]
-aliases: [ACT]
-type: framework
-
----
-
 # Acceptance and Commitment Therapy (ACT)
 
 ## Overview
@@ -39,7 +30,7 @@ Therapeutic model that emphasizes psychological flexibility through acceptance, 
 
 ## Related
 
-- [[Polyvagal Theory]]
+- [[Polyvagal Theory (PVT)]]
 - [[Relational Theory]]
 - [[Reflection Prompts]]
 

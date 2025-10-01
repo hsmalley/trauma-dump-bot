@@ -13,11 +13,11 @@ Explore recurring patterns of conflict in conversations.
 
 # Frameworks Referenced
 
-- [[Polyvagal Theory]]
+- [[Polyvagal Theory (PVT)]]
 - [[Frameworks/Internal Family Systems (IFS)]]
 - [[Nonviolent Communication (NVC)]]
 - [[Attachment Theory]]
-- [[Gottman Method]]
+- [[Frameworks/Gottman Method|Gottman Method]]
 
 # Use Cases
 
@@ -30,4 +30,4 @@ Explore recurring patterns of conflict in conversations.
 - Note nervous system cues (Polyvagal).
 - Translate accusations → needs (NVC).
 - Identify roles ([[Karpman Drama Triangle]]) and possible exits.
-- Offer reframes + repair attempts ([[Gottman Method]]).
+- Offer reframes + repair attempts ([[Frameworks/Gottman Method|Gottman Method]]).

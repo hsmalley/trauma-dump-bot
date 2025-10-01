@@ -18,22 +18,26 @@ type: meta
 │   ├── Reflections
 │   └── Relationship_Map
 ├── Frameworks
+│   ├── Acceptance and Commitment Therapy (ACT).md
 │   ├── Attachment Theory.md
 │   ├── Boundary Models.md
+│   ├── Cognitive Behavioral Therapy (CBT).md
 │   ├── Consent Culture.md
 │   ├── Containment Models.md
+│   ├── Dialectical Behavior Therapy (DBT).md
 │   ├── Drama Triangle & Empowerment Triangle.md
 │   ├── Emotionally Focused Therapy (EFT).md
 │   ├── Empowerment Triangle.md
+│   ├── Frameworks_Overview.md
 │   ├── Gottman Method.md
 │   ├── Internal Family Systems (IFS).md
 │   ├── Intersectional Feminist Psychology.md
 │   ├── Intersectional Psychology.md
 │   ├── Karpman Drama Triangle.md
-│   ├── Liberation Psychology.md
+│   ├── Liberation Psychology (LP).md
 │   ├── Narrative Therapy.md
 │   ├── Nonviolent Communication (NVC).md
-│   ├── Polyvagal Theory.md
+│   ├── Polyvagal Theory (PVT).md
 │   ├── Relational Theory.md
 │   ├── Somatic Experiencing.md
 │   ├── Systems Thinking.md
@@ -47,20 +51,24 @@ type: meta
 │   ├── README.md
 │   ├── Tagging System.md
 │   ├── Tools
-│   │   └── validate_vault.py
+│   │   ├── validate_vault.py
+│   │   └── vault_to_json.py
 │   ├── Validator Usage.md
-│   ├── Vault Graph Overview.md
-│   ├── Vault Graph.md
-│   ├── Vault Guide.md
-│   ├── Vault Guidelines.md
-│   ├── Vault Tree.md
-│   └── Workflow Map.md
+│   ├── Vault File Tree.md
 ├── Prompts
 │   ├── Analysis Prompt - Attachment.md
 │   ├── Analysis Prompt - Conflict.md
 │   ├── Analysis Prompt - Repair Attempts.md
-│   ├── GPT Relational Analysis Prompt.md
-│   └── Reflection Prompts.md
+│   ├── Reflection Prompts.md
+│   ├── Standardization and Expansion
+│   │   ├── Framework_Note_Expansion_Prompt.md
+│   │   ├── Meta_Note_Expansion_Prompt.md
+│   │   ├── Prompt_Note_Expansion_Prompt.md
+│   │   ├── Reference_Note_Expansion_Prompt.md
+│   │   └── Template Note Standardization Prompt.md
+│   └── System
+│       ├── GPT Relational Analysis Prompt.md
+│       └── Run Prompt from JSON.md
 ├── Prompts Overview.md
 ├── References
 │   ├── Case Study Examples.md
@@ -97,14 +105,13 @@ type: meta
 │   └── Worked Analyses.md
 ├── References Overview.md
 ├── Templates
-│   ├── Analysis Prompt Template.md
+│   ├── Conflict Repair Template.md
 │   ├── Conversation Analysis Template.md
-│   ├── Conversation Template.md
 │   ├── Framework Name (ACRONYM).md
 │   ├── Framework Reference Template.md
 │   ├── Person Template.md
 │   ├── Reflection Template.md
 │   ├── Relational Analysis Data Template.md
 │   └── Relational Mapping Template.md
-└── Templates Overview.md
+├── Templates Overview.md
 ```

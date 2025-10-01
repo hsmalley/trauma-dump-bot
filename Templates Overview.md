@@ -16,7 +16,10 @@ Use them whenever you create a new framework, prompt, or reflection.
 
 ## Available Templates
 
-- [[Framework Reference Template]]
-- [[Analysis Prompt Template]]
-- [[Reflection Template]]
 - [[Conversation Analysis Template]]
+- [[Conflict Repair Template]]
+- [[Framework Reference Template]]
+- [[Reflection Template]]
+- [[Relational Mapping Template]]
+- [[Relational Analysis Data Template]]
+- [[Person Template]]

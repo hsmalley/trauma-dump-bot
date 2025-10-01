@@ -67,16 +67,14 @@ type: framework
 
 The master map is in **Meta/[[Master Relationship Map]].md** and is generated based on links from prompts/references/analyses to frameworks.
 
-1. Ensure new notes include concrete links like `[[[[Polyvagal Theory]]]]`, `[[Internal Family Systems (IFS)]]`.
+1. Ensure new notes include concrete links like `[[Polyvagal Theory (PVT)]]]`, `[[Frameworks/Internal Family Systems (IFS)|Internal Family Systems (IFS)]], [[Nonviolent Communication (NVC)]]`.
 2. In large batches of changes, re-run your local generation script (or request the assistant to rebuild the map):
    - Confirm Mermaid block syntax:
-     `
-`mermaid
-     graph TD
-     F_Framework --> P_Prompt
-
+```
+mermaid
+ graph TD
+ F_Framework --> P_Prompt
 ````
-     ```
    - Node IDs: use only letters, numbers, underscores.
 3. Open the map in Obsidian and confirm it renders.
 
@@ -100,10 +98,7 @@ The master map is in **Meta/[[Master Relationship Map]].md** and is generated ba
 ---
 
 ## 📎 Reference Indexes
-
-- [[Vault Guide]]
 - [[Master Relationship Map]]
-- [[Workflow Map]]
-- [[Vault Graph Overview]]
+- [[Tagging System]]
 - [[Worked Analyses]]
-````
+- [[Index]]

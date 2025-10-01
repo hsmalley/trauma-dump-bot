@@ -53,8 +53,8 @@ Because it operates beneath awareness, clients may feel reactive without conscio
 
 - [[Internal Family Systems (IFS)]]
 - [[Nonviolent Communication (NVC)]]
-- [[Consent Culture]], [[Containment Models]], [[Attachment Theory]]
-- Interpersonal neurobiology (IPNB)
+- [[Consent Culture]], [[Containment Models (Containment)]], [[Attachment Theory]]
+- [[Interpersonal neurobiology (IPNB)]]
 
 ## Example Prompts or Practices
 

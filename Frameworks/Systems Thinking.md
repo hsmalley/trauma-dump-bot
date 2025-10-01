@@ -30,10 +30,6 @@ A lens that views problems as products of interacting parts, feedback loops, and
 - [[Relational Theory]]
 - [[Karpman Drama Triangle]]
 - [[Gottman Method]]
-- [[Analysis Prompt - Conflict]]
-- [[Analysis Prompt - Attachment]]
-- [[Analysis Prompt - Repair Attempts]]
-- [[GPT Relational Analysis Prompt]]
 
 ## Core Concepts
 

@@ -7,15 +7,6 @@ type: framework
 
 <!-- @format -->
 
----
-
-title: Dialectical Behavior Therapy (DBT)
-tags: [framework]
-aliases: [DBT]
-type: framework
-
----
-
 # Dialectical Behavior Therapy (DBT)
 
 ## Overview
