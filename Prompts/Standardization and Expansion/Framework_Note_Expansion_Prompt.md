@@ -1,36 +1,95 @@
-### Framework_Note_Expansion_Prompt (Updated)
+### Framework_Note_Expansion_Prompt
 
 When expanding a new framework for the vault, follow this comprehensive, cross-linkable format. Prioritize educational clarity, trauma-informed language, and relational utility. All content should be non-pathologizing, grounded in systemic awareness, and suitable for identity-conscious relational reflection.
 
-This prompt supports **therapeutic**, **identity-based**, **kink-informed**, **relationship structure**, **mutual aid**, **creative practice**, **spiritual** and **symbolic narrative** frameworks (e.g., Polyamory, Relationship Anarchy, Dungeons & Dragons, Cuckolding, BDSM, Disability Justice). Optional sections for consent, roles, ritual, story arcs, care practices, and agreements are noted below.
+This prompt supports **therapeutic**, **identity-based**, **kink-informed**, **relationship structure**, **mutual aid**, **creative practice**, **spiritual**, and **symbolic narrative** frameworks (e.g., Polyamory, Relationship Anarchy, Dungeons & Dragons, Cuckolding, BDSM, Disability Justice). Optional sections for consent, roles, ritual, story arcs, care practices, and agreements are noted below. Only include sections when content exists. Never insert instructional or placeholder text into user-facing notes.
+
+---
+
+### Base Inclusions (Required)
+
+- **Correct YAML Frontmatter**
+- **One `<!-- @format -->` directly below YAML**
+- **Structured section order as defined**
+- **Sanitized titles, tags, and aliases**
+- **Emoji where relevant**
+- **Media section only when valid embed found**
+- **Omit empty optional sections**
 
 ---
 
 ### 🧠 YAML Frontmatter (Obsidian academic-ready)
+
 Include this structured metadata block at the top of every framework note:
 
 ```yaml
 ---
-title: 🧠 {{Framework_Title}}
+title: 🧠 {Framework_Title}
 aliases:
-  - {{Framework_Title}}
-  - {{Additional Aliases With Spaces and Capitalization}}
+  - {Framework_Title}
+  - {Additional Aliases With Spaces and Capitalization}
 tags:
   - framework
   - vault
   - psychology
   - relational_analysis
-  - {{Additional_Tags_Sanitized_With_Underscores}}
+  - {Additional_Tags_Sanitized_With_Underscores}
 related:
-  - {{Related_Frameworks_Sanitized_With_Underscores}}
+  - {Related_Frameworks_Sanitized_With_Underscores}
 source: Educational synthesis from validated public sources
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
-created: {{YYYY-MM-DD}}
-modified: {{YYYY-MM-DD}}
+created: YYYY-MM-DD
+modified: YYYY-MM-DD
 ---
 ```
 
 Use only `A-Z`, `a-z`, `0-9`, and `_` in tags, related, and file names. Aliases may include spaces and capitalization for readability.
+
+---
+
+### Section Order
+
+1. `YAML frontmatter` with title emoji, aliases, tags, related
+2. `<!-- @format -->`
+3. 🧩 Definition and Core Themes
+4. 🌿 Traits and Lived Experience
+5. 🧠 Nervous System and Parts Work Lens
+6. 💞 Attachment and Relational Patterns
+7. 🔄 Misunderstandings and Reframes (table)
+8. ⚖️ Relational Challenges and Strengths (table)
+9. 🛠️ Strategies, Prompts, and Practices
+10. 🛡️ Consent, Safety & Negotiation *(optional, if Kink/Sexuality)*
+11. 🧭 Roles, Archetypes & Dynamics *(optional)*
+12. 🔁 Scripts, Rituals & Repair *(optional)*
+13. 🏗️ Structures & Agreements *(optional, for Relationship Models)*
+14. 💠 Mutual Aid & Collective Access *(optional)*
+15. 🌀 Creative, Mythic & Spiritual Overlays *(optional)*
+16. 🎭 Symbolic Narrative & Story Mechanics *(optional)*
+17. 📘 Glossary or Concept Index *(optional)*
+18. 🔍 Cross-Framework Patterns *(optional)*
+19. 🧪 Use Cases or Integration *(optional)*
+20. 🔗 Related Frameworks and Further Reading
+21. 🎥 Media & Further Exploration *(optional embed only)*
+22. 📚 Citations & Sources
+
+---
+
+### Media Embeds
+
+Only embed media if valid educational video, podcast, or article is found. 
+Use valid embeds only in the format: `![](https://...)`
+Never include standard share links (e.g., `https://youtube.com/watch?...`). Embed only.
+
+---
+
+### Sanitization
+
+Apply sanitization to:
+- `tags`: allow only letters, numbers, and `_`
+- File names should match the sanitized title with `_`
+
+Use the vault as source of truth. Prioritize integration, clarity, and relational utility. 
+Use `web.run` for accurate external info when citations, media, or current definitions are required.
 
 ---
 
@@ -55,11 +114,13 @@ Use only `A-Z`, `a-z`, `0-9`, and `_` in tags, related, and file names. Aliases 
 - Optionally link to Gottman, EFT, or other pairing frameworks
 
 ### 🔄 Misunderstandings and Reframes
+
 | Myth | Reframe |
 |------|---------|
 | "Common misunderstanding" | "Compassionate, non-pathologizing counter-frame" |
 
 ### ⚖️ Relational Challenges and Strengths
+
 | Challenges | Strengths |
 |------------|-----------|
 | "Observed struggle" | "Empowering insight or capacity" |
@@ -94,35 +155,30 @@ Use only `A-Z`, `a-z`, `0-9`, and `_` in tags, related, and file names. Aliases 
 - Highlight dynamics like anchor partners, veto power, kitchen table, solo poly
 - Normalize revisiting and evolving agreements
 
-### 💒 Mutual Aid, Disability & Care Networks *(Optional)*
+### 💠 Mutual Aid, Disability & Care Networks *(Optional)*
 - Describe care webs, support mapping, and chronic care frameworks
 - Reflect on access, pacing, and adaptive boundaries
 - Include examples of collective responsibility and needs-forecasting
 
-### 🎨 Creative Practice & Meaning-Making *(Optional)*
-- Include examples from arts-based, performance, or expressive practices
-- Explore journaling, zines, drama, or crafting as relational exploration
-- Highlight ritual, creativity, and symbolic movement as healing acts
-
-### 🕊️ Faith, Myth, and Spiritual Anchoring *(Optional)*
-- Reflect on myth, tradition, or spiritual roots of the framework
-- Acknowledge decolonial, ancestral, or diasporic lenses
-- Clarify difference between symbolic meaning and fixed belief
+### 🌀 Creative, Mythic & Spiritual Overlays *(Optional)*
+- Highlight expressive or symbolic dimensions of healing, practice, and identity
+- Include artistic, ritual, or mythic meaning-making traditions
+- Clarify spiritual anchoring without assuming shared belief systems
 
 ### 🎭 Symbolic Narrative & Story Mechanics *(Optional for roleplay/symbolic frameworks)*
 - Explore how character roles mirror internal parts or conflicts
 - Note how quests, alignment changes, or class choices reflect transformation
 - Use metaphors: party dynamics as family system, resurrection as healing, etc.
 
-### 📚 Glossary or Concept Index *(Optional)*
+### 📘 Glossary or Concept Index *(Optional)*
 - Define key terms or phrases specific to this framework
 - Helpful for concepts like "compersion," "scene drop," "executive dysfunction"
 
-### 🧵 Vault Crosswalk *(Optional)*
+### 🔍 Vault Crosswalk *(Optional)*
 - Show how this note links to themes, tags, or personas elsewhere in the vault
 - Example: “Common in notes tagged with `#containment`, `#rupture`, `#neurodivergent_mapping`.”
 
-### 🧰 Practitioner Use Cases *(Optional)*
+### 🧪 Practitioner Use Cases *(Optional)*
 - Suggest how educators, therapists, activists, or designers could apply this
 - Use format: “This may support...” or “Practitioners may use this when...”
 
@@ -144,12 +200,16 @@ Use only `A-Z`, `a-z`, `0-9`, and `_` in tags, related, and file names. Aliases 
 
 ---
 
-### 🎥 Media & Further Exploration (Optional)
+### 🎥 Media & Further Exploration *(Optional)*
 - Link to 1–3 videos, podcasts, or multimedia introductions
-- Format as a simple bullet list with source context
+- Use valid embeds only:
+  ```
+  ![](https://...)
+  ```
 
 ### 🔗 Related Frameworks and Further Reading
 Cross-link to 3–6 frameworks using `[[WikiLink_Title]]` format.
+Example: [[Internal_Family_Systems_IFS]]
 
 ### 📚 Citations & Sources
 - Include 3–6 external sources or citations, prioritizing:
@@ -160,7 +220,7 @@ Cross-link to 3–6 frameworks using `[[WikiLink_Title]]` format.
 
 ---
 
-**Stylistic Notes:**
+**Stylistic Notes**
 - Use consistent emoji-section headings across the vault
 - Avoid duplicating content—summarize, don’t rehash
 - Phrase all content with reader learning and system reflection in mind
