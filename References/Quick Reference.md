@@ -13,5 +13,5 @@ type: reference
 - IFS: Managers, Firefighters, Exiles
 - EFT: Attachment cycles
 - NVC: Observations, Feelings, Needs, Requests
-- [[Karpman Drama Triangle]]: Victim, Rescuer, Persecutor
+- Karpman Drama Triangle: Victim, Rescuer, Persecutor
 - Gottman: Bids, Repairs, Four Horsemen
