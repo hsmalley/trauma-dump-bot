@@ -12,11 +12,6 @@ type: meta
 ```
 .
 ├── Data
-│   ├── Convo.md
-│   ├── House Plan.md
-│   ├── Hugh Smalley (HS).md
-│   ├── Pamela Torrablanca (PT).md
-│   └── Relationship Map.md
 ├── Frameworks
 │   ├── Acceptance and Commitment Therapy (ACT).md
 │   ├── Art-Based Relational Mapping.md
