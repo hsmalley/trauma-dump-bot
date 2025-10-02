@@ -46,10 +46,11 @@ jobs:
           python Meta/Tools/vault_to_json.py --root . --output vault.json
 
       - name: Upload JSON as artifact
-        uses: actions/upload-artifact@v3
+        # Use v4 of the artifact action because v3 is deprecated as of Jan 30 2025.
+        # See: https://github.blog/changelog/2024-04-16-deprecation-notice-v3-of-the-artifact-actions/
+        uses: actions/upload-artifact@v4
         with:
           # Name of the downloadable artifact shown in the GitHub UI
           name: vault-json
           # Path to the generated JSON file
           path: vault.json
-
