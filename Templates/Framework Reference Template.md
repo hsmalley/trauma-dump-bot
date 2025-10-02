@@ -38,7 +38,7 @@ A clear, concise definition of the framework. Include historical context (e.g., 
 
 ## Integration & Related Models
 
-- List and link directly to related frameworks (e.g., [[Attachment Theory]], [[Polyvagal Theory (PVT)]]).
+- List and link directly to related frameworks (e.g., [[Attachment_Theory]], [[Polyvagal_Theory]]).
 - Note compatibility or tensions across models.
 
 ## Example Prompts or Practices

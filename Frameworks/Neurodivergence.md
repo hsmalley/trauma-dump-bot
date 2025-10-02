@@ -1,99 +1,102 @@
 ---
-title: "Neurodivergence"
-aliases: ["Neurodiverse", "Neurodivergent", "ND", "Neurodivergent Identity"]
+title: 🧠 Neurodivergence 🧬
+aliases:
+  - Neurodiversity
+  - ND
+  - Neurotypical
 tags:
-  [
-    "frameworks",
-    "neurodivergence",
-    "identity",
-    "systems",
-    "trauma",
-    "care",
-    "relationships",
-    "liberation",
-  ]
+  - framework
+  - vault
+  - social_justice
+  - psychology
+  - neurobiology
+related:
+  - Decolonizing_Therapy
+  - Intersectional_Feminist_Psychology
+  - Disability_Justice
+  - Internal_Family_Systems_IFS
+source: Educational synthesis from neurodiversity advocacy and critical psychology
+citation: ChatGPT-assisted summary with links to academic and practitioner materials
+created: 2025-10-02
+modified: 2025-10-02
 ---
+### 🧩 Definition and Core Themes
 
-<!-- @format -->
+**Neurodivergence** (ND) refers to the idea that there is natural, biological variation in the human brain regarding **sociability, learning, attention, mood, and other mental functions**. The term was coined by activist Kassiane Asasumasu. It is an umbrella term for conditions like **Autism Spectrum Disorder (ASD), Attention-Deficit/Hyperactivity Disorder (ADHD), Dyslexia, Dyspraxia, Tourette Syndrome, and others**.
 
-# 🧬 Neurodivergence
+The underlying philosophy is **Neurodiversity**—the perspective that these variations are a natural and valuable form of human difference, similar to biodiversity or cultural diversity, and should not be inherently pathologized as disorders that must be cured.
 
-**Neurodivergence** refers to brain-based differences in cognition, perception, attention, learning, and emotional processing that diverge from dominant social norms. Coined by **Kassiane Asasumasu** and popularized by **Nick Walker**, neurodivergence reframes conditions like **autism, ADHD, dyslexia, dyspraxia, Tourette’s, OCD, PTSD**, and more as **natural variations**, not pathologies.
-
-> “Neurodivergence isn’t a disorder—it’s a mismatch between nervous systems and environments designed for conformity.”
-
----
-
-## 🧠 Core Concepts
-
-| Concept                           | Description                                                                                   |
-| --------------------------------- | --------------------------------------------------------------------------------------------- |
-| **Neurodiversity**                | The broad fact that all brains vary—like biodiversity in nature                               |
-| **Neurodivergence**               | A brain that diverges significantly from dominant expectations                                |
-| **Neurotypical**                  | A person whose neurological development aligns with mainstream norms                          |
-| **Neurodivergent-Affirming Lens** | Centers adaptation, identity, access, and consent—not compliance or cure                      |
-| **Masking**                       | Suppressing neurodivergent traits to avoid harm or fit in; often exhausting and unsustainable |
+-   **Core Goal:** To shift the dominant cultural narrative from a **medical model** (ND is a deficit) to a **social model** (ND is a difference, and disability arises from an inflexible environment).
+-   **Neurotypical (NT):** The term used to describe individuals whose brain functions fall within the range of what is considered "typical" or standard in a given society.
+-   **Double Empathy Problem:** A concept within autism research suggesting that difficulties in communication and social interaction are often a two-way problem (between NT and ND individuals) due to different communication styles, rather than solely a deficit on the part of the autistic person.
 
 ---
 
-## 🛠 Framework Features
+### 🌿 Traits and Lived Experience
 
-- **Systems Critique** – Challenges ableism, productivity mandates, and normalization pressures
-- **Identity Liberation** – Supports naming, claiming, and exploring one’s neurotype
-- **Contextual Fit** – Focuses on environments that support regulation, creativity, and access
-- **Interdependent Care** – Moves beyond independence as the gold standard
-- **Consent & Communication** – Emphasizes customized relational strategies and mutual understanding
+The lived experience of a neurodivergent person is often one of high internal effort, masking, and navigating an environment designed for a different cognitive style.
 
----
-
-## 🌈 Examples of Neurodivergence (non-exhaustive)
-
-- Autism Spectrum Disorder (ASD)
-- Attention Deficit Hyperactivity Disorder (ADHD)
-- Tourette Syndrome
-- Sensory Processing Disorder
-- Auditory Processing Disorder
-- Dyslexia, Dyscalculia, Dyspraxia
-- Complex PTSD, trauma-based adaptations
-- Bipolar, OCD, Schizotypal traits (under inclusive neurodiversity models)
+-   **Masking and Camouflage:** A prominent trait, particularly in autistic and ADHD individuals, is **masking**—the conscious or unconscious suppression of natural neurodivergent behaviors (e.g., stimming, sensory avoidance) to appear "normal" in social settings. This effort leads to significant mental exhaustion, burnout, and psychological distress.
+-   **Intensity and Sensory Differences:** Experiences are often characterized by heightened intensity, whether in focus (hyper-focus in ADHD/Autism), emotion, or sensory processing (hypersensitivity to sound, light, or texture).
+-   **Strengths-Based View:** The framework emphasizes the strengths often associated with ND, such as pattern recognition, system thinking, deep integrity, intense creativity, and hyper-vigilance/attention to detail.
 
 ---
 
-## 💬 Relational Implications
+### 🧠 Nervous System and Parts Work Lens
 
-- May require **non-normative communication styles** (e.g., scripting, silence, directness)
-- Can benefit from **structured flexibility**, customized support, and sensory consideration
-- Risk of **conflict, rupture, or rejection** in systems demanding conformity or speed
-- May struggle with **self-trust** due to constant correction or invalidation
-- Relationships often deepen with **mutual translation and meta-awareness**
+Neurodivergence often involves a nervous system that is chronically closer to its threshold for dysregulation.
 
----
-
-## 💡 Practices for Support
-
-- **Neurodivergent Mapping** – Identify strengths, support needs, regulation tools
-- **Capacity-Based Planning** – Energy forecasting over time-blocking
-- **Mutual Aid Models** – Interdependence as resilience
-- **De-Masking Spaces** – Environments where divergence is invited, not punished
-- **Consent-Based Relationships** – Prioritizing pacing, clarity, and safety over assumption
+-   **Sensory Overload and Thresholds (PVT):** Many ND traits are linked to a lower threshold for **Ventral Vagal (Safe and Social)** system maintenance. Sensory stimuli that are easily processed by NT individuals can quickly push an ND nervous system into **Sympathetic Hyper-arousal (Overwhelm/Meltdown)** or **Dorsal Vagal Shutdown (Freeze/Dissociation)**.
+-   **Manager and Firefighter Parts (IFS):** Masking is largely the work of highly active **Manager Parts** (e.g., The Perfectionist, The People-Pleaser) working overtime to prevent social rejection or shame. **Firefighter Parts** (e.g., addiction, avoidance, dissociation) rush in to manage the intense burnout caused by constant masking.
+-   **Self-Regulation Strategies:** Stimming (self-stimulatory behavior) is reframed not as a symptom of disorder, but as a critical, internal **self-regulation tool** used to calm and organize the nervous system.
 
 ---
 
-## 🔗 Related Frameworks
+### 💞 Attachment and Relational Patterns
 
-- [[ADHD (Attention Deficit Hyperactivity Disorder)]] — executive function, motivation, and energy cycling
-- [[AUDHD]] — intersectional neurotypes
-- [[Autism Spectrum Disorder (ASD)]] — masking, sensory regulation, relational norms
-- [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
-- [[Containment Models]] — where emotional energy needs boundaries or holding
-- [[Disability Justice]] — collective care, anti-ableism, and access politics
-- [[Trauma-Informed Care]] — recognition of chronic misattunement and sensory trauma
+Neurodivergence complicates attachment dynamics, particularly due to differences in non-verbal communication and emotional processing.
 
-## 📚 Further Resources
+-   **Attunement Challenges:** Attunement in relationships can be challenging when one or both partners operate with different communication hardware. Misunderstandings of subtle non-verbal cues (due to the **Double Empathy Problem**) can lead to cycles of relational rupture.
+-   **Need for Explicit Communication:** Secure attachment in ND-NT or ND-ND relationships relies heavily on **explicit, verbal communication** of needs, intentions, and boundaries, often compensating for difficulties in implicit (non-verbal) attunement. The **Boundary Models** must be highly clear and functional.
+-   **Emotional Safety:** The neurodivergent person requires a relational container that is radically non-judgmental and allows them to drop the **mask**, which is the highest form of relational trust and acceptance, facilitating the development of **Earned Secure Attachment**.
 
-- Nick Walker – _Neuroqueer Heresies_
-- Neurodivergent Insights (web, IG)
-- Devon Price – _Unmasking Autism_
-- Lydia X. Z. Brown – _All the Weight of Our Dreams_
-- The Neurodivergent Narwhal (infographics + scripts)
-- Disability Visibility Project
+---
+
+### 🔄 Misunderstandings and Reframes
+
+| Myth | Reframe |
+| :--- | :--- |
+| "Autistic people lack empathy." | "Autistic people may process and express empathy differently (e.g., struggling with implicit social cues) but often experience **hyper-empathy** or intense emotional responsiveness, leading to overwhelm." |
+| "ADHD is just a lack of willpower." | "ADHD is a difference in **executive function** and a neurochemical regulation disorder (dopamine/norepinephrine). It is not a moral failing or a lack of motivation, but a difficulty in regulating attention, activation, and follow-through." |
+
+---
+
+### ⚖️ Relational Challenges and Strengths
+
+| Challenges | Strengths |
+| :--- | :--- |
+| **Relational Burnout:** The effort of masking and navigating the NT world leads to chronic fatigue, which impairs relational energy and the capacity for emotional availability. | **Deep Integrity and Honesty:** Many neurodivergent individuals place high value on directness, honesty, and justice, fostering relationships built on trust and clear communication. |
+| **Environmental Barriers:** The world (schools, workplaces, public spaces) is often highly inaccessible to sensory, attention, and executive function needs, creating persistent stress. | **Hyper-focus and Detail:** The ability to intensely focus and master complex systems or specialized interests can be a major relational and professional asset. |
+
+---
+
+### 🛠️ Strategies, Prompts, and Practices
+
+-   **Micro-Skill (Body Doubling):** For executive function challenges (often ADHD/Autism), a partner working nearby can act as a **Body Doubler**—a silent, non-judgmental presence that helps activate focus and sustained attention.
+-   **Prompt (The Sensory Check-in):** In any potential conflict, start with a sensory check to reduce overwhelm: *"On a scale of 1 to 10, what is your current energy level? Is there anything you need to turn off (lights, noise) before we continue talking?"*
+-   **Micro-Skill (Externalizing Executive Function):** Using visual lists, time tracking, colored folders, and external physical organization systems to compensate for internal organizational challenges.
+
+---
+
+### 🔗 Related Frameworks and Further Reading
+
+-   [[Disability_Justice]]
+-   [[Intersectional_Feminist_Psychology]]
+-   [[Polyvagal_Theory_PVT]]
+-   [[Internal_Family_Systems_IFS]]
+
+### 📚 Citations & Sources
+
+-   Singer, J. (1999). *Exploring the concept of neurodiversity.*
+-   Kapp, S. K. (2020). *Autistic Community and the Double Empathy Problem.*
+-   Brown, T. E. (2013). *Smart but stuck: Emotions in adolescents and adults with ADHD.*

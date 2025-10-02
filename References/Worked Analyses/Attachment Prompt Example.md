@@ -33,4 +33,4 @@ type: reference
 - Coach B to give consistent micro-reassurances.
 - Introduce rituals of connection (EFT, Gottman).
 
-**Related:** [[Attachment Theory]], [[Emotionally Focused Therapy (EFT)]], [[Analysis Prompt - Attachment]]
+**Related:** [[Attachment_Theory]], [[Emotionally_Focused_Therapy]], [[Analysis Prompt - Attachment]]

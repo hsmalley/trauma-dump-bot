@@ -33,4 +33,4 @@ type: reference
 - Collect exceptions; re-author preferred identity.
 - Invite witnesses to thicken the preferred story.
 
-**Related:** [[Frameworks/Internal Family Systems (IFS)]], [[Nonviolent Communication (NVC)]], [[Analysis Prompt - Conflict]]
+**Related:** [[Internal_Family_Systems]], [[Nonviolent_Communication]], [[Analysis Prompt - Conflict]]

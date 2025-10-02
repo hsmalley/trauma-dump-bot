@@ -34,4 +34,4 @@ type: reference
 - B can signal presence nonverbally to reduce A’s panic.
 - A can soften protest with needs language (NVC).
 
-**Related:** [[Attachment Theory]], [[Emotionally Focused Therapy (EFT)]], [[Analysis Prompt - Attachment]]
+**Related:** [[Attachment_Theory]], [[Emotionally_Focused_Therapy]], [[Analysis Prompt - Attachment]]

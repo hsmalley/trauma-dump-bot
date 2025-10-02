@@ -45,6 +45,6 @@ Use this template as a guided conversation or journaling aid. Each section repre
 ## 🔗 Suggested Framework Anchors
 
 [[Conflict Navigation]]
-[[Emotionally Focused Therapy (EFT)]]
-[[Gottman Method]]
-[[Nonviolent Communication (NVC)]]
+[[Emotionally_Focused_Therapy]]
+[[Gottman_Method]]
+[[Nonviolent_Communication]]

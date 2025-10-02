@@ -145,4 +145,4 @@ F_ACT --> P_Reflection_Prompts
 
 ## 🔗 Related Frameworks
 
-- [[Art-Based Relational Mapping]]
+- [[Art-Based_Relational_Mapping]]

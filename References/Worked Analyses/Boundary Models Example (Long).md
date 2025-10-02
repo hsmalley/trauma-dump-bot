@@ -32,4 +32,4 @@ type: reference
 - Negotiate access rules and check-ins.
 - Reinforce that boundaries protect connection.
 
-**Related:** [[Consent Culture]], [[Containment Models]], [[Analysis Prompt - Repair Attempts]]
+**Related:** [[Consent_Culture]], [[Containment_Models]], [[Analysis Prompt - Repair Attempts]]

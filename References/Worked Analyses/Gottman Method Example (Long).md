@@ -33,4 +33,4 @@ type: reference
 - Replace Horsemen with antidotes (e.g., build appreciation).
 - Add daily 'stress-reducing conversation' ritual.
 
-**Related:** [[Emotionally Focused Therapy (EFT)]], [[Attachment Theory]], [[Analysis Prompt - Repair Attempts]]
+**Related:** [[Emotionally_Focused_Therapy]], [[Attachment_Theory]], [[Analysis Prompt - Repair Attempts]]

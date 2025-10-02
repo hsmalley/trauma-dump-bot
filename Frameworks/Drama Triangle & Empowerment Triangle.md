@@ -92,7 +92,7 @@ Three conscious roles that promote growth, autonomy, and collaboration:
 - Use parts language: “A part of me wants to fix this—what does your part need?”
 - Pause role-switching cycles: “I feel like I’m rescuing—can we reset?”
 - Clarify consent: “Would support feel helpful, or do you just need space?”
-- Use boundary scripts from [[Boundary Models]] to shift from reactivity to respect.
+- Use boundary scripts from [[Boundary_Models]] to shift from reactivity to respect.
 
 ---
 
@@ -107,9 +107,9 @@ Three conscious roles that promote growth, autonomy, and collaboration:
 
 ## 🔗 Related Frameworks
 
-- [[Boundary Models]] — relational, emotional, and sexual boundaries
-- [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
-- [[Containment Models]] — where emotional energy needs boundaries or holding
+- [[Boundary_Models]] — relational, emotional, and sexual boundaries
+- [[Consent_Culture]] — collaborative check-ins around needs, pacing, and support
+- [[Containment_Models]] — where emotional energy needs boundaries or holding
 - [[IFS]] — Internal parts often take on drama triangle roles
 
 ## 📚 Further Reading

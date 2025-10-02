@@ -25,7 +25,7 @@ type: reference
 ## Dynamics
 
 - Criticism ↔ defensiveness loop (Gottman Horsemen).
-- [[Karpman Drama Triangle]] roles: Persecutor ↔ Victim.
+- [[Karpman_Drama_Triangle]] roles: Persecutor ↔ Victim.
 
 ## Insights
 
@@ -33,4 +33,4 @@ type: reference
 - Coach B to signal presence before retreat.
 - Name and interrupt the negative cycle.
 
-**Related:** [[Polyvagal Theory]], [[Attachment Theory]], [[Analysis Prompt - Conflict]]
+**Related:** [[Polyvagal Theory]], [[Attachment_Theory]], [[Analysis Prompt - Conflict]]

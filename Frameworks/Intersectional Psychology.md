@@ -76,10 +76,10 @@ It challenges traditional psychology’s tendency to decontextualize suffering, 
 
 ## 🔗 Related Frameworks
 
-- [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
-- [[Containment Models]] — where emotional energy needs boundaries or holding
-- [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
-- [[Liberation & Intersectional Feminist Psychology]] — politicized mental health
+- [[Consent_Culture]] — collaborative check-ins around needs, pacing, and support
+- [[Containment_Models]] — where emotional energy needs boundaries or holding
+- [[Internal_Family_Systems]] — exploring parts involved (insecure, excited, voyeur, self-critical)
+- [[Liberation_&_Intersectional_Feminist_Psychology]] — politicized mental health
 - [[Trauma-Informed Care (TIC)]] — systemic and environmental trauma response
 
 ## 📚 Further Reading

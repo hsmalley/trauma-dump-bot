@@ -32,4 +32,4 @@ type: reference
 - Add consent checks for humor topics.
 - Include identity-informed safety agreements.
 
-**Related:** [[Liberation Psychology]], [[Consent Culture]], [[Analysis Prompt - Repair Attempts]]
+**Related:** [[Liberation Psychology]], [[Consent_Culture]], [[Analysis Prompt - Repair Attempts]]

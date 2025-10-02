@@ -13,11 +13,11 @@ Analyze attachment signals and protest behaviors.
 
 # Frameworks Referenced
 
-- [[Polyvagal Theory (PVT)]]
-- [[Frameworks/Internal Family Systems (IFS)]]
-- [[Nonviolent Communication (NVC)]]
-- [[Attachment Theory]]
-- [[Frameworks/Gottman Method|Gottman Method]]
+- [[Polyvagal_Theory]]
+- [[Internal_Family_Systems]]
+- [[Nonviolent_Communication]]
+- [[Attachment_Theory]]
+- [[Gottman_Method|Gottman_Method]]
 
 # Use Cases
 

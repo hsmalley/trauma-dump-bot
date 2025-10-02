@@ -9,8 +9,8 @@ type: reference
 
 # 👩‍🔬 Key Researchers
 
-- Stephen Porges ([[Polyvagal Theory (PVT)]]
+- Stephen Porges ([[Polyvagal_Theory]]
 - Richard Schwartz (IFS)
 - Sue Johnson (EFT)
 - Marshall Rosenberg (NVC)
-- John & Julie Gottman ([[Gottman Method]])
+- John & Julie Gottman ([[Gottman_Method]])

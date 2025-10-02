@@ -12,4 +12,4 @@ type: reference
 - **Co-regulation**: Mutual calming through relationship signals.
 - **Attachment Bid**: A signal seeking connection (Gottman).
 - **Parts**: Inner voices/roles in IFS.
-- **[[Karpman Drama Triangle]]**: Dysfunctional relational roles.
+- **[[Karpman_Drama_Triangle]]**: Dysfunctional relational roles.

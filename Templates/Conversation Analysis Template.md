@@ -19,15 +19,15 @@ Paste dialogue excerpt here.
 ## Observations
 
 - Emotional tone
-- Nervous system state (Polyvagal, [[Somatic Experiencing (SE)]])
+- Nervous system state (Polyvagal, [[Somatic_Experiencing]])
 - Attachment signals
 - Power dynamics
 
 ## Framework Analysis
 
-- [[Frameworks/Internal Family Systems (IFS)]]
-- [[Nonviolent Communication (NVC)]]
-- [[Polyvagal Theory (PVT)]]
+- [[Internal_Family_Systems]]
+- [[Nonviolent_Communication]]
+- [[Polyvagal_Theory]]
 
 ## Insights & Reflections
 
