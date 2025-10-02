@@ -15,50 +15,53 @@ citation: N/A
 created: 2025-10-02
 modified: 2025-10-02
 ---
+
+<!-- @format -->
+
 ### 🧩 Definition and Core Themes
 
 The Relational Analysis Map is a **visual and structured template** used to organize contextual data for a complex relationship system. It moves beyond individual blame to identify systemic pressures, roles, and structural dynamics at play.
 
--   **Origin Context:** Created for internal GPT use to enforce systemic, non-individualized analysis.
--   **Key Assumptions:** The system (the relationship) is the client, not the individuals within it.
+- **Origin Context:** Created for internal GPT use to enforce systemic, non-individualized analysis.
+- **Key Assumptions:** The system (the relationship) is the client, not the individuals within it.
 
 ### 🌿 Traits and Lived Experience
 
--   **Lived Experience:** Provides clarity and emotional distance from an overwhelming situation, turning "my conflict" into "the system's pattern."
--   **Relational Utility:** Supports high-level insight by separating **roles** (what a person does) from **identity** (who a person is).
+- **Lived Experience:** Provides clarity and emotional distance from an overwhelming situation, turning "my conflict" into "the system's pattern."
+- **Relational Utility:** Supports high-level insight by separating **roles** (what a person does) from **identity** (who a person is).
 
 ### 🧠 Nervous System and Parts Work Lens
 
--   **Regulation:** The act of mapping a system is a **Ventral Vagal** activity, using cognitive clarity (Self-energy) to regulate high emotional intensity.
--   **Manager Part:** Can use the map to intellectualize and avoid emotional engagement; requires gentle redirection toward lived experience.
+- **Regulation:** The act of mapping a system is a **Ventral Vagal** activity, using cognitive clarity (Self-energy) to regulate high emotional intensity.
+- **Manager Part:** Can use the map to intellectualize and avoid emotional engagement; requires gentle redirection toward lived experience.
 
 ### 💞 Attachment and Relational Patterns
 
--   **Mapping Patterns:** Clearly displays cycles (e.g., Anxious-Avoidant Trap) and shows where the system is failing to meet **Safety** and **Predictability** needs.
+- **Mapping Patterns:** Clearly displays cycles (e.g., Anxious-Avoidant Trap) and shows where the system is failing to meet **Safety** and **Predictability** needs.
 
 ### 🔄 Misunderstandings and Reframes
 
-| Myth                      | Reframe                                          |
-| ------------------------- | ------------------------------------------------ |
-| "The map is the answer." | "The map is a **lens for observation**, not a final solution; it must be used to generate dialogue and action." |
+| Myth                      | Reframe                                                                                                         |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| "The map is the answer."  | "The map is a **lens for observation**, not a final solution; it must be used to generate dialogue and action." |
 
 ### ⚖️ Relational Challenges and Strengths
 
-| Challenges          | Strengths                        |
-| ------------------- | -------------------------------- |
+| Challenges                                                                                     | Strengths                                                                                                                    |
+| ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | **Over-Intellectualization:** Using the map to detach from the emotional impact of the system. | **Systemic Insight:** Forces consideration of structural power dynamics, external cultural layers, and non-linear causality. |
 
 ### 🛠️ Strategies, Prompts, and Practices
 
--   **Reflection Prompt:** "Which boundary (clear, rigid, or porous) is contributing most to the current cycle in the map?"
--   **Micro-Skill (Systemic Reframe):** Use the map to rephrase a complaint: "This isn't an individual failure; this is the **Roles and Dynamics** section currently conflicting with the **Power Dynamics** section."
+- **Reflection Prompt:** "Which boundary (clear, rigid, or porous) is contributing most to the current cycle in the map?"
+- **Micro-Skill (Systemic Reframe):** Use the map to rephrase a complaint: "This isn't an individual failure; this is the **Roles and Dynamics** section currently conflicting with the **Power Dynamics** section."
 
 ### 🔗 Related Frameworks and Further Reading
 
--   [[GPT_Relational_Analysis_Prompt]]
--   [[Power_Dynamics]]
+- [[GPT_Relational_Analysis_Prompt]]
+- [[Power_Dynamics]]
 
 ### 📚 Citations & Sources
 
--   Adapted from Bowen Family Systems Theory (Mapping).
--   Therapist's Guide to Systemic Mapping.
+- Adapted from Bowen Family Systems Theory (Mapping).
+- Therapist's Guide to Systemic Mapping.

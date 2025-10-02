@@ -1,4 +1,4 @@
-
+<!-- @format -->
 
 ### For GPTs **with persistent memory**:
 
@@ -11,4 +11,3 @@
 ### Clearest version for all GPTs
 
 State update: overwrite all prior data with the contents of the updated JSON. Discard any cached, inferred, or residual context. Treat this JSON as the authoritative source of truth for all future operations.
-

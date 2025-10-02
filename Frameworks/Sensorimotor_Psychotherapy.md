@@ -20,13 +20,16 @@ citation: ChatGPT-assisted summary with links to academic and practitioner mater
 created: 2025-10-02
 modified: 2025-10-02
 ---
+
+<!-- @format -->
+
 ### 🧩 Definition and Core Themes
 
 **Sensorimotor Psychotherapy (SP)** is a body-centered approach to trauma and attachment therapy developed by Pat Ogden. It integrates neuroscience, cognitive therapy, and principles of mindfulness with the core belief that **the body holds the unresolved residue of traumatic and relational experience**. SP focuses on processing and regulating the **sensorimotor** (sensation and movement) components of trauma memories, which are often stored implicitly (non-verbally).
 
--   **Core Goal:** To help clients develop a **mindful, conscious relationship with their body** and use the body's movements, posture, and physical sensations to process incomplete survival responses, integrate fragmented memories, and promote nervous system regulation.
--   **Trauma as Incomplete Action:** Trauma is viewed as a **survival response that was blocked** or incomplete (e.g., the impulse to fight, flee, or push an aggressor away). This blocked energy remains trapped in the body's nervous system, driving current symptoms.
--   **Implicit Memory:** SP focuses on working with **implicit memory**—the non-verbal, emotional, and sensory memory that drives flashbacks, hyper-vigilance, and defensive postures—rather than just the explicit, narrative memory of the event.
+- **Core Goal:** To help clients develop a **mindful, conscious relationship with their body** and use the body's movements, posture, and physical sensations to process incomplete survival responses, integrate fragmented memories, and promote nervous system regulation.
+- **Trauma as Incomplete Action:** Trauma is viewed as a **survival response that was blocked** or incomplete (e.g., the impulse to fight, flee, or push an aggressor away). This blocked energy remains trapped in the body's nervous system, driving current symptoms.
+- **Implicit Memory:** SP focuses on working with **implicit memory**—the non-verbal, emotional, and sensory memory that drives flashbacks, hyper-vigilance, and defensive postures—rather than just the explicit, narrative memory of the event.
 
 ---
 
@@ -44,28 +47,28 @@ SP follows a structured, phased approach to ensure safety and effective processi
 
 SP is deeply rooted in the principles of **Polyvagal Theory (PVT)** and somatic awareness.
 
--   **Tracking the Body (Neuroception):** The therapist helps the client notice the subtle shifts in their physical state (tension, heat, tingling, numbness) which are signals of their **Polyvagal State** (Sympathetic mobilization or Dorsal Vagal shutdown).
--   **Body as Language:** Symptoms like chronic back pain, shallow breathing, or tension are seen as the body's attempt to "tell the story" of the trauma. The therapy works to translate this physical language into verbal, integrated understanding.
--   **Working with Defenses:** Defense mechanisms (e.g., dissociation, emotional numbing) are often experienced physically. SP works to gently track and respect the **physical mobilization of defenses** before attempting to process the core trauma memory.
+- **Tracking the Body (Neuroception):** The therapist helps the client notice the subtle shifts in their physical state (tension, heat, tingling, numbness) which are signals of their **Polyvagal State** (Sympathetic mobilization or Dorsal Vagal shutdown).
+- **Body as Language:** Symptoms like chronic back pain, shallow breathing, or tension are seen as the body's attempt to "tell the story" of the trauma. The therapy works to translate this physical language into verbal, integrated understanding.
+- **Working with Defenses:** Defense mechanisms (e.g., dissociation, emotional numbing) are often experienced physically. SP works to gently track and respect the **physical mobilization of defenses** before attempting to process the core trauma memory.
 
 ---
 
 ### 🛠️ Strategies, Prompts, and Practices
 
--   **Micro-Skill (Somatic Tracing):** Guiding the client to notice a sensation associated with the trauma (e.g., tightness in the chest) and then asking them to describe the sensation without judgment, focusing only on its **qualities** (temperature, movement, texture).
--   **Prompt (Testing the Impulse):** When a client reports an incomplete action (e.g., "I wanted to scream, but couldn't"), the therapist guides them to **gently, slowly rehearse the movement** in a safe, titrated way (e.g., a small physical push, a quiet sound of protest) to allow the nervous system to complete the survival response in the present.
--   **Micro-Skill (Resource Activation):** Asking the client to recall a moment of **power, security, or calm** and then intentionally noticing the **physical sensations** associated with that resource (e.g., the feeling of warmth, the expansion of the chest) to anchor the body in a **Ventral Vagal** state.
+- **Micro-Skill (Somatic Tracing):** Guiding the client to notice a sensation associated with the trauma (e.g., tightness in the chest) and then asking them to describe the sensation without judgment, focusing only on its **qualities** (temperature, movement, texture).
+- **Prompt (Testing the Impulse):** When a client reports an incomplete action (e.g., "I wanted to scream, but couldn't"), the therapist guides them to **gently, slowly rehearse the movement** in a safe, titrated way (e.g., a small physical push, a quiet sound of protest) to allow the nervous system to complete the survival response in the present.
+- **Micro-Skill (Resource Activation):** Asking the client to recall a moment of **power, security, or calm** and then intentionally noticing the **physical sensations** associated with that resource (e.g., the feeling of warmth, the expansion of the chest) to anchor the body in a **Ventral Vagal** state.
 
 ---
 
 ### 🔗 Related Frameworks and Further Reading
 
--   [[Trauma_Response]]
--   [[Polyvagal_Theory_PVT]]
--   [[Internal_Family_Systems_IFS]]
--   [[Mindfulness]]
+- [[Trauma_Response]]
+- [[Polyvagal_Theory_PVT]]
+- [[Internal_Family_Systems_IFS]]
+- [[Mindfulness]]
 
 ### 📚 Citations & Sources
 
--   Ogden, P., Minton, K., & Pain, C. (2006). *Trauma and the Body: A Sensorimotor Approach to Psychotherapy.*
--   Ogden, P. (2015). *Sensorimotor Psychotherapy: Interventions for Trauma and Attachment.*
+- Ogden, P., Minton, K., & Pain, C. (2006). _Trauma and the Body: A Sensorimotor Approach to Psychotherapy._
+- Ogden, P. (2015). _Sensorimotor Psychotherapy: Interventions for Trauma and Attachment._
