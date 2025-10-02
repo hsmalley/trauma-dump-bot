@@ -60,4 +60,4 @@ Despite its critiques, the **C** in SSC remains the **most important and endurin
 - [[Risk-Aware_Consensual_Kink_RACK]]
 - [[Personal_Responsibility,_Informed_Consensual_Kink_PRICK]]
 - [[FRIES_Consent]]
-- [[BDSM]]
+- [[Bondage_Discipline_Sadism_Masochism]]

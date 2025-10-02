@@ -66,6 +66,6 @@ RACK requires a high level of communication and internal self-awareness to funct
 ### 🔗 Related Frameworks and Further Reading
 
 - [[Personal_Responsibility,_Informed_Consensual_Kink_PRICK]]
-- [[BDSM]]
+- [[Bondage_Discipline_Sadism_Masochism]]
 - [[FRIES_Consent]]
 - [[Power_Exchange]]

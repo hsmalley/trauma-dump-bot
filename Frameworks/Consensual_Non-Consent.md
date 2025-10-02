@@ -90,7 +90,7 @@ CNC requires and reinforces the highest levels of relational trust, making it a 
 
 ### 🔗 Related Frameworks and Further Reading
 
-- [[BDSM]]
+- [[Bondage_Discipline_Sadism_Masochism]]
 - [[BDSM_Dynamics]]
 - [[Polyvagal_Theory_PVT]]
 - [[Attachment_Theory]]

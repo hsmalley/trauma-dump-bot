@@ -79,7 +79,7 @@ PRICK ensures that power exchange is rooted in secure relational ethics, not exp
 
 ### 🔗 Related Frameworks and Further Reading
 
-- [[BDSM]]
+- [[Bondage_Discipline_Sadism_Masochism]]
 - [[FRIES_Consent]]
 - [[Boundary_Models]]
 - [[Polyvagal_Theory_PVT]]

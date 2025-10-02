@@ -1,9 +1,11 @@
 ---
-title: 📏 Klein Grid
+title: 📏 Klein Sexual Orientation Grid (KSOG)
 aliases:
   - Klein_Grid
   - Klein_Sexual_Orientation_Grid
   - Sexual_Fluidity
+  - Klein Sexual Orientation Grid
+  - Klein Grid
 tags:
   - framework
   - vault

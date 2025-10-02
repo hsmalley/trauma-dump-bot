@@ -77,7 +77,7 @@ Ethical Power Exchange fundamentally relies on, and strengthens, a high degree o
 ### 🔗 Related Frameworks and Further Reading
 
 - [[Personal_Responsibility,_Informed_Consensual_Kink_PRICK]]
-- [[BDSM]]
+- [[Bondage_Discipline_Sadism_Masochism]]
 - [[Boundary_Models]]
 - [[FRIES_Consent]]
 

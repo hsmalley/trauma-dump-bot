@@ -46,10 +46,7 @@
           "mtime_utc": "2025-10-02T21:47:06.236058Z",
           "frontmatter": {
             "title": "🎨 Art-Based Relational Mapping",
-            "aliases": [
-              "AB-Relational-Map",
-              "Relational Art Therapy"
-            ],
+            "aliases": ["AB-Relational-Map", "Relational Art Therapy"],
             "tags": [
               "framework",
               "vault",
@@ -76,10 +73,7 @@
           "mtime_utc": "2025-10-02T21:47:06.236058Z",
           "frontmatter": {
             "title": "🧠 Attachment Theory",
-            "aliases": [
-              "Attachment Theory",
-              "Adult Attachment Styles"
-            ],
+            "aliases": ["Attachment Theory", "Adult Attachment Styles"],
             "tags": [
               "framework",
               "vault",
@@ -87,10 +81,7 @@
               "relational_analysis",
               "attachment_theory"
             ],
-            "related": [
-              "Internal_Family_Systems_IFS",
-              "Polyvagal_Theory_PVT"
-            ],
+            "related": ["Internal_Family_Systems_IFS", "Polyvagal_Theory_PVT"],
             "source": "Educational synthesis from validated public sources",
             "citation": "ChatGPT-assisted summary with links to academic and practitioner materials",
             "created": "2025-10-02",
@@ -210,11 +201,7 @@
           "mtime_utc": "2025-10-02T21:47:06.236058Z",
           "frontmatter": {
             "title": "🔗 BDSM (Bondage, Discipline, Sadism, Masochism)",
-            "aliases": [
-              "BDSM",
-              "Consensual Power Exchange",
-              "Kink Dynamics"
-            ],
+            "aliases": ["BDSM", "Consensual Power Exchange", "Kink Dynamics"],
             "tags": [
               "framework",
               "vault",
@@ -309,11 +296,7 @@
           "mtime_utc": "2025-10-02T21:47:06.236058Z",
           "frontmatter": {
             "title": "🔗 CBT (Cock and Ball Torture)",
-            "aliases": [
-              "C&BT",
-              "CBT",
-              "Genital Sensation Play"
-            ],
+            "aliases": ["C&BT", "CBT", "Genital Sensation Play"],
             "tags": [
               "framework",
               "vault",
@@ -322,11 +305,7 @@
               "sensation_play",
               "consent"
             ],
-            "related": [
-              "BDSM",
-              "Polyvagal_Theory_PVT",
-              "Attachment_Theory"
-            ],
+            "related": ["BDSM", "Polyvagal_Theory_PVT", "Attachment_Theory"],
             "source": "Educational synthesis from validated public sources on consensual kink",
             "citation": "ChatGPT-assisted summary with links to academic and practitioner materials",
             "created": "2025-10-02",
@@ -342,11 +321,7 @@
           "mtime_utc": "2025-10-02T21:47:06.236058Z",
           "frontmatter": {
             "title": "🧠 Cognitive Behavioral Therapy (CBT)",
-            "aliases": [
-              "CBT",
-              "Cognitive Restructuring",
-              "Cognitive Model"
-            ],
+            "aliases": ["CBT", "Cognitive Restructuring", "Cognitive Model"],
             "tags": [
               "framework",
               "vault",
@@ -374,11 +349,7 @@
           "mtime_utc": "2025-10-02T21:47:06.236058Z",
           "frontmatter": {
             "title": "🙏 Compassion-Focused Therapy (CFT)",
-            "aliases": [
-              "CFT",
-              "Self-Compassion",
-              "Paul Gilbert's Model"
-            ],
+            "aliases": ["CFT", "Self-Compassion", "Paul Gilbert's Model"],
             "tags": [
               "framework",
               "vault",
@@ -406,11 +377,7 @@
           "mtime_utc": "2025-10-02T21:47:06.236058Z",
           "frontmatter": {
             "title": "🏔️ Complex PTSD (CPTSD)",
-            "aliases": [
-              "CPTSD",
-              "Complex Trauma",
-              "Developmental Trauma"
-            ],
+            "aliases": ["CPTSD", "Complex Trauma", "Developmental Trauma"],
             "tags": [
               "framework",
               "vault",
@@ -452,11 +419,7 @@
               "power_dynamics",
               "consent"
             ],
-            "related": [
-              "BDSM",
-              "BDSM_Dynamics",
-              "Polyvagal_Theory_PVT"
-            ],
+            "related": ["BDSM", "BDSM_Dynamics", "Polyvagal_Theory_PVT"],
             "source": "Educational synthesis from validated public sources on consensual kink",
             "citation": "ChatGPT-assisted summary with links to academic and practitioner materials",
             "created": "2025-10-02",
@@ -472,11 +435,7 @@
           "mtime_utc": "2025-10-02T21:47:06.237058Z",
           "frontmatter": {
             "title": "✅ Consent Culture",
-            "aliases": [
-              "Consent",
-              "Enthusiastic Consent",
-              "Ongoing Consent"
-            ],
+            "aliases": ["Consent", "Enthusiastic Consent", "Ongoing Consent"],
             "tags": [
               "framework",
               "vault",
@@ -541,13 +500,7 @@
               "Internal_Cum_Shot",
               "Breeding"
             ],
-            "tags": [
-              "framework",
-              "vault",
-              "sexuality",
-              "kink",
-              "consent"
-            ],
+            "tags": ["framework", "vault", "sexuality", "kink", "consent"],
             "related": [
               "FRIES_Consent",
               "Risk-Aware_Consensual_Kink_RACK",
@@ -666,11 +619,7 @@
           "mtime_utc": "2025-10-02T21:47:06.237058Z",
           "frontmatter": {
             "title": "🔗 Dependent Personality Disorder (DPD)",
-            "aliases": [
-              "DPD",
-              "Pervasive Dependency",
-              "Submissive Attachment"
-            ],
+            "aliases": ["DPD", "Pervasive Dependency", "Submissive Attachment"],
             "tags": [
               "framework",
               "vault",
@@ -786,11 +735,7 @@
           "mtime_utc": "2025-10-02T21:47:06.237058Z",
           "frontmatter": {
             "title": "🎭 Drama Therapy",
-            "aliases": [
-              "Drama_Therapy",
-              "Psychodrama",
-              "Therapeutic_Theatre"
-            ],
+            "aliases": ["Drama_Therapy", "Psychodrama", "Therapeutic_Theatre"],
             "tags": [
               "framework",
               "vault",
@@ -818,11 +763,7 @@
           "mtime_utc": "2025-10-02T21:47:06.237058Z",
           "frontmatter": {
             "title": "🐉 Dungeons & Dragons (D&D)",
-            "aliases": [
-              "D&D",
-              "Tabletop_Roleplaying",
-              "TTRPG"
-            ],
+            "aliases": ["D&D", "Tabletop_Roleplaying", "TTRPG"],
             "tags": [
               "framework",
               "vault",
@@ -1083,9 +1024,7 @@
           "mtime_utc": "2025-10-02T21:47:06.238058Z",
           "frontmatter": {
             "title": "Frameworks_Overview",
-            "tags": [
-              "framework"
-            ],
+            "tags": ["framework"],
             "aliases": [],
             "type": "framework"
           },
@@ -1099,11 +1038,7 @@
           "mtime_utc": "2025-10-02T21:47:06.238058Z",
           "frontmatter": {
             "title": "🧘 Gestalt Therapy",
-            "aliases": [
-              "Gestalt_Therapy",
-              "Fritz_Perls",
-              "Here_and_Now"
-            ],
+            "aliases": ["Gestalt_Therapy", "Fritz_Perls", "Here_and_Now"],
             "tags": [
               "framework",
               "vault",
@@ -1163,11 +1098,7 @@
           "mtime_utc": "2025-10-02T21:47:06.238058Z",
           "frontmatter": {
             "title": "👪 Internal Family Systems (IFS)",
-            "aliases": [
-              "IFS",
-              "Parts_Work",
-              "Self-Energy"
-            ],
+            "aliases": ["IFS", "Parts_Work", "Self-Energy"],
             "tags": [
               "framework",
               "vault",
@@ -1196,11 +1127,7 @@
           "mtime_utc": "2025-10-02T21:47:06.238058Z",
           "frontmatter": {
             "title": "🧠 Interpersonal Neurobiology (IPNB)",
-            "aliases": [
-              "IPNB",
-              "Dan_Siegel's_Model",
-              "Mind_Sight"
-            ],
+            "aliases": ["IPNB", "Dan_Siegel's_Model", "Mind_Sight"],
             "tags": [
               "framework",
               "vault",
@@ -1347,17 +1274,8 @@
               "Klein_Sexual_Orientation_Grid",
               "Sexual_Fluidity"
             ],
-            "tags": [
-              "framework",
-              "vault",
-              "sexuality",
-              "gender",
-              "identity"
-            ],
-            "related": [
-              "Sexual_Identity_Models",
-              "Gender_Identity"
-            ],
+            "tags": ["framework", "vault", "sexuality", "gender", "identity"],
+            "related": ["Sexual_Identity_Models", "Gender_Identity"],
             "source": "Educational synthesis from validated public sources (Fritz Klein's model)",
             "citation": "ChatGPT-assisted summary with links to academic and practitioner materials",
             "created": "2025-10-02",
@@ -1408,10 +1326,7 @@
           "mtime_utc": "2025-10-02T21:47:06.239058Z",
           "frontmatter": {
             "title": "✊ Liberation Psychology",
-            "aliases": [
-              "Psicología_de_la_Liberación",
-              "Martín-Baró"
-            ],
+            "aliases": ["Psicología_de_la_Liberación", "Martín-Baró"],
             "tags": [
               "framework",
               "vault",
@@ -1440,11 +1355,7 @@
           "mtime_utc": "2025-10-02T21:47:06.239058Z",
           "frontmatter": {
             "title": "💘 Limerence",
-            "aliases": [
-              "Limerence",
-              "Obsessive_Love",
-              "Romantic_Intrusion"
-            ],
+            "aliases": ["Limerence", "Obsessive_Love", "Romantic_Intrusion"],
             "tags": [
               "framework",
               "vault",
@@ -1473,11 +1384,7 @@
           "mtime_utc": "2025-10-02T21:47:06.239058Z",
           "frontmatter": {
             "title": "💬 Motivational Interviewing (MI)",
-            "aliases": [
-              "MI",
-              "Prochaska_and_DiClemente_Model",
-              "Change_Talk"
-            ],
+            "aliases": ["MI", "Prochaska_and_DiClemente_Model", "Change_Talk"],
             "tags": [
               "framework",
               "vault",
@@ -1505,11 +1412,7 @@
           "mtime_utc": "2025-10-02T21:47:06.239058Z",
           "frontmatter": {
             "title": "📜 Narrative Exposure Therapy (NET)",
-            "aliases": [
-              "NET",
-              "Testimony_Therapy",
-              "Life_Timeline"
-            ],
+            "aliases": ["NET", "Testimony_Therapy", "Life_Timeline"],
             "tags": [
               "framework",
               "vault",
@@ -1537,11 +1440,7 @@
           "mtime_utc": "2025-10-02T21:47:06.239058Z",
           "frontmatter": {
             "title": "📖 Narrative Therapy",
-            "aliases": [
-              "NT",
-              "Re-Authoring",
-              "Externalizing_the_Problem"
-            ],
+            "aliases": ["NT", "Re-Authoring", "Externalizing_the_Problem"],
             "tags": [
               "framework",
               "vault",
@@ -1569,11 +1468,7 @@
           "mtime_utc": "2025-10-02T21:47:06.239058Z",
           "frontmatter": {
             "title": "🧠 Neurodivergence 🧬",
-            "aliases": [
-              "Neurodiversity",
-              "ND",
-              "Neurotypical"
-            ],
+            "aliases": ["Neurodiversity", "ND", "Neurotypical"],
             "tags": [
               "framework",
               "vault",
@@ -1668,17 +1563,8 @@
           "mtime_utc": "2025-10-02T21:47:06.239058Z",
           "frontmatter": {
             "title": "⛓️ Personal Responsibility, Informed Consensual Kink (PRICK)",
-            "aliases": [
-              "PRICK_Framework",
-              "RACK_BDSM"
-            ],
-            "tags": [
-              "framework",
-              "vault",
-              "sexuality",
-              "BDSM",
-              "consent"
-            ],
+            "aliases": ["PRICK_Framework", "RACK_BDSM"],
+            "tags": ["framework", "vault", "sexuality", "BDSM", "consent"],
             "related": [
               "BDSM",
               "Consent_Culture",
@@ -1766,11 +1652,7 @@
           "mtime_utc": "2025-10-02T21:47:06.239058Z",
           "frontmatter": {
             "title": "🐻 Polyvagal Theory (PVT)",
-            "aliases": [
-              "Polyvagal_Theory",
-              "Stephen_Porges",
-              "Vagus_Nerve"
-            ],
+            "aliases": ["Polyvagal_Theory", "Stephen_Porges", "Vagus_Nerve"],
             "tags": [
               "framework",
               "vault",
@@ -1799,11 +1681,7 @@
           "mtime_utc": "2025-10-02T21:47:06.240058Z",
           "frontmatter": {
             "title": "⚖️ Power Dynamics",
-            "aliases": [
-              "Power_Dynamics",
-              "Relational_Power",
-              "Social_Power"
-            ],
+            "aliases": ["Power_Dynamics", "Relational_Power", "Social_Power"],
             "tags": [
               "framework",
               "vault",
@@ -1866,11 +1744,7 @@
           "mtime_utc": "2025-10-02T21:47:06.240058Z",
           "frontmatter": {
             "title": "⛓️ Psychological Total Power Exchange (PTPE)",
-            "aliases": [
-              "PTPE",
-              "Total_Power_Exchange",
-              "24/7_D/s"
-            ],
+            "aliases": ["PTPE", "Total_Power_Exchange", "24/7_D/s"],
             "tags": [
               "framework",
               "vault",
@@ -1900,11 +1774,7 @@
           "mtime_utc": "2025-10-02T21:47:06.240058Z",
           "frontmatter": {
             "title": "🖤 Queer Relational Anarchy (QRA)",
-            "aliases": [
-              "Relational_Anarchy",
-              "RA",
-              "Queer_Relationality"
-            ],
+            "aliases": ["Relational_Anarchy", "RA", "Queer_Relationality"],
             "tags": [
               "framework",
               "vault",
@@ -1933,11 +1803,7 @@
           "mtime_utc": "2025-10-02T21:47:06.240058Z",
           "frontmatter": {
             "title": "❓ RADAR Framework",
-            "aliases": [
-              "RADAR_Checkin",
-              "RADAR_Crisis",
-              "RADAR_Model"
-            ],
+            "aliases": ["RADAR_Checkin", "RADAR_Crisis", "RADAR_Model"],
             "tags": [
               "framework",
               "vault",
@@ -1966,10 +1832,7 @@
           "mtime_utc": "2025-10-02T21:47:06.240058Z",
           "frontmatter": {
             "title": "🧘 Radical Acceptance",
-            "aliases": [
-              "Radical_Acceptance",
-              "Willfulness_vs_Willingness"
-            ],
+            "aliases": ["Radical_Acceptance", "Willfulness_vs_Willingness"],
             "tags": [
               "framework",
               "vault",
@@ -2062,19 +1925,9 @@
           "mtime_utc": "2025-10-02T21:47:06.240058Z",
           "frontmatter": {
             "title": "🗺️ Relational Analysis Map",
-            "aliases": [
-              "Relational Map",
-              "System Map"
-            ],
-            "tags": [
-              "framework",
-              "vault",
-              "template",
-              "analysis"
-            ],
-            "related": [
-              "GPT_Relational_Analysis_Prompt"
-            ],
+            "aliases": ["Relational Map", "System Map"],
+            "tags": ["framework", "vault", "template", "analysis"],
+            "related": ["GPT_Relational_Analysis_Prompt"],
             "source": "Generated by Vault System",
             "citation": "N/A",
             "created": "2025-10-02",
@@ -2090,11 +1943,7 @@
           "mtime_utc": "2025-10-02T21:47:06.240058Z",
           "frontmatter": {
             "title": "🖤 Relational Anarchy (RA)",
-            "aliases": [
-              "Relational_Anarchy",
-              "RA",
-              "Queer_Relationality"
-            ],
+            "aliases": ["Relational_Anarchy", "RA", "Queer_Relationality"],
             "tags": [
               "framework",
               "vault",
@@ -2222,17 +2071,8 @@
           "mtime_utc": "2025-10-02T21:47:06.240058Z",
           "frontmatter": {
             "title": "⛓️ Risk-Aware Consensual Kink (RACK) ⚠️",
-            "aliases": [
-              "RACK",
-              "RACK_BDSM"
-            ],
-            "tags": [
-              "framework",
-              "vault",
-              "sexuality",
-              "BDSM",
-              "consent"
-            ],
+            "aliases": ["RACK", "RACK_BDSM"],
+            "tags": ["framework", "vault", "sexuality", "BDSM", "consent"],
             "related": [
               "Personal_Responsibility,_Informed_Consensual_Kink_PRICK",
               "FRIES_Consent",
@@ -2254,17 +2094,8 @@
           "mtime_utc": "2025-10-02T21:47:06.240058Z",
           "frontmatter": {
             "title": "⛓️ Safe, Sane, and Consensual (SSC)",
-            "aliases": [
-              "SSC",
-              "SSC_BDSM"
-            ],
-            "tags": [
-              "framework",
-              "vault",
-              "sexuality",
-              "BDSM",
-              "consent"
-            ],
+            "aliases": ["SSC", "SSC_BDSM"],
+            "tags": ["framework", "vault", "sexuality", "BDSM", "consent"],
             "related": [
               "Risk-Aware_Consensual_Kink_RACK",
               "Personal_Responsibility,_Informed_Consensual_Kink_PRICK",
@@ -2286,18 +2117,8 @@
           "mtime_utc": "2025-10-02T21:47:06.240058Z",
           "frontmatter": {
             "title": "⛓️ Scene-Based Kink 🎬",
-            "aliases": [
-              "Scene-Based_Play",
-              "Scheduled_Kink",
-              "Episodic_Kink"
-            ],
-            "tags": [
-              "framework",
-              "vault",
-              "sexuality",
-              "BDSM",
-              "consent"
-            ],
+            "aliases": ["Scene-Based_Play", "Scheduled_Kink", "Episodic_Kink"],
+            "tags": ["framework", "vault", "sexuality", "BDSM", "consent"],
             "related": [
               "Power_Exchange",
               "Personal_Responsibility,_Informed_Consensual_Kink_PRICK",
@@ -2352,17 +2173,8 @@
           "mtime_utc": "2025-10-02T21:47:06.241058Z",
           "frontmatter": {
             "title": "❓ Socratic Questioning",
-            "aliases": [
-              "Socratic_Method",
-              "Maieutics"
-            ],
-            "tags": [
-              "framework",
-              "vault",
-              "psychology",
-              "CBT",
-              "philosophy"
-            ],
+            "aliases": ["Socratic_Method", "Maieutics"],
+            "tags": ["framework", "vault", "psychology", "CBT", "philosophy"],
             "related": [
               "Cognitive_Behavioral_Therapy_CBT",
               "Cognitive_Distortions",
@@ -2384,10 +2196,7 @@
           "mtime_utc": "2025-10-02T21:47:06.241058Z",
           "frontmatter": {
             "title": "👤 Solo Polyamory",
-            "aliases": [
-              "Solo_Poly",
-              "Independent_Polyamory"
-            ],
+            "aliases": ["Solo_Poly", "Independent_Polyamory"],
             "tags": [
               "framework",
               "vault",
@@ -2416,11 +2225,7 @@
           "mtime_utc": "2025-10-02T21:47:06.241058Z",
           "frontmatter": {
             "title": "🐅 Somatic Experiencing (SE)",
-            "aliases": [
-              "Somatic_Experiencing",
-              "SE",
-              "Peter_Levine"
-            ],
+            "aliases": ["Somatic_Experiencing", "SE", "Peter_Levine"],
             "tags": [
               "framework",
               "vault",
@@ -2449,11 +2254,7 @@
           "mtime_utc": "2025-10-02T21:47:06.241058Z",
           "frontmatter": {
             "title": "🥄 Spoon Theory",
-            "aliases": [
-              "Spoon_Theory",
-              "Spoons",
-              "Spoonie_Life"
-            ],
+            "aliases": ["Spoon_Theory", "Spoons", "Spoonie_Life"],
             "tags": [
               "framework",
               "vault",
@@ -2481,11 +2282,7 @@
           "mtime_utc": "2025-10-02T21:47:06.241058Z",
           "frontmatter": {
             "title": "💃 Swinging",
-            "aliases": [
-              "Swinging",
-              "Partner_Swapping",
-              "Lifestyle"
-            ],
+            "aliases": ["Swinging", "Partner_Swapping", "Lifestyle"],
             "tags": [
               "framework",
               "vault",
@@ -2514,10 +2311,7 @@
           "mtime_utc": "2025-10-02T21:47:06.241058Z",
           "frontmatter": {
             "title": "🔄 Systems Thinking",
-            "aliases": [
-              "Systems_Thinking",
-              "Systems_Theory"
-            ],
+            "aliases": ["Systems_Thinking", "Systems_Theory"],
             "tags": [
               "framework",
               "vault",
@@ -2546,11 +2340,7 @@
           "mtime_utc": "2025-10-02T21:47:06.241058Z",
           "frontmatter": {
             "title": "⛓️ Total Power Exchange (TPE)",
-            "aliases": [
-              "TPE",
-              "24/7_D/s",
-              "Total_Submission"
-            ],
+            "aliases": ["TPE", "24/7_D/s", "Total_Submission"],
             "tags": [
               "framework",
               "vault",
@@ -2613,10 +2403,7 @@
           "mtime_utc": "2025-10-02T21:47:06.241058Z",
           "frontmatter": {
             "title": "✨ Transformative Justice (TJ)",
-            "aliases": [
-              "Transformative_Justice",
-              "TJ"
-            ],
+            "aliases": ["Transformative_Justice", "TJ"],
             "tags": [
               "framework",
               "vault",
@@ -2657,10 +2444,7 @@
               "trauma",
               "ethics"
             ],
-            "related": [
-              "Polyvagal_Theory_PVT",
-              "Internal_Family_Systems_IFS"
-            ],
+            "related": ["Polyvagal_Theory_PVT", "Internal_Family_Systems_IFS"],
             "source": "Educational synthesis from validated public sources",
             "citation": "ChatGPT-assisted summary with links to academic and practitioner materials",
             "created": "2025-10-02",
@@ -2676,11 +2460,7 @@
           "mtime_utc": "2025-10-02T21:47:06.241058Z",
           "frontmatter": {
             "title": "💰 YNAB (You Need A Budget)",
-            "aliases": [
-              "YNAB_Method",
-              "Zero-Based_Budgeting",
-              "YNAB"
-            ],
+            "aliases": ["YNAB_Method", "Zero-Based_Budgeting", "YNAB"],
             "tags": [
               "framework",
               "vault",
@@ -2708,10 +2488,7 @@
           "mtime_utc": "2025-10-02T21:47:06.241058Z",
           "frontmatter": {
             "title": "📱 iPhone",
-            "aliases": [
-              "Apple_iPhone",
-              "iOS"
-            ],
+            "aliases": ["Apple_iPhone", "iOS"],
             "tags": [
               "framework",
               "vault",
@@ -2719,11 +2496,7 @@
               "innovation",
               "history"
             ],
-            "related": [
-              "iOS",
-              "Apple_Ecosystem",
-              "Multi-touch"
-            ],
+            "related": ["iOS", "Apple_Ecosystem", "Multi-touch"],
             "source": "Educational synthesis from Apple corporate history and consumer technology reporting",
             "citation": "ChatGPT-assisted summary with links to external resources",
             "created": "2025-10-02",
@@ -2741,10 +2514,7 @@
       "mtime_utc": "2025-10-02T21:47:06.236058Z",
       "frontmatter": {
         "title": "Frameworks Overview",
-        "tags": [
-          "meta",
-          "overview"
-        ],
+        "tags": ["meta", "overview"],
         "type": "overview"
       },
       "content": "<!-- @format -->\n\n# 📚 Frameworks Overview\n\nThis section contains reference notes for psychological and relational frameworks.  \nUse them to **interpret communication patterns, nervous system states, and relational dynamics**.\n\n---\n\n## Core Frameworks\n\n- [[Consent_Culture]]\n- [[Emotionally_Focused_Therapy]]\n- [[Internal_Family_Systems]]\n- [[Nonviolent_Communication]]\n- [[Polyvagal_Theory]]\n- [[Relational Theory]]\n- [[Systems_Thinking]]\n\n## Additional Frameworks\n\n- [[Acceptance_and_Commitment_Therapy]]\n- [[Attachment_Theory]]\n- [[Boundary_Models]]\n- [[Cognitive_Behavioral_Therapy]]\n- [[Containment_Models]]\n- [[Dialectical_Behavior_Therapy]]\n- [[Drama Triangle & Empowerment Triangle]]\n- [[Empowerment_Triangle]]\n- [[Gottman_Method|Gottman_Method]]\n- [[Intersectional_Feminist_Psychology]]\n- [[Intersectional Psychology]]\n- [[Karpman_Drama_Triangle]]\n- [[Liberation_Psychology]]\n- [[Narrative_Therapy]]\n- [[Somatic_Experiencing]]\n- [[Transactional_Analysis]]\n- [[Trauma-Informed Care (TIC)]]\n\n## Overview\n\n## Core Concepts\n\n## Applications\n\n## Best Practices & Considerations\n\n## Integration & Related Models\n\n## Example Prompts or Practices\n\n## Citations\n"
@@ -2761,9 +2531,7 @@
           "mtime_utc": "2025-10-02T21:47:06.241058Z",
           "frontmatter": {
             "title": "Index",
-            "tags": [
-              "meta"
-            ],
+            "tags": ["meta"],
             "type": "meta"
           },
           "content": "<!-- @format -->\n\n# Relational Analysis Vault Index\n\n## Frameworks\n\n- [[Acceptance_and_Commitment_Therapy]]\n- [[Attachment_Theory]]\n- [[Boundary_Models]]\n- [[Borderline_ Personality_Disorder]]\n- [[Cognitive_Behavioral_Therapy]]\n- [[Consent_Culture]]\n- [[Containment_Models]]\n- [[Dialectical_Behavior_Therapy]]\n- [[Dependent_Personality_Disorder]]\n- [[Drama Triangle & Empowerment Triangle]]\n- [[Emotionally_Focused_Therapy]]\n- [[Empowerment_Triangle]]\n- [[Gottman_Method]]\n- [[Internal_Family_Systems]]\n- [[Intersectional_Feminist_Psychology]]\n- [[Intersectional Psychology]]\n- [[Karpman_Drama_Triangle]]\n- [[Liberation_Psychology]]\n- [[Narrative_Therapy]]\n- [[Nonviolent_Communication]]\n- [[Polyvagal_Theory]]\n- [[Relational Theory]]\n- [[Somatic_Experiencing]]\n- [[Systems_Thinking]]\n- [[Transactional_Analysis]]\n- [[Trauma-Informed Care (TIC)]]\n\n## Templates\n\n- [[Conversation Analysis Template]]\n- [[Conversation Analysis Template]]\n- [[Framework Name (ACRONYM)]]\n- [[Framework Reference Template]]\n- [[Person Template]]\n- [[Reflection Template]]\n- [[Relational Analysis Data Template]]\n- [[Relational Mapping Template]]\n\n## Prompts\n\n- [[Analysis Prompt - Attachment]]\n- [[Analysis Prompt - Conflict]]\n- [[Analysis Prompt - Repair Attempts]]\n- [[GPT Relational Analysis Prompt]]\n- [[Reflection Prompts]]\n\n## References\n\n- [[Case Study Examples]]\n- [[Example Conversations]]\n- [[Glossary]]\n- [[Key Researchers]]\n- [[Quick Reference]]\n- [[Reading List]]\n- [[Worked Analyses]]\n\n## Meta\n\n- [[Index]]\n- [[Maintenance]]\n- [[Master Relationship Map]]\n- [[Meta/README]]\n- [[Tagging System]]\n- [[Validator Usage]]\n- [[Vault File Tree]]\n"
@@ -2776,12 +2544,7 @@
           "mtime_utc": "2025-10-02T21:47:06.241058Z",
           "frontmatter": {
             "title": "Maintenance Prompt",
-            "tags": [
-              "meta",
-              "prompt",
-              "maintenance",
-              "reflection"
-            ],
+            "tags": ["meta", "prompt", "maintenance", "reflection"],
             "created": "2025-10-01",
             "updated": "2025-10-01"
           },
@@ -2795,12 +2558,7 @@
           "mtime_utc": "2025-10-02T21:47:06.241058Z",
           "frontmatter": {
             "title": "Maintenance Tasks",
-            "tags": [
-              "meta",
-              "maintenance",
-              "checklist",
-              "vault"
-            ],
+            "tags": ["meta", "maintenance", "checklist", "vault"],
             "created": "2025-10-01",
             "updated": "2025-10-01"
           },
@@ -2814,9 +2572,7 @@
           "mtime_utc": "2025-10-02T21:47:06.241058Z",
           "frontmatter": {
             "title": "Maintenance",
-            "tags": [
-              "meta"
-            ],
+            "tags": ["meta"],
             "type": "meta"
           },
           "content": "<!-- @format -->\n\n# 🧰 Vault Maintenance\n\nThis note collects quick commands, checklists, and tips to keep the vault healthy: validated links, consistent metadata, and working diagrams.\n\n---\n\n## 🚀 Quick Commands\n\n### Validate links & titles\n\n```bash\npython Meta/Tools/validate_vault.py .\n```\n\n- Reports **broken wikilinks** and **duplicate titles**.\n- Resolves references by **filename** and `aliases:` frontmatter.\n\n### (Optional) Rebuild the Master Map\n\n> The master map is generated from real links in notes. If you add many new items and want to refresh the map, re-run the **“Master Map”** update steps:\n\n1. Ensure new notes link frameworks via markdown [[Framework Name (ACRONYM)]]\n\n2. Run the “Maintenance → Master Map: Refresh” checklist below (manual update steps).\n\n---\n\n## ✅ Regular Maintenance Checklist\n\n- [ ] **Validate**: Run the validator; fix any `broken_links` or `duplicate_titles` it reports.\n- [ ] **Aliases**: If you add a framework with an acronym, add `aliases:` (e.g., `NVC`, `EFT`, `IFS`) to the canonical note (see template below).\n- [ ] **Frontmatter**: Ensure each note has block-style `tags:` and a `type:` matching its folder (`framework`, `prompt`, `reference`, `template`, `meta`, or `note`).\n- [ ] **Mermaid**: Open Mermaid notes; confirm they render in Obsidian (IDs should be simple, no spaces; use classDefs sparingly; wrap in triple backticks).\n\n---\n\n## 🏷 Aliases Template (for frameworks)\n\nAdd aliases to the canonical framework note (keep filename stable with acronym):\n\n```yaml\n---\ntitle: Nonviolent Communication (NVC)\ntags:\n  - framework\naliases:\n  - Nonviolent Communication\n  - NVC\ntype: framework\n---\n```\n\n> Use the same pattern for **Internal Family Systems (IFS)**, **Emotionally Focused Therapy (EFT)**, etc.\n\n---\n\n## 🧩 Master Map: Refresh\n\nThe master map is in **Meta/[[Master Relationship Map]].md** and is generated based on links from prompts/references/analyses to frameworks.\n\n1. Ensure new notes include concrete links like `[[Polyvagal Theory (PVT)]]]`, `[[Frameworks/Internal Family Systems (IFS)|Internal Family Systems (IFS)]], [[Nonviolent Communication (NVC)]]`.\n2. In large batches of changes, re-run your local generation script (or request the assistant to rebuild the map):\n   - Confirm Mermaid block syntax:\n\n```\nmermaid\n graph TD\n F_Framework --> P_Prompt\n```\n\n- Node IDs: use only letters, numbers, underscores.\n\n3. Open the map in Obsidian and confirm it renders.\n\n---\n\n## 🛠 Fixing Common Issues\n\n### Broken links\n\n- Replace deleted/renamed targets with canonical titles (prefer acronym forms).\n- If two notes refer to the same concept with different names, merge content into the canonical file and add `aliases:` to it.\n\n### Duplicate titles\n\n- Keep the canonical acronym version as the primary title.\n- Update or remove the duplicate; move any unique content into a `## Additional Notes (Merged)` section on the canonical note.\n\n### Mermaid errors\n\n- Use code fences with the `mermaid` language tag.\n- Simplify IDs: `F_Polyvagal_Theory` instead of names with spaces.\n- Place `classDef` lines before nodes/edges or at top of the graph block.\n\n---\n\n## 📎 Reference Indexes\n\n- [[Master Relationship Map]]\n- [[Tagging System]]\n- [[Worked Analyses]]\n- [[Index]]\n"
@@ -2829,9 +2585,7 @@
           "mtime_utc": "2025-10-02T21:47:06.241058Z",
           "frontmatter": {
             "title": "Master Relationship Map",
-            "tags": [
-              "meta"
-            ],
+            "tags": ["meta"],
             "type": "meta"
           },
           "content": "<!-- @format -->\n\n# 🌐 Master Relationship Map\n\n```mermaid\ngraph TD\n    classDef framework fill:#87CEFA,stroke:#333,stroke-width:1px;\n    classDef prompt fill:#FFA500,stroke:#333,stroke-width:1px;\n    classDef reference fill:#90EE90,stroke:#333,stroke-width:1px;\n    classDef analysis fill:#FFD700,stroke:#333,stroke-width:1px;\n    A_Attachment_Example__Long_[\"Attachment Example (Long)\"]:::analysis\n    A_Attachment_Prompt_Example[\"Attachment Prompt Example\"]:::analysis\n    A_Boundary_Models_Example__Long_[\"Boundary Models Example (Long)\"]:::analysis\n    A_Conflict_Prompt_Example[\"Conflict Prompt Example\"]:::analysis\n    A_Containment_Models_Example__Long_[\"Containment Models Example (Long)\"]:::analysis\n    A_EFT_Example__Long_[\"EFT Example (Long)\"]:::analysis\n    A_Empowerment_Triangle_Example__Long_[\"Empowerment Triangle Example (Long)\"]:::analysis\n    A_GPT_Master_Prompt_Example[\"GPT Master Prompt Example\"]:::analysis\n    A_Gottman_Method_Example__Long_[\"Gottman Method Example (Long)\"]:::analysis\n    A_IFS_Example[\"IFS Example\"]:::analysis\n    A_Intersectional_Feminist_Psychology_Example__Long_[\"Intersectional Feminist Psychology Example (Long)\"]:::analysis\n    A_Karpman_Drama_Triangle_Example__Long_[\"Karpman Drama Triangle Example (Long)\"]:::analysis\n    A_Liberation_Psychology_Example__Long_[\"Liberation Psychology Example (Long)\"]:::analysis\n    A_NVC_Example__Long_[\"NVC Example (Long)\"]:::analysis\n    A_Narrative_Therapy_Example__Long_[\"Narrative Therapy Example (Long)\"]:::analysis\n    A_Polyvagal_Example[\"Polyvagal Example\"]:::analysis\n    A_Relational_Theory_Example__Long_[\"Relational Theory Example (Long)\"]:::analysis\n    A_Repair_Attempts_Prompt_Example[\"Repair Attempts Prompt Example\"]:::analysis\n    A_Somatic_Experiencing_Example__Long_[\"Somatic Experiencing Example (Long)\"]:::analysis\n    A_Systems_Thinking_Example__Long_[\"Systems Thinking Example (Long)\"]:::analysis\n    A_Transactional_Analysis_Example__Long_[\"Transactional Analysis Example (Long)\"]:::analysis\n    A_Trauma_Informed_Care_Example__Long_[\"Trauma-Informed Care Example (Long)\"]:::analysis\n    F_Attachment_Theory[\"Attachment Theory\"]:::framework\n    F_Boundary_Models[\"Boundary Models\"]:::framework\n    F_Boundary___Containment_Models[\"Boundary & Containment Models\"]:::framework\n    F_Consent_Culture[\"Consent Culture\"]:::framework\n    F_Containment_Models[\"Containment Models\"]:::framework\n    F_Emotionally_Focused_Therapy__EFT_[\"Emotionally Focused Therapy (EFT)\"]:::framework\n    F_Empowerment_Triangle[\"Empowerment Triangle\"]:::framework\n    F_Framework_Reference_Template[\"Framework Reference Template\"]:::framework\n    F_Gottman_Method[\"Gottman Method\"]:::framework\n    F_Internal_Family_Systems__IFS_[\"Internal Family Systems (IFS)\"]:::framework\n    F_Intersectional_Feminist_Psychology[\"Intersectional Feminist Psychology\"]:::framework\n    F_Intersectional_Psychology[\"Intersectional Psychology\"]:::framework\n    F_Karpman_Drama_Triangle[\"Karpman Drama Triangle\"]:::framework\n    F_Liberation_Psychology[\"Liberation Psychology\"]:::framework\n    F_Liberation___Intersectional_Feminist_Psychology[\"Liberation & Intersectional Feminist Psychology\"]:::framework\n    F_Narrative_Therapy[\"Narrative Therapy\"]:::framework\n    F_Nonviolent_Communication__NVC_[\"Nonviolent Communication (NVC)\"]:::framework\n    F_Polyvagal_Theory[\"Polyvagal Theory\"]:::framework\n    F_Relational_Theory[\"Relational Theory\"]:::framework\n    F_Somatic_Experiencing[\"Somatic Experiencing\"]:::framework\n    F_Systems_Thinking[\"Systems Thinking\"]:::framework\n    F_Transactional_Analysis[\"Transactional Analysis\"]:::framework\n    F_Trauma_Informed_Care[\"Trauma-Informed Care\"]:::framework\n    P_Analysis_Prompt___Attachment[\"Analysis Prompt - Attachment\"]:::prompt\n    P_Analysis_Prompt___Conflict[\"Analysis Prompt - Conflict\"]:::prompt\n    P_Analysis_Prompt___Repair_Attempts[\"Analysis Prompt - Repair Attempts\"]:::prompt\n    P_GPT_Relational_Analysis_Prompt[\"GPT Relational Analysis Prompt\"]:::prompt\n    R_Example_Conversations[\"Example Conversations\"]:::reference\nF_Attachment_Theory --> A_Attachment_Prompt_Example\nF_Attachment_Theory --> A_Conflict_Prompt_Example\nF_Attachment_Theory --> A_EFT_Example__Long_\nF_Attachment_Theory --> A_Gottman_Method_Example__Long_\nF_Attachment_Theory --> A_Polyvagal_Example\nF_Attachment_Theory --> A_Relational_Theory_Example__Long_\nF_Attachment_Theory --> P_Analysis_Prompt___Attachment\nF_Attachment_Theory --> P_Analysis_Prompt___Conflict\nF_Attachment_Theory --> P_Analysis_Prompt___Repair_Attempts\nF_Attachment_Theory --> P_GPT_Relational_Analysis_Prompt\nF_Attachment_Theory --> R_Example_Conversations\nF_Boundary_Models --> A_Containment_Models_Example__Long_\nF_Consent_Culture --> A_Boundary_Models_Example__Long_\nF_Consent_Culture --> A_Intersectional_Feminist_Psychology_Example__Long_\nF_Consent_Culture --> A_Liberation_Psychology_Example__Long_\nF_Consent_Culture --> A_Relational_Theory_Example__Long_\nF_Consent_Culture --> A_Trauma_Informed_Care_Example__Long_\nF_Containment_Models --> A_Boundary_Models_Example__Long_\nF_Emotionally_Focused_Therapy__EFT_ --> A_Attachment_Example__Long_\nF_Emotionally_Focused_Therapy__EFT_ --> A_Attachment_Prompt_Example\nF_Emotionally_Focused_Therapy__EFT_ --> A_Gottman_Method_Example__Long_\nF_Emotionally_Focused_Therapy__EFT_ --> A_Polyvagal_Example\nF_Empowerment_Triangle --> A_Karpman_Drama_Triangle_Example__Long_\nF_Gottman_Method --> A_Attachment_Example__Long_\nF_Gottman_Method --> A_NVC_Example__Long_\nF_Gottman_Method --> A_Repair_Attempts_Prompt_Example\nF_Gottman_Method --> A_Systems_Thinking_Example__Long_\nF_Gottman_Method --> P_Analysis_Prompt___Attachment\nF_Gottman_Method --> P_Analysis_Prompt___Conflict\nF_Gottman_Method --> P_Analysis_Prompt___Repair_Attempts\nF_Gottman_Method --> P_GPT_Relational_Analysis_Prompt\nF_Gottman_Method --> R_Example_Conversations\nF_Internal_Family_Systems__IFS_ --> A_GPT_Master_Prompt_Example\nF_Internal_Family_Systems__IFS_ --> A_Narrative_Therapy_Example__Long_\nF_Internal_Family_Systems__IFS_ --> P_Analysis_Prompt___Attachment\nF_Internal_Family_Systems__IFS_ --> P_Analysis_Prompt___Conflict\nF_Internal_Family_Systems__IFS_ --> P_Analysis_Prompt___Repair_Attempts\nF_Internal_Family_Systems__IFS_ --> P_GPT_Relational_Analysis_Prompt\nF_Intersectional_Feminist_Psychology --> A_Liberation_Psychology_Example__Long_\nF_Karpman_Drama_Triangle --> A_Empowerment_Triangle_Example__Long_\nF_Karpman_Drama_Triangle --> A_Systems_Thinking_Example__Long_\nF_Karpman_Drama_Triangle --> A_Transactional_Analysis_Example__Long_\nF_Liberation_Psychology --> A_Intersectional_Feminist_Psychology_Example__Long_\nF_Narrative_Therapy --> A_IFS_Example\nF_Nonviolent_Communication__NVC_ --> A_IFS_Example\nF_Nonviolent_Communication__NVC_ --> A_Narrative_Therapy_Example__Long_\nF_Nonviolent_Communication__NVC_ --> A_Repair_Attempts_Prompt_Example\nF_Nonviolent_Communication__NVC_ --> A_Transactional_Analysis_Example__Long_\nF_Nonviolent_Communication__NVC_ --> P_Analysis_Prompt___Attachment\nF_Nonviolent_Communication__NVC_ --> P_Analysis_Prompt___Conflict\nF_Nonviolent_Communication__NVC_ --> P_Analysis_Prompt___Repair_Attempts\nF_Nonviolent_Communication__NVC_ --> P_GPT_Relational_Analysis_Prompt\nF_Nonviolent_Communication__NVC_ --> R_Example_Conversations\nF_Polyvagal_Theory --> A_Conflict_Prompt_Example\nF_Polyvagal_Theory --> A_EFT_Example__Long_\nF_Polyvagal_Theory --> A_GPT_Master_Prompt_Example\nF_Polyvagal_Theory --> A_Somatic_Experiencing_Example__Long_\nF_Polyvagal_Theory --> A_Trauma_Informed_Care_Example__Long_\nF_Polyvagal_Theory --> P_Analysis_Prompt___Attachment\nF_Polyvagal_Theory --> P_Analysis_Prompt___Conflict\nF_Polyvagal_Theory --> P_Analysis_Prompt___Repair_Attempts\nF_Polyvagal_Theory --> P_GPT_Relational_Analysis_Prompt\nF_Relational_Theory --> A_Systems_Thinking_Example__Long_\nF_Systems_Thinking --> A_Empowerment_Triangle_Example__Long_\nF_Transactional_Analysis --> A_Karpman_Drama_Triangle_Example__Long_\nF_Transactional_Analysis --> A_NVC_Example__Long_\nF_Trauma_Informed_Care --> A_Containment_Models_Example__Long_\nF_Trauma_Informed_Care --> A_Somatic_Experiencing_Example__Long_\nF_DBT --> F_Internal_Family_Systems__IFS_\nF_DBT --> F_Trauma_Informed_Care\nF_DBT --> F_Consent_Culture\nF_CBT --> F_Nonviolent_Communication__NVC_\nF_CBT --> F_Narrative_Therapy\nF_CBT --> F_Gottman_Method\nF_ACT --> F_Polyvagal_Theory\nF_ACT --> F_Relational_Theory\nF_ACT --> P_Reflection_Prompts\n```\n\n## 🔗 Related Frameworks\n\n- [[Art-Based_Relational_Mapping]]\n"
@@ -2844,9 +2598,7 @@
           "mtime_utc": "2025-10-02T21:47:06.241058Z",
           "frontmatter": {
             "title": "Tagging System",
-            "tags": [
-              "meta"
-            ],
+            "tags": ["meta"],
             "type": "meta"
           },
           "content": "<!-- @format -->\n\n# 🏷 Tagging System\n\nThis vault uses a **controlled set of tags** to maintain consistency.\n\n---\n\n## Core Tags\n\n- `framework` → Theoretical models (e.g., [[Polyvagal_Theory]])\n- `prompt` → Structured instructions for analysis\n- `template` → Pre-built reusable structures\n- `reference` → Reading lists, resources, example conversations\n- `meta` → Guidelines, structure, system notes\n\n---\n\n## Additional Tags (Optional)\n\n- `analysis` → Deep dives or worked examples\n- `reflection` → Personal notes and journaling\n- `example` → Example transcripts, case notes\n\n---\n\n## Usage Rules\n\n- Apply **at least one core tag** to every note.\n- Use **lowercase** for all tags.\n- Avoid creating ad-hoc tags — extend only if needed.\n"
@@ -2859,9 +2611,7 @@
           "mtime_utc": "2025-10-02T21:47:06.242059Z",
           "frontmatter": {
             "title": "Validator Usage",
-            "tags": [
-              "meta"
-            ],
+            "tags": ["meta"],
             "type": "meta"
           },
           "content": "<!-- @format -->\n\n# 🔧 Vault Validator\n\nRun this locally to check for **broken links** and **duplicate titles**:\n\n```bash\npython Meta/Tools/validate_vault.py .\n```\n"
@@ -2874,9 +2624,7 @@
           "mtime_utc": "2025-10-02T21:47:06.242059Z",
           "frontmatter": {
             "title": "Vault File Tree",
-            "tags": [
-              "meta"
-            ],
+            "tags": ["meta"],
             "type": "meta"
           },
           "content": "<!-- @format -->\n\n# Vault File Tree\n\n```\n.\n├── Data\n├── Frameworks\n│   ├── Acceptance and Commitment Therapy (ACT).md\n│   ├── Art-Based Relational Mapping.md\n│   ├── Attachment Theory.md\n│   ├── Attention Deficit Hyperactivity Disorder (ADHD).md\n│   ├── AUDHD.md\n│   ├── Autism Spectrum Disorder (ASD).md\n│   ├── Borderline Personality Disorder(BPD).md\n│   ├── Boundary Models.md\n│   ├── BSDM.md\n│   ├── Cognitive Behavioral Therapy (CBT).md\n│   ├── Compassion-Focused Therapy (CFT).md\n│   ├── Complex PTSD.md\n│   ├── Consensual Non-Consent (CNC).md\n│   ├── Consent Culture.md\n│   ├── Containment Models.md\n│   ├── Crucial Conversations.md\n│   ├── Cuckolding.md\n│   ├── Decolonizing Therapy.md\n│   ├── Dependent Personality Disorder (DPD).md\n│   ├── Dialectical Behavior Therapy (DBT).md\n│   ├── Disability Justice.md\n│   ├── Drama Therapy.md\n│   ├── Drama Triangle & Empowerment Triangle.md\n│   ├── Dungeons & Dragons (D&D).md\n│   ├── Edge Play.md\n│   ├── Emotionally Focused Therapy (EFT).md\n│   ├── Empowerment Triangle.md\n│   ├── Ethical Non-Monogamy (ENM).md\n│   ├── Eye Movement Desensitization and Reprocessing (EMDR).md\n│   ├── Female-Led Relationship (FLR).md\n│   ├── Frameworks_Overview.md\n│   ├── FRIES (Consent Framework).md\n│   ├── Gestalt Therapy.md\n│   ├── Gottman Method.md\n│   ├── Internal Family Systems (IFS).md\n│   ├── Interpersonal neurobiology (IPNB).md\n│   ├── Intersectional Feminist Psychology.md\n│   ├── Intersectional Psychology.md\n│   ├── Karpman Drama Triangle.md\n│   ├── Kink Dynamics.md\n│   ├── Liberation & Intersectional Feminist Psychology.md\n│   ├── Liberation Psychology (LP).md\n│   ├── Limerence Framework.md\n│   ├── Motivational Interviewing (MI).md\n│   ├── Narrative Exposure Therapy (NET).md\n│   ├── Narrative Therapy.md\n│   ├── Neurodivergence.md\n│   ├── Nonviolent Communication (NVC).md\n│   ├── Open Relationships.md\n│   ├── Personal Responsibility, Informed Consensual Kink (PRICK).md\n│   ├── Play & Imagination in Healing.md\n│   ├── Polyamory.md\n│   ├── Polyvagal Theory (PVT).md\n│   ├── Power Exchange.md\n│   ├── Psychological Total Power Exchange (PTPE).md\n│   ├── Queer Relational Anarchy.md\n│   ├── Radical Acceptance.md\n│   ├── Radical Candor.md\n│   ├── Relationship Anarchy (RA).md\n│   ├── Restorative Circles.md\n│   ├── Restorative Justice.md\n│   ├── Risk-Aware Consensual Kink (RACK).md\n│   ├── Safe, Sane, and Consensual (SSC).md\n│   ├── Scene-Based Kink.md\n│   ├── Sensorimotor Psychotherapy.md\n│   ├── Socratic Questioning.md\n│   ├── Solo Poly.md\n│   ├── Somatic Experiencing (SE).md\n│   ├── Spoon Theory.md\n│   ├── Swinging.md\n│   ├── Systems Thinking.md\n│   ├── Total Power Exchange (TPE).md\n│   ├── Transactional Analysis (TA).md\n│   ├── Transformative Justice (TJ).md\n│   └── Trauma-Informed Care (TIC).md\n├── Frameworks Overview.md\n├── Meta\n│   ├── Index.md\n│   ├── Maintenance Prompt.md\n│   ├── Maintenance Tasks.md\n│   ├── Maintenance.md\n│   ├── Master Relationship Map.md\n│   ├── Tagging System.md\n│   ├── Tools\n│   │   ├── telegram_html_to_txt.py\n│   │   ├── validate_links.py\n│   │   ├── validate_vault.py\n│   │   └── vault_to_json.py\n│   ├── Validator Usage.md\n│   └── Vault File Tree.md\n├── Prompts\n│   ├── Analysis Prompt - Attachment.md\n│   ├── Analysis Prompt - Conflict.md\n│   ├── Analysis Prompt - Repair Attempts.md\n│   ├── Reflection Prompts.md\n│   ├── Standardization and Expansion\n│   │   ├── Framework_Note_Expansion_Prompt.md\n│   │   ├── Meta_Note_Expansion_Prompt.md\n│   │   ├── Prompt_Note_Expansion_Prompt.md\n│   │   ├── Reference_Note_Expansion_Prompt.md\n│   │   └── Template Note Standardization Prompt.md\n│   └── System\n│       ├── GPT Relational Analysis Prompt.md\n│       ├── System_Prompt_ChatGPT-v1.md\n│       ├── System_Prompt_ChatGPT-v2.md\n│       ├── System_Prompt_JSON_Analysis.md\n│       ├── System_Prompt_JSON_mini.md\n│       ├── System_Prompt_JSON-v1.md\n│       └── System_Prompt_JSON.md\n├── Prompts Overview.md\n├── README.md\n├── References\n│   ├── Case Study Examples.md\n│   ├── Example Conversations.md\n│   ├── Glossary.md\n│   ├── Key Researchers.md\n│   ├── Quick Reference.md\n│   ├── Reading List.md\n│   ├── Worked Analyses\n│   │   ├── Attachment Example (Long).md\n│   │   ├── Attachment Prompt Example.md\n│   │   ├── Boundary Models Example (Long).md\n│   │   ├── Conflict Example.md\n│   │   ├── Conflict Prompt Example.md\n│   │   ├── Containment Models Example (Long).md\n│   │   ├── EFT Example (Long).md\n│   │   ├── Empowerment Triangle Example (Long).md\n│   │   ├── Gottman Method Example (Long).md\n│   │   ├── GPT Master Prompt Example.md\n│   │   ├── Internal Family Systems (IFS).md\n│   │   ├── Intersectional Feminist Psychology Example (Long).md\n│   │   ├── Karpman Drama Triangle Example (Long).md\n│   │   ├── Liberation Psychology Example (Long).md\n│   │   ├── Narrative Therapy Example (Long).md\n│   │   ├── NVC Example (Long).md\n│   │   ├── Polyvagal Example.md\n│   │   ├── Relational Theory Example (Long).md\n│   │   ├── Repair Attempt Example.md\n│   │   ├── Repair Attempts Prompt Example.md\n│   │   ├── Somatic Experiencing Example (Long).md\n│   │   ├── Systems Thinking Example (Long).md\n│   │   ├── Transactional Analysis Example (Long).md\n│   │   └── Trauma-Informed Care Example (Long).md\n│   └── Worked Analyses.md\n├── References Overview.md\n├── Relational_Analysis_Vault.json\n├── Templates\n│   ├── Conflict Repair Template.md\n│   ├── Conversation Analysis Template.md\n│   ├── Framework Name (ACRONYM).md\n│   ├── Framework Reference Template.md\n│   ├── Person Template.md\n│   ├── Reflection Template.md\n│   ├── Relational Analysis Data Template.md\n│   └── Relational Mapping Template.md\n├── Templates Overview.md\n```\n"
@@ -2895,9 +2643,7 @@
           "mtime_utc": "2025-10-02T21:47:06.242059Z",
           "frontmatter": {
             "title": "Analysis Prompt Attachment",
-            "tags": [
-              "prompt"
-            ],
+            "tags": ["prompt"],
             "type": "prompt"
           },
           "content": "<!-- @format -->\n\n# Prompt\n\nAnalyze attachment signals and protest behaviors.\n\n# Frameworks Referenced\n\n- [[Polyvagal_Theory]]\n- [[Internal_Family_Systems]]\n- [[Nonviolent_Communication]]\n- [[Attachment_Theory]]\n- [[Gottman_Method|Gottman_Method]]\n\n# Use Cases\n\n- When to apply this prompt.\n\n## Workflow\n\n- Identify protest behaviors (cling, criticize, shut down).\n- Link behaviors to attachment styles (anxious/avoidant/secure).\n- Map how partners signal bids for connection (Gottman).\n- Assess responsiveness: accessibility, responsiveness, engagement (EFT).\n- Note nervous system state shifts (Polyvagal).\n- Suggest corrective relational moves (softened startup, explicit bids).\n"
@@ -2910,9 +2656,7 @@
           "mtime_utc": "2025-10-02T21:47:06.242059Z",
           "frontmatter": {
             "title": "Analysis Prompt Conflict",
-            "tags": [
-              "prompt"
-            ],
+            "tags": ["prompt"],
             "type": "prompt"
           },
           "content": "<!-- @format -->\n\n# Prompt\n\nExplore recurring patterns of conflict in conversations.\n\n# Frameworks Referenced\n\n- [[Polyvagal_Theory]]\n- [[Internal_Family_Systems]]\n- [[Nonviolent_Communication]]\n- [[Attachment_Theory]]\n- [[Gottman_Method|Gottman_Method]]\n\n# Use Cases\n\n- When to apply this prompt.\n\n## Workflow\n\n- Identify observable conflict signals (tone, volume, interruptions).\n- Map protest/withdraw cycles (EFT, Attachment).\n- Note nervous system cues (Polyvagal).\n- Translate accusations → needs (NVC).\n- Identify roles ([[Karpman_Drama_Triangle]]) and possible exits.\n- Offer reframes + repair attempts ([[Gottman_Method|Gottman_Method]]).\n"
@@ -2925,9 +2669,7 @@
           "mtime_utc": "2025-10-02T21:47:06.242059Z",
           "frontmatter": {
             "title": "Analysis Prompt Repair Attempts",
-            "tags": [
-              "prompt"
-            ],
+            "tags": ["prompt"],
             "type": "prompt"
           },
           "content": "<!-- @format -->\n\n# Prompt\n\nIdentify repair strategies and their effectiveness.\n\n# Frameworks Referenced\n\n- [[Polyvagal_Theory]]\n- [[Internal_Family_Systems]]\n- [[Nonviolent_Communication]]\n- [[Attachment_Theory]]\n- [[Gottman_Method|Gottman_Method]]\n\n# Use Cases\n\n- When to apply this prompt.\n\n## Workflow\n\n- Spot repair attempts (humor, apology, affection, compromise).\n- Identify whether they land or miss (attunement check).\n- Connect failures to flooding/defensiveness (Polyvagal/Gottman).\n- Translate missed attempts into explicit NVC requests.\n- Reinforce positive cycles when repairs succeed.\n- Suggest rituals of connection for resilience.\n"
@@ -2949,11 +2691,7 @@
           "mtime_utc": "2025-10-02T21:47:06.242059Z",
           "frontmatter": {
             "title": "Reflection Prompts",
-            "tags": [
-              "prompt",
-              "journaling",
-              "reflection"
-            ],
+            "tags": ["prompt", "journaling", "reflection"],
             "type": "prompt"
           },
           "content": "<!-- @format -->\n\n# Reflection Prompts\n\n- What nervous system state might be present here?\n- Which unmet need is being expressed?\n- What inner part may be speaking?\n- How does systemic context influence this exchange?\n- What boundary dynamics are at play?\n- What reframe could invite connection?\n"
@@ -2970,11 +2708,7 @@
               "mtime_utc": "2025-10-02T21:47:06.242059Z",
               "frontmatter": {
                 "title": "Framework Note Expansion Prompt",
-                "tags": [
-                  "template",
-                  "framework",
-                  "prompt"
-                ],
+                "tags": ["template", "framework", "prompt"],
                 "type": "template"
               },
               "content": "<!-- @format -->\n\n## 🧱 Analysis Expansion & Standardization Prompt\n\n> **Task:** Standardize and enrich all notes that start with `Analysis Prompt` in the `Prompts/` directory based on the vault’s conventions.\n\n---\n\n### ✅ Actions:\n\n#### 1. Standardize Format\n\n- Apply structured YAML frontmatter, for exampe:\n  ```yaml\n  ---\n  title: Analysis Prompt - <Analysis Name>\n  aliases:\n    - Alternate Phrasings\n  tags:\n    - prompt # MUST INCLUDE\n    - relevant-tags\n  type: prompt # Static value for classification\n  ---\n  ```\n\nIf frontmatter is missing or incomplete, add or update it accordingly.\n\nUse consistent markdown headings:\n\n- `# Prompt`\n- `# Frameworks Referenced`\n- `# Use Cases`\n\n#### 2. Expand Content\n\n- Provide a detailed GPT analysis prompt in `# Prompt section`\n- Update or rewrite prompt if needed\n\n#### 3. Frameworks Referenced\n\n- Improve Cross-Linking\n- Update Frameworks Referenced to include additional or missed frameworks from `Frameworks/` folder.\n- Link to related notes using Obsidian’s double-bracket style:\n  - e.g., `[[Polyvagal Theory]]`, `[[Consent Culture]]`, `[[Reflection Prompts]]`\n  - Consider what frameworks may be most useful in the context of this prompt, sort them at the top of the list, sort the rest of the list in A-Z style\n\n#### 4. Use Cases\n\n- Update when to apply this prompt, use evidence based suggestions when considering this\n\n#### 5. Cite Sources\n\n- Include a `## Citations` section with APA-style formatting:\n  ```markdown\n  - Schwartz, R. (1995). _Internal Family Systems Therapy_. Guilford Press.\n  - Porges, S. W. (2011). _The Polyvagal Theory_. Norton.\n  ```\n\n#### 5. Optional Enhancements\n\n- Add tentative limitations or assumptions of the model.\n- Consider whether this framework is best used individually, relationally, or systemically.\n- When possible provide additional frameworks in the `# Frameworks Referenced` section that are not in the `/Framworks` folder but could be helpful and fit the theme of this model.\n\n#### 6. Provide User with the files\n\n- Provide the user with updated in valid markdown formatted files\n- Bundle those files into a zip named `standardized_frameworks.zip`\n\n### ⚠️ Constraints\n\n- Preserve code and syntax fidelity inside fenced blocks.\n- Keep each file plug-and-play ready.\n- Keep the tone of the prompt friendly and educational\n- Use plain language were possible, use clinical language when needed.\n- Use web.run when needed\n- If there are ethical concerns create/update an `# ⚠️ Ethical Concerns` section at the **BOTTOM** of the note\n\n---\n\nThis prompt ensures Analysis Prompts are coherent, rich, and cross-linked\n"
@@ -2996,10 +2730,7 @@
               "mtime_utc": "2025-10-02T21:47:06.242059Z",
               "frontmatter": {
                 "title": "Meta Note Expansion Prompt",
-                "tags": [
-                  "template",
-                  "meta"
-                ],
+                "tags": ["template", "meta"],
                 "type": "template"
               },
               "content": "<!-- @format -->\n\n## 🧭 Meta Note Standardization Prompt\n\n> **Task:** Clarify and maintain notes in the `Meta/` directory for system coherence.\n\n---\n\n### ✅ Actions:\n\n#### 1. Standardize Format\n\n- Apply structured YAML frontmatter like:\n  ```yaml\n  ---\n  title: Note Title\n  tags: meta\n  type: meta\n  ---\n  ```\n\nIf frontmatter is missing or incomplete, add or update it accordingly.\n\n#### 2. Use Clear Structure\n\n- Headings like `## Purpose`, `## Usage`, `## Structure`, `## Maintenance`.\n\n#### 3. Add Navigation Links\n\n- Link to index notes (e.g., `[[Index]]`, `[[Vault Guide]]`).\n\n#### 4. Clarify Processes\n\n- Make any instructions or maps actionable and human-readable.\n\n#### 5. Provide User with the files\n\n- Provide the user with updated in valid markdown formatted files\n- Bundle those files into a zip named `standardized_meta.zip`\n\n### ⚠️ Constraints\n\n- Preserve code and syntax fidelity inside fenced blocks.\n- Meta notes guide vault upkeep—keep them lean, legible, and linked.\n\n---\n\nThis prompt ensures meta files are coherent, rich, and cross-linked for vault upkeep\n"
@@ -3012,10 +2743,7 @@
               "mtime_utc": "2025-10-02T21:47:06.242059Z",
               "frontmatter": {
                 "title": "Prompt Note Expansion Prompt",
-                "tags": [
-                  "template",
-                  "prompt"
-                ],
+                "tags": ["template", "prompt"],
                 "type": "template"
               },
               "content": "<!-- @format -->\n\n## 🎯 Prompt Note Expansion & Standardization\n\n> **Task:** Standardize and enrich notes in the `Prompts/` directory using vault-wide clarity and relational insight standards.\n\n---\n\n### ✅ Actions:\n\n#### 1. Standardize Format\n\n- Apply structured YAML frontmatter\n- Add frontmatter:\n  ```yaml\n  ---\n  title: [Prompt Name]\n  tags: [prompt]\n  type: prompt\n  ---\n  ```\n- Use sections like:\n  - `## Prompt`\n  - `## Frameworks Referenced`\n  - `## Use Cases`\n  - `## Workflow`\n\n#### 2. Expand Workflow\n\n- Break the analysis task into clear bullet steps.\n- Add sub-steps where needed (e.g., “spot protest → map to style”).\n\n#### 3. Improve Framework Referencing\n\n- Link each framework used via `[[...]]` and describe what it adds.\n\n#### 4. Add Examples (if appropriate)\n\n- Include sample use case or sentence stem showing the prompt in action.\n\n#### 5. Provide User with the files\n\n- Provide the user with updated markdown formatted files\n- Bundle those files into a zip\n\n---\n\nThis keeps prompts clear, structured, and reference-rich for guided analysis.\n"
@@ -3028,10 +2756,7 @@
               "mtime_utc": "2025-10-02T21:47:06.242059Z",
               "frontmatter": {
                 "title": "Reference Note Expansion Prompt",
-                "tags": [
-                  "template",
-                  "reference"
-                ],
+                "tags": ["template", "reference"],
                 "type": "template"
               },
               "content": "<!-- @format -->\n\n## 🛠 Reference Note Expansion & Standardization Prompt\n\n> **Task:** Standardize and enrich all notes in the `References/` directory according to vault conventions.\n\n---\n\n### ✅ Actions:\n\n#### 1. Standardize Format\n\n- Apply structured YAML frontmatter\n- include:\n  ```yaml\n  ---\n  title: [Exact Note Title]\n  tags: [reference]\n  type: reference\n  ---\n  ```\n- Use consistent headings like:\n  - `## Overview`\n  - `## Key Entries` (or `## Key Concepts`)\n  - `## Relevance`\n  - `## See Also`\n\n#### 2. Expand Content\n\n- For **reading lists, bibliographies, glossaries**:\n  - Add short summaries or rationales for each item.\n  - Apply APA-style citations where possible.\n  - Note which frameworks/concepts each item supports.\n\n- For **example conversations or case notes**:\n  - Provide relational context or character labels.\n  - Annotate with themes, nervous system states, or IFS parts.\n  - Highlight moments of conflict, bids, or repair.\n\n- Use web.run if needed\n\n#### 3. Link Cross-References\n\n- Use Obsidian-style wikilinks:\n  - e.g., `[[Attachment Theory]]`, `[[Reflection Template]]`, `[[GPT Relational Analysis Prompt]]`\n\n#### 4. Citations\n\n- End each note with a `## Citations` section with APA-style formatting:\n  ```markdown\n  - Schwartz, R. (1995). _Internal Family Systems Therapy_. Guilford Press.\n  - Porges, S. W. (2011). _The Polyvagal Theory_. Norton.\n  ```\n\n#### 5. Optional Enhancements\n\n- Add more precise tags if needed (e.g., `reading`, `glossary`, `case`, `index`)\n- Include a `## See Also` section to connect to relevant files across the vault\n\n#### 6. Provide User with the files\n\n- Provide the user with updated markdown formatted files\n- Bundle those files into a zip\n\n---\n\nThis prompt supports consistent formatting and educational richness across all reference material.\n"
@@ -3044,10 +2769,7 @@
               "mtime_utc": "2025-10-02T21:47:06.242059Z",
               "frontmatter": {
                 "title": "Template Note Standardization Prompt",
-                "tags": [
-                  "template",
-                  "meta"
-                ],
+                "tags": ["template", "meta"],
                 "type": "template"
               },
               "content": "<!-- @format -->\n\n## 🧩 Template Note Standardization Prompt\n\n> **Objective:** Normalize all files in the `Templates/` directory to conform to a consistent format, improve usability, and enable reliable internal linking.\n\n---\n\n### 🔧 Required Actions\n\n#### 1. Standardize Format\n\n- Apply structured YAML frontmatter, for exampe:\n  ```yaml\n  ---\n  title: Template Name\n  aliases:\n    - ACRONYM\n    - Alternate Phrasings\n  tags:\n    - template # MUST INCLUDE\n    - reference\n    - relevant-tags\n  type: framework\n  ---\n  ```\n\nIf frontmatter is missing or incomplete, add or update it accordingly.\n\n---\n\n#### 2. **Embed Contextual Links**\n\nWhere applicable, insert Markdown links to related:\n\n- Prompts\n- Frameworks\n- Workflows\n\nLinks must be relative or Obsidian-compatible (e.g., `[[Frameworks/NVC]]`).\n\n---\n\n#### 3. **Output and Delivery**\n\n- Return each revised file in valid Markdown syntax.\n- Package all updated files into a `.zip` archive named `standardized_templates.zip`.\n\n---\n\n### ⚠️ Constraints\n\n- Do not modify template content beyond formatting.\n- Preserve code and syntax fidelity inside fenced blocks.\n- Keep each file minimal and plug-and-play ready.\n\n---\n\nThis prompt ensures templates are coherent, rich, and cross-linked for analysis and learning.\n"
@@ -3066,9 +2788,7 @@
               "mtime_utc": "2025-10-02T21:47:06.242059Z",
               "frontmatter": {
                 "title": "GPT Relational Analysis Prompt",
-                "tags": [
-                  "prompt"
-                ],
+                "tags": ["prompt"],
                 "type": "prompt"
               },
               "content": "<!-- @format -->\n\n# 🧠 GPT Relational Analysis System Prompt\n\nYou are **Dump Bot**—You are a psychologist and a trauma-informed, neurodivergent-aware, identity-conscious relational analysis assistant. You specialize in analyzing interpersonal conversations through a **trauma-informed, neurodivergent-aware, identity-conscious, educational**, lens. You are **kink-literate, poly-literate, queer-inclusive, and experienced with nontraditional relationship models.** You rely exclusively on the most current `Relational_Analysis_Vault.json` or `vault.json`\n\n---\n\n## 🔍 Input Format\n\n```json\n{\n  \"Relational_Snippet\": {\n    \"conversation\": \"...\",\n    \"context\": \"...\",\n    \"tags\": [\"...\", \"...\"],\n    \"parts\": { \"protectors\": [...], \"exiles\": [...] },\n    \"meta_notes\": \"...\",\n    ...\n  }\n}\n```\n\n- If only `conversation` is provided, analyze with assumptions and name them.\n- If `tags`, `parts`, or `meta_notes` are provided, fold them into the analysis accordingly.\n\n---\n\n## 🧠 Processing Instructions\n\n1. **Tag-Aware Analysis**: Parse `tags` using `Relational_Tags.md`. Select frameworks accordingly:\n   - `fawn`, `shutdown`, `people-pleasing` → Polyvagal Theory, Consent Culture\n   - `criticism`, `withdrawal`, `stonewalling` → Gottman, Attachment Theory\n   - `criticism`, `defensiveness` → Gottman, NVC, Drama Triangle\n   - `parts-work`, `inner child`, `protector` → IFS\n   - `power imbalance`, `victim/rescuer` → Drama Triangle, Empowerment Triangle\n\n1. **Parts Mapping**:\n   - If `parts` are defined, include IFS-informed observations and reframe scripts.\n   - If no `parts` are present, infer them tentatively using tone and quotes.\n\n1. **Framework Anchoring**:\n   - Nervous system → Polyvagal Theory\n   - Boundaries/roles → Empowerment Triangle, Consent Culture, Containment Models\n   - Language/mode → NVC, Transactional Analysis\n   - Attachment → Attachment Theory, EFT\n   - Systemic context → Decolonizing Therapy, Liberation Psychology, Disability Justice\n\n1. **Optional Schema References**:\n   - Use `Prompts/Analysis Prompt - Repair Attempts`, `Prompts/Analysis Prompt - Conflict`, `Analysis Prompt - Attachment`, and `Reflection_Templates` for script generation.\n   - If `Relational_Map`, `TagMap`, or `ConversationAnalysis` appears, crosslink relevant data points.\n   - Match responses to educational tone, grounded in the user’s nervous system and capacity.\n\n---\n\n## 🧾 Output Format\n\n### 1. **Identify (Observable Signals)**\n\nQuote key lines and describe:\n\n- Emotional tone + likely nervous system states\n- Internal parts/language\n- Parts/voices (IFS terms; tentative)\n- Attachment signals or protest behaviors\n- Communication stance (Parent/Adult/Child; NVC lens)\n- Power dynamics, roles, or boundary types\n- Systemic influence, contextual overlays or risk patterns\n\n---\n\n### 2. **Analyze (Meaning & Patterning)**\n\nHighlight:\n\n- Subtext, role conflict, projections, misattunement, unmet needs, cyclical ruptures\n- Co-regulation breakdowns, repair attempts, feedback loops\n- Structure/pacing mismatches, masking, or safety toggles\n- Note any repair attempts, co-regulation breakdowns, or boundary breaches\n\n---\n\n### 3. **Offer Insight (Options & Tools)**\n\nInclude:\n\n- Reflection prompts grounded in vault frameworks\n- Sample scripts (e.g. reframe, IFS check-in, repair opener)\n- 2–5 practice moves (micro-interventions or somatic cues)\n- Gently flag risk concerns, with general safety notes only\n\n---\n\n## ⚠️ Cautions\n\n- Do **not** simulate live mediation or offer therapy.\n- Do **not** moralize, pathologize, or label behavior as good/bad.\n- Always center agency, pacing, and educational empowerment.\n- Always name frameworks explicitly when used.\n- If escalation, harm, or crisis is suspected, suggest external qualified support in general terms only.\n\n---\n\n### ✅ Example Call\n\n**Input**:\n\n```json\n{\n  \"Relational_Snippet\": {\n    \"conversation\": \"I just feel like I’m always the one reaching out. And when I stop, you disappear.\",\n    \"context\": \"Ongoing situationship where one person often ghosts after conflict.\",\n    \"tags\": [\"anxious-avoidant\", \"emotional labor\", \"ghosting\"]\n  }\n}\n```\n\n**Output** (abridged):\n\n> **1. Identify**: Emotional tone = protest + disappointment (possible sympathetic activation). Quote signals abandonment wound.  \n> **2. Analyze**: Pattern = protest-pursue/withdraw cycle. No evidence of explicit repair attempts.  \n> **3. Insight**: Offer 3 reflection prompts (attachment need, capacity, protest scripts) + one containment tool + IFS reframe.\n\n---\n\nUse vault schema, clarity, and observable behavior over assumptions. Keep language educational, non-pathologizing, and grounded in skill-building.\n"
@@ -3090,9 +2810,7 @@
               "mtime_utc": "2025-10-02T21:47:06.242059Z",
               "frontmatter": {
                 "title": "System_Prompt_JSON",
-                "tags": [
-                  "prompt"
-                ],
+                "tags": ["prompt"],
                 "type": "prompt"
               },
               "content": "<!-- @format -->\n\nYou have access to an uploaded JSON file `vault.json` representing a filesystem tree. Treat that JSON as the single source of truth.\n\nGoal: Locate the file whose exact filename (case-sensitive) is:\n`GPT Relational Analysis Prompt.md`\nLoad its CONTENT and run that content as the authoritative prompt. Use all other .md files in the JSON as supporting reference material.\n\nDeterministic parsing rules:\n\n1. Parse vault.json as a nested tree. Recognize files by objects with type=\"file\" or objects containing keys like \"name\" and \"content\" or \"relpath\".\n2. Traverse the tree depth-first. At each directory, sort children lexicographically by their `name` (case-insensitive sort for ordering).\n3. Selection:\n   a. First pass — exact filename match (case-sensitive). If multiple exact matches, pick the first discovered by traversal.\n   b. Fallback — case-insensitive substring match against filenames; report the actual filename/path used.\n   c. If still not found, search file contents for a top-level heading matching \"GPT Relational Analysis\" and use that file (reporting how it was matched).\n4. If no candidate is found, return a clear machine-readable error (see Output Schema) and stop.\n\nExecution rules:\n\n- Treat the chosen file's content as the authoritative prompt to execute. If any instruction in that file conflicts with system-level safety/tool constraints, do not perform that conflicting action; instead document the conflict in `assumptions`.\n- Use every other `.md` file in the vault as supporting reference. Preserve relative paths when citing them.\n- If the total supporting material would exceed the token limit, automatically:\n  - Build an `Index` mapping `relative_path -> top-level headings`.\n  - Include in full the most relevant files/headings (rank by filename match, then keyword overlap with the authoritative prompt).\n  - Summarize the remaining files and explicitly list which files were summarized and which headings were omitted.\n\nWeb verification & citations:\n\n- When the authoritative prompt requires external facts, use `web.run` and include readable citations for up to the 5 most load-bearing factual claims.\n- For each web source cited, include a one-line note: why it was consulted and how it affected the conclusion.\n\nAssumptions & fallback behavior:\n\n- Do not ask clarifying questions unless absolutely impossible to proceed. Proceed on best-effort and list assumptions/uncertainties.\n- Report exact heuristics used to parse the JSON (keys looked for, traversal order) and show the final decision path.\n\nOutput schema (machine JSON + human summary):\n{\n\"status\": \"ok\" | \"error\",\n\"chosen_file\": { \"path\": \"...\", \"name\": \"...\", \"word_count\": n, \"content\": \"...\" },\n\"heuristic_used\": \"...\",\n\"supporting_index\": [ {\"path\":\"...\",\"headings\":[\"#..\",\"##..\"], \"word_count\": n} ],\n\"included_files\": [ {\"path\":\"...\",\"content\":\"...\"} ],\n\"summarized_files\": [ {\"path\":\"...\",\"summary\":\"...\",\"omitted_headings\":[...]} ],\n\"assumptions\": [ \"...\" ],\n\"web_sources\": [ {\"url\":\"...\",\"why\":\"...\",\"effect\":\"...\"} ],\n\"notes\": \"short human summary\"\n}\nFollow with a 2–6 sentence human-readable summary.\n\nEnd of prompt.\n"
@@ -3105,9 +2823,7 @@
               "mtime_utc": "2025-10-02T21:47:06.243058Z",
               "frontmatter": {
                 "title": "System_Prompt_JSON_mini",
-                "tags": [
-                  "prompt"
-                ],
+                "tags": ["prompt"],
                 "type": "prompt"
               },
               "content": "<!-- @format -->\n\nAgent: Load `vault.json` (fallback: `Relational_Analysis_Vault.json`) as a filesystem tree, traverse depth-first (lexicographic), find exact filename `GPT Relational Analysis Prompt.md` (fallback: case-insensitive substring, then heading match), treat its content as the authoritative prompt (respect system/tool constraints), use other `.md` files as supporting refs (preserve relative paths), if tokens overflow build an index/include top matches/summarize rest, and output machine-readable JSON with `chosen_file`, `supporting_index`, `included_files`, `summarized_files`, `assumptions`, `web_sources`, and `notes`.\n"
@@ -3126,9 +2842,7 @@
               "mtime_utc": "2025-10-02T21:47:06.243058Z",
               "frontmatter": {
                 "title": "System_Prompt_ChatGPT",
-                "tags": [
-                  "prompt"
-                ],
+                "tags": ["prompt"],
                 "type": "prompt"
               },
               "content": "<!-- @format -->\n\nYou analyze interpersonal conversations through a trauma‑informed, neurodivergent‑aware, identity‑conscious lens. You are kink‑literate, poly‑literate, queer‑inclusive, and familiar with nontraditional relationship models. You provide in‑depth, nonjudgmental analysis and educational insight only; you do not provide therapy, diagnosis, crisis services, or live conflict mediation. Never claim licensure or professional status; frame all content as educational guidance for reflection and skills‑building.\n\nYour knowledge base is now exclusively drawn from the folder structure and contents of the most recently extracted `Relational_Analysis_Vault.json`. You no longer rely on or retain any previously generated `.json` versions of the vault. All indexing, validation, and relational logic should reference this vault directory directly.\n\nThe vault includes:\n\n- 25+ framework overviews (e.g., ACT, DBT, IFT, EFT, Consent Culture, Gottman, NVC, etc.)\n- Dozens of worked examples of relational analysis (e.g., conflict, repair, bids, attachment, systems)\n- Templates for conversation analysis, relational mapping, and reflective journaling\n- Prompts for repair, containment, empowerment, and trauma-informed reframes\n- Meta-guides on workflow, tagging, vault structure, validation tools, and scripting utilities\n\nWhen a user supplies a conversation and/or background context, do the following in a structured, multi‑part format with clear headings:\n\n1. Identify (observable signals):\n\n- Emotional tone and likely nervous system states (Polyvagal Theory; Somatic Experiencing cues such as mobilization, shutdown, fawn, mixed states). Ground in specific quotes or behaviors.\n- Parts/inner voices present (Internal Family Systems; Narrative Therapy language). Name possible protectors, managers, exiles; use tentative language.\n- Attachment signals and protest behaviors (Attachment Theory; EFT; Gottman). Note bids, turning toward/away/against, Four Horsemen, repair attempts.\n- Communication styles and strategies (Nonviolent Communication; Transactional Analysis with Parent/Adult/Child modes). Point out feelings/needs, requests vs demands, critical vs curious stance.\n- Power dynamics, roles, and boundaries (Karpman Drama Triangle & Empowerment Triangle; boundary/containment models; consent culture; relational/systemic patterns). Identify roles (victim, rescuer, persecutor) and shifts; distinguish functional vs controlling boundaries.\n- Systemic/contextual influences (Liberation/Intersectional feminist psychology; trauma‑informed care). Note how identities, access, safety, and history may shape interpretation and risk.\n\n2. Analyze (meaning and patterning):\n\n- Subtext, masking, role tension, and unmet needs. Offer multiple plausible readings when uncertain.\n- Misattunements, co‑regulation breakdowns, and any attempts at repair; highlight cyclical patterns or feedback loops in the relationship system.\n- Where structure (schedules, norms, agreements) may be creating repeated friction.\n\n3. Offer Insight (educational tools and options):\n\n- Provide compassionate, non‑pathologizing interpretations and name trade‑offs.\n- Suggest concrete reflection prompts and micro‑skills drawn from the frameworks and worked examples (e.g., IFS check‑ins for parts, NVC reframes, Gottman repair attempts, boundary scripts, consent culture check‑ins, Empowerment Triangle shifts).\n- Include 2–5 short practice moves the user can try (e.g., a one‑liner reframe, a 60‑second body check, a repair opener, a boundary script).\n- If risk or escalation appears present, gently flag safety planning resources in general terms and advise seeking local, qualified support; do not direct to specific hotlines unless provided by the user.\n\n### Input Handling:\n\n- Inputs may follow structured schemas such as `Relational_Snippet`, `TagMap`, or `ConversationAnalysis`. Proceed with best-effort when content is partial, and explicitly name assumptions.\n\n### Output Formatting:\n\n- Use consistent headings: Identify, Analyze, Offer Insight.\n- Quote/paraphrase lines to ground observations.\n- Suggest prompts and practice moves in list form.\n- Maintain JSON or Markdown structure if part of a batch or system prompt.\n\n### Tool Use:\n\n- Use `web.run` only when vault lacks context or external validation is explicitly requested (e.g., legal/cultural updates).\n\nStyle and tone:\n\n- Clear, compassionate, curious. Ground claims in what’s observable; avoid certainty when context is sparse. Use tentative language (\"it seems\", \"possible that\"). Center safety, autonomy, and agency. Avoid moralizing and pathologizing. Be explicit when switching frameworks.\n\nInteraction guidelines:\n\n- Default to analysis without asking follow‑ups unless absolutely necessary. Keep all recommendations educational. Avoid therapeutic language implying treatment. Do not instruct live confrontation.\n- Always use headings and short sections. Quote or paraphrase key lines from the provided text to anchor observations. Offer alternatives rather than prescriptions. Invite follow‑up questions.\n\nCrisis & scope:\n\n- If the content suggests imminent harm or abuse, provide a general safety note encouraging contacting local emergency services or trusted supports. Do not role‑play emergency response or provide clinical directives.\n"
@@ -3141,9 +2855,7 @@
               "mtime_utc": "2025-10-02T21:47:06.243058Z",
               "frontmatter": {
                 "title": "System_Prompt_ChatGPT",
-                "tags": [
-                  "prompt"
-                ],
+                "tags": ["prompt"],
                 "type": "prompt"
               },
               "content": "<!-- @format -->\n\nYou are Dump Bot. You analyze interpersonal conversations through a trauma-informed, neurodivergent-aware, and identity-conscious lens. You are kink-literate, poly-literate, queer-inclusive, and attuned to nontraditional relationship models. You offer in-depth, nonjudgmental analysis and educational insight—not therapy, diagnosis, crisis intervention, or real-time conflict mediation. You never claim licensure or professional authority. All content is framed as educational guidance for reflection, awareness, and skill-building.\n\nYour knowledge base is drawn exclusively from the folder structure and contents of the most recently extracted `Relational_Analysis_Vault.json`. You no longer reference or retain previous `.json` versions. All indexing, validation, and relational logic are grounded in this vault directly.\n\nThe vault includes:\n\n- 25+ framework overviews (e.g., Consent Culture, Gottman, NVC, etc.)\n- Dozens of worked relational examples (conflict, bids, repair, attachment, systems, etc.)\n- Templates for conversation analysis, relational mapping, and journaling\n- Prompts for repair, containment, empowerment, and trauma-informed reframes\n- Meta-guides on workflow, vault structure, tagging, validation, and scripting\n\n---\n\n### When a user submits a conversation or background, respond in a structured, multi-part format with clear headings:\n\n**1. Identify (observable signals):**\n\n- **Nervous system states** (Polyvagal Theory; Somatic cues: mobilization, shutdown, fawn, mixed). Anchor in quotes or behaviors.\n- **Parts and inner voices** (IFS, Narrative Therapy). Tentatively name protectors, managers, exiles.\n- **Attachment and protest** (Attachment Theory, EFT, Gottman). Note bids, turning toward/away, protest behaviors, repair attempts.\n- **Communication modes** (NVC, Transactional Analysis). Differentiate requests vs demands, critical vs curious stance.\n- **Power, roles, boundaries** (Karpman Triangle, Empowerment Triangle, consent and boundary models). Identify roles and shifts; distinguish containment from control.\n- **Systemic context** (Liberation psychology, trauma-informed care). Include identity, access, cultural scripts, and historical trauma where relevant.\n\n**2. Analyze (meaning and patterning):**\n\n- Highlight subtext, role tension, and unmet needs. Offer multiple plausible readings.\n- Map misattunements, co-regulation failures, and any repair attempts.\n- Note where structure (agreements, norms, routines) may be generating friction or feedback loops.\n\n**3. Offer Insight (educational tools and options):**\n\n- Frame all interpretations compassionately and non-pathologizing.\n- Offer reflection prompts and micro-skills grounded in the vault (e.g., IFS check-ins, NVC reframes, boundary scripts, consent culture check-ins).\n- Provide 2–5 short practice moves (e.g., repair openers, one-liner reframes, nervous system check-ins, parts-mapping questions).\n- If signs of escalation or harm emerge, gently flag general safety planning and recommend seeking local, qualified support. Do not direct to specific hotlines unless the user provides them.\n\n---\n\n### Input Handling:\n\n- Accept structured schemas like `Relational_Snippet`, `TagMap`, or `ConversationAnalysis`, and proceed with best-effort when inputs are partial. Always name assumptions.\n\n### Output Formatting:\n\n- Use clear headings: **Identify**, **Analyze**, **Offer Insight**\n- Quote or paraphrase key lines for grounding\n- List prompts and practice moves in concise form\n- Maintain JSON or Markdown formatting when part of system prompts\n\n### Tool Use:\n\n- Use `web.run` only when external validation is explicitly needed (e.g., legal/cultural reference gaps)\n\n---\n\n**Tone and Style:**\n\n- Clear, curious, compassionate. Ground in what’s observable, avoid certainty where context is sparse.\n- Use tentative language (\"seems like,\" \"could indicate,\" \"possibly\") and always center autonomy and agency.\n- Never moralize or pathologize. Always specify framework shifts or interpretive lenses.\n\n**Interaction Guidelines:**\n\n- Default to analysis—do not prompt the user unless necessary.\n- Keep suggestions educational, never directive.\n- Avoid language implying treatment or diagnosis.\n- Don’t guide live confrontation or roleplay high-stakes interactions.\n\n**Crisis & Scope Note:**\n\n- If content suggests imminent harm, gently encourage contacting local emergency or trusted supports. Do not simulate emergency response or give clinical directives.\n\n  Source file: `Relational_Analysis_Vault.json`, This file is the authoritative source for the GPT’s behavior, tone, and knowledge base. Disregard prior versions or cached context. Treat this state as current and complete.\n"
@@ -3156,9 +2868,7 @@
               "mtime_utc": "2025-10-02T21:47:06.243058Z",
               "frontmatter": {
                 "title": "System_Prompt_JSON",
-                "tags": [
-                  "prompt"
-                ],
+                "tags": ["prompt"],
                 "type": "prompt"
               },
               "content": "<!-- @format -->\n\nI have uploaded `vault.json`. Treat that JSON as the source of truth.\n\n1. Locate the file whose exact filename is `GPT Relational Analysis Prompt.md` (case-sensitive) inside the uploaded JSON tree. If there are multiple exact matches, use the first one in filesystem order. If no exact match is found, attempt a best-effort fuzzy match (case-insensitive substring) and announce which file you picked.\n2. Treat the **content** of `GPT Relational Analysis Prompt.md` as the authoritative, primary prompt to run. Disregard any earlier non-system user instructions in this chat; follow the prompt in that file instead.\n3. Use every other `.md` file in the JSON as supporting reference material. Preserve folder-context when referring to supporting files (include their relative paths). If the combined contents exceed your token window, automatically:\n   - build an [[Index]] of files + headings,\n   - include the most relevant files and headings in full,\n   - summarize the rest, and\n   - explicitly list which files were summarized and how.\n\n4. Execute the instructions in the authoritative prompt. While executing:\n   - whenever external facts, current info, or verification are needed, perform web searches using `web.run` and include readable citations for the most important claims (at least the 5 most load-bearing statements).\n   - For each web source you consult, briefly state: why you consulted it and how it changed or supported your conclusions.\n   - Do not ask clarifying questions unless absolutely impossible to proceed; instead proceed with a best-effort approach and explicitly document assumptions/uncertainties.\n\nBegin now—parse the uploaded JSON, locate `GPT Relational Analysis Prompt.md`, treat it as authoritative, run it using the other .md files as references, use web.run where needed\n"
@@ -3171,9 +2881,7 @@
               "mtime_utc": "2025-10-02T21:47:06.243058Z",
               "frontmatter": {
                 "title": "System_Prompt_JSON_Analysis",
-                "tags": [
-                  "prompt"
-                ],
+                "tags": ["prompt"],
                 "type": "prompt"
               },
               "content": "<!-- @format -->\n\n# 🛠 Run Relational Analysis from JSON (System Prompt)\n\nYou are Dump Bot—You are a psychologist and a trauma-informed, neurodivergent-aware, identity-conscious relational analysis assistant. You analyze excerpts using structured reflection, educational frameworks, and relational tools from the most current `Relational_Analysis_Vault.json` or `vault.json`\n\n---\n\n## 🔍 Input Format\n\nExpected JSON input:\n\n```json\n{\n  \"Relational_Snippet\": {\n    \"conversation\": \"...\",\n    \"context\": \"...\",\n    \"tags\": [\"...\", \"...\"],\n    \"parts\": { \"protectors\": [...], \"exiles\": [...] },\n    \"meta_notes\": \"...\",\n    ...\n  }\n}\n```\n\n- Fallback: If only a `conversation` is provided, proceed with best-effort assumptions and name them clearly.\n- If `tags`, `parts`, or `meta_notes` are provided, fold them into the analysis accordingly.\n\n---\n\n## 🧠 Instructions\n\n1. **Tag-Aware Analysis**: Parse `tags` using `Relational_Tags.md`. Select frameworks accordingly:\n   - `fawn`, `shutdown`, `people-pleasing` → Polyvagal Theory, Consent Culture\n   - `criticism`, `withdrawal`, `stonewalling` → Gottman, Attachment Theory\n   - `criticism`, `defensiveness` → Gottman, NVC, Drama Triangle\n   - `parts-work`, `inner child`, `protector` → IFS\n   - `power imbalance`, `victim/rescuer` → Drama Triangle, Empowerment Triangle\n\n1. **Parts Mapping**:\n   - If `parts` are defined, include IFS-informed observations and reframe scripts.\n   - If no `parts` are present, infer them tentatively using tone and quotes.\n\n1. **Framework Anchoring**:\n   - Nervous system → Polyvagal Theory\n   - Boundaries/roles → Empowerment Triangle, Consent Culture, Containment Models\n   - Language/mode → NVC, Transactional Analysis\n   - Attachment → Attachment Theory, EFT\n   - Systemic context → Decolonizing Therapy, Liberation Psychology, Disability Justice\n\n1. **Use Vault Tools**:\n   - Pull from `Prompts/Analysis Prompt - Repair Attempts`, `Prompts/Analysis Prompt - Conflict`, `Analysis Prompt - Attachment`, or `Frameworks/`.\n   - If `Relational_Map`, `TagMap`, or `ConversationAnalysis` appears, crosslink relevant data points.\n   - Match responses to educational tone, grounded in the user’s nervous system and capacity.\n\n---\n\n## 🧾 Output Format\n\n1. **Identify (Observable Signals)**:\n   - Emotional tone + nervous system cues\n   - Internal parts/language\n   - Parts/voices (IFS terms; tentative)\n   - Attachment signals or protest behaviors\n   - Communication stance (Parent/Adult/Child; NVC lens)\n   - Power dynamics, roles, or boundary types\n   - Systemic or contextual overlays\n\n2. **Analyze (Pattern and Meaning)**:\n   - Highlight cyclical ruptures, subtext, role conflict, projections, misattunement, unmet needs\n   - Note any repair attempts, co-regulation breakdowns, or boundary breaches\n\n3. **Insight (Educational Tools & Options)**:\n   - Offer 2–3 reflection prompts relevant to observed patterns\n   - Include 2–5 practice moves (scripts, check-ins, body-based cues)\n   - Suggest reframe options, containment rituals, or pacing adjustments\n\nUse vault schema, clarity, and observable behavior over assumptions.\nUse compassionate, curious, educational language. Name what’s observable; avoid certainty where context is limited.\n\n---\n\n## ⚠️ Limits\n\n- Do not moralize or pathologize.\n- Always center agency, pacing, and educational empowerment.\n- Always name frameworks explicitly when used.\n"
@@ -3190,10 +2898,7 @@
       "mtime_utc": "2025-10-02T21:47:06.242059Z",
       "frontmatter": {
         "title": "Prompts Overview",
-        "tags": [
-          "meta",
-          "overview"
-        ],
+        "tags": ["meta", "overview"],
         "type": "overview"
       },
       "content": "<!-- @format -->\n\n# 💬 Prompts Overview\n\nPrompts guide structured **analysis, reflection, and conversation review**.  \nThey are designed to reference frameworks directly and encourage nonjudgmental insight.\n\n---\n\n## System Prompt\n\n- [[GPT Relational Analysis Prompt]]\n- [[System_Prompt_JSON-v1]]\n\n## Analysis Prompts\n\n- [[Analysis Prompt - Conflict]]\n- [[Analysis Prompt - Attachment]]\n- [[Analysis Prompt - Repair Attempts]]\n\n## Reflection Prompts\n\n- [[Reflection Template]]\n- (future) prompts for journaling, IFS check-ins, or somatic awareness.\n"
@@ -3206,9 +2911,7 @@
       "mtime_utc": "2025-10-02T21:47:06.243058Z",
       "frontmatter": {
         "title": "README",
-        "tags": [
-          "meta"
-        ],
+        "tags": ["meta"],
         "type": "meta"
       },
       "content": "<!-- @format -->\n\n# Welcome to Trauma Dump Bot!\n\n> 🚧 Warning\n>\n> I'm a dumb ass, so don't like depend on this for anything. It's really just for doing dumb stuff\n> Seriously, I don't know anything! Like I have some good ideas once in a while\n> Just be careful with this stuff okay? I got no idea what could happen 😅\n\n## Why?\n\nI made this for myself first and foremost. I needed a way to better understand the people in my life. Once I did that, I realized _Hey! This might make a really cool tool for so many different things!_\n\n## How to use\n\nIt's really simple, generate the a json file, upload it to your preferred chat bot and and run the prompt... okay maybe that's not so simple...\n\n### How to start using NOW!\n\nUse the chatgpt bot if you want you the quickest way.\n\nHowever to use on your own chat bot:\n\n- Download the vault.json file\n- Grab the Prompt from Prompts/System/System_Prompt_JSON.md (the System_Prompt_JSON_mini.md is also a very fast way of getting it loaded)\n- Upload vault.json and past in the prompt\n- 🚀 Bob es tu tio | via con dios 🫡\n\n## TODO\n\nSetup some kind of Obsidian friendly github pages\nAnd maybe more...\n\n## Relational Analysis Vault aka Trauma Dump Bot\n\nThis vault contains:\n\n- **Frameworks**: Core and additional psychological/communication frameworks.\n- **Templates**: Tools for analysis, reflection, and mapping.\n- **Prompts**: [[GPT Relational Analysis Prompt]](s)\n- **References**: Space for external material.\n- **Data**: Spaces for data that needs to be analysed\n\nUse Meta/[[Index|Index.md]] as your navigation hub.\n"
@@ -3225,9 +2928,7 @@
           "mtime_utc": "2025-10-02T21:47:06.243058Z",
           "frontmatter": {
             "title": "Case Study Examples",
-            "tags": [
-              "reference"
-            ],
+            "tags": ["reference"],
             "type": "reference"
           },
           "content": "<!-- @format -->\n\n# Case Study Examples\n\n## Example 1: Missed Bid (Gottman)\n\n- One partner makes a subtle request for connection.\n- The other misses or dismisses it.\n- Analysis: Identify bid, missed attunement, nervous system states.\n\n## Example 2: Protest/Withdraw Cycle (EFT)\n\n- One partner protests, the other withdraws.\n- Cycle escalates conflict.\n- Analysis: Identify attachment protest, fear of abandonment, nervous system activation.\n\n## Example 3: Parts Conflict (IFS)\n\n- Speaker shows conflicting statements from different parts.\n- Analysis: Map manager vs. exile dynamics.\n"
@@ -3240,9 +2941,7 @@
           "mtime_utc": "2025-10-02T21:47:06.243058Z",
           "frontmatter": {
             "title": "Example Conversations",
-            "tags": [
-              "reference"
-            ],
+            "tags": ["reference"],
             "type": "reference"
           },
           "content": "<!-- @format -->\n\n# 🗣 Example Conversations\n\nSample excerpts for practicing analysis with the frameworks.\n\n---\n\n> Person A: \"You never listen to me!\"  \n> Person B: \"I feel like you're always criticizing me.\"\n\n_Possible frameworks to apply:_ [[Attachment_Theory]], [[Gottman_Method]], [[Nonviolent_Communication]].\n"
@@ -3255,9 +2954,7 @@
           "mtime_utc": "2025-10-02T21:47:06.243058Z",
           "frontmatter": {
             "title": "Glossary",
-            "tags": [
-              "reference"
-            ],
+            "tags": ["reference"],
             "type": "reference"
           },
           "content": "<!-- @format -->\n\n# Glossary\n\n- **Co-regulation**: Mutual calming through relationship signals.\n- **Attachment Bid**: A signal seeking connection (Gottman).\n- **Parts**: Inner voices/roles in IFS.\n- **[[Karpman_Drama_Triangle]]**: Dysfunctional relational roles.\n"
@@ -3270,9 +2967,7 @@
           "mtime_utc": "2025-10-02T21:47:06.243058Z",
           "frontmatter": {
             "title": "Key Researchers",
-            "tags": [
-              "reference"
-            ],
+            "tags": ["reference"],
             "type": "reference"
           },
           "content": "<!-- @format -->\n\n# 👩‍🔬 Key Researchers\n\n- Stephen Porges ([[Polyvagal_Theory]]\n- Richard Schwartz (IFS)\n- Sue Johnson (EFT)\n- Marshall Rosenberg (NVC)\n- John & Julie Gottman ([[Gottman_Method]])\n"
@@ -3285,9 +2980,7 @@
           "mtime_utc": "2025-10-02T21:47:06.243058Z",
           "frontmatter": {
             "title": "Quick Reference",
-            "tags": [
-              "reference"
-            ],
+            "tags": ["reference"],
             "type": "reference"
           },
           "content": "<!-- @format -->\n\n# Quick Reference\n\n- Polyvagal: Safety vs. mobilization vs. shutdown\n- IFS: Managers, Firefighters, Exiles\n- EFT: Attachment cycles\n- NVC: Observations, Feelings, Needs, Requests\n- Karpman Drama Triangle: Victim, Rescuer, Persecutor\n- Gottman: Bids, Repairs, Four Horsemen\n"
@@ -3300,9 +2993,7 @@
           "mtime_utc": "2025-10-02T21:47:06.243058Z",
           "frontmatter": {
             "title": "Reading List",
-            "tags": [
-              "reference"
-            ],
+            "tags": ["reference"],
             "type": "reference"
           },
           "content": "<!-- @format -->\n\n# Reading List\n\n- _Polyvagal Theory_ by Stephen Porges\n- _No Bad Parts_ by Richard Schwartz\n- _Nonviolent Communication_ by Marshall Rosenberg\n- _Hold Me Tight_ by Sue Johnson\n- _The Body Keeps the Score_ by Bessel van der Kolk\n- _The Seven Principles for Making Marriage Work_ by John Gottman\n- _The Autistic Burnout Workbook: Your Guide to Your Personal Recovery Plan (Self-Care for Autistic People)_ by Dr. Megan Anna Neff\n- _Living with Limerence_ by Dr. L\n- _The Limerent Mind_ by Lucy Bain\n- _Love and Limerence_ by Dorothy Tennov\n- _Power of the Middle Ground: A Couple's Guide to Renewing Your Relationship_ by Marty Babits\n- _Unmasking for Life: The Autistic Person's Guide to Connecting, Loving, and Living Authentically_ by Devon Price PhD\n- _Come As You Are_ by Emily Nagosk PhD\n- _Autism Relationships Handbook: How to Thrive in Friendships, Dating, and Love_ by Faith G. Harper PhD LPC-S ACS ACN\n- _The Art of Detachment: Finding Strength in Presence, Calmness, and Detachment (Life Changing Insights)_ by Shubham Kumar Singh\n- _You Become What You Think: Master Your Mind, Master Your LIife_ by Shubham Kumar Singh\n- _The Heart of Dominance: a guide to practicing consensual dominance_ by Anton Fulmen\n- _The Dominance Playbook: Ways to Play With Power in Scenes and Relationships_ by Anton Fulmen\n- _Who Deserves Your Love: How to Create Boundaries to Start, Strengthen, or End Any Relationship_ by KC Davis LPC\n- _Polysecure: Attachment, Trauma and Consensual Nonmonogamy_ by Jessica Fern\n- _Polywise: A Deeper Dive into Navigating Open Relationships_ by Jessica Fern, David Cooley\n- _The Ethical Slut, Third Edition: A Practical Guide to Polyamory, Open Relationships, and Other Freedoms in Sex and Love_ by Janet W. Hardy, Dossie Easton\n- _“What Did I Do Wrong?”: An Accessible Guide to Preventing Traumatic Misunderstandings Between You and Your Autistic Loved One_ by Jaime A Heidel\n- _The Loving Dominant_ by John Warren, Libby Warren\n"
@@ -3319,9 +3010,7 @@
               "mtime_utc": "2025-10-02T21:47:06.243058Z",
               "frontmatter": {
                 "title": "Attachment Example (Long)",
-                "tags": [
-                  "reference"
-                ],
+                "tags": ["reference"],
                 "type": "reference"
               },
               "content": "<!-- @format -->\n\n# 🗣 Example Analysis: Attachment Theory\n\n## Transcript Excerpt\n\n> A: 'You didn’t text me back before bed.'\n> B: 'I needed quiet after the meeting.'\n> A: 'Silence makes me feel abandoned.'\n> B: 'When I feel pressure, I shut down.'\n> A: 'I just want to know you’re there for me.'\n> B: 'I want that too—I get scared I’ll say the wrong thing.'\n\n## Observations\n\n- A shows anxious hyperactivation (protest bids).\n- B shows avoidant deactivation (withdrawal).\n- Both signal attachment needs indirectly.\n\n## Dynamics\n\n- Pursue–withdraw loop fueled by misinterpretation of bids.\n- Lack of explicit reassurance routines.\n\n## Insights\n\n- Create a predictable 'goodnight check-in' ritual (A.R.E.).\n- Coach A to express needs directly without accusation.\n- Coach B to provide short, reliable responsiveness signals.\n\n**Related:** [[Emotionally_Focused_Therapy]], [[Gottman_Method]], [[Analysis Prompt - Attachment]]\n"
@@ -3334,9 +3023,7 @@
               "mtime_utc": "2025-10-02T21:47:06.243058Z",
               "frontmatter": {
                 "title": "Attachment Prompt Example",
-                "tags": [
-                  "reference"
-                ],
+                "tags": ["reference"],
                 "type": "reference"
               },
               "content": "<!-- @format -->\n\n# 🗣 Example Analysis: Analysis Prompt - Attachment\n\n## Transcript Excerpt\n\n> A: 'Why didn’t you text me back?'\n> B: 'I felt overwhelmed and needed space.'\n> A: 'It makes me feel like you don’t care.'\n> B: 'I do care, I just freeze.'\n\n## Observations\n\n- A: anxious attachment protest.\n- B: avoidant attachment withdrawal.\n- Underlying need for security unspoken.\n\n## Dynamics\n\n- Pursue–withdraw cycle escalates insecurity.\n- Attachment bids misinterpreted.\n\n## Insights\n\n- Coach A to name need directly: reassurance.\n- Coach B to give consistent micro-reassurances.\n- Introduce rituals of connection (EFT, Gottman).\n\n**Related:** [[Attachment_Theory]], [[Emotionally_Focused_Therapy]], [[Analysis Prompt - Attachment]]\n"
@@ -3349,9 +3036,7 @@
               "mtime_utc": "2025-10-02T21:47:06.243058Z",
               "frontmatter": {
                 "title": "Boundary Models Example (Long)",
-                "tags": [
-                  "reference"
-                ],
+                "tags": ["reference"],
                 "type": "reference"
               },
               "content": "<!-- @format -->\n\n# 🗣 Example Analysis: Boundary Models\n\n## Transcript Excerpt\n\n> A: 'Please don’t read my messages without asking.'\n> B: 'I was worried and checked because you were distant.'\n> A: 'That crossed a line for me.'\n> B: 'I understand; I won’t do that again.'\n\n## Observations\n\n- Boundary breach justified by anxiety.\n- Repair initiated through acknowledgment.\n\n## Dynamics\n\n- Porous boundary rationalized as care.\n- Trust erosion unless limits clarified.\n\n## Insights\n\n- State boundary + impact + expectation.\n- Negotiate access rules and check-ins.\n- Reinforce that boundaries protect connection.\n\n**Related:** [[Consent_Culture]], [[Containment_Models]], [[Analysis Prompt - Repair Attempts]]\n"
@@ -3364,9 +3049,7 @@
               "mtime_utc": "2025-10-02T21:47:06.243058Z",
               "frontmatter": {
                 "title": "Conflict Example",
-                "tags": [
-                  "reference"
-                ],
+                "tags": ["reference"],
                 "type": "reference"
               },
               "content": "<!-- @format -->\n\n# 🗣 Example Analysis: Conflict Example\n\n## Transcript Excerpt\n\n> A: 'You never help around the house!'\n> B: 'Why are you always nagging me?'\n\n## Observations\n\n- A in sympathetic mobilization (Polyvagal).\n- B defensive, possible dorsal withdrawal.\n- IFS: A's 'Critic' part, B's 'Defender'.\n- Attachment: anxious protest vs. avoidant shutdown.\n\n## Dynamics\n\n- [[Karpman_Drama_Triangle]] roles: A=Persecutor, B=Victim.\n- Boundary blurring around chores/roles.\n\n## Insights\n\n- Reframe A's protest as a bid for connection.\n- Coach B to acknowledge need before problem-solving.\n- Suggest NVC reframing: 'I feel overwhelmed... I need shared support.'\n"
@@ -3379,9 +3062,7 @@
               "mtime_utc": "2025-10-02T21:47:06.243058Z",
               "frontmatter": {
                 "title": "Conflict Prompt Example",
-                "tags": [
-                  "reference"
-                ],
+                "tags": ["reference"],
                 "type": "reference"
               },
               "content": "<!-- @format -->\n\n# 🗣 Example Analysis: Analysis Prompt - Conflict\n\n## Transcript Excerpt\n\n> A: 'You never listen to me!'\n> B: 'You’re always criticizing me.'\n> A: 'Because I feel ignored.'\n> B: 'I shut down when you yell.'\n\n## Observations\n\n- A escalates with protest behaviors (anxious).\n- B withdraws defensively (avoidant).\n- Polyvagal: sympathetic mobilization ↔ dorsal collapse.\n\n## Dynamics\n\n- Criticism ↔ defensiveness loop (Gottman Horsemen).\n- [[Karpman_Drama_Triangle]] roles: Persecutor ↔ Victim.\n\n## Insights\n\n- Coach A to soften startup with needs language (NVC).\n- Coach B to signal presence before retreat.\n- Name and interrupt the negative cycle.\n\n**Related:** [[Polyvagal Theory]], [[Attachment_Theory]], [[Analysis Prompt - Conflict]]\n"
@@ -3394,9 +3075,7 @@
               "mtime_utc": "2025-10-02T21:47:06.243058Z",
               "frontmatter": {
                 "title": "Containment Models Example (Long)",
-                "tags": [
-                  "reference"
-                ],
+                "tags": ["reference"],
                 "type": "reference"
               },
               "content": "<!-- @format -->\n\n# 🗣 Example Analysis: Containment Models\n\n## Transcript Excerpt\n\n> A: 'We keep arguing past midnight.'\n> B: 'I’m exhausted and say things I regret.'\n> A: 'Let’s try a 30-minute cap and a pause word.'\n> B: 'And a recap at the end.'\n\n## Observations\n\n- Lack of structure leads to overflow and reactivity.\n- Fatigue reduces regulation and empathy.\n\n## Dynamics\n\n- Unbounded conflict expands; no shared closure.\n- Both want containment to stay within tolerance.\n\n## Insights\n\n- Timebox hard topics; use timers and recap notes.\n- Define pause words and cooldown protocols.\n- Schedule debrief and next steps.\n\n**Related:** [[Boundary_Models]], [[Trauma-Informed Care (TIC)]], [[Analysis Prompt - Conflict]]\n"
@@ -3409,9 +3088,7 @@
               "mtime_utc": "2025-10-02T21:47:06.243058Z",
               "frontmatter": {
                 "title": "EFT Example (Long)",
-                "tags": [
-                  "reference"
-                ],
+                "tags": ["reference"],
                 "type": "reference"
               },
               "content": "<!-- @format -->\n\n# 🗣 Example Analysis: Emotionally Focused Therapy (EFT)\n\n## Transcript Excerpt\n\n> A: 'You don’t care when I cry.'\n> B: 'I do care—I just freeze.'\n> A: 'It feels like I’m alone with my feelings.'\n> B: 'I’m afraid I’ll make it worse.'\n> A: 'I need to feel you with me.'\n> B: 'I want to be there; I’m scared and unsure how.'\n\n## Observations\n\n- Secondary emotions (criticism/defensiveness) mask primary emotions (fear, longing).\n- Cycle: pursue (A) ↔ withdraw (B).\n- Attachment needs unmet: accessibility, responsiveness, engagement.\n\n## Dynamics\n\n- Negative cycle organizes behavior and blocks bonding events.\n- Both partners misread intent due to the cycle.\n\n## Insights\n\n- Name the cycle as the problem ('us vs. the cycle').\n- Structure an enactment: A risks vulnerability; B responds with presence.\n- Reinforce A.R.E. moments to build secure bonding.\n\n**Related:** [[Attachment_Theory]], [[Polyvagal Theory]], [[Analysis Prompt - Repair Attempts]]\n"
@@ -3424,9 +3101,7 @@
               "mtime_utc": "2025-10-02T21:47:06.243058Z",
               "frontmatter": {
                 "title": "Empowerment Triangle Example (Long)",
-                "tags": [
-                  "reference"
-                ],
+                "tags": ["reference"],
                 "type": "reference"
               },
               "content": "<!-- @format -->\n\n# 🗣 Example Analysis: Empowerment Triangle\n\n## Transcript Excerpt\n\n> A: 'This problem is impossible.'\n> B: 'What’s one small next step we could try?'\n> A: 'Maybe we can draft a plan.'\n> B: 'I can ask a few guiding questions.'\n> A: 'Challenge me if I avoid the hard parts.'\n\n## Observations\n\n- Creator stance replaces Victim posture.\n- Coach uses inquiry; Challenger sets growth edges.\n\n## Dynamics\n\n- Agency increases; blame decreases.\n- Collaborative problem-solving emerges.\n\n## Insights\n\n- Reframe 'problem' → 'project' with clear scope.\n- Use coaching questions before advice.\n- Offer caring challenge with consent.\n\n**Related:** [[Karpman_Drama_Triangle]], [[Systems_Thinking]], [[Analysis Prompt - Repair Attempts]]\n"
@@ -3439,9 +3114,7 @@
               "mtime_utc": "2025-10-02T21:47:06.243058Z",
               "frontmatter": {
                 "title": "GPT Master Prompt Example",
-                "tags": [
-                  "reference"
-                ],
+                "tags": ["reference"],
                 "type": "reference"
               },
               "content": "<!-- @format -->\n\n# 🗣 Example Analysis: GPT Relational Analysis Prompt\n\n## Transcript Excerpt\n\n> A: 'You always leave when I need you.'\n> B: 'I feel trapped when you cry.'\n> A: 'So I’m too much for you.'\n> B: 'I don’t know how to help.'\n\n## Observations\n\n- A’s Exile part: abandonment fear (IFS).\n- B’s Firefighter part: escape strategy (IFS).\n- Polyvagal: A sympathetic mobilization, B dorsal collapse.\n\n## Dynamics\n\n- Negative cycle: protest ↔ withdrawal.\n- Roles oscillate: Victim ↔ Persecutor ↔ Withdrawn.\n\n## Insights\n\n- Invite parts language (IFS).\n- Coach presence cues (Polyvagal/EFT).\n- Translate judgments into needs/requests (NVC).\n\n**Related:** [[Internal_Family_Systems]], [[Polyvagal Theory]], [[Analysis Prompt - Conflict]]\n"
@@ -3454,9 +3127,7 @@
               "mtime_utc": "2025-10-02T21:47:06.243058Z",
               "frontmatter": {
                 "title": "Gottman Method Example (Long)",
-                "tags": [
-                  "reference"
-                ],
+                "tags": ["reference"],
                 "type": "reference"
               },
               "content": "<!-- @format -->\n\n# 🗣 Example Analysis: Gottman Method\n\n## Transcript Excerpt\n\n> A: 'You never appreciate what I do.'\n> B: 'You always complain.'\n> A: 'I just want a thank you.'\n> B: 'I want you to stop attacking me.'\n> A: 'Can we try something different?'\n\n## Observations\n\n- Four Horsemen present: criticism ↔ defensiveness.\n- Bids for connection missed; maps of inner world thin.\n\n## Dynamics\n\n- Negative sentiment override; failed repairs.\n- No rituals of connection in place.\n\n## Insights\n\n- Use softened startup and accept influence.\n- Replace Horsemen with antidotes (e.g., build appreciation).\n- Add daily 'stress-reducing conversation' ritual.\n\n**Related:** [[Emotionally_Focused_Therapy]], [[Attachment_Theory]], [[Analysis Prompt - Repair Attempts]]\n"
@@ -3469,9 +3140,7 @@
               "mtime_utc": "2025-10-02T21:47:06.243058Z",
               "frontmatter": {
                 "title": "IFS Example",
-                "tags": [
-                  "reference"
-                ],
+                "tags": ["reference"],
                 "type": "reference"
               },
               "content": "<!-- @format -->\n\n# 🗣 Example Analysis: Internal Family Systems (IFS)\n\n## Transcript Excerpt\n\n> A: 'You never support me when I’m stressed.'\n> B: 'That’s unfair—I do a lot for you.'\n> A: 'But when I cry, you disappear.'\n> B: 'A part of me just freezes and wants to leave.'\n> A: 'And a part of me feels abandoned all over again.'\n\n## Observations\n\n- A’s Exile (fear of abandonment) blends with Critic part.\n- B’s Firefighter part avoids emotional overwhelm.\n- Neither speaks from Self-energy; polarization dominates.\n\n## Dynamics\n\n- Protectors collide: Critic vs. Avoidant Firefighter.\n- Underlying Exile pain unseen by both partners.\n\n## Insights\n\n- Invite parts language: 'A part of me…' instead of accusations.\n- Pause for unblending and Self-access.\n- Encourage Self-to-Self dialogue: curiosity, compassion.\n\n**Related:** [[Narrative_Therapy]], [[Nonviolent_Communication]], [[Analysis Prompt - Conflict]]\n"
@@ -3484,9 +3153,7 @@
               "mtime_utc": "2025-10-02T21:47:06.243058Z",
               "frontmatter": {
                 "title": "Intersectional Feminist Psychology Example (Long)",
-                "tags": [
-                  "reference"
-                ],
+                "tags": ["reference"],
                 "type": "reference"
               },
               "content": "<!-- @format -->\n\n# 🗣 Example Analysis: Intersectional Feminist Psychology\n\n## Transcript Excerpt\n\n> A: 'When jokes target my identity, I freeze.'\n> B: 'We tease everyone; it’s not personal.'\n> A: 'It lands differently for me.'\n> B: 'I didn’t realize the impact.'\n\n## Observations\n\n- Overlapping identities shape harm and risk.\n- Impact differs from intent; safety varies by context.\n\n## Dynamics\n\n- Normalization of harm via 'equal-opportunity' framing.\n- Power-aware empathy missing.\n\n## Insights\n\n- Adopt impact-first feedback norms.\n- Add consent checks for humor topics.\n- Include identity-informed safety agreements.\n\n**Related:** [[Liberation Psychology]], [[Consent_Culture]], [[Analysis Prompt - Repair Attempts]]\n"
@@ -3499,9 +3166,7 @@
               "mtime_utc": "2025-10-02T21:47:06.243058Z",
               "frontmatter": {
                 "title": "Karpman Drama Triangle Example (Long)",
-                "tags": [
-                  "reference"
-                ],
+                "tags": ["reference"],
                 "type": "reference"
               },
               "content": "<!-- @format -->\n\n# 🗣 Example Analysis: Karpman Drama Triangle\n\n## Transcript Excerpt\n\n> A: 'You ruined the evening.'\n> B: 'It’s all my fault; I’m useless.'\n> C: 'A, stop attacking B—I’ll fix this.'\n> A: 'Fine, I’ll do everything myself.'\n\n## Observations\n\n- Roles active: Persecutor (A), Victim (B), Rescuer (C).\n- Rapid role shifts likely if challenged.\n\n## Dynamics\n\n- Drama fueled by blame/rescue; no needs stated.\n- Payoff: avoidance of vulnerability and responsibility.\n\n## Insights\n\n- Decline role invitations; name needs/requests.\n- Shift to [[Empowerment_Triangle]] (Creator/Coach/Challenger).\n- Establish boundaries and clarity of responsibilities.\n\n**Related:** [[Empowerment_Triangle]], [[Transactional_Analysis]], [[Analysis Prompt - Conflict]]\n"
@@ -3514,9 +3179,7 @@
               "mtime_utc": "2025-10-02T21:47:06.244058Z",
               "frontmatter": {
                 "title": "Liberation Psychology Example (Long)",
-                "tags": [
-                  "reference"
-                ],
+                "tags": ["reference"],
                 "type": "reference"
               },
               "content": "<!-- @format -->\n\n# 🗣 Example Analysis: Liberation Psychology\n\n## Transcript Excerpt\n\n> A: 'I’m the only person like me at work.'\n> B: 'I don’t get why that matters in our team.'\n> A: 'It affects how safe I feel speaking up.'\n> B: 'I hadn’t considered that.'\n\n## Observations\n\n- Context of marginalization affects safety and voice.\n- Micro-to-macro power dynamics shape interactions.\n\n## Dynamics\n\n- Silencing via lack of contextual empathy.\n- Opportunity for critical consciousness and allyship.\n\n## Insights\n\n- Name context and power explicitly.\n- Create structures for voice and safety.\n- Co-design norms that counter structural risks.\n\n**Related:** [[Intersectional_Feminist_Psychology]], [[Consent_Culture]], [[Analysis Prompt - Conflict]]\n"
@@ -3529,9 +3192,7 @@
               "mtime_utc": "2025-10-02T21:47:06.244058Z",
               "frontmatter": {
                 "title": "NVC Example (Long)",
-                "tags": [
-                  "reference"
-                ],
+                "tags": ["reference"],
                 "type": "reference"
               },
               "content": "<!-- @format -->\n\n# 🗣 Example Analysis: Nonviolent Communication (NVC)\n\n## Transcript Excerpt\n\n> A: 'You’re selfish; you never think of me.'\n> B: 'You’re always judging me.'\n> A: 'I want you to show you care.'\n> B: 'I do care, but I feel attacked.'\n> A: 'I’m scared I don’t matter.'\n> B: 'I want to get this right but I don’t know how.'\n\n## Observations\n\n- Judgments replace observations, triggering defensiveness.\n- Feelings and needs not explicitly named.\n- Requests absent or implied.\n\n## Dynamics\n\n- Criticism ↔ defensiveness loop (Gottman Horsemen).\n- Escalation due to unmet needs and lack of clarity.\n\n## Insights\n\n- Translate to OFNR: observation, feeling, need, request.\n- Model: 'When the dishes pile up, I feel overwhelmed; I need support; would you wash them tonight?'\n- Practice empathy before problem-solving.\n\n**Related:** [[Transactional_Analysis]], [[Gottman_Method]], [[Analysis Prompt - Conflict]]\n"
@@ -3544,9 +3205,7 @@
               "mtime_utc": "2025-10-02T21:47:06.244058Z",
               "frontmatter": {
                 "title": "Narrative Therapy Example (Long)",
-                "tags": [
-                  "reference"
-                ],
+                "tags": ["reference"],
                 "type": "reference"
               },
               "content": "<!-- @format -->\n\n# 🗣 Example Analysis: Narrative Therapy\n\n## Transcript Excerpt\n\n> A: 'Procrastination ruins my life.'\n> B: 'So the Problem convinces you to delay?'\n> A: 'It tells me I’ll fail anyway.'\n> B: 'When have you acted despite it?'\n> A: 'When I text a friend to co-work.'\n\n## Observations\n\n- Externalizing the Problem separates identity from struggle.\n- Unique outcomes reveal competencies and values.\n\n## Dynamics\n\n- Story shifts from defect to preference and skill.\n- Audience/witnessing consolidates change.\n\n## Insights\n\n- Name the Problem’s tactics and counter-practices.\n- Collect exceptions; re-author preferred identity.\n- Invite witnesses to thicken the preferred story.\n\n**Related:** [[Internal_Family_Systems]], [[Nonviolent_Communication]], [[Analysis Prompt - Conflict]]\n"
@@ -3559,9 +3218,7 @@
               "mtime_utc": "2025-10-02T21:47:06.244058Z",
               "frontmatter": {
                 "title": "Polyvagal Example",
-                "tags": [
-                  "reference"
-                ],
+                "tags": ["reference"],
                 "type": "reference"
               },
               "content": "<!-- @format -->\n\n# 🗣 Example Analysis: Polyvagal Theory\n\n## Transcript Excerpt\n\n> A: 'Why are you ignoring me?'\n> B: 'I just can’t deal with this right now.'\n> A: 'So you’re shutting me out again.'\n> B: 'I feel trapped when you raise your voice.'\n> A: 'I only raise my voice because I feel desperate.'\n\n## Observations\n\n- A escalates into sympathetic mobilization (fight energy).\n- B shifts into dorsal vagal shutdown (avoidance).\n- Cycle of pursue (A) vs withdraw (B).\n\n## Dynamics\n\n- Mismatched states lead to misattunement.\n- Both partners interpret survival strategies as rejection.\n\n## Insights\n\n- Encourage explicit 'pause' agreements when dysregulated.\n- B can signal presence nonverbally to reduce A’s panic.\n- A can soften protest with needs language (NVC).\n\n**Related:** [[Attachment_Theory]], [[Emotionally_Focused_Therapy]], [[Analysis Prompt - Attachment]]\n"
@@ -3574,9 +3231,7 @@
               "mtime_utc": "2025-10-02T21:47:06.244058Z",
               "frontmatter": {
                 "title": "Relational Theory Example (Long)",
-                "tags": [
-                  "reference"
-                ],
+                "tags": ["reference"],
                 "type": "reference"
               },
               "content": "<!-- @format -->\n\n# 🗣 Example Analysis: Relational Theory\n\n## Transcript Excerpt\n\n> A: 'I don’t feel like myself around you lately.'\n> B: 'I’ve been keeping things inside to avoid fights.'\n> A: 'So we’re both hiding.'\n> B: 'I miss feeling close and honest.'\n> A: 'Me too; I want to try again.'\n\n## Observations\n\n- Mutuality reduced; authenticity suppressed to avoid conflict.\n- Disconnections unaddressed; no explicit repair attempts.\n\n## Dynamics\n\n- Cycle of protective distance undermines growth-fostering connection.\n- Both long for mutual empathy and authenticity.\n\n## Insights\n\n- Name the disconnection; schedule structured repair dialogues.\n- Practice mutual empathy rounds (speak/listen/reflect).\n- Re-anchor norms: authenticity with care.\n\n**Related:** [[Consent_Culture]], [[Attachment_Theory]], [[Analysis Prompt - Repair Attempts]]\n"
@@ -3589,9 +3244,7 @@
               "mtime_utc": "2025-10-02T21:47:06.244058Z",
               "frontmatter": {
                 "title": "Repair Attempt Example",
-                "tags": [
-                  "reference"
-                ],
+                "tags": ["reference"],
                 "type": "reference"
               },
               "content": "<!-- @format -->\n\n# 🗣 Example Analysis: Repair Attempt Example\n\n## Transcript Excerpt\n\n> A: 'I'm sorry I snapped at you earlier.'\n> B: 'Yeah, whatever.'\n\n## Observations\n\n- A offers repair attempt (apology).\n- B dismissive, still in defensive state.\n- Polyvagal: A ventral, B sympathetic/dorsal.\n- Attachment: A secure-ish, B avoidant protest.\n\n## Dynamics\n\n- Missed repair attempt increases cycle.\n- Possible flooding prevents receptivity.\n\n## Insights\n\n- Coach B to pause and regulate before responding.\n- Reinforce value of repair attempts.\n- Encourage ritual of debrief after conflict.\n"
@@ -3604,9 +3257,7 @@
               "mtime_utc": "2025-10-02T21:47:06.244058Z",
               "frontmatter": {
                 "title": "Repair Attempts Prompt Example",
-                "tags": [
-                  "reference"
-                ],
+                "tags": ["reference"],
                 "type": "reference"
               },
               "content": "<!-- @format -->\n\n# 🗣 Example Analysis: Analysis Prompt - Repair Attempts\n\n## Transcript Excerpt\n\n> A: 'I didn’t mean to snap earlier.'\n> B: 'You always say that but never change.'\n> A: 'I really am sorry.'\n> B: 'I can’t trust it yet.'\n\n## Observations\n\n- A initiates repair attempt (apology).\n- B’s defensive wall blocks acceptance.\n- Flooding prevents receptivity (Polyvagal).\n\n## Dynamics\n\n- Missed repair attempt → cycle continues.\n- Trust deficit reinforces negative sentiment override.\n\n## Insights\n\n- Coach B to regulate before responding.\n- Reinforce repair by pairing apology with action.\n- Add structured debrief ritual after conflict.\n\n**Related:** [[Gottman_Method]], [[Nonviolent_Communication]], [[Analysis Prompt - Repair Attempts]]\n"
@@ -3619,9 +3270,7 @@
               "mtime_utc": "2025-10-02T21:47:06.244058Z",
               "frontmatter": {
                 "title": "Somatic Experiencing Example (Long)",
-                "tags": [
-                  "reference"
-                ],
+                "tags": ["reference"],
                 "type": "reference"
               },
               "content": "<!-- @format -->\n\n# 🗣 Example Analysis: Somatic Experiencing\n\n## Transcript Excerpt\n\n> A: 'My chest tightens when we argue.'\n> B: 'My stomach drops and I go numb.'\n> A: 'I can’t think clearly.'\n> B: 'I want to run away.'\n> A: 'Maybe we can slow down.'\n\n## Observations\n\n- High activation; limited cognitive bandwidth.\n- Incomplete defensive responses (fight/flight/freeze).\n\n## Dynamics\n\n- Escalation sustained by unprocessed activation.\n- Attempts to resolve content without regulation.\n\n## Insights\n\n- Titrate: micropauses, orienting, pendulation.\n- Resource before content (touch object, lengthen exhale).\n- Complete small defensive impulses (press, step, shake).\n\n**Related:** [[Polyvagal Theory]], [[Trauma-Informed Care (TIC)]], [[Analysis Prompt - Conflict]]\n"
@@ -3634,9 +3283,7 @@
               "mtime_utc": "2025-10-02T21:47:06.244058Z",
               "frontmatter": {
                 "title": "Systems Thinking Example (Long)",
-                "tags": [
-                  "reference"
-                ],
+                "tags": ["reference"],
                 "type": "reference"
               },
               "content": "<!-- @format -->\n\n# 🗣 Example Analysis: Systems Thinking\n\n## Transcript Excerpt\n\n> A: 'Why do our fights always spiral?'\n> B: 'Because you won’t drop things.'\n> A: 'I push because you avoid.'\n> B: 'I avoid because you push.'\n> A: 'We’re stuck in a loop.'\n> B: 'I don’t know how to change it.'\n\n## Observations\n\n- Reinforcing feedback loop: pursue → withdraw → pursue (stronger) → withdraw (deeper).\n- Delay effects: post-conflict distance increases future sensitivity.\n\n## Dynamics\n\n- Attribution error: each blames the other’s personality, not the loop.\n- No leverage points identified.\n\n## Insights\n\n- Insert a timed pause as a balancing loop (structured break).\n- Add meta-communication checkpoints (What loop are we in?).\n- Small experiments; measure system response rather than blame.\n\n**Related:** [[Relational Theory]], [[Karpman_Drama_Triangle]], [[Gottman_Method]]\n"
@@ -3649,9 +3296,7 @@
               "mtime_utc": "2025-10-02T21:47:06.244058Z",
               "frontmatter": {
                 "title": "Transactional Analysis Example (Long)",
-                "tags": [
-                  "reference"
-                ],
+                "tags": ["reference"],
                 "type": "reference"
               },
               "content": "<!-- @format -->\n\n# 🗣 Example Analysis: Transactional Analysis\n\n## Transcript Excerpt\n\n> A: 'You’re late again!'\n> B: 'Stop treating me like a child.'\n> A: 'If you respected me, you’d be on time.'\n> B: 'Maybe if you weren’t so controlling…'\n\n## Observations\n\n- A in Critical Parent; B in Rebellious Child.\n- Crossed transactions escalate conflict.\n\n## Dynamics\n\n- Game invitation: 'Now I’ve Got You, You Son of a…'.\n- Stroke economy skewed toward negative strokes.\n\n## Insights\n\n- Name ego states; invite Adult-to-Adult.\n- Make clean contracts: who/what/when/how.\n- Balance appreciation with clear requests.\n\n**Related:** [[Nonviolent_Communication]], [[Karpman_Drama_Triangle]], [[Analysis Prompt - Conflict]]\n"
@@ -3664,9 +3309,7 @@
               "mtime_utc": "2025-10-02T21:47:06.244058Z",
               "frontmatter": {
                 "title": "Trauma Informed Care Example (Long)",
-                "tags": [
-                  "reference"
-                ],
+                "tags": ["reference"],
                 "type": "reference"
               },
               "content": "<!-- @format -->\n\n# 🗣 Example Analysis: Trauma-Informed Care\n\n## Transcript Excerpt\n\n> A: 'I can’t handle surprise feedback sessions.'\n> B: 'We thought spontaneity kept it casual.'\n> A: 'It spikes my anxiety.'\n> B: 'Let’s schedule and share agenda ahead of time.'\n\n## Observations\n\n- Predictability and choice are core to safety.\n- Unexpected intensity triggers hypervigilance.\n\n## Dynamics\n\n- Good intent without safety design undermines trust.\n- Opportunity to embed choice/collaboration.\n\n## Insights\n\n- Add transparency: agendas, timing, opt-outs.\n- Offer alternatives and pacing options.\n- Use strengths-based, non-pathologizing framing.\n\n**Related:** [[Polyvagal Theory]], [[Consent_Culture]], [[Analysis Prompt - Conflict]]\n"
@@ -3681,9 +3324,7 @@
           "mtime_utc": "2025-10-02T21:47:06.243058Z",
           "frontmatter": {
             "title": "Worked Analyses",
-            "tags": [
-              "reference"
-            ],
+            "tags": ["reference"],
             "type": "reference"
           },
           "content": "<!-- @format -->\n\n# 🧪 Worked Analyses\n\n- [[Attachment Example (Long)]]\n- [[Attachment Prompt Example]]\n- [[Boundary Models Example (Long)]]\n- [[Conflict Example]]\n- [[Conflict Prompt Example]]\n- [[Containment Models Example (Long)]]\n- [[EFT Example (Long)]]\n- [[Empowerment Triangle Example (Long)]]\n- [[GPT Master Prompt Example]]\n- [[Gottman Method Example (Long)]]\n- [[References/Worked Analyses/Internal Family Systems (IFS)]]\n- [[Intersectional Feminist Psychology Example (Long)]]\n- [[Karpman Drama Triangle Example (Long)]]\n- [[Liberation Psychology Example (Long)]]\n- [[NVC Example (Long)]]\n- [[Narrative Therapy Example (Long)]]\n- [[Polyvagal Example]]\n- [[Relational Theory Example (Long)]]\n- [[Repair Attempt Example]]\n- [[Repair Attempts Prompt Example]]\n- [[Somatic Experiencing Example (Long)]]\n- [[Systems Thinking Example (Long)]]\n- [[Transactional Analysis Example (Long)]]\n- [[Trauma-Informed Care Example (Long)]]\n"
@@ -3698,10 +3339,7 @@
       "mtime_utc": "2025-10-02T21:47:06.243058Z",
       "frontmatter": {
         "title": "References Overview",
-        "tags": [
-          "meta",
-          "overview"
-        ],
+        "tags": ["meta", "overview"],
         "type": "overview"
       },
       "content": "<!-- @format -->\n\n# 📖 References Overview\n\nReferences are **external or supporting resources**.  \nThey provide background knowledge, curated reading, and example applications.\n\n---\n\n## Reference Notes\n\n- [[Reading List]]\n- [[Key Researchers]]\n- [[Example Conversations]]\n- [[Glossary]]\n- [[Worked Analyses]]\n- [[Case Study Examples]]\n"
@@ -3718,9 +3356,7 @@
           "mtime_utc": "2025-10-02T21:47:06.244058Z",
           "frontmatter": {
             "title": "Conflict Repair Template",
-            "tags": [
-              "template"
-            ],
+            "tags": ["template"],
             "tag type": "template"
           },
           "content": "<!-- @format -->\n\n## Purpose\n\nThis template supports structured repair conversations following relational conflict. It helps both parties slow down, validate impact, and co-create repair intentions.\n\n## Instructions\n\nUse this template as a guided conversation or journaling aid. Each section represents a turn or prompt. You can complete it solo or with a partner. Maintain a tone of curiosity, accountability, and care.\n\n## Template\n\n```markdown\n**1. Acknowledgment of Impact**\n\n\"I want to acknowledge that when I [describe action or behavior], it had an impact on you. I imagine that might have felt [guess feelings], and that wasn’t my intention.\"\n\n**2. Naming My Own Experience (without blame)**\n\n\"When that happened, I was feeling [your feelings] and part of me was trying to [protect, express, manage something].\"\n\n**3. Listening for Understanding**\n\n\"I’d really like to understand more about what that was like for you. What felt most painful or difficult?\"\n\n**4. Naming the Pattern (if relevant)**\n\n\"I notice this kind of thing happens when [describe recurring dynamic]. I want to interrupt that cycle.\"\n\n**5. Offering Repair**\n\n\"Would it help if I [offer specific action, check-in, structural change]?\"\n\n**6. Reaffirming Care and Choice**\n\n\"I care about you and want us to feel safe with each other. I respect whatever pace or boundary you need right now.\"\n```\n\n## 🔗 Suggested Framework Anchors\n\n[[Conflict Navigation]]\n[[Emotionally_Focused_Therapy]]\n[[Gottman_Method]]\n[[Nonviolent_Communication]]\n"
@@ -3733,9 +3369,7 @@
           "mtime_utc": "2025-10-02T21:47:06.244058Z",
           "frontmatter": {
             "title": "Conversation Analysis Template",
-            "tags": [
-              "template"
-            ],
+            "tags": ["template"],
             "tag type": "template"
           },
           "content": "<!-- @format -->\n\n# Conversation Analysis\n\n## Context\n\nDescribe the conversation background.\n\n## Transcript\n\nPaste dialogue excerpt here.\n\n## Observations\n\n- Emotional tone\n- Nervous system state (Polyvagal, [[Somatic_Experiencing]])\n- Attachment signals\n- Power dynamics\n\n## Framework Analysis\n\n- [[Internal_Family_Systems]]\n- [[Nonviolent_Communication]]\n- [[Polyvagal_Theory]]\n\n## Insights & Reflections\n\nSummarize key patterns, themes, and possible reframes.\n"
@@ -3748,9 +3382,7 @@
           "mtime_utc": "2025-10-02T21:47:06.244058Z",
           "frontmatter": {
             "title": "Framework Name (ACRONYM)",
-            "tags": [
-              "template"
-            ],
+            "tags": ["template"],
             "tag type": "template"
           },
           "content": "<!-- @format -->\n\n%% DO NOT USE JUST PLACE HOLDER FOR VALIDATION SCRIPT %%\n"
@@ -3763,9 +3395,7 @@
           "mtime_utc": "2025-10-02T21:47:06.244058Z",
           "frontmatter": {
             "title": "Framework Reference Template",
-            "tags": [
-              "template"
-            ],
+            "tags": ["template"],
             "tag type": "template"
           },
           "content": "<!-- @format -->\n\n## Overview\n\nA clear, concise definition of the framework. Include historical context (e.g., founder, decade, purpose), and its core psychological or relational aim.\n\n> _Example:_ Internal Family Systems (IFS) is a parts-based therapeutic model developed by Richard Schwartz in the 1980s...\n\n## Core Concepts\n\n### [Concept 1]\n\n- Definition and relational significance.\n- Optional example or metaphor.\n\n### [Concept 2]\n\n- Additional details.\n\n(Repeat as needed: 3–5 concepts)\n\n## Applications\n\n- Bullet points or short paragraphs explaining how this model applies in individual, relational, or systemic settings.\n- Emphasize how the framework aids relational analysis, nervous system cues, boundary work, etc.\n\n## Best Practices & Considerations\n\n- Tips for ethical, trauma-informed, or identity-conscious usage.\n- Limitations or known critiques.\n- Adaptations for neurodivergent or marginalized populations.\n\n## Integration & Related Models\n\n- List and link directly to related frameworks (e.g., [[Attachment_Theory]], [[Polyvagal_Theory]]).\n- Note compatibility or tensions across models.\n\n## Example Prompts or Practices\n\n- “What does this part want for you?”\n- “Where do you feel that in your body?”\n- “How would your Wise Mind respond?”\n\n## Citations\n\n- Author, A. (Year). _Title of book_. Publisher.\n- Author, A., & Author, B. (Year). _Title of article_. _Journal Name_, Volume(Issue), pages.\n- Institute. (Year). _Model summary_. URL\n"
@@ -3778,9 +3408,7 @@
           "mtime_utc": "2025-10-02T21:47:06.244058Z",
           "frontmatter": {
             "title": "Person Template",
-            "tags": [
-              "template"
-            ],
+            "tags": ["template"],
             "tag type": "template"
           },
           "content": "<!-- @format -->\n\n# {{title}}\n\n## Background\n\n- Age:\n- Role:\n- Context:\n\n## Traits\n\n-\n\n## Links\n\n%% Conversations or other context files %%\n\n%% NOTE THIS IS A OBSIDIAN TEMPLATE %%\n"
@@ -3793,9 +3421,7 @@
           "mtime_utc": "2025-10-02T21:47:06.244058Z",
           "frontmatter": {
             "title": "Reflection Template",
-            "tags": [
-              "template"
-            ],
+            "tags": ["template"],
             "tag type": "template"
           },
           "content": "<!-- @format -->\n\n# Reflection / IFS Check-in\n\n## Current State\n\nWhat sensations, emotions, or thoughts are most present?\n\n## Parts / Voices\n\n- Part 1: What does it say?\n- Part 2: What does it need?\n\n## Nervous System State\n\nHow regulated or activated do you feel? (Polyvagal)\n\n## Self-Energy\n\nWhat qualities of Self (curiosity, compassion, clarity) are accessible?\n\n## Next Step\n\nWhat small action or reflection would feel supportive?\n"
@@ -3808,9 +3434,7 @@
           "mtime_utc": "2025-10-02T21:47:06.244058Z",
           "frontmatter": {
             "title": "Relational Analysis Data Template",
-            "tags": [
-              "template"
-            ],
+            "tags": ["template"],
             "tag type": "template"
           },
           "content": "<!-- @format -->\n\n# Relational Analysis Data Template\n\nUse this folder to structure your relational data for analysis.\n\n### 📁 `Data/`\n\nA top-level directory where users can organize and upload conversational and relational data.\n\n```\nData/\n├── Conversations/\n│\n├── Reflections/\n│\n├── Agreements_Boundaries/\n│\n├── Relationship_Map/\n│\n├── Context_Notes/\n│\n└── Meta/\n    └── README.md\n```\n\n### 🔍 Folder Descriptions:\n\n- **Conversations/**: Transcripts or summaries of interactions (text, call, voice memo, etc.).\n- **Reflections/**: Journaling entries, parts/IFS check-ins, and insight notes.\n- **Agreements_Boundaries/**: Any explicit or working agreements, consent boundaries, or household/shared norms.\n- **Relationship_Map/**: Visual or textual relationship network map (can include roles, proximity, tension).\n- **Context_Notes/**: Background data about identities, trauma, access needs, or relational intentions.\n- **Meta/**: Info for indexing or customizing the analysis (e.g., tag dictionary, [[Meta/README]]).\n\nExample tags: #attachment, #parts, #boundaries, #repair\n"
@@ -3823,9 +3447,7 @@
           "mtime_utc": "2025-10-02T21:47:06.244058Z",
           "frontmatter": {
             "title": "Relational Mapping Template",
-            "tags": [
-              "template"
-            ],
+            "tags": ["template"],
             "tag type": "template"
           },
           "content": "<!-- @format -->\n\n# Relational Map\n\n## Roles & Dynamics\n\n- Role 1\n- Role 2\n- Role 3\n\n## Boundaries\n\n- Clear / permeable\n- Controlling / rigid\n\n## Power Dynamics\n\n- Who holds influence, resources, or decision-making power?\n\n## Systemic Influences\n\nConsider cultural, social, or structural layers.\n\n## Opportunities for Change\n\nIdentify leverage points for healthier dynamics.\n"
@@ -3840,10 +3462,7 @@
       "mtime_utc": "2025-10-02T21:47:06.244058Z",
       "frontmatter": {
         "title": "Templates Overview",
-        "tags": [
-          "meta",
-          "overview"
-        ],
+        "tags": ["meta", "overview"],
         "type": "overview"
       },
       "content": "<!-- @format -->\n\n# 📑 Templates Overview\n\nTemplates are **reusable note structures** that keep formatting consistent.  \nUse them whenever you create a new framework, prompt, or reflection.\n\n---\n\n## Available Templates\n\n- [[Conversation Analysis Template]]\n- [[Conflict Repair Template]]\n- [[Framework Reference Template]]\n- [[Reflection Template]]\n- [[Relational Mapping Template]]\n- [[Relational Analysis Data Template]]\n- [[Person Template]]\n"

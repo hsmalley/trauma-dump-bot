@@ -69,4 +69,4 @@ The act is often desired for specific psychological and relational reasons:
 - [[FRIES_Consent]]
 - [[Risk-Aware_Consensual_Kink_RACK]]
 - [[Boundary_Models]]
-- [[BDSM]]
+- [[Bondage_Discipline_Sadism_Masochism]]

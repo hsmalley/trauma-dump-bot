@@ -94,7 +94,7 @@ Consent is a prerequisite for building secure attachment bonds based on trust an
 
 ### 🔗 Related Frameworks and Further Reading
 
-- [[BDSM]] (Ethical BDSM practices are foundational to modern consent culture)
+- [[Bondage_Discipline_Sadism_Masochism]] (Ethical BDSM practices are foundational to modern consent culture)
 - [[Boundary_Models]]
 - [[Nonviolent_Communication_NVC]]
 - [[Polyvagal_Theory_PVT]]

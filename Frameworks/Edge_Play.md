@@ -137,7 +137,7 @@ Edge Play is only viable in relationships characterized by high relational secur
 
 ### 🔗 Related Frameworks and Further Reading
 
-- [[BDSM]]
+- [[Bondage_Discipline_Sadism_Masochism]]
 - [[Consensual_Non_Consent_CNC]]
 - [[Polyvagal_Theory_PVT]]
 - [[Attachment_Theory]]

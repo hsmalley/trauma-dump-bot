@@ -96,7 +96,7 @@ FLR requires and reinforces a stable, communicated **Secure Attachment** base to
 
 ### 🔗 Related Frameworks and Further Reading
 
-- [[BDSM]]
+- [[Bondage_Discipline_Sadism_Masochism]]
 - [[Power_Dynamics]]
 - [[Boundary_Models]]
 - [[Consent_Culture]]

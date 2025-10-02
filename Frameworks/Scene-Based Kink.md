@@ -67,6 +67,6 @@ The clear boundaries of scene-based play are essential for maximizing nervous sy
 ### 🔗 Related Frameworks and Further Reading
 
 - [[Power_Exchange]] (As the more continuous, lifestyle form)
-- [[BDSM]]
+- [[Bondage_Discipline_Sadism_Masochism]]
 - [[Risk-Aware_Consensual_Kink_RACK]]
 - [[FRIES_Consent]]
