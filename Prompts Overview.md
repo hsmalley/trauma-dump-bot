@@ -17,7 +17,7 @@ They are designed to reference frameworks directly and encourage nonjudgmental i
 ## System Prompt
 
 - [[GPT Relational Analysis Prompt]]
-- [[Run Prompt from JSON]]
+- [[System_Prompt_JSON-v1]]
 
 ## Analysis Prompts
 

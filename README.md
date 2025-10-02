@@ -29,8 +29,10 @@ Use the chatgpt bot if you want you the quickest way.
 
 However to use on your own chat bot:
 
-- Download the [[vault.json]] file
-- Grab the Prompt from Prompts/System/[[Run Prompt from JSON.json]]
+- Download the vault.json file
+- Grab the Prompt from Prompts/System/System_Prompt_JSON.md (the System_Prompt_JSON_mini.md is also a very fast way of getting it loaded)
+- Upload vault.json and past in the prompt
+- 🚀 Bob es tu tio | via con dios 🫡
 
 ## TODO
 
