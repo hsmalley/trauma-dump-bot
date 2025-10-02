@@ -1,6 +1,8 @@
 ---
 title: Template Note Standardization Prompt
-tags: [template, meta]
+tags:
+  - template
+  - meta
 type: template
 ---
 
@@ -16,16 +18,20 @@ type: template
 
 #### 1. Standardize Format
 
-- Apply structured YAML frontmatter:
-- include:
-
-```
----
-title: [Template Name]         # Human-readable title of the template
-tags: [template]               # Must include the 'template'
-tag type: template                 # Static value for classification
----
-```
+- Apply structured YAML frontmatter, for exampe:
+  ```yaml
+  ---
+  title: Template Name
+  aliases:
+    - ACRONYM
+    - Alternate Phrasings
+  tags:
+    - template # MUST INCLUDE
+    - reference
+    - relevant-tags
+  type: framework
+  ---
+  ```
 
 If frontmatter is missing or incomplete, add or update it accordingly.
 
@@ -55,3 +61,7 @@ Links must be relative or Obsidian-compatible (e.g., `[[Frameworks/NVC]]`).
 - Do not modify template content beyond formatting.
 - Preserve code and syntax fidelity inside fenced blocks.
 - Keep each file minimal and plug-and-play ready.
+
+---
+
+This prompt ensures templates are coherent, rich, and cross-linked for analysis and learning.

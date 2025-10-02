@@ -1,6 +1,8 @@
 ---
 title: Meta Note Expansion Prompt
-tags: [template, meta]
+tags:
+  - template
+  - meta
 type: template
 ---
 
@@ -16,15 +18,16 @@ type: template
 
 #### 1. Standardize Format
 
-- Apply structured YAML frontmatter
-- Include:
+- Apply structured YAML frontmatter like:
   ```yaml
   ---
-  title: [Note Title]
-  tags: [meta]
+  title: Note Title
+  tags: meta
   type: meta
   ---
   ```
+
+If frontmatter is missing or incomplete, add or update it accordingly.
 
 #### 2. Use Clear Structure
 
@@ -40,9 +43,14 @@ type: template
 
 #### 5. Provide User with the files
 
-- Provide the user with updated markdown formatted files
-- Bundle those files into a zip
+- Provide the user with updated in valid markdown formatted files
+- Bundle those files into a zip named `standardized_meta.zip`
+
+### ⚠️ Constraints
+
+- Preserve code and syntax fidelity inside fenced blocks.
+- Meta notes guide vault upkeep—keep them lean, legible, and linked.
 
 ---
 
-Meta notes guide vault upkeep—keep them lean, legible, and linked.
+This prompt ensures meta files are coherent, rich, and cross-linked for vault upkeep

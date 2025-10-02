@@ -1,8 +1,9 @@
 ---
 title: Prompts Overview
 tags:
-  - note
-type: note
+  - meta
+  - overview
+type: overview
 ---
 
 <!-- @format -->

@@ -128,8 +128,8 @@ A diagnosis of BPD typically involves a pervasive pattern of instability in inte
 - [[Attachment Theory]] — protest behaviors and internal working models
 - [[Internal Family Systems (IFS)]] — parts, exile healing, unblending
 - [[Polyvagal Theory (PVT)]] — state awareness, co-regulation
-- [[Trauma-Informed Care]] — non-pathologizing views of dysregulation
-- [[DBT]] — distress tolerance, wise mind, interpersonal effectiveness
+- [[Trauma-Informed Care (TIC)]] — non-pathologizing views of dysregulation
+- [[Dialectical Behavior Therapy (DBT)]] — distress tolerance, wise mind, interpersonal effectiveness
 - [[Compassion-Focused Therapy (CFT)]] — shame repair and soothing systems
 
 ## 📚 Further Resources

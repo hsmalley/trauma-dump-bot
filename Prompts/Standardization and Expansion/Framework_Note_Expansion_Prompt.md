@@ -1,6 +1,8 @@
 ---
 title: Framework Note Expansion Prompt
-tags: [template, framework]
+tags:
+  - template
+  - framework
 type: template
 ---
 
@@ -16,23 +18,53 @@ type: template
 
 #### 1. Standardize Format
 
-- Apply structured YAML frontmatter:
+- Apply structured YAML frontmatter, for exampe:
   ```yaml
   ---
   title: Full Framework Name (ACRONYM)
-  tags: [framework, relevant-tags]
-  aliases: [ACRONYM, Alternate Phrasings]
-  type: framework
+  aliases:
+    - ACRONYM
+    - Alternate Phrasings
+  tags:
+    - framework # MUST INCLUDE
+    - reference
+    - relevant-tags
+  type: framework # Static value for classification
   ---
   ```
-- Use consistent markdown headings:
+
+If frontmatter is missing or incomplete, add or update it accordingly.
+
+- Use consistent markdown headings for example:
   - `## Overview`
+  - `## Core`
+  - `## Key Elements`
   - `## Core Concepts`
+  - `## Core Traits and Themes (Trauma Lens)`
+  - `## Definition and Core Traits (Clinical + Contextual)`
+  - `## Lived Experience`
+  - `## Common Misconceptions`
+  - `## Misunderstandings and Relational Reframes`
+  - `## Nervous System`
+  - `## Nervous System + Parts Work Lens`
+  - `## Attachment`
+  - `## Attachment & Protest`
+  - `## Attachment and Relational Themes`
   - `## Applications`
+  - `## Challenges and Strengths`
+  - `## Strategies and Support Practices`
   - `## Best Practices & Considerations`
-  - `## Integration & Related Models`
+  - `## Key Question Types`
+  - `## Reflection Prompts`
   - `## Example Prompts or Practices`
+  - `## Clinical Overview (DSM-5 Criteria)`
+  - `## Clinical Overview (ICD Criteria)`
+  - `## Integration & Related Models`
+  - `## Related Frameworks`
+  - `## Further Reading`
+  - `## Cautions & Ethics`
   - `## Citations`
+  -
 
 #### 2. Expand Content
 
@@ -58,14 +90,19 @@ type: template
 #### 5. Optional Enhancements
 
 - Add tentative limitations or assumptions of the model.
-- Offer 2–3 starter prompts for applying the model.
+- Offer 3–4 starter prompts for applying the model.
 - Consider whether this framework is best used individually, relationally, or systemically.
 
 #### 6. Provide User with the files
 
-- Provide the user with updated markdown formatted files
-- Bundle those files into a zip
+- Provide the user with updated in valid markdown formatted files
+- Bundle those files into a zip named `standardized_frameworks.zip`
+
+### ⚠️ Constraints
+
+- Preserve code and syntax fidelity inside fenced blocks.
+- Keep each file plug-and-play ready.
 
 ---
 
-This prompt ensures framework notes are coherent, rich, and cross-linked for analysis and learning.
+This prompt ensures framework are coherent, rich, and cross-linked for analysis and learning.

@@ -1,6 +1,8 @@
 ---
 title: Reference Note Expansion Prompt
-tags: [template, reference]
+tags:
+  - template
+  - reference
 type: template
 ---
 
@@ -25,7 +27,7 @@ type: template
   type: reference
   ---
   ```
-- Use consistent headings:
+- Use consistent headings like:
   - `## Overview`
   - `## Key Entries` (or `## Key Concepts`)
   - `## Relevance`
@@ -52,13 +54,10 @@ type: template
 
 #### 4. Citations
 
-- End each note with:
-
+- End each note with a `## Citations` section with APA-style formatting:
   ```markdown
-  ## Citations
-
-  - Author, A. (Year). _Title of Book_. Publisher.
-  - Author, B. & Author, C. (Year). _Article Title_. _Journal_, Volume(Issue), pages.
+  - Schwartz, R. (1995). _Internal Family Systems Therapy_. Guilford Press.
+  - Porges, S. W. (2011). _The Polyvagal Theory_. Norton.
   ```
 
 #### 5. Optional Enhancements

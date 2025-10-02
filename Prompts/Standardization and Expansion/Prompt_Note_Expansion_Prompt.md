@@ -1,6 +1,8 @@
 ---
 title: Prompt Note Expansion Prompt
-tags: [template, prompt]
+tags:
+  - template
+  - prompt
 type: template
 ---
 

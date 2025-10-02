@@ -85,9 +85,9 @@ TPE is not a literal loss of autonomy but a **highly structured, negotiated rela
 
 ## 🔗 Related Frameworks
 
-- [[BDSM]] — overview of bdsm concepts and relevance to relationships
+- [[BSDM]] — overview of bdsm concepts and relevance to relationships
 - [[Consent Culture]] — collaborative check-ins around needs, pacing, and support
 - [[Containment Models]] — where emotional energy needs boundaries or holding
 - [[Internal Family Systems (IFS)]] — exploring parts involved (insecure, excited, voyeur, self-critical)
-- [[Risk-Aware Consensual Kink]] — overview of risk-aware consensual kink concepts and relevance to relationships
-- [[Trauma-Informed Care]] — recognition of chronic misattunement and sensory trauma
+- [[Risk-Aware Consensual Kink (RACK)]] — overview of risk-aware consensual kink concepts and relevance to relationships
+- [[Trauma-Informed Care (TIC)]] — recognition of chronic misattunement and sensory trauma
