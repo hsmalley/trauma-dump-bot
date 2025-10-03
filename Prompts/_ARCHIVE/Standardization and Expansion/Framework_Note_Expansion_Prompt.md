@@ -18,6 +18,10 @@ This prompt supports **therapeutic**, **identity-based**, **kink-informed**, **r
 - **Media section only when valid embed found**
 - **Omit empty optional sections**
 
+- **Do not include human-readable label prefixes inside frontmatter values.**  
+  ❌ Bad: `source: Synthesis: kink scholarship, sexual-health guidance`  
+  ✅ Good: `source: kink scholarship, sexual-health guidance`
+
 ---
 
 ### 🧠 YAML Frontmatter (Obsidian academic-ready)
@@ -60,19 +64,20 @@ Use only `A-Z`, `a-z`, `0-9`, and `_` in tags, related, and file names. Aliases 
 7. 🔄 Misunderstandings and Reframes (table)
 8. ⚖️ Relational Challenges and Strengths (table)
 9. 🛠️ Strategies, Prompts, and Practices
-10. 🛡️ Consent, Safety & Negotiation _(optional, if Kink/Sexuality)_
-11. 🧭 Roles, Archetypes & Dynamics _(optional)_
-12. 🔁 Scripts, Rituals & Repair _(optional)_
-13. 🏗️ Structures & Agreements _(optional, for Relationship Models)_
-14. 💠 Mutual Aid & Collective Access _(optional)_
-15. 🌀 Creative, Mythic & Spiritual Overlays _(optional)_
-16. 🎭 Symbolic Narrative & Story Mechanics _(optional)_
-17. 📘 Glossary or Concept Index _(optional)_
-18. 🔍 Cross-Framework Patterns _(optional)_
-19. 🧪 Use Cases or Integration _(optional)_
-20. 🔗 Related Frameworks and Further Reading
+10. 🪢 Associated Kinks _(optional, if Kink/Sexuality)_
+11. 🛡️ Consent, Safety & Negotiation _(optional, if Kink/Sexuality)_
+12. 🧭 Roles, Archetypes & Dynamics _(optional)_
+13. 🔁 Scripts, Rituals & Repair _(optional)_
+14. 🏗️ Structures & Agreements _(optional, for Relationship Models)_
+15. 💠 Mutual Aid & Collective Access _(optional)_
+16. 🌀 Creative, Mythic & Spiritual Overlays _(optional)_
+17. 🎭 Symbolic Narrative & Story Mechanics _(optional)_
+18. 📘 Glossary or Concept Index _(optional)_
+19. 🔍 Cross-Framework Patterns _(optional)_
+20. 🧪 Use Cases or Integration _(optional)_
 21. 🎥 Media & Further Exploration _(optional embed only)_
-22. 📚 Citations & Sources
+22. 🔗 Related Frameworks and Further Reading
+23. 📚 Citations & Sources
 
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "🌱 Breeding Kink — Framework Note"
+title: 🌱 Breeding Kink — Framework Note
 aliases:
-  - "breeding fetish"
-  - "breeding roleplay"
+  - breeding fetish
+  - breeding roleplay
 tags:
   - kink
   - sexual_health
@@ -14,7 +14,7 @@ related:
   - consensual_kink_practices
   - reproductive_health
   - consent_culture
-source: Synthesis: kink scholarship, sexual-health guidance, reproductive ethics, and trauma-informed communication
+source: Synthesis kink scholarship, sexual-health guidance, reproductive ethics, and trauma-informed communication
 citation: ChatGPT-assisted summary (no external links in canvas; include APA citations when exporting)
 created: 2025-10-02
 modified: 2025-10-02
