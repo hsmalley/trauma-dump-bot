@@ -1,27 +1,18 @@
-# @format
-
-version: "3"
+version: '3'
 
 tasks:
-  install:
-    desc: Create virtualenv and install project dependencies
-    cmds:
-      - python3 -m venv .venv
-      - . .venv/bin/activate && pip install --upgrade pip
-      - . .venv/bin/activate && pip install -e .
-
   lint:
     desc: Run Ruff and markdownlint on the repository
     cmds:
-      - direnv exec . ruff check
-      - direnv exec . markdownlint-cli2 "**/*.md" "!node_modules"
+      - direnv exec . ruff check --fix
+      - direnv exec . npx --yes markdownlint-cli2 --config .markdownlint-cli2.yaml "**/*.md" "!node_modules"
 
   format:
     desc: Format Python and Markdown sources
     cmds:
       - direnv exec . ruff format
-      - direnv exec . prettier --write "**/*.md"
-      - direnv exec . markdownlint-cli2 --fix "**/*.md" "!node_modules"
+      - direnv exec . npx --yes prettier --write "**/*.md"
+      - direnv exec . npx --yes markdownlint-cli2 --config .markdownlint-cli2.yaml --fix "**/*.md" "!node_modules"
 
   test:
     desc: Execute pytest suite
