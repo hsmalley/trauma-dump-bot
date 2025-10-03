@@ -35,12 +35,12 @@ primary dyad. Unlike cheating, ENM is defined by **radical transparency, explici
 negotiation, and enthusiastic consent.**
 
 - **Key Principles:**
-  1.  **Consent:** All parties must freely and enthusiastically agree to the structure
-      and its boundaries.
-  2.  **Honesty and Transparency:** Communication about feelings, boundaries, and
-      external relationships must be open and truthful.
-  3.  **Negotiation:** The relationship structure, boundaries, and rules are
-      collaboratively defined, non-fixed, and subject to continuous re-evaluation.
+  1. **Consent:** All parties must freely and enthusiastically agree to the structure
+     and its boundaries.
+  2. **Honesty and Transparency:** Communication about feelings, boundaries, and
+     external relationships must be open and truthful.
+  3. **Negotiation:** The relationship structure, boundaries, and rules are
+     collaboratively defined, non-fixed, and subject to continuous re-evaluation.
 - **Core Goal:** To balance the deep need for secure attachment with the desire for
   relational and sexual **autonomy and freedom**, optimizing love, intimacy, and
   personal growth without relying on rigid, possessive constraints.

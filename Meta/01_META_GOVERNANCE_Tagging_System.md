@@ -23,12 +23,12 @@ type: meta
 
 ## I. Tagging Rules (System Integrity)
 
-1.  **Case:** All tags must be written in **lowercase** and **snake_case** (using
-    underscores for spaces, e.g., `core_wound`).
-2.  **Exclusivity:** Every file must have exactly **one** primary `type:` tag and at
-    least **one** primary `tags:` category tag (e.g., `analysis` or `framework`).
-3.  **No Redundancy:** Avoid creating new tags if an existing one can be accurately
-    applied.
+1. **Case:** All tags must be written in **lowercase** and **snake_case** (using
+   underscores for spaces, e.g., `core_wound`).
+2. **Exclusivity:** Every file must have exactly **one** primary `type:` tag and at
+   least **one** primary `tags:` category tag (e.g., `analysis` or `framework`).
+3. **No Redundancy:** Avoid creating new tags if an existing one can be accurately
+   applied.
 
 ---
 

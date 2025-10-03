@@ -39,11 +39,11 @@ continuous or 24/7 lifestyle dynamic.
   the "scene" (the time of play) and the "mundane" (the rest of life). Outside of the
   scene, all partners operate under their established vanilla or relational rules.
 - **Structure:** A typical scene follows a clear three-part structure:
-  1.  **Negotiation (Pre-Scene):** Explicit discussion of activities, limits, safewords,
-      and aftercare.
-  2.  **The Scene (Play):** The time of intense role-play or activity.
-  3.  **Aftercare (Post-Scene):** The time of emotional and physical grounding and
-      co-regulation.
+  1. **Negotiation (Pre-Scene):** Explicit discussion of activities, limits, safewords,
+     and aftercare.
+  2. **The Scene (Play):** The time of intense role-play or activity.
+  3. **Aftercare (Post-Scene):** The time of emotional and physical grounding and
+     co-regulation.
 
 ---
 

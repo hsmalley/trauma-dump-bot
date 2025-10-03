@@ -2,32 +2,43 @@
 """
 vault_to_json.py
 
-Extract a tar archive (or operate on an existing directory), skip directories that contain
-one or more specified tag files (same semantics as `tar --exclude-tag-all=TAG`), and build a JSON
-representation of all Markdown files (.md) preserving folder structure.
+Extract a tar archive (or operate on an existing directory), skip directories that
+contain one or more specified tag files (same semantics as
+`tar --exclude-tag-all=TAG`), and build a JSON representation of all Markdown
+files (.md) while preserving folder structure.
 
 Usage examples:
   # Extract and build JSON, excluding dirs that contain ".exclude"
-  python Meta/Tools/vault_to_json.py --tar Relational_Analysis_Vault.tar --extract-to ./extracted \
-    --exclude-tag-all .exclude --output markdown_tree.json
+  python Meta/Tools/vault_to_json.py \
+    --tar Relational_Analysis_Vault.tar \
+    --extract-to ./extracted \
+    --exclude-tag-all .exclude \
+    --output markdown_tree.json
 
   # Exclude multiple tag names:
-  python Meta/Tools/vault_to_json.py --tar archive.tar --extract-to ./extracted \
-    --exclude-tag-all .exclude .gitignore TAGFILE --record-exclusions --output result.json
+  python Meta/Tools/vault_to_json.py \
+    --tar archive.tar \
+    --extract-to ./extracted \
+    --exclude-tag-all .exclude .gitignore TAGFILE \
+    --record-exclusions \
+    --output result.json
 
   # If you already extracted the archive:
-  python Meta/Tools/vault_to_json.py --root ./Relational_Analysis_Vault --exclude-tag-all .exclude --output markdown_tree.json
+  python Meta/Tools/vault_to_json.py \
+    --root ./Relational_Analysis_Vault \
+    --exclude-tag-all .exclude \
+    --output markdown_tree.json
 """
 
 from __future__ import annotations
 
 import argparse
 import json
-from datetime import date, datetime
 import os
 import posixpath
 import re
 import tarfile
+from datetime import date, datetime
 from typing import Dict, Optional, Set, Tuple
 
 # Optional YAML support for frontmatter parsing
@@ -120,8 +131,8 @@ def find_excluded_dirs_in_tar(tar_path: str, tagfiles: Set[str]) -> Set[str]:
 
 def find_excluded_dirs_in_fs(root_dir: str, tagfiles: Set[str]) -> Set[str]:
     """
-    Walk the filesystem rooted at root_dir and return a set of POSIX relative paths
-    (relative to root_dir) for directories that contain any of the tagfiles as immediate children.
+    Walk the filesystem and collect POSIX-relative directories that contain any
+    tagfile as an immediate child.
     """
     excluded: Set[str] = set()
     for dirpath, dirnames, filenames in os.walk(root_dir):
@@ -129,9 +140,7 @@ def find_excluded_dirs_in_fs(root_dir: str, tagfiles: Set[str]) -> Set[str]:
             if tag in filenames:
                 rel = os.path.relpath(dirpath, root_dir).replace(os.sep, "/")
                 if rel == ".":
-                    rel = (
-                        ""  # represent top-level as empty string to match tar semantics
-                    )
+                    rel = ""  # represent top-level as empty string to match tar semantics
                 excluded.add(rel)
                 break
     return excluded
@@ -139,8 +148,8 @@ def find_excluded_dirs_in_fs(root_dir: str, tagfiles: Set[str]) -> Set[str]:
 
 def member_is_in_excluded(member_name: str, excluded_dirs: Set[str]) -> bool:
     """
-    Return True if member_name (posix path) is inside any excluded_dir.
-    Example: excluded_dir 'foo/bar' excludes 'foo/bar/baz.txt', 'foo/bar/sub/...' and also 'foo/bar' itself.
+    Return True if the POSIX member path is inside any excluded directory. For
+    example, 'foo/bar' excludes 'foo/bar/baz.txt' and everything beneath it.
     """
     if not excluded_dirs:
         return False
@@ -154,8 +163,8 @@ def member_is_in_excluded(member_name: str, excluded_dirs: Set[str]) -> bool:
 
 def extract_tar_excluding(tar_path: str, out_dir: str, tagfiles: Set[str]) -> Set[str]:
     """
-    Extract members from tar that are NOT under directories that contain any tagfile.
-    Returns the set of excluded directories discovered (POSIX paths relative to archive root).
+    Extract members that are *not* under directories containing a tagfile and
+    return the excluded directories (POSIX paths relative to the archive root).
     """
     excluded = find_excluded_dirs_in_tar(tar_path, tagfiles)
     if excluded:
@@ -242,10 +251,7 @@ def build_md_tree(root_dir: str, tagfiles: Set[str]):
                         "type": "file",
                         "relpath": rel,
                         "size_bytes": stat.st_size,
-                        "mtime_utc": datetime.utcfromtimestamp(
-                            stat.st_mtime
-                        ).isoformat()
-                        + "Z",
+                        "mtime_utc": datetime.utcfromtimestamp(stat.st_mtime).isoformat() + "Z",
                         "frontmatter": fm,
                         "content": body,
                     }
@@ -263,11 +269,17 @@ def build_md_tree(root_dir: str, tagfiles: Set[str]):
 def main():
     """CLI entry point for building a JSON tree from a vault archive or folder."""
     p = argparse.ArgumentParser(
-        description="Extract tar and build markdown JSON, excluding directories that contain one or more tag files."
+        description=(
+            "Extract tar and build markdown JSON, excluding directories that contain "
+            "one or more tag files."
+        )
     )
     p.add_argument(
         "--tar",
-        help="Path to .tar archive (optional). If provided, will extract to --extract-to before processing.",
+        help=(
+            "Path to .tar archive (optional). If provided, will extract to --extract-to "
+            "before processing."
+        ),
     )
     p.add_argument(
         "--extract-to",
@@ -282,7 +294,10 @@ def main():
         "--exclude-tag-all",
         nargs="+",
         dest="exclude_tag_all",
-        help="One or more tag filenames that, if present in a directory, cause that directory and its subtree to be excluded. Default: .exclude",
+        help=(
+            "One or more tag filenames that, if present in a directory, cause that "
+            "directory and its subtree to be excluded. Default: .exclude"
+        ),
         default=[".exclude"],
     )
     p.add_argument(
@@ -293,7 +308,10 @@ def main():
     p.add_argument(
         "--record-exclusions",
         action="store_true",
-        help="If set, include the discovered excluded directories in the top-level JSON as 'excluded_dirs'.",
+        help=(
+            "If set, include the discovered excluded directories in the top-level "
+            "JSON as 'excluded_dirs'."
+        ),
     )
     args = p.parse_args()
 
@@ -306,9 +324,11 @@ def main():
     if args.tar:
         outdir = os.path.abspath(args.extract_to)
         os.makedirs(outdir, exist_ok=True)
-        print(
-            f"Extracting {args.tar} into {outdir} while excluding directories that contain tags {sorted(tagfiles)} ..."
-        )
+        msg = (
+            "Extracting {tar} into {outdir} while excluding directories that contain "
+            "tags {tags} ..."
+        ).format(tar=args.tar, outdir=outdir, tags=sorted(tagfiles))
+        print(msg)
         # capture excluded dirs returned from extraction function
         excluded_dirs = extract_tar_excluding(args.tar, outdir, tagfiles)
         root_dir = outdir
@@ -317,17 +337,20 @@ def main():
         # if working on an existing tree, scan filesystem to discover exclusions
         excluded_dirs = find_excluded_dirs_in_fs(root_dir, tagfiles)
         if excluded_dirs:
-            print(
-                f"Excluded directories discovered in filesystem (tags={sorted(tagfiles)}): {sorted(excluded_dirs)}"
+            msg = ("Excluded directories discovered in filesystem (tags={tags}): {dirs}").format(
+                tags=sorted(tagfiles), dirs=sorted(excluded_dirs)
             )
+            print(msg)
         else:
-            print(
-                f"No excluded directories discovered in filesystem (tags={sorted(tagfiles)})."
+            msg = "No excluded directories discovered in filesystem (tags={tags}).".format(
+                tags=sorted(tagfiles)
             )
+            print(msg)
 
-    print(
-        f"Building markdown JSON tree from root: {root_dir} (skipping dirs that contain tags {sorted(tagfiles)})"
-    )
+    msg = (
+        "Building markdown JSON tree from root: {root} (skipping dirs that contain tags {tags})"
+    ).format(root=root_dir, tags=sorted(tagfiles))
+    print(msg)
     tree = build_md_tree(root_dir, tagfiles)
 
     # Save JSON (optionally record exclusions)
@@ -339,14 +362,10 @@ def main():
             "tree": tree,
         }
         with open(args.output, "w", encoding="utf-8") as outf:
-            json.dump(
-                result, outf, default=default_converter, indent=2, ensure_ascii=False
-            )
+            json.dump(result, outf, default=default_converter, indent=2, ensure_ascii=False)
     else:
         with open(args.output, "w", encoding="utf-8") as outf:
-            json.dump(
-                tree, outf, default=default_converter, indent=2, ensure_ascii=False
-            )
+            json.dump(tree, outf, default=default_converter, indent=2, ensure_ascii=False)
 
     print(f"Wrote JSON to {args.output}")
 

@@ -38,12 +38,12 @@ the community.
   **repair**. The primary question changes from _"What rule was broken?"_ to _"Who was
   harmed, and what is needed to make things right?"_
 - **Central Tenets (The Three Pillars):**
-  1.  **Encounter:** Creating a safe, structured opportunity for those affected to meet
-      and dialogue.
-  2.  **Repair:** Focusing on concrete steps the person who caused harm will take to
-      address the injuries (physical, emotional, or material).
-  3.  **Transformation:** Addressing the root causes of the harm and preventing future
-      reoccurrence by fostering systemic change or community dialogue.
+  1. **Encounter:** Creating a safe, structured opportunity for those affected to meet
+     and dialogue.
+  2. **Repair:** Focusing on concrete steps the person who caused harm will take to
+     address the injuries (physical, emotional, or material).
+  3. **Transformation:** Addressing the root causes of the harm and preventing future
+     reoccurrence by fostering systemic change or community dialogue.
 - **Accountability:** True accountability is achieved when the person who caused the
   harm **takes personal responsibility** for their actions and actively participates in
   the repair process, rather than passively receiving a punishment.

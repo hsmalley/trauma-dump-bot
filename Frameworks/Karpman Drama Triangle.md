@@ -75,11 +75,11 @@ The Drama Triangle roles are rooted in the automatic, dysregulated responses of 
 survival nervous system.
 
 - **Survival Responses (PVT):** Each role corresponds to a basic survival mechanism:
-  - **Victim:** Often aligns with a **Dorsal Vagal Shutdown/Freeze** state, collapsing
+    - **Victim:** Often aligns with a **Dorsal Vagal Shutdown/Freeze** state, collapsing
     into helplessness to elicit protection.
-  - **Persecutor:** Aligns with a **Sympathetic Fight** response, attacking and
+    - **Persecutor:** Aligns with a **Sympathetic Fight** response, attacking and
     dominating to establish control.
-  - **Rescuer:** Aligns with a **Fawn** response (a subset of Sympathetic Flight),
+    - **Rescuer:** Aligns with a **Fawn** response (a subset of Sympathetic Flight),
     moving into hyper-service to manage the anxiety of conflict or to avoid their own
     issues.
 - **Projection and Parts (IFS):** The triangle is often driven by **Internal Family
@@ -136,8 +136,8 @@ relationships characterized by co-dependency and high emotional volatility.
   **Gentle Startup** approach: _"I hear your strong feeling right now. I need you to
   state your concern without blaming or insulting the other person, please."_
 - **Micro-Skill (Finding the Agency):** To help the **Victim** step out of the role,
-  ask: *"If you were not allowed to ask for help right now, what is the *one small
-  thing* you could do for yourself to move toward a solution?"*
+  ask: _"If you were not allowed to ask for help right now, what is the \_one small
+  thing_ you could do for yourself to move toward a solution?"\_
 
 ---
 

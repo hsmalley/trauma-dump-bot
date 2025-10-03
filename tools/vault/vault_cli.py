@@ -14,11 +14,11 @@ def _import_loader():
     try:
         from .vault_loader import (
             load_vault,
+            read_vault_hash,
             save_vault,
             save_vault_yaml,
             vault_hash,
             write_vault_hash,
-            read_vault_hash,
         )
 
         return (
@@ -29,19 +29,17 @@ def _import_loader():
             write_vault_hash,
             read_vault_hash,
         )
-    except (
-        ImportError
-    ):  # pragma: no cover - fallback when invoked via python path/to/script.py
+    except ImportError:  # pragma: no cover - fallback when invoked via python path/to/script.py
         package_dir = Path(__file__).resolve().parent
         if str(package_dir) not in sys.path:
             sys.path.insert(0, str(package_dir))
         from vault_loader import (  # type: ignore
             load_vault,
+            read_vault_hash,
             save_vault,
             save_vault_yaml,
             vault_hash,
             write_vault_hash,
-            read_vault_hash,
         )
 
         return (
@@ -66,14 +64,10 @@ def _import_loader():
 
 def run_cli(argv: List[str] | None = None) -> int:
     """Parse CLI arguments and perform the requested vault conversion."""
-    parser = argparse.ArgumentParser(
-        description="Vault converter for JSON ↔ MessagePack"
-    )
+    parser = argparse.ArgumentParser(description="Vault converter for JSON ↔ MessagePack")
     parser.add_argument("input", help="Input file (.json or .msgpack)")
     parser.add_argument("output", help="Output file (.json or .msgpack)")
-    parser.add_argument(
-        "--pretty", action="store_true", help="Pretty-print JSON output"
-    )
+    parser.add_argument("--pretty", action="store_true", help="Pretty-print JSON output")
     parser.add_argument(
         "--hash",
         metavar="PATH",

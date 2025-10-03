@@ -123,13 +123,13 @@ with secure relationships.
   **C**heck the thought, **C**hange the thought.
 - **Prompt (The Thought Record):** Use the structured process for challenging negative
   thoughts:
-  1.  **Situation:** What happened?
-  2.  **Emotion:** What did you feel? (Rate 0-100)
-  3.  **Automatic Thought:** What went through your mind?
-  4.  **Evidence FOR the thought:** List facts supporting it.
-  5.  **Evidence AGAINST the thought:** List facts refuting it.
-  6.  **Alternative/Balanced Thought:** Create a realistic, balanced re-statement.
-  7.  **Re-rate Emotion:** What is the new emotion rating?
+  1. **Situation:** What happened?
+  2. **Emotion:** What did you feel? (Rate 0-100)
+  3. **Automatic Thought:** What went through your mind?
+  4. **Evidence FOR the thought:** List facts supporting it.
+  5. **Evidence AGAINST the thought:** List facts refuting it.
+  6. **Alternative/Balanced Thought:** Create a realistic, balanced re-statement.
+  7. **Re-rate Emotion:** What is the new emotion rating?
 - **Micro-Skill (Decatastrophizing):** Ask, "What is the worst-case scenario? If that
   happened, how would I cope?" Then, "What is the most _likely_ scenario?"
 

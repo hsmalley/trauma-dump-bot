@@ -50,13 +50,13 @@ EFT shifts the focus from external, blaming conflicts to internal, vulnerable at
 needs, creating a path for emotional deepening.
 
 - **Three Stages of EFT:**
-  1.  **De-escalation:** Identifying and mapping the negative cycle so the couple sees
-      the cycle, not the partner, as the enemy.
-  2.  **Restructuring:** Accessing the partners' **unmet attachment needs** (e.g., "I
-      need to know you are there for me") and having them express those needs to each
-      other from a place of vulnerability.
-  3.  **Consolidation:** Solidifying new patterns of interaction and developing new
-      solutions to old problems from a place of secure connection.
+  1. **De-escalation:** Identifying and mapping the negative cycle so the couple sees
+     the cycle, not the partner, as the enemy.
+  2. **Restructuring:** Accessing the partners' **unmet attachment needs** (e.g., "I
+     need to know you are there for me") and having them express those needs to each
+     other from a place of vulnerability.
+  3. **Consolidation:** Solidifying new patterns of interaction and developing new
+     solutions to old problems from a place of secure connection.
 - **Vulnerability as Strength:** The lived experience shifts from defending rigid
   positions (e.g., "You always criticize me") to expressing vulnerable, primary emotions
   (e.g., **"When you criticize me, I feel unlovable and afraid of losing you"**).
@@ -90,10 +90,10 @@ EFT is essentially a model for deliberately moving couples from **Insecure Attac
 patterns to a consolidated **Secure Attachment** bond.
 
 - **The Pursuer-Distancer Cycle (Insecure Dance):**
-  - **Pursuer (Anxious Attachment):** Expresses attachment anxiety through seeking
+    - **Pursuer (Anxious Attachment):** Expresses attachment anxiety through seeking
     proximity, often escalating into criticism or demanding behavior to get a response.
     Their primary emotion is **fear of abandonment**.
-  - **Distancer (Avoidant Attachment):** Responds to pursuit by withdrawing, shutting
+    - **Distancer (Avoidant Attachment):** Responds to pursuit by withdrawing, shutting
     down, or intellectualizing to manage emotional overwhelm. Their primary emotion is
     **fear of engulfment/failure**.
 - **The Hold Me Tight Experience:** Successful EFT creates **"corrective emotional

@@ -15,7 +15,8 @@ type: template
 # 📚 Theory Reference Sheet: [Name of Theory/Framework]
 
 > **Core Tenet:** [A single sentence defining the theory's central idea. e.g., "Conflict
-> is caused by failed attempts to get core attachment needs met."]
+>
+> > is caused by failed attempts to get core attachment needs met."]
 
 ---
 

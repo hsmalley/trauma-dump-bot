@@ -31,23 +31,23 @@ related:
 
 ### 💻 Workflow
 
-1.  **Identify Context (Action):** Determine the core issue (is it a failure of
-    **negotiation**, **aftercare**, or a **relational conflict** outside of scene?).
-2.  **Consent & Safety Audit (Action 3):** Check the transcript/context against
-    **[[Consent Culture]]** principles: Was consent explicit, enthusiastic, and ongoing?
-    Were safewords or limits ignored/missed? (Check **RACK/SSC** fidelity).
-3.  **Negotiation & Structure:** Evaluate the clarity of the pre-scene/pre-agreement
-    negotiation. Were expectations, boundaries, and veto rights clearly articulated?
-4.  **Aftercare Assessment (Action 3):** Analyze the post-scene communication. Was
-    **somatic/emotional aftercare** adequate? Map any post-scene conflict to a
-    **[[Polyvagal Theory]]** state (e.g., failure to up-regulate from Dorsal Vagal
-    shutdown).
-5.  **Power Dynamics & Attachment (Action 3):** Identify how the power differential in
-    the dynamic (D/s) is impacting the partners' **[[Attachment Theory]]** needs outside
-    of the scene (e.g., the submissive partner fears rejection when setting a non-kink
-    boundary).
-6.  **Synthesis and Feedback:** Provide specific, actionable feedback for improving
-    **Negotiation** and **Aftercare** practices.
+1. **Identify Context (Action):** Determine the core issue (is it a failure of
+   **negotiation**, **aftercare**, or a **relational conflict** outside of scene?).
+2. **Consent & Safety Audit (Action 3):** Check the transcript/context against
+   **[[Consent Culture]]** principles: Was consent explicit, enthusiastic, and ongoing?
+   Were safewords or limits ignored/missed? (Check **RACK/SSC** fidelity).
+3. **Negotiation & Structure:** Evaluate the clarity of the pre-scene/pre-agreement
+   negotiation. Were expectations, boundaries, and veto rights clearly articulated?
+4. **Aftercare Assessment (Action 3):** Analyze the post-scene communication. Was
+   **somatic/emotional aftercare** adequate? Map any post-scene conflict to a
+   **[[Polyvagal Theory]]** state (e.g., failure to up-regulate from Dorsal Vagal
+   shutdown).
+5. **Power Dynamics & Attachment (Action 3):** Identify how the power differential in
+   the dynamic (D/s) is impacting the partners' **[[Attachment Theory]]** needs outside
+   of the scene (e.g., the submissive partner fears rejection when setting a non-kink
+   boundary).
+6. **Synthesis and Feedback:** Provide specific, actionable feedback for improving
+   **Negotiation** and **Aftercare** practices.
 
 ---
 
@@ -55,15 +55,15 @@ related:
 
 The analysis relies on the following frameworks, sorted by primary relevance:
 
-1.  **[[Consent Culture]]** (Primary Relevance): Essential for evaluating the ethical
-    and structural foundation of the dynamic, including concepts like **Enthusiastic
-    Ongoing Consent (EOC)** and **RACK (Risk-Aware Consensual Kink)**.
-2.  **[[Attachment Theory]]**: Critical for understanding how submission and dominance
-    roles interface with core fears of abandonment (Anxious) or engulfment (Avoidant).
-3.  **[[Polyvagal Theory]]**: Used to analyze the **somatic** experience of
-    submission/dominance and post-scene emotional flooding, dissociation, or shutdown.
-4.  **[[Internal Family Systems]]**: Useful for understanding the parts that assume
-    submissive or dominant roles, and the exiled parts those roles protect.
+1. **[[Consent Culture]]** (Primary Relevance): Essential for evaluating the ethical and
+   structural foundation of the dynamic, including concepts like **Enthusiastic Ongoing
+   Consent (EOC)** and **RACK (Risk-Aware Consensual Kink)**.
+2. **[[Attachment Theory]]**: Critical for understanding how submission and dominance
+   roles interface with core fears of abandonment (Anxious) or engulfment (Avoidant).
+3. **[[Polyvagal Theory]]**: Used to analyze the **somatic** experience of
+   submission/dominance and post-scene emotional flooding, dissociation, or shutdown.
+4. **[[Internal Family Systems]]**: Useful for understanding the parts that assume
+   submissive or dominant roles, and the exiled parts those roles protect.
 
 - _Additional Helpful Framework:_ **SSC/RACK (Safe, Sane, Consensual / Risk-Aware
   Consensual Kink)**: Used as the primary safety and ethical guideline for the dynamic

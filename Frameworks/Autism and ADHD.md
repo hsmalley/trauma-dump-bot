@@ -75,10 +75,10 @@ instability.
   when sensory or executive demands exceed capacity.
 - **The Internal Tug-of-War (IFS):** The system often features two highly protective
   **Manager Parts** fighting:
-  1.  The **Autistic Manager Part** demands **stillness, routine, and sensory
-      protection**.
-  2.  The **ADHD Firefighter Part** demands **movement, novelty, and dopamine hits**.
-  - These parts perpetually trigger each other, preventing the core **Self** from
+  1. The **Autistic Manager Part** demands **stillness, routine, and sensory
+     protection**.
+  2. The **ADHD Firefighter Part** demands **movement, novelty, and dopamine hits**.
+    - These parts perpetually trigger each other, preventing the core **Self** from
     achieving a regulated state.
 - **Sensory Input and PVT:** Sensory seeking (ADHD) and sensory avoidance (Autism) often
   co-exist, forcing the nervous system to process conflicting signals on how to achieve

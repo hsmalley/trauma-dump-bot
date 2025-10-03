@@ -35,12 +35,11 @@ acceptable and what is not.
   establishing clear rules of engagement.
 - **The Spectrum:** Boundaries are not binary but exist on a spectrum defined by their
   permeability:
-  1.  **Rigid:** Hard, impenetrable walls; leads to isolation and prevents
-      vulnerability.
-  2.  **Porous:** Too permeable, lacking definition; leads to burnout, co-dependence,
-      and resentment.
-  3.  **Healthy (Flexible):** Clear and defined, but can open for genuine intimacy and
-      close for protection; facilitates intimacy and safety.
+  1. **Rigid:** Hard, impenetrable walls; leads to isolation and prevents vulnerability.
+  2. **Porous:** Too permeable, lacking definition; leads to burnout, co-dependence, and
+     resentment.
+  3. **Healthy (Flexible):** Clear and defined, but can open for genuine intimacy and
+     close for protection; facilitates intimacy and safety.
 
 ---
 

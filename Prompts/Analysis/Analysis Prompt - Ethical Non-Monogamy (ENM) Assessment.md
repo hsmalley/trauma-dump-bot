@@ -32,24 +32,24 @@ related:
 
 ### 💻 Workflow
 
-1.  **Identify Structure (Action):** Determine the relationship structure (e.g.,
-    V-structure, kitchen table, parallel polyamory). This informs the complexity of the
-    dynamics.
-2.  **Agreement Audit (Action 3):** Check the transcript/context against the established
-    relationship agreements (e.g., safer sex, time allocation, veto power). Were the
-    agreements clear, explicit, and mutually agreed upon?
-3.  **Boundary Integrity (Action 3):** Identify any boundary ruptures. Was the conflict
-    about a partner violating a boundary, or a partner struggling to enforce a boundary?
-4.  **Emotional Mapping (Action 3):** Map the conflict back to **[[Attachment Theory]]**
-    fears: Was the anxiety triggered by fear of abandonment (Anxious) or fear of
-    engulfment/loss of control (Avoidant)?
-5.  **Hinge Dynamics:** If applicable (V-structure), evaluate the communication role of
-    the **Hinge Partner**. Were they processing both sides of the conflict equitably, or
-    bottlenecking communication?
-6.  **Resource Allocation:** Check for equitable distribution of time, energy, and
-    emotional labor (EAL) across the relationship matrix.
-7.  **Synthesis and Feedback:** Provide specific, actionable feedback focused on
-    improving **Negotiation** and **Nonviolent Communication (NVC)** clarity.
+1. **Identify Structure (Action):** Determine the relationship structure (e.g.,
+   V-structure, kitchen table, parallel polyamory). This informs the complexity of the
+   dynamics.
+2. **Agreement Audit (Action 3):** Check the transcript/context against the established
+   relationship agreements (e.g., safer sex, time allocation, veto power). Were the
+   agreements clear, explicit, and mutually agreed upon?
+3. **Boundary Integrity (Action 3):** Identify any boundary ruptures. Was the conflict
+   about a partner violating a boundary, or a partner struggling to enforce a boundary?
+4. **Emotional Mapping (Action 3):** Map the conflict back to **[[Attachment Theory]]**
+   fears: Was the anxiety triggered by fear of abandonment (Anxious) or fear of
+   engulfment/loss of control (Avoidant)?
+5. **Hinge Dynamics:** If applicable (V-structure), evaluate the communication role of
+   the **Hinge Partner**. Were they processing both sides of the conflict equitably, or
+   bottlenecking communication?
+6. **Resource Allocation:** Check for equitable distribution of time, energy, and
+   emotional labor (EAL) across the relationship matrix.
+7. **Synthesis and Feedback:** Provide specific, actionable feedback focused on
+   improving **Negotiation** and **Nonviolent Communication (NVC)** clarity.
 
 ---
 
@@ -57,20 +57,20 @@ related:
 
 The analysis relies on the following frameworks, sorted by primary relevance:
 
-1.  **[[Attachment Theory]]** (Primary Relevance): Critical for analyzing insecurity
-    (e.g., jealousy, anxiety) triggered by external relationships; the need for
-    reassurance is often heightened.
-2.  **[[Nonviolent Communication]]**: Essential for analyzing clarity in boundary
-    setting, distinguishing a _request_ from a _demand_, and translating jealousy into
-    an unmet **need**.
-3.  **[[Polyvagal Theory]]**: Used to analyze emotional flooding related to boundary
-    violations or insecurity, reframing the distress as a somatic nervous system
-    response.
-4.  **Consent Culture/EOC (Enthusiastic Ongoing Consent)**: Used to audit the
-    relationship's ethical foundation—not just sexual, but regarding time and emotional
-    commitments.
-5.  **Relationship Anarchy (RA)**: Used to evaluate relationships that intentionally
-    eschew hierarchy, focusing on individual autonomy and fluid agreements.
+1. **[[Attachment Theory]]** (Primary Relevance): Critical for analyzing insecurity
+   (e.g., jealousy, anxiety) triggered by external relationships; the need for
+   reassurance is often heightened.
+2. **[[Nonviolent Communication]]**: Essential for analyzing clarity in boundary
+   setting, distinguishing a _request_ from a _demand_, and translating jealousy into an
+   unmet **need**.
+3. **[[Polyvagal Theory]]**: Used to analyze emotional flooding related to boundary
+   violations or insecurity, reframing the distress as a somatic nervous system
+   response.
+4. **Consent Culture/EOC (Enthusiastic Ongoing Consent)**: Used to audit the
+   relationship's ethical foundation—not just sexual, but regarding time and emotional
+   commitments.
+5. **Relationship Anarchy (RA)**: Used to evaluate relationships that intentionally
+   eschew hierarchy, focusing on individual autonomy and fluid agreements.
 
 ---
 

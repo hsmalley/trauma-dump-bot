@@ -35,12 +35,12 @@ neglect, domestic violence, torture).
 - **Key Distinction:** CPTSD includes the core symptoms of PTSD (re-experiencing,
   avoidance, hyper-arousal) plus three additional core clusters of difficulty recognized
   in the ICD-11:
-  1.  **Dysregulation of Affect (Emotional Control):** Extreme difficulty regulating
-      intense emotions.
-  2.  **Negative Self-Concept:** Persistent, pervasive feelings of worthlessness, shame,
-      and guilt.
-  3.  **Disturbances in Relationships:** Severe difficulty maintaining stable, healthy
-      relationships and managing attachment.
+  1. **Dysregulation of Affect (Emotional Control):** Extreme difficulty regulating
+     intense emotions.
+  2. **Negative Self-Concept:** Persistent, pervasive feelings of worthlessness, shame,
+     and guilt.
+  3. **Disturbances in Relationships:** Severe difficulty maintaining stable, healthy
+     relationships and managing attachment.
 - **Core Goal:** To regain a sense of **safety**, establish **control** over internal
   and external environments, and restore the capacity for **intimacy** and **trust**.
 
@@ -70,19 +70,19 @@ survival over connection.
 
 - **The Three-Phase Survival Cycle (PVT):** The nervous system is typically stuck
   cycling rapidly between:
-  1.  **Sympathetic Hyper-arousal:** Hyper-vigilance, anxiety, chronic "Fight" or
-      "Flight" activation.
-  2.  **Dorsal Vagal Shutdown:** Numbing, dissociation, emotional "Freeze" or collapse.
-  3.  **Lack of Ventral Vagal Anchor:** An underdeveloped or frequently overridden
-      **Ventral Vagal (Safe)** system, meaning the individual rarely rests in a state of
-      calm, social connection.
+  1. **Sympathetic Hyper-arousal:** Hyper-vigilance, anxiety, chronic "Fight" or
+     "Flight" activation.
+  2. **Dorsal Vagal Shutdown:** Numbing, dissociation, emotional "Freeze" or collapse.
+  3. **Lack of Ventral Vagal Anchor:** An underdeveloped or frequently overridden
+     **Ventral Vagal (Safe)** system, meaning the individual rarely rests in a state of
+     calm, social connection.
 - **Parts Driven by Trauma (IFS):** The inner system is dominated by highly protective,
   often extreme parts:
-  - **Firefighter Parts:** The impulsive, self-destructive behaviors (substance use,
+    - **Firefighter Parts:** The impulsive, self-destructive behaviors (substance use,
     self-harm, rage) attempting to rapidly escape overwhelming emotional pain.
-  - **Exile Parts:** Numerous, deeply wounded child parts holding the intense,
+    - **Exile Parts:** Numerous, deeply wounded child parts holding the intense,
     overwhelming pain of neglect, terror, and abandonment.
-  - **Perfectionistic/Caretaker Managers:** Rigid parts that attempt to control every
+    - **Perfectionistic/Caretaker Managers:** Rigid parts that attempt to control every
     detail of life or fawn/people-please others to preemptively avoid conflict or
     abandonment.
 

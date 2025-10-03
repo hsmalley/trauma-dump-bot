@@ -62,11 +62,12 @@ their likely **Core Wound** or **Attachment Fear**.
 **Goal:** Define the measurable, behavioral step I will take next time, and request
 their support. This is the **[[Committed Action]]**.
 
-> **My Script:** "Moving forward, my **Committed Action** is to [Specific, measurable
-> action, e.g., use the time-out phrase before I escalate/ask for a hug instead of
-> withdrawing/not speak for 5 minutes after I feel triggered]. I plan to do this because
-> it aligns with my value of [e.g., connection/respect]. Is that something you can
-> witness me trying to do?"
+> **My Script:** "Moving forward, my **Committed Action** is to [Specific, measurable >
+>
+> > action, e.g., use the time-out phrase before I escalate/ask for a hug instead of > >
+> > withdrawing/not speak for 5 minutes after I feel triggered]. I plan to do this
+> > because it aligns with my value of [e.g., connection/respect]. Is that something you
+> > can witness me trying to do?"
 
 ---
 

@@ -34,13 +34,13 @@ distinguishing it primarily by the requirement of **consent**.
 The model holds that for any kink activity to be considered ethical, it must adhere to
 three non-negotiable standards:
 
-1.  **Safe:** All participants must take reasonable steps to ensure the physical and
-    mental well-being of everyone involved, actively minimizing risk of injury.
-2.  **Sane:** All participants must be of sound mind, fully aware of their actions and
-    the potential consequences, and engaging the activity in a rational state.
-3.  **Consensual:** The activity must be fully and enthusiastically agreed upon by all
-    participants, and that consent must be freely and continuously given (revocable at
-    any time via a safe word).
+1. **Safe:** All participants must take reasonable steps to ensure the physical and
+   mental well-being of everyone involved, actively minimizing risk of injury.
+2. **Sane:** All participants must be of sound mind, fully aware of their actions and
+   the potential consequences, and engaging the activity in a rational state.
+3. **Consensual:** The activity must be fully and enthusiastically agreed upon by all
+   participants, and that consent must be freely and continuously given (revocable at
+   any time via a safe word).
 
 ---
 

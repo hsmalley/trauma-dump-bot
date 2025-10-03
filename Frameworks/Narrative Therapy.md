@@ -61,13 +61,13 @@ ones.
 Narrative therapy is deeply rooted in **social constructionism** and **postmodern
 thought**, acknowledging that:
 
-1.  **Reality is Socially Constructed:** The meaning people assign to events is shaped
-    by culture, language, and the "dominant discourses" of society (e.g., cultural
-    expectations around gender, race, or success).
-2.  **Problems are Discursive:** Problems often gain power because they align with these
-    dominant cultural discourses, leading to "single-storied" identities that
-    pathologize and limit people. NT seeks to help clients **deconstruct** these
-    disempowering cultural influences.
+1. **Reality is Socially Constructed:** The meaning people assign to events is shaped by
+   culture, language, and the "dominant discourses" of society (e.g., cultural
+   expectations around gender, race, or success).
+2. **Problems are Discursive:** Problems often gain power because they align with these
+   dominant cultural discourses, leading to "single-storied" identities that pathologize
+   and limit people. NT seeks to help clients **deconstruct** these disempowering
+   cultural influences.
 
 ---
 

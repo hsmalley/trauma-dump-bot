@@ -26,13 +26,13 @@ type: meta
 Before creating any files, affirm these three non-negotiable rules, which are the core
 of the **Meta/Governance** layer:
 
-1.  **Ethical Constraint:** The system operates under a **Trauma-Informed Default**,
-    prioritizing **Regulation First** over diagnosis or action.
-2.  **Structural Constraint:** All files must adhere to the **Tagging System**
-    governance rules (`lowercase_snake_case`, mandatory `type:` tag).
-3.  **Core Purpose:** Every analysis must ultimately lead to **Accountability** for the
-    user's _own_ behavior and a **Committed Action**, never prescribing change for the
-    partner.
+1. **Ethical Constraint:** The system operates under a **Trauma-Informed Default**,
+   prioritizing **Regulation First** over diagnosis or action.
+2. **Structural Constraint:** All files must adhere to the **Tagging System** governance
+   rules (`lowercase_snake_case`, mandatory `type:` tag).
+3. **Core Purpose:** Every analysis must ultimately lead to **Accountability** for the
+   user's _own_ behavior and a **Committed Action**, never prescribing change for the
+   partner.
 
 ---
 

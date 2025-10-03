@@ -37,14 +37,14 @@ is an attempt to meet universal human **Needs**.
   toward clarity and mutual contribution.
 - **The Four Steps of NVC (The NVC Formula):** The entire process, whether expressing
   oneself or listening to others, is structured around these four components:
-  1.  **Observations (O):** Stating the specific, concrete actions we observe that
-      affect our well-being (without judgment, e.g., "When I see...").
-  2.  **Feelings (F):** Stating the feelings that arise from the observation (without
-      using thoughts or blaming words, e.g., "I feel frustrated...").
-  3.  **Needs (N):** Stating the universal human needs that are met or unmet by the
-      observation (e.g., "because I need support/clarity...").
-  4.  **Requests (R):** Stating a specific, doable action requested of the other person
-      (not a demand) that would meet the need (e.g., "Would you be willing to...").
+  1. **Observations (O):** Stating the specific, concrete actions we observe that affect
+     our well-being (without judgment, e.g., "When I see...").
+  2. **Feelings (F):** Stating the feelings that arise from the observation (without
+     using thoughts or blaming words, e.g., "I feel frustrated...").
+  3. **Needs (N):** Stating the universal human needs that are met or unmet by the
+     observation (e.g., "because I need support/clarity...").
+  4. **Requests (R):** Stating a specific, doable action requested of the other person
+     (not a demand) that would meet the need (e.g., "Would you be willing to...").
 - **"Jackal Language" vs. "Giraffe Language":** Rosenberg used the giraffe (having the
   longest neck, symbolizing perspective and heart-centeredness) to represent NVC, and
   the jackal (snappy, grounded in survival) to represent judgmental or violent

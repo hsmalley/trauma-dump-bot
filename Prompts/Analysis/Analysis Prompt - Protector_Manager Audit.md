@@ -31,37 +31,36 @@ related:
 
 ### 💻 Workflow
 
-1.  **Part Identification (Action):** Identify the specific type of **Protector Part**
-    speaking for the user (and ideally the partner) during the conflict:
-    - **Manager:** (Proactive/Controlling: e.g., The Critic, The Pleaser, The Planner).
-    - **Firefighter:** (Reactive/Desperate: e.g., The Addict, The Distractor, The
-      Rager).
-2.  **Blended State Diagnosis:** Determine the user's primary state. Was the user
-    **blended** with the Part (i.e., _being_ the Part) or acting from **Self-energy**
-    (i.e., _observing_ the Part)? Use quotes from the transcript as evidence.
-3.  **Positive Intent Audit (Action 3):** Articulate the **positive intent** of the most
-    dominant Part. What was it desperately trying to prevent from happening to the
-    system or the relationship? (e.g., "The Critic Part was trying to prevent the Exile
-    from feeling like a failure.")
-4.  **Relational Cost Assessment:** Analyze the cost of the Part's action. How did the
-    Protector's behavior (which was aimed at keeping the user safe) inadvertently
-    **trigger** the partner's own **[[Attachment Theory]]** fears?
-5.  **Self-Energy Action (Action 3):** Provide a clear, immediate action the user could
-    take next time to access **Self-energy** instead of blending with the Part.
-6.  **Synthesis and Micro-Skill:** Summarize the Part's function and provide the
-    **[[Internal Family Systems (IFS)]]** micro-skill of **Unblending** as the primary
-    intervention.
+1. **Part Identification (Action):** Identify the specific type of **Protector Part**
+   speaking for the user (and ideally the partner) during the conflict:
+   - **Manager:** (Proactive/Controlling: e.g., The Critic, The Pleaser, The Planner).
+   - **Firefighter:** (Reactive/Desperate: e.g., The Addict, The Distractor, The Rager).
+2. **Blended State Diagnosis:** Determine the user's primary state. Was the user
+   **blended** with the Part (i.e., _being_ the Part) or acting from **Self-energy**
+   (i.e., _observing_ the Part)? Use quotes from the transcript as evidence.
+3. **Positive Intent Audit (Action 3):** Articulate the **positive intent** of the most
+   dominant Part. What was it desperately trying to prevent from happening to the system
+   or the relationship? (e.g., "The Critic Part was trying to prevent the Exile from
+   feeling like a failure.")
+4. **Relational Cost Assessment:** Analyze the cost of the Part's action. How did the
+   Protector's behavior (which was aimed at keeping the user safe) inadvertently
+   **trigger** the partner's own **[[Attachment Theory]]** fears?
+5. **Self-Energy Action (Action 3):** Provide a clear, immediate action the user could
+   take next time to access **Self-energy** instead of blending with the Part.
+6. **Synthesis and Micro-Skill:** Summarize the Part's function and provide the
+   **[[Internal Family Systems (IFS)]]** micro-skill of **Unblending** as the primary
+   intervention.
 
 ---
 
 ## 📚 Frameworks Referenced
 
-1.  **[[Internal Family Systems (IFS)]] (Primary)**: Provides the core terminology and
-    methodology for Parts work (Protector, Manager, Firefighter, Self).
-2.  **[[Analysis Prompt - Exile_Core Wound Mapping]] (Implicit)**: Used to define the
-    _target_ of the Protector's defense.
-3.  **[[Acceptance and Commitment Therapy]]**: Used to reinforce the idea that the
-    Part's _action_ contradicts the user's core _values_.
+1. **[[Internal Family Systems (IFS)]] (Primary)**: Provides the core terminology and
+   methodology for Parts work (Protector, Manager, Firefighter, Self).
+2. **[[Analysis Prompt - Exile_Core Wound Mapping]] (Implicit)**: Used to define the
+   _target_ of the Protector's defense.
+3. **[[Acceptance and Commitment Therapy]]**: Used to reinforce the idea that the Part's
+   _action_ contradicts the user's core _values_.
 
 ---
 

@@ -112,9 +112,7 @@ def candidate_targets(raw: str) -> Set[str]:
 def find_broken_links(root: Path, by_stem, aliases):
     """Return unresolved wiki-links found within the vault."""
     broken = []
-    valid_relative = {
-        str(path.relative_to(root)).rsplit(".", 1)[0] for path in by_stem.values()
-    }
+    valid_relative = {str(path.relative_to(root)).rsplit(".", 1)[0] for path in by_stem.values()}
     for f in root.rglob("*.md"):
         text = read_text(f)
         for match in re.finditer(r"\[\[([^\]]+)\]\]", text):

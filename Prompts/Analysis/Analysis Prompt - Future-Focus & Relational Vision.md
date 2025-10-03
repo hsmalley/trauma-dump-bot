@@ -32,23 +32,23 @@ related:
 
 ### 💻 Workflow
 
-1.  **Vision Audit (Action):** Identify and list the partners' explicit and implicit
-    long-term relational goals (e.g., lifestyle, family, financial, retirement).
-2.  **Alignment Check (Action 3):** Determine if the "Shared Vision" is genuinely
-    **mutual** and **values-driven**, or if it is merely one partner's dream being
-    accommodated or **Experientially Avoided** by the other.
-3.  **Feasibility Audit:** Using a **Systems Theory** lens, check the feasibility of the
-    goals against current resources: Are the financial/time/energy commitments
-    realistic? Is the plan overly reliant on **Avoidance** strategies?
-4.  **Behavioral Gap Analysis (Action 3):** Audit a recent action or communication
-    snippet against the **Shared Vision**. Does the current behavior move the couple
-    **toward** the vision (Committed Action) or **away** from the vision (Avoidance)?
-5.  **Identify Bottlenecks:** Pinpoint the single most significant **obstacle** to
-    achieving the shared goal (e.g., lack of **[[Boundary Models]]**, **Cognitive
-    Fusion** with limiting beliefs).
-6.  **Synthesis and Micro-Skill:** Provide a clear, actionable **"Next Step"** that
-    serves as a **Committed Action** moving the relationship closer to the **Shared
-    Vision**.
+1. **Vision Audit (Action):** Identify and list the partners' explicit and implicit
+   long-term relational goals (e.g., lifestyle, family, financial, retirement).
+2. **Alignment Check (Action 3):** Determine if the "Shared Vision" is genuinely
+   **mutual** and **values-driven**, or if it is merely one partner's dream being
+   accommodated or **Experientially Avoided** by the other.
+3. **Feasibility Audit:** Using a **Systems Theory** lens, check the feasibility of the
+   goals against current resources: Are the financial/time/energy commitments realistic?
+   Is the plan overly reliant on **Avoidance** strategies?
+4. **Behavioral Gap Analysis (Action 3):** Audit a recent action or communication
+   snippet against the **Shared Vision**. Does the current behavior move the couple
+   **toward** the vision (Committed Action) or **away** from the vision (Avoidance)?
+5. **Identify Bottlenecks:** Pinpoint the single most significant **obstacle** to
+   achieving the shared goal (e.g., lack of **[[Boundary Models]]**, **Cognitive
+   Fusion** with limiting beliefs).
+6. **Synthesis and Micro-Skill:** Provide a clear, actionable **"Next Step"** that
+   serves as a **Committed Action** moving the relationship closer to the **Shared
+   Vision**.
 
 ---
 
@@ -56,17 +56,16 @@ related:
 
 The analysis relies on the following frameworks, sorted by primary relevance:
 
-1.  **[[Acceptance and Commitment Therapy]]** (Primary Relevance): Provides the
-    essential lens for defining **Values** and auditing the **Behavioral Gap** between
-    values and action (Committed Action).
-2.  **Systems Theory (Implicit)**: Used to audit the **feasibility** of goals, ensuring
-    the vision works within the constraints of the shared system's resources (time,
-    money, energy).
-3.  **[[Nonviolent Communication]]**: Used to clarify the **needs** and **requests**
-    underlying the desired goals, transforming vague dreams into actionable steps.
-4.  **[[Analysis Prompt - Values & Goals Alignment (ACT Lens)]]**: Used as a
-    foundational reference to ensure the core values are already clear before applying
-    this prompt.
+1. **[[Acceptance and Commitment Therapy]]** (Primary Relevance): Provides the essential
+   lens for defining **Values** and auditing the **Behavioral Gap** between values and
+   action (Committed Action).
+2. **Systems Theory (Implicit)**: Used to audit the **feasibility** of goals, ensuring
+   the vision works within the constraints of the shared system's resources (time,
+   money, energy).
+3. **[[Nonviolent Communication]]**: Used to clarify the **needs** and **requests**
+   underlying the desired goals, transforming vague dreams into actionable steps.
+4. **[[Analysis Prompt - Values & Goals Alignment (ACT Lens)]]**: Used as a foundational
+   reference to ensure the core values are already clear before applying this prompt.
 
 ---
 

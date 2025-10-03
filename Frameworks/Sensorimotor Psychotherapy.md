@@ -50,18 +50,18 @@ which are often stored implicitly (non-verbally).
 
 SP follows a structured, phased approach to ensure safety and effective processing:
 
-1.  **Phase 1: Stabilization and Resource Building:** Focuses on establishing safety,
-    teaching **mindfulness** of body sensations, and installing internal and relational
-    **resources** (e.g., grounding, soothing memories, stable posture) to increase the
-    client's **Window of Tolerance** and prepare the nervous system for trauma work.
-2.  **Phase 2: Processing Traumatic Memory:** Uses the body's movements and posture to
-    access and complete the frozen or incomplete survival actions (**"completion of
-    action"**). The client is guided to briefly attend to the body's response, titrate
-    the intensity, and practice an alternative, safe action in the present moment.
-3.  **Phase 3: Integration and Mastery:** Focuses on integrating the newly processed
-    material into the client's narrative and internal working model, consolidating
-    emotional regulation, and fostering a sense of **agency and mastery** over the body
-    and self.
+1. **Phase 1: Stabilization and Resource Building:** Focuses on establishing safety,
+   teaching **mindfulness** of body sensations, and installing internal and relational
+   **resources** (e.g., grounding, soothing memories, stable posture) to increase the
+   client's **Window of Tolerance** and prepare the nervous system for trauma work.
+2. **Phase 2: Processing Traumatic Memory:** Uses the body's movements and posture to
+   access and complete the frozen or incomplete survival actions (**"completion of
+   action"**). The client is guided to briefly attend to the body's response, titrate
+   the intensity, and practice an alternative, safe action in the present moment.
+3. **Phase 3: Integration and Mastery:** Focuses on integrating the newly processed
+   material into the client's narrative and internal working model, consolidating
+   emotional regulation, and fostering a sense of **agency and mastery** over the body
+   and self.
 
 ---
 

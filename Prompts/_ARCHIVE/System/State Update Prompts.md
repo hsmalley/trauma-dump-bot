@@ -1,11 +1,11 @@
 <!-- @format -->
 
-### For GPTs **with persistent memory**:
+### For GPTs **with persistent memory**
 
 > **"The JSON has been updated. Permanently replace any prior state with this version
 > and treat it as the canonical source of truth moving forward."**
 
-### For GPTs **without persistent memory**:
+### For GPTs **without persistent memory**
 
 > **"The JSON has been updated. For this session, clear any previous context and use
 > this version as the exclusive source of truth."**

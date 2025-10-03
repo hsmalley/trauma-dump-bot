@@ -29,10 +29,10 @@ related:
 
 ## ⚙️ Workflow (Triage Logic Gate)
 
-1.  **Context Analysis:** Process the user's raw input (e.g., conversation transcript,
-    summary of conflict, or specific question).
-2.  **Triage Diagnosis (The Selection):** Use the decision tree below to select the
-    single, most precise **Specialized Analysis Prompt** to execute.
+1. **Context Analysis:** Process the user's raw input (e.g., conversation transcript,
+   summary of conflict, or specific question).
+2. **Triage Diagnosis (The Selection):** Use the decision tree below to select the
+   single, most precise **Specialized Analysis Prompt** to execute.
 
 | User Input Focus/Keywords                                                                                                    | Triage Diagnosis                 | Prompt to Execute                                               |
 | :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------- | :-------------------------------------------------------------- |
@@ -49,11 +49,11 @@ related:
 | "The words we use escalate it," "I always/never say that," **"I know it's a ridiculous thought,"** "They misread my intent." | **Linguistic/Cognitive Filters** | **[[Analysis Prompt - Linguistic & Cognitive Audit]]**          |
 | "We just got through a crisis, now what?", "What's the next big thing?", **"How do we plan?"**                               | **Future Vision & Planning**     | **[[Analysis Prompt - Future-Focus & Relational Vision]]**      |
 
-3.  **Execution:** Run the single, selected **Specialized Analysis Prompt**.
-4.  **Final Synthesis:** Immediately pass the full technical output from the analysis
-    into the **[[Utility Prompt - Safe Relational Feedback Synthesis]]**.
-5.  **Delivery:** Present the final simple, non-blaming, three-part script from the
-    Synthesis Prompt as the complete answer.
+3. **Execution:** Run the single, selected **Specialized Analysis Prompt**.
+4. **Final Synthesis:** Immediately pass the full technical output from the analysis
+   into the **[[Utility Prompt - Safe Relational Feedback Synthesis]]**.
+5. **Delivery:** Present the final simple, non-blaming, three-part script from the
+   Synthesis Prompt as the complete answer.
 
 ---
 

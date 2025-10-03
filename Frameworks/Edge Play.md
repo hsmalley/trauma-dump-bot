@@ -162,8 +162,8 @@ advanced communication.
 - **Written Agreements or Role Clarifications**: Especially with CNC, TPE, or public
   dynamics
 
-> _Edge play is where the difference between consensual power and abuse becomes
-> razor-thin._ Integrity is essential.
+> *Edge play is where the difference between consensual power and abuse becomes
+> razor-thin.* Integrity is essential.
 
 ---
 
@@ -180,7 +180,7 @@ advanced communication.
 
 ### 💬 Reflection Prompts
 
-- What edges feel _arousing_ vs _harmful_ to me—and how do I know?
+- What edges feel *arousing* vs *harmful* to me—and how do I know?
 - What does “trust” look like when I’m approaching an edge?
 - How do I repair or regroup when an edge was too far?
 - Are there power dynamics (race, gender, age, authority) that add **unacknowledged
@@ -208,10 +208,10 @@ advanced communication.
 
 ### 📚 Citations & Sources
 
-- Hardwick, E. (2018). _Kink and the therapeutic relationship._
-- Newmahr, S. (2011). _Playing on the Edge: Sadomasochism, Risk, and Intimacy._
-- Wiseman, J. (1998). _SM 101: A Realistic Introduction to the SM Lifestyle._
-- _Edge Play Anthology_ – Raven Kaldera
-- _Playing Well With Others_ – Easton & Hardy
+- Hardwick, E. (2018). *Kink and the therapeutic relationship.*
+- Newmahr, S. (2011). *Playing on the Edge: Sadomasochism, Risk, and Intimacy.*
+- Wiseman, J. (1998). *SM 101: A Realistic Introduction to the SM Lifestyle.*
+- *Edge Play Anthology* – Raven Kaldera
+- *Playing Well With Others* – Easton & Hardy
 - Evie Lupine – Edge play risk profiles and psychological kink
 - Consent Academy – Advanced negotiation and ethics modules

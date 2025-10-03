@@ -14,8 +14,8 @@ save_vault(vault2, "vault-pretty.json", pretty=True)
 
 """
 
-import os
 import json
+import os
 
 try:
     import msgpack
@@ -24,9 +24,10 @@ except ModuleNotFoundError as exc:
         "msgpack is required for vault serialization; install with `pip install msgpack`."
     ) from exc
 import hashlib
-import yaml
-import jsonschema
 from typing import Any, Dict
+
+import jsonschema
+import yaml
 
 try:
     from .vault_schema import schema as vault_schema

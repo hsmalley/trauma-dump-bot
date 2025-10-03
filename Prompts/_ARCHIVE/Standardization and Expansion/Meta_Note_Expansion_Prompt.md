@@ -14,11 +14,12 @@ type: template
 
 ---
 
-### ✅ Actions:
+### ✅ Actions
 
 #### 1. Standardize Format
 
 - Apply structured YAML frontmatter like:
+
   ```yaml
   ---
   title: Note Title

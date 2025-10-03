@@ -30,19 +30,19 @@ related:
 
 ### 💻 Workflow
 
-1.  **Identify Behavior (Action):** For both Partner A and Partner B, label the
-    observable conflict behavior (e.g., pursuing, withdrawing, criticizing,
-    stonewalling).
-2.  **Map to Style:** Based on the behavior and any contextual cues, deduce the likely
-    Adult Attachment Style (Anxious, Avoidant, Secure, Disorganized).
-3.  **Map to Distress Response:** Identify the corresponding Emotionally Focused Therapy
-    (EFT) Distress Response (e.g., Partner A is Pursuing out of Anxious fear; Partner B
-    is Withdrawing out of Avoidant fear).
-4.  **Identify Core Needs (Action 3):** Articulate the specific, underlying attachment
-    need being missed or violated for each partner (e.g., Partner A needs _accessible
-    closeness_; Partner B needs _autonomy/space_).
-5.  **Synthesize:** Explain how the two partners' distress responses create the negative
-    feedback loop (the "cycle").
+1. **Identify Behavior (Action):** For both Partner A and Partner B, label the
+   observable conflict behavior (e.g., pursuing, withdrawing, criticizing,
+   stonewalling).
+2. **Map to Style:** Based on the behavior and any contextual cues, deduce the likely
+   Adult Attachment Style (Anxious, Avoidant, Secure, Disorganized).
+3. **Map to Distress Response:** Identify the corresponding Emotionally Focused Therapy
+   (EFT) Distress Response (e.g., Partner A is Pursuing out of Anxious fear; Partner B
+   is Withdrawing out of Avoidant fear).
+4. **Identify Core Needs (Action 3):** Articulate the specific, underlying attachment
+   need being missed or violated for each partner (e.g., Partner A needs _accessible
+   closeness_; Partner B needs _autonomy/space_).
+5. **Synthesize:** Explain how the two partners' distress responses create the negative
+   feedback loop (the "cycle").
 
 ---
 
@@ -50,17 +50,17 @@ related:
 
 The analysis relies on the following frameworks, sorted by primary relevance:
 
-1.  **[[Attachment Theory]]** (Primary Relevance): The foundation for identifying
-    styles, fears, and core needs.
-2.  **Emotionally Focused Therapy (EFT)**: The specific therapeutic model that
-    operationalizes attachment theory into identifying the negative cycle and distress
-    responses.
-3.  **[[Internal Family Systems]]**: Useful for framing the defensive attachment
-    behavior (e.g., criticism, withdrawal) as a protective "Part" attempting to shield a
-    vulnerable core.
-4.  **[[Polyvagal Theory]]**: Used to ground the emotional distress in somatic
-    experience, noting how attachment fear triggers a sympathetic (fight/flight) or
-    dorsal vagal (freeze/collapse) state.
+1. **[[Attachment Theory]]** (Primary Relevance): The foundation for identifying styles,
+   fears, and core needs.
+2. **Emotionally Focused Therapy (EFT)**: The specific therapeutic model that
+   operationalizes attachment theory into identifying the negative cycle and distress
+   responses.
+3. **[[Internal Family Systems]]**: Useful for framing the defensive attachment behavior
+   (e.g., criticism, withdrawal) as a protective "Part" attempting to shield a
+   vulnerable core.
+4. **[[Polyvagal Theory]]**: Used to ground the emotional distress in somatic
+   experience, noting how attachment fear triggers a sympathetic (fight/flight) or
+   dorsal vagal (freeze/collapse) state.
 
 ---
 

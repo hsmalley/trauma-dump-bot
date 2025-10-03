@@ -132,8 +132,9 @@ abuse, neglect) because the relationship models consistency and reliability.
   Language**: _"What do you feel in your body right now? Look at my face; you are safe
   here in this room."_
 - **Prompt (The Chronology Check):** When the client jumps topics or uses vague
-  language, prompt them back to the necessary detail: *"Before we go there, can you tell
-  me what happened in your body *the moment* that event ended? Where did you go next?"*
+  language, prompt them back to the necessary detail: _"Before we go there, can you tell
+  me what happened in your body \_the moment_ that event ended? Where did you go
+  next?"\_
 - **Micro-Skill (The Testimony Book):** The finished, written testimony is bound and
   given to the client. This physical object serves as concrete evidence that the trauma
   has been **contained, processed, and filed** as a closed chapter in the past.

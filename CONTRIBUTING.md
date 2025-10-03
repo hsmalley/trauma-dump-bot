@@ -8,11 +8,10 @@ how to set up your environment, run checks, and propose changes.
 ## Prerequisites
 
 - Python 3.12+
+- [Node.js](https://nodejs.org/) 18+ (provides `npx` for Markdown tooling)
 - [direnv](https://direnv.net/) (optional, but recommended)
 - [ruff](https://docs.astral.sh/ruff/) (installed via `pip install ruff` or the
-  Makefile)
-- [markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2) and
-  [Prettier](https://prettier.io/) if you plan to format Markdown locally
+  Makefile/Taskfile)
 
 ## Initial Setup
 

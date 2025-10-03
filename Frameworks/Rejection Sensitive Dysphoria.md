@@ -50,12 +50,12 @@ disproportionate to the triggering event.
   It feels like a physical punch to the chest or stomach. The intensity can lead to
   suicidal ideation (a desire to escape the pain).
 - **External Manifestations (Protective Strategies):**
-  1.  **People-Pleasing:** A **Manager Part** strategy to preemptively control the
-      environment and prevent any perceived reason for rejection.
-  2.  **Avoidance/Withdrawal:** A **Manager/Firefighter Part** strategy of social
-      isolation or relationship avoidance to prevent the possibility of being hurt.
-  3.  **Explosive Anger/Rage:** A **Firefighter Part** strategy to externalize the pain,
-      attacking the presumed source of rejection before they can attack the self.
+  1. **People-Pleasing:** A **Manager Part** strategy to preemptively control the
+     environment and prevent any perceived reason for rejection.
+  2. **Avoidance/Withdrawal:** A **Manager/Firefighter Part** strategy of social
+     isolation or relationship avoidance to prevent the possibility of being hurt.
+  3. **Explosive Anger/Rage:** A **Firefighter Part** strategy to externalize the pain,
+     attacking the presumed source of rejection before they can attack the self.
 
 ---
 

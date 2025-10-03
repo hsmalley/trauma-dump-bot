@@ -40,12 +40,12 @@ Behavioral Therapy (CBT)** that integrates validation and acceptance strategies.
   and an **Invalidating Environment** (which fails to teach healthy emotional coping).
 - **Four Skill Modules:** DBT is delivered in four primary skill modules designed to
   address core deficits:
-  1.  **Mindfulness:** Increasing awareness of the present moment without judgment.
-  2.  **Distress Tolerance:** Learning to cope with overwhelming emotional pain without
-      making things worse (e.g., self-harm, substance use).
-  3.  **Emotion Regulation:** Understanding, naming, and changing emotional responses.
-  4.  **Interpersonal Effectiveness:** Learning to assert needs and maintain
-      self-respect while simultaneously building and keeping relationships.
+  1. **Mindfulness:** Increasing awareness of the present moment without judgment.
+  2. **Distress Tolerance:** Learning to cope with overwhelming emotional pain without
+     making things worse (e.g., self-harm, substance use).
+  3. **Emotion Regulation:** Understanding, naming, and changing emotional responses.
+  4. **Interpersonal Effectiveness:** Learning to assert needs and maintain self-respect
+     while simultaneously building and keeping relationships.
 
 ---
 
@@ -133,13 +133,13 @@ DBT directly addresses the relational deficits and fears inherent in
   relaxation.
 - **Prompt (Interpersonal Effectiveness - DEAR MAN):** Use this structure to clearly
   state a need:
-  - **D**escribe the facts of the situation.
-  - **E**xpress feelings/opinions clearly (using "I" statements).
-  - **A**ssert what you want (ask clearly/say no).
-  - **R**einforce (explain the benefits).
-  - **M**indful (stay focused on the goal).
-  - **A**ppear Confident.
-  - **N**egotiate.
+    - **D**escribe the facts of the situation.
+    - **E**xpress feelings/opinions clearly (using "I" statements).
+    - **A**ssert what you want (ask clearly/say no).
+    - **R**einforce (explain the benefits).
+    - **M**indful (stay focused on the goal).
+    - **A**ppear Confident.
+    - **N**egotiate.
 - **Micro-Skill (Emotion Regulation Check-the-Facts):** When an emotion is intense, ask:
   _"Is my emotion justified by the facts (CBT)? Does my intensity match the situation?"_
   If not, use opposite action (behaving contrary to the emotion's urge).

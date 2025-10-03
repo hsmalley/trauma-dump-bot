@@ -29,27 +29,27 @@ related:
 
 ### 💻 Workflow
 
-1.  **Input Collection (Action):** Accept the user's input, typically a time frame
-    (e.g., "Review the last 30 days") and a list of the last 3-5 specific **Committed
-    Actions** or **Skill Gaps** identified by previous analyses.
-2.  **Status Check (Action 3):** For each **Committed Action**, ask the user to provide
-    an update:
-    - **Success/Failure:** Was the action completed or attempted?
-    - **Roadblock Diagnosis:** If failed, why? (Map the failure to a lack of
-      **[[Boundary & Accountability Audit]]** structure or
-      **[[Utility Prompt - Structured Reflection Guide]]**).
-3.  **Skill Integration Audit (Action 3):** Assess the system's current weakest link
-    based on the provided inputs (e.g., the couple repeatedly fails to use the time-out
-    phrase, indicating a **[[Polyvagal Theory]]** regulation skill gap).
-4.  **Relational Progress Score:** Assign a simple, overall status score (e.g.,
-    _Sustaining Progress, Needs Intervention, Stabilized_) based on the success rate of
-    the Committed Actions.
-5.  **Generate Maintenance Tasks:** Create a prioritized list of 3-5 **Maintenance
-    Tasks** for the next review cycle. These tasks must directly address the identified
-    roadblocks or skill gaps.
-6.  **Synthesis and Delivery:** Present the final output as a **Maintenance Report**
-    focused on forward action, ensuring the tone is highly encouraging and celebrates
-    _effort_ over _perfection_.
+1. **Input Collection (Action):** Accept the user's input, typically a time frame (e.g.,
+   "Review the last 30 days") and a list of the last 3-5 specific **Committed Actions**
+   or **Skill Gaps** identified by previous analyses.
+2. **Status Check (Action 3):** For each **Committed Action**, ask the user to provide
+   an update:
+   - **Success/Failure:** Was the action completed or attempted?
+   - **Roadblock Diagnosis:** If failed, why? (Map the failure to a lack of
+     **[[Boundary & Accountability Audit]]** structure or
+     **[[Utility Prompt - Structured Reflection Guide]]**).
+3. **Skill Integration Audit (Action 3):** Assess the system's current weakest link
+   based on the provided inputs (e.g., the couple repeatedly fails to use the time-out
+   phrase, indicating a **[[Polyvagal Theory]]** regulation skill gap).
+4. **Relational Progress Score:** Assign a simple, overall status score (e.g.,
+   _Sustaining Progress, Needs Intervention, Stabilized_) based on the success rate of
+   the Committed Actions.
+5. **Generate Maintenance Tasks:** Create a prioritized list of 3-5 **Maintenance
+   Tasks** for the next review cycle. These tasks must directly address the identified
+   roadblocks or skill gaps.
+6. **Synthesis and Delivery:** Present the final output as a **Maintenance Report**
+   focused on forward action, ensuring the tone is highly encouraging and celebrates
+   _effort_ over _perfection_.
 
 ---
 

@@ -29,24 +29,23 @@ related:
 
 ## 💻 Workflow
 
-1.  **Term Identification (Action):** Scan all files in the vault (prioritizing
-    `Frameworks/` and `Prompts/`) for technical terms and acronyms, including:
-    - **Acronyms:** ACT, IFS, PVT, ENM, NVC, CBT.
-    - **Core Concepts:** Protector Part, Exile, Ventral Vagal, Sympathetic, Dorsal
-      Vagal, Experiential Avoidance, Cognitive Fusion, Committed Action, Double Empathy
-      Problem.
-2.  **Relational Definition Synthesis (Action 3):** For each term, synthesize a
-    definition that meets the following criteria:
-    - **Concise:** Max one to two sentences.
-    - **Relational:** Focus the definition on how the term impacts communication or
-      dyadic interaction (e.g., define **Experiential Avoidance** as _a strategy to stop
-      feeling painful emotions in the presence of your partner_).
-    - **Non-Judgmental:** Adhere strictly to the **[[_CORE_PRINCIPLES_AND_GOVERNANCE]]**
-      by ensuring definitions do not pathologize or assign blame.
-3.  **Cross-Reference:** Ensure each definition provides a clear reference to the
-    primary **[[Theory Reference Sheet]]** file where the concept is fully detailed.
-4.  **Output Formatting:** Format the final output alphabetically, using clear Markdown
-    headings for easy lookup.
+1. **Term Identification (Action):** Scan all files in the vault (prioritizing
+   `Frameworks/` and `Prompts/`) for technical terms and acronyms, including:
+   - **Acronyms:** ACT, IFS, PVT, ENM, NVC, CBT.
+   - **Core Concepts:** Protector Part, Exile, Ventral Vagal, Sympathetic, Dorsal Vagal,
+     Experiential Avoidance, Cognitive Fusion, Committed Action, Double Empathy Problem.
+2. **Relational Definition Synthesis (Action 3):** For each term, synthesize a
+   definition that meets the following criteria:
+   - **Concise:** Max one to two sentences.
+   - **Relational:** Focus the definition on how the term impacts communication or
+     dyadic interaction (e.g., define **Experiential Avoidance** as _a strategy to stop
+     feeling painful emotions in the presence of your partner_).
+   - **Non-Judgmental:** Adhere strictly to the **[[_CORE_PRINCIPLES_AND_GOVERNANCE]]**
+     by ensuring definitions do not pathologize or assign blame.
+3. **Cross-Reference:** Ensure each definition provides a clear reference to the primary
+   **[[Theory Reference Sheet]]** file where the concept is fully detailed.
+4. **Output Formatting:** Format the final output alphabetically, using clear Markdown
+   headings for easy lookup.
 
 ---
 

@@ -39,14 +39,14 @@ actions, and is distinct from healthy love or secure attachment.
   obsessed, not on a reciprocal relationship with the person as they truly are. It is
   less about mutual love and more about achieving internal validation through the LO.
 - **Key Phases (Tennov's Model):**
-  1.  **Crystallization:** The sudden, intense realization of feeling for the LO,
-      leading to filtering out all negative traits and idealizing the LO.
-  2.  **Ascension:** A period of intense longing, fear of rejection, and seeking signs
-      of reciprocation, leading to extreme mood swings (elation upon acceptance, despair
-      upon rejection).
-  3.  **Deterioration/Dissolution:** The phase where the limerence either fades
-      naturally (the LO loses its "charge") or is transformed into a form of mature love
-      or, conversely, persistent bitterness/avoidance.
+  1. **Crystallization:** The sudden, intense realization of feeling for the LO, leading
+     to filtering out all negative traits and idealizing the LO.
+  2. **Ascension:** A period of intense longing, fear of rejection, and seeking signs of
+     reciprocation, leading to extreme mood swings (elation upon acceptance, despair
+     upon rejection).
+  3. **Deterioration/Dissolution:** The phase where the limerence either fades naturally
+     (the LO loses its "charge") or is transformed into a form of mature love or,
+     conversely, persistent bitterness/avoidance.
 
 ### 🧠 Core Features
 

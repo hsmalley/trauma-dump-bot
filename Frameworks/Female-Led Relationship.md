@@ -38,13 +38,13 @@ shift of traditional gender roles regarding **power and authority**.
   partner and the **assumption of empowered agency** for the female partner.
 - **Spectrum of FLR:** FLR exists on a continuum of intensity and scope, moving from
   simple agreements on domestic chores to complex, 24/7 power exchange (P.E.):
-  1.  **Low/Soft FLR:** The female partner is the primary planner and makes most
-      lifestyle decisions (e.g., finances, housing, schedule).
-  2.  **Moderate FLR:** Includes Low FLR plus some formal structure, defined rules, and
-      perhaps light BDSM elements or minor daily submission.
-  3.  **Total/Extreme FLR (P.E.):** A 24/7 dynamic where the male partner has fully
-      surrendered control and agency, often including aspects of service, obedience, and
-      strict monitoring.
+  1. **Low/Soft FLR:** The female partner is the primary planner and makes most
+     lifestyle decisions (e.g., finances, housing, schedule).
+  2. **Moderate FLR:** Includes Low FLR plus some formal structure, defined rules, and
+     perhaps light BDSM elements or minor daily submission.
+  3. **Total/Extreme FLR (P.E.):** A 24/7 dynamic where the male partner has fully
+     surrendered control and agency, often including aspects of service, obedience, and
+     strict monitoring.
 - **Defining Feature:** Like all consensual power dynamics, the **FLR must be freely
   chosen, negotiated, and revocable** by all parties, with the male partner's consent
   remaining the non-negotiable foundation.

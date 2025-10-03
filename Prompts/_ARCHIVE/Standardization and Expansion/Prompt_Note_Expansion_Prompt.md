@@ -15,12 +15,13 @@ type: template
 
 ---
 
-### ✅ Actions:
+### ✅ Actions
 
 #### 1. Standardize Format
 
 - Apply structured YAML frontmatter
 - Add frontmatter:
+
   ```yaml
   ---
   title: [Prompt Name]
@@ -28,11 +29,12 @@ type: template
   type: prompt
   ---
   ```
+
 - Use sections like:
-  - `## Prompt`
-  - `## Frameworks Referenced`
-  - `## Use Cases`
-  - `## Workflow`
+    - `## Prompt`
+    - `## Frameworks Referenced`
+    - `## Use Cases`
+    - `## Workflow`
 
 #### 2. Expand Workflow
 

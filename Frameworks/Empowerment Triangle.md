@@ -37,15 +37,14 @@ empowered, and mutually respectful stances.
   encouraging **personal responsibility, clear communication, and compassionate
   challenge.**
 - **The Three Empowered Roles:**
-  1.  **Vulnerable** (Corrects the **Victim**): Takes responsibility for their feelings
-      and needs, asks for support clearly, and expresses emotions honestly without
-      blame.
-  2.  **Assertive/Creative** (Corrects the **Persecutor**): Confronts the issue or
-      person directly and respectfully, maintains boundaries, and seeks creative
-      solutions without resorting to blame, rage, or moral superiority.
-  3.  **Caring/Challenger** (Corrects the **Rescuer**): Offers genuine support and
-      compassion while **challenging** the other person to use their own resources and
-      agency. They avoid fixing problems for others.
+  1. **Vulnerable** (Corrects the **Victim**): Takes responsibility for their feelings
+     and needs, asks for support clearly, and expresses emotions honestly without blame.
+  2. **Assertive/Creative** (Corrects the **Persecutor**): Confronts the issue or person
+     directly and respectfully, maintains boundaries, and seeks creative solutions
+     without resorting to blame, rage, or moral superiority.
+  3. **Caring/Challenger** (Corrects the **Rescuer**): Offers genuine support and
+     compassion while **challenging** the other person to use their own resources and
+     agency. They avoid fixing problems for others.
 - **Key Dynamic:** All three roles operate from a position of **mutual agency and
   respect**, recognizing that the other person is capable.
 
@@ -99,9 +98,9 @@ Attachment** by modeling reliability, emotional clarity, and competence.
   **Challenger** is **Responsive** by offering support (but not control), and the
   **Assertive** partner is **Engaged** in problem-solving.
 - **Resolving Fear of Abandonment/Engulfment:**
-  - The **Vulnerable** role soothes **Anxious Attachment** by allowing for clear, direct
+    - The **Vulnerable** role soothes **Anxious Attachment** by allowing for clear, direct
     need-asking, reducing the need for escalating pursuit.
-  - The **Caring/Challenger** role soothes **Avoidant Attachment** by maintaining
+    - The **Caring/Challenger** role soothes **Avoidant Attachment** by maintaining
     boundaries and refusing to be engulfed by the other's needs, reducing the urge to
     distance.
 - **Boundary Fortification:** The shift from Rescuer to **Caring/Challenger** is a

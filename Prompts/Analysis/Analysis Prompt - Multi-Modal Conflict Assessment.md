@@ -31,21 +31,21 @@ related:
 
 ### 💻 Workflow
 
-1.  **Identify Core Cycle (Action 1):** Determine the primary negative relational
-    pattern (e.g., Pursue-Withdraw).
-2.  **Somatic Mapping (Action 3):** For both partners, identify the likely
-    **[[Polyvagal Theory]]** state (Ventral Vagal, Sympathetic, Dorsal Vagal) driving
-    their verbal and non-verbal cues.
-3.  **Core Need Mapping (Action 3):** Identify the underlying **[[Attachment Theory]]**
-    need (e.g., Closeness, Autonomy, Security) being expressed or violated.
-4.  **Communication Failures (Action 3):** Point out explicit **[[Gottman Method]]**
-    "Four Horsemen" behaviors or **[[Nonviolent Communication]]** failures (demands vs.
-    requests).
-5.  **Internal Framing (Action 3):** Briefly frame the most intense behavior as a
-    protective "Part" (**[[Internal Family Systems]]**), highlighting the fear it is
-    protecting.
-6.  **Synthesis and Repair:** Synthesize findings into clear, non-blaming insights and
-    provide concrete micro-skill recommendations for future repair.
+1. **Identify Core Cycle (Action 1):** Determine the primary negative relational pattern
+   (e.g., Pursue-Withdraw).
+2. **Somatic Mapping (Action 3):** For both partners, identify the likely
+   **[[Polyvagal Theory]]** state (Ventral Vagal, Sympathetic, Dorsal Vagal) driving
+   their verbal and non-verbal cues.
+3. **Core Need Mapping (Action 3):** Identify the underlying **[[Attachment Theory]]**
+   need (e.g., Closeness, Autonomy, Security) being expressed or violated.
+4. **Communication Failures (Action 3):** Point out explicit **[[Gottman Method]]**
+   "Four Horsemen" behaviors or **[[Nonviolent Communication]]** failures (demands vs.
+   requests).
+5. **Internal Framing (Action 3):** Briefly frame the most intense behavior as a
+   protective "Part" (**[[Internal Family Systems]]**), highlighting the fear it is
+   protecting.
+6. **Synthesis and Repair:** Synthesize findings into clear, non-blaming insights and
+   provide concrete micro-skill recommendations for future repair.
 
 ---
 
@@ -53,16 +53,16 @@ related:
 
 The analysis relies on the following frameworks, sorted by primary relevance:
 
-1.  **[[Attachment Theory]]** (Primary Relevance): Provides the fundamental lens for
-    understanding core needs and fears driving the cycle.
-2.  **[[Polyvagal Theory]]**: Essential for mapping the **somatic** experience of
-    conflict, reframing "overreaction" as "nervous system response."
-3.  **[[Gottman Method]]**: Provides clear, observable labels for conflict behaviors
-    (e.g., Criticism, Defensiveness) to structure the analysis.
-4.  **[[Internal Family Systems]]**: Used to shift the focus from "bad person" to
-    "protective part," increasing compassion.
-5.  **[[Nonviolent Communication]]**: Essential for translating conflict statements into
-    actionable requests and universal needs.
+1. **[[Attachment Theory]]** (Primary Relevance): Provides the fundamental lens for
+   understanding core needs and fears driving the cycle.
+2. **[[Polyvagal Theory]]**: Essential for mapping the **somatic** experience of
+   conflict, reframing "overreaction" as "nervous system response."
+3. **[[Gottman Method]]**: Provides clear, observable labels for conflict behaviors
+   (e.g., Criticism, Defensiveness) to structure the analysis.
+4. **[[Internal Family Systems]]**: Used to shift the focus from "bad person" to
+   "protective part," increasing compassion.
+5. **[[Nonviolent Communication]]**: Essential for translating conflict statements into
+   actionable requests and universal needs.
 
 ---
 

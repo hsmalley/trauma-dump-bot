@@ -24,14 +24,14 @@ actionable results.
 
 The system is a closed loop designed to enforce regulation, analysis, and repair.
 
-1.  **Input (Data Collection):** User provides structured data via the **Templates**.
-2.  **Triage (Diagnosis):** The **Triage Engine** selects the precise diagnostic tool.
-3.  **Analysis (Processing):** The **Analysis Prompts** apply the **Frameworks** (IFS,
-    PVT, ACT) to the data.
-4.  **Output (Repair/Action):** The **Synthesis Prompt** translates the analysis into a
-    final script.
-5.  **Audit (Maintenance):** The **Accountability Prompt** checks if the action was
-    taken, completing the cycle.
+1. **Input (Data Collection):** User provides structured data via the **Templates**.
+2. **Triage (Diagnosis):** The **Triage Engine** selects the precise diagnostic tool.
+3. **Analysis (Processing):** The **Analysis Prompts** apply the **Frameworks** (IFS,
+   PVT, ACT) to the data.
+4. **Output (Repair/Action):** The **Synthesis Prompt** translates the analysis into a
+   final script.
+5. **Audit (Maintenance):** The **Accountability Prompt** checks if the action was
+   taken, completing the cycle.
 
 ---
 

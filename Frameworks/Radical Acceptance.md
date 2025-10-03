@@ -50,9 +50,9 @@ mechanisms to protest against it.
   approve of it, like it, or stop trying to improve the future. It means acknowledging
   the current facts with clarity so you can move forward effectively.
 - **Willingness vs. Willfulness:**
-  - **Willfulness:** Clinging to the belief that reality _should_ be different, leading
+    - **Willfulness:** Clinging to the belief that reality _should_ be different, leading
     to ineffective actions, bitterness, and withdrawal.
-  - **Willingness:** Openness to seeing and responding to the facts of the present
+    - **Willingness:** Openness to seeing and responding to the facts of the present
     moment as they are, which is the foundation for effective change.
 
 ---

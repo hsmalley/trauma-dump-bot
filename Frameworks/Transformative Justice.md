@@ -51,20 +51,20 @@ conditions that allowed the harm to occur.
 
 TJ shifts focus and responsibility away from the state and onto the affected community.
 
-1.  **Safety and Support for the Harmed:** The process begins and centers on the **needs
-    and self-determination** of the person who was harmed. Their physical and emotional
-    safety is the non-negotiable priority.
-2.  **Community Accountability:** The responsibility for addressing and preventing harm
-    belongs to the **community** surrounding the person who caused harm, not just the
-    individual themselves. The community's task is to interrupt the behavior, support
-    the person who was harmed, and hold the person who caused harm accountable.
-3.  **No Banishment:** The goal is to avoid exile or abandonment of the person who
-    caused harm. Instead, the community works to interrupt the harmful behavior,
-    facilitate deep learning and change, and ultimately **integrate** the person back
-    into the social fabric in a non-harmful way.
-4.  **Addressing Root Causes:** The work explicitly analyzes the **systemic context** of
-    the harm (e.g., "How did internalized sexism enable this assault? How did economic
-    precarity contribute to this theft?").
+1. **Safety and Support for the Harmed:** The process begins and centers on the **needs
+   and self-determination** of the person who was harmed. Their physical and emotional
+   safety is the non-negotiable priority.
+2. **Community Accountability:** The responsibility for addressing and preventing harm
+   belongs to the **community** surrounding the person who caused harm, not just the
+   individual themselves. The community's task is to interrupt the behavior, support the
+   person who was harmed, and hold the person who caused harm accountable.
+3. **No Banishment:** The goal is to avoid exile or abandonment of the person who caused
+   harm. Instead, the community works to interrupt the harmful behavior, facilitate deep
+   learning and change, and ultimately **integrate** the person back into the social
+   fabric in a non-harmful way.
+4. **Addressing Root Causes:** The work explicitly analyzes the **systemic context** of
+   the harm (e.g., "How did internalized sexism enable this assault? How did economic
+   precarity contribute to this theft?").
 
 ---
 

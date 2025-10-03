@@ -1,6 +1,7 @@
 import os
 import tempfile
-from tools.vault import load_vault, save_vault, vault_hash, validate_vault
+
+from tools.vault import load_vault, save_vault, validate_vault, vault_hash
 
 VAULT_FIXTURE = {
     "observedPatterns": ["looping", "shutdown"],

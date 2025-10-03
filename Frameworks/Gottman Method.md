@@ -38,13 +38,13 @@ Relationship House** to build a strong, resilient relationship.
   meaning. It focuses on **friendship, managing conflict, and creating life purpose**.
 - **The Sound Relationship House (SRH):** The primary metaphor, a seven-story house
   detailing the components of a healthy relationship:
-  1.  **Build Love Maps** (Know each other's inner worlds).
-  2.  **Share Fondness and Admiration** (The antidote to contempt).
-  3.  **Turn Towards** (Respond to bids for connection).
-  4.  **The Positive Perspective** (Seeing the good in the relationship).
-  5.  **Manage Conflict** (Not solving, but managing perpetual problems).
-  6.  **Make Life Dreams Come True** (Supporting personal goals).
-  7.  **Create Shared Meaning** (Developing rituals and purpose).
+  1. **Build Love Maps** (Know each other's inner worlds).
+  2. **Share Fondness and Admiration** (The antidote to contempt).
+  3. **Turn Towards** (Respond to bids for connection).
+  4. **The Positive Perspective** (Seeing the good in the relationship).
+  5. **Manage Conflict** (Not solving, but managing perpetual problems).
+  6. **Make Life Dreams Come True** (Supporting personal goals).
+  7. **Create Shared Meaning** (Developing rituals and purpose).
 
 ---
 

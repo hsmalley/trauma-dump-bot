@@ -3,6 +3,7 @@
 # Usage: python telegram_html_to_txt.py messages.html messages.txt
 
 import sys
+
 from bs4 import BeautifulSoup
 
 
@@ -55,8 +56,7 @@ def extract_messages(soup):
     if not candidates:
         # Fallback: look for divs whose id starts with "message"
         candidates = soup.find_all(
-            lambda tag: tag.name == "div"
-            and str(tag.get("id", "")).startswith("message")
+            lambda tag: tag.name == "div" and str(tag.get("id", "")).startswith("message")
         )
     for m in candidates:
         # find sender
@@ -65,14 +65,12 @@ def extract_messages(soup):
         text_el = None
 
         sender_el = m.find(class_="from_name") or m.find(
-            lambda t: t.name in ("span", "div")
-            and "from" in " ".join(t.get("class") or [])
+            lambda t: t.name in ("span", "div") and "from" in " ".join(t.get("class") or [])
         )
         if sender_el:
             sender = sender_el.get_text(strip=True)
         date_el = m.find(class_="date") or m.find(
-            lambda t: t.name in ("span", "div")
-            and "date" in " ".join(t.get("class") or [])
+            lambda t: t.name in ("span", "div") and "date" in " ".join(t.get("class") or [])
         )
         if date_el:
             date = date_el.get_text(strip=True)

@@ -40,13 +40,13 @@ to trauma or relational injury.
   those that lead to destructive behaviors (e.g., self-harm, addiction, rage), are
   attempting to help or protect the system from pain.
 - **The Three Categories of Parts:**
-  1.  **Exiles:** Wounded, often young parts holding pain, shame, fear, or trauma
-      memory. They are often isolated and hidden by the Protectors.
-  2.  **Managers:** Proactive parts that work to prevent pain and shame from Exiles from
-      being triggered. They are often critical, controlling, achieving, or
-      people-pleasing.
-  3.  **Firefighters:** Reactive parts that rush in to suppress or numb the pain when an
-      Exile is triggered (e.g., addiction, dissociation, rage, binge eating).
+  1. **Exiles:** Wounded, often young parts holding pain, shame, fear, or trauma memory.
+     They are often isolated and hidden by the Protectors.
+  2. **Managers:** Proactive parts that work to prevent pain and shame from Exiles from
+     being triggered. They are often critical, controlling, achieving, or
+     people-pleasing.
+  3. **Firefighters:** Reactive parts that rush in to suppress or numb the pain when an
+     Exile is triggered (e.g., addiction, dissociation, rage, binge eating).
 
 ---
 

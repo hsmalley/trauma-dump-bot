@@ -32,25 +32,25 @@ related:
 
 ### 💻 Workflow
 
-1.  **Boundary Clarity Audit (Action):** Identify the specific boundary at the core of
-    the conflict (e.g., time, money, communication style, ENM agreements). Was the
-    boundary **explicitly stated** and **mutually consented** to, or was it an unspoken
-    assumption?
-2.  **Violation vs. Unclarity:** Determine if the conflict resulted from a **Violation**
-    (a known rule was broken) or **Unclarity** (a rule did not exist or was ambiguous).
-3.  **Accountability Audit (Action 3):** If a repair attempt was made, evaluate its
-    quality: Did the partner apologize for the **impact** (true accountability), or did
-    they defend their **intent** (poor accountability)?
-4.  **Committed Action Check (Action 3):** Use the
-    **[[Acceptance and Commitment Therapy]] (ACT)** lens to audit the quality of the
-    follow-through. Was the action a one-time apology, or was a concrete, repeatable
-    step taken to prevent recurrence (a "Committed Action")?
-5.  **Relational Governance Score:** Assign a high/medium/low score to the
-    relationship's governance based on consistency of boundary enforcement and
-    accountability success rate.
-6.  **Synthesis and Micro-Skill:** Provide one specific boundary statement (e.g., using
-    **[[Nonviolent Communication]]** format) and one **Committed Action** the partners
-    should implement immediately.
+1. **Boundary Clarity Audit (Action):** Identify the specific boundary at the core of
+   the conflict (e.g., time, money, communication style, ENM agreements). Was the
+   boundary **explicitly stated** and **mutually consented** to, or was it an unspoken
+   assumption?
+2. **Violation vs. Unclarity:** Determine if the conflict resulted from a **Violation**
+   (a known rule was broken) or **Unclarity** (a rule did not exist or was ambiguous).
+3. **Accountability Audit (Action 3):** If a repair attempt was made, evaluate its
+   quality: Did the partner apologize for the **impact** (true accountability), or did
+   they defend their **intent** (poor accountability)?
+4. **Committed Action Check (Action 3):** Use the
+   **[[Acceptance and Commitment Therapy]] (ACT)** lens to audit the quality of the
+   follow-through. Was the action a one-time apology, or was a concrete, repeatable step
+   taken to prevent recurrence (a "Committed Action")?
+5. **Relational Governance Score:** Assign a high/medium/low score to the relationship's
+   governance based on consistency of boundary enforcement and accountability success
+   rate.
+6. **Synthesis and Micro-Skill:** Provide one specific boundary statement (e.g., using
+   **[[Nonviolent Communication]]** format) and one **Committed Action** the partners
+   should implement immediately.
 
 ---
 
@@ -58,16 +58,16 @@ related:
 
 The analysis relies on the following frameworks, sorted by primary relevance:
 
-1.  **[[Consent Culture]]** (Primary Relevance): Provides the standard for auditing
-    boundaries: Were they explicit, enthusiastic, and ongoing?
-2.  **[[Acceptance and Commitment Therapy]] (ACT)**: Essential for auditing
-    **Accountability** by checking for **Committed Action** (alignment between values
-    and follow-through behavior).
-3.  **[[Nonviolent Communication]]**: Used to translate soft boundaries or demands into
-    clear, positive **requests** and needs.
-4.  **[[Conflict Repair Template]]**: Used as a reference to determine if the repair
-    attempt contained the necessary structural components (responsibility, empathy,
-    future request).
+1. **[[Consent Culture]]** (Primary Relevance): Provides the standard for auditing
+   boundaries: Were they explicit, enthusiastic, and ongoing?
+2. **[[Acceptance and Commitment Therapy]] (ACT)**: Essential for auditing
+   **Accountability** by checking for **Committed Action** (alignment between values and
+   follow-through behavior).
+3. **[[Nonviolent Communication]]**: Used to translate soft boundaries or demands into
+   clear, positive **requests** and needs.
+4. **[[Conflict Repair Template]]**: Used as a reference to determine if the repair
+   attempt contained the necessary structural components (responsibility, empathy,
+   future request).
 
 ---
 

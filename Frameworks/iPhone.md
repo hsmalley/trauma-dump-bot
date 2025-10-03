@@ -62,16 +62,16 @@ industry standards:
 
 ### 🧠 Core Technological and Design Principles
 
-1.  **Industrial Design:** iPhones are known for their premium construction, often
-    utilizing materials like aluminum, glass, and stainless steel (or titanium in recent
-    Pro models) to create a distinct, minimalist aesthetic.
-2.  **SoC (System-on-a-Chip):** Apple's proprietary **A-series chips** (e.g., A18
-    Bionic) are custom-designed for the iPhone, providing industry-leading performance,
-    energy efficiency, and graphics capabilities that drive its advanced features and
-    computational photography.
-3.  **Closed Ecosystem:** The tight integration between the iOS software and the iPhone
-    hardware allows for superior optimization, security, and consistent user experience,
-    though it limits user customization and third-party repair options.
+1. **Industrial Design:** iPhones are known for their premium construction, often
+   utilizing materials like aluminum, glass, and stainless steel (or titanium in recent
+   Pro models) to create a distinct, minimalist aesthetic.
+2. **SoC (System-on-a-Chip):** Apple's proprietary **A-series chips** (e.g., A18 Bionic)
+   are custom-designed for the iPhone, providing industry-leading performance, energy
+   efficiency, and graphics capabilities that drive its advanced features and
+   computational photography.
+3. **Closed Ecosystem:** The tight integration between the iOS software and the iPhone
+   hardware allows for superior optimization, security, and consistent user experience,
+   though it limits user customization and third-party repair options.
 
 ---
 

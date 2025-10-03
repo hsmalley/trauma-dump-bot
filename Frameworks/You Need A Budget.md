@@ -87,4 +87,4 @@ The video below offers a comprehensive step-by-step guide to setting up and usin
 YNAB application and its method.
 
 ![2025 YNAB Getting Started Guide - Start To Finish](https://www.youtube.com/watch?v=hHTT-0EzsTc)
-http://googleusercontent.com/youtube_content/2
+<http://googleusercontent.com/youtube_content/2>

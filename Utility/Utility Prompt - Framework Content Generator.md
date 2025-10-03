@@ -28,34 +28,32 @@ related:
 
 ### 💻 Workflow
 
-1.  **Ingest Source Material:** Accept and process the raw research data and the **name
-    of the Framework** (e.g., "Somatic Experiencing," "Solution-Focused Brief Therapy").
-2.  **Structural Initialization:** Begin the file by inserting the complete **YAML
-    Frontmatter** and Markdown headings from the **[[Theory Reference Sheet]]**.
-3.  **Content Synthesis & Mapping:** Fill each section of the template by synthesizing
-    the source material, ensuring the following critical relational elements are
-    included:
-    - **Neurodivergent Considerations:** Explicitly state how the framework's core
-      tenets (e.g., _Cognitive Behavioral Therapy_'s emphasis on thought-stopping) might
-      negatively impact **Neurodivergent** processing (e.g., increased masking or
-      shame).
-    - **PVT/IFS Alignment:** Clearly map the framework's concepts to the vault's core
-      relational frameworks:
-      - **PVT Lens:** How does the framework affect the **Sympathetic** or **Ventral
-        Vagal** state?
-      - **IFS Lens:** How does the framework interact with **Protectors** and
-        **Exiles**?
-    - **Relational Impact:** Specifically address how the framework's practices play out
-      in a **dyadic (two-person) context**, not just individually.
+1. **Ingest Source Material:** Accept and process the raw research data and the **name
+   of the Framework** (e.g., "Somatic Experiencing," "Solution-Focused Brief Therapy").
+2. **Structural Initialization:** Begin the file by inserting the complete **YAML
+   Frontmatter** and Markdown headings from the **[[Theory Reference Sheet]]**.
+3. **Content Synthesis & Mapping:** Fill each section of the template by synthesizing
+   the source material, ensuring the following critical relational elements are
+   included:
+   - **Neurodivergent Considerations:** Explicitly state how the framework's core tenets
+     (e.g., _Cognitive Behavioral Therapy_'s emphasis on thought-stopping) might
+     negatively impact **Neurodivergent** processing (e.g., increased masking or shame).
+   - **PVT/IFS Alignment:** Clearly map the framework's concepts to the vault's core
+     relational frameworks:
+     - **PVT Lens:** How does the framework affect the **Sympathetic** or **Ventral
+       Vagal** state?
+     - **IFS Lens:** How does the framework interact with **Protectors** and **Exiles**?
+   - **Relational Impact:** Specifically address how the framework's practices play out
+     in a **dyadic (two-person) context**, not just individually.
 
-4.  **Citations (Action):** Identify the primary academic sources for the framework and
-    format them accurately in the final `## Citations` section.
+4. **Citations (Action):** Identify the primary academic sources for the framework and
+   format them accurately in the final `## Citations` section.
 
-5.  **Clean Output:** Ensure the final output contains **no instructional text, no
-    placeholders, and no remaining `[... fill in ...]` prompts** from the template.
-6.  - **Do not include human-readable label prefixes inside frontmatter values.**  
-      ❌ Bad: `source: Synthesis: kink scholarship, sexual-health guidance`  
-      ✅ Good: `source: kink scholarship, sexual-health guidance`
+5. **Clean Output:** Ensure the final output contains **no instructional text, no
+   placeholders, and no remaining `[... fill in ...]` prompts** from the template.
+6. - **Do not include human-readable label prefixes inside frontmatter values.**  
+     ❌ Bad: `source: Synthesis: kink scholarship, sexual-health guidance`  
+     ✅ Good: `source: kink scholarship, sexual-health guidance`
 
 ---
 

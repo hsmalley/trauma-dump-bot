@@ -31,11 +31,11 @@ absence of a "no") to actively promoting a culture where asking for, giving, rec
 and respecting boundaries is a positive, expected, and continuous norm.
 
 - **Defining Consent (FRIES Acronym):** Consent must be:
-  1.  **F**reely Given (without coercion or pressure).
-  2.  **R**evocable (can be changed at any time).
-  3.  **I**nformed (given with all necessary information).
-  4.  **E**nthusiastic (a clear, unambiguous "yes," not merely a lack of resistance).
-  5.  **S**pecific (given for a particular activity/action).
+  1. **F**reely Given (without coercion or pressure).
+  2. **R**evocable (can be changed at any time).
+  3. **I**nformed (given with all necessary information).
+  4. **E**nthusiastic (a clear, unambiguous "yes," not merely a lack of resistance).
+  5. **S**pecific (given for a particular activity/action).
 - **Core Goal:** To shift power dynamics from assumption and entitlement to **mutual
   respect** and **agency**, creating safer, more equitable environments.
 

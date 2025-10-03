@@ -30,38 +30,38 @@ related:
 
 ### 💻 Workflow
 
-1.  **Cycle Identification (Action):** Name the specific pattern present (e.g.,
-    Pursue/Withdraw, Attack/Defend, Blame/Justify). Provide quotes that exemplify the
-    initiation and escalation of this pattern.
-2.  **Role Assignment:** Clearly assign the dominant role to each partner within the
-    cycle (e.g., Partner A is the **Pursuer**, Partner B is the **Distancer**). Note the
-    rigidity of these roles.
-3.  **Gottman Horseman Audit:** Scan the transcript for the presence of the **Four
-    Horsemen** (Criticism, Contempt, Defensiveness, Stonewalling). Note which Horseman
-    is most destructive in this specific cycle.
-4.  **Unmet Needs Diagnosis (Action 3):** Use the **[[Nonviolent Communication]]** lens
-    to hypothesize the core, **unmet need** driving each partner's behavior _within the
-    cycle_:
-    - _The Pursuer's Need:_ (e.g., Need for Connection, Need to be Heard).
-    - _The Distancer's Need:_ (e.g., Need for Autonomy, Need for Safety/Calm).
-5.  **Micro-Skill Failure:** Identify the key **Micro-Skill** (e.g., taking a Time-Out,
-    accepting a repair bid) that, if successfully executed, would have broken the cycle
-    immediately.
-6.  **Synthesis and Action:** Synthesize the finding into a single sentence that
-    describes the cycle's mechanism ("When Partner A criticizes, Partner B stonewalls,
-    leading both to feel abandoned.") and provide a single **Action Statement** aimed at
-    disrupting the cycle.
+1. **Cycle Identification (Action):** Name the specific pattern present (e.g.,
+   Pursue/Withdraw, Attack/Defend, Blame/Justify). Provide quotes that exemplify the
+   initiation and escalation of this pattern.
+2. **Role Assignment:** Clearly assign the dominant role to each partner within the
+   cycle (e.g., Partner A is the **Pursuer**, Partner B is the **Distancer**). Note the
+   rigidity of these roles.
+3. **Gottman Horseman Audit:** Scan the transcript for the presence of the **Four
+   Horsemen** (Criticism, Contempt, Defensiveness, Stonewalling). Note which Horseman is
+   most destructive in this specific cycle.
+4. **Unmet Needs Diagnosis (Action 3):** Use the **[[Nonviolent Communication]]** lens
+   to hypothesize the core, **unmet need** driving each partner's behavior _within the
+   cycle_:
+   - _The Pursuer's Need:_ (e.g., Need for Connection, Need to be Heard).
+   - _The Distancer's Need:_ (e.g., Need for Autonomy, Need for Safety/Calm).
+5. **Micro-Skill Failure:** Identify the key **Micro-Skill** (e.g., taking a Time-Out,
+   accepting a repair bid) that, if successfully executed, would have broken the cycle
+   immediately.
+6. **Synthesis and Action:** Synthesize the finding into a single sentence that
+   describes the cycle's mechanism ("When Partner A criticizes, Partner B stonewalls,
+   leading both to feel abandoned.") and provide a single **Action Statement** aimed at
+   disrupting the cycle.
 
 ---
 
 ## 📚 Frameworks Referenced
 
-1.  **Gottman Method (Primary)**: Provides the concepts of the Four Horsemen, repair
-    attempts, and basic cycle analysis.
-2.  **[[Nonviolent Communication]]**: Essential for translating destructive behavior
-    into understandable, unmet human needs.
-3.  **Emotionally Focused Therapy (Implicit/EFT)**: Provides the foundation for the
-    **Pursuer-Distancer** dynamic and the focus on underlying **Attachment** needs.
+1. **Gottman Method (Primary)**: Provides the concepts of the Four Horsemen, repair
+   attempts, and basic cycle analysis.
+2. **[[Nonviolent Communication]]**: Essential for translating destructive behavior into
+   understandable, unmet human needs.
+3. **Emotionally Focused Therapy (Implicit/EFT)**: Provides the foundation for the
+   **Pursuer-Distancer** dynamic and the focus on underlying **Attachment** needs.
 
 ---
 

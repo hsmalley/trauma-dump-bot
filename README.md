@@ -7,7 +7,7 @@ type: meta
 
 <!-- @format -->
 
-# Welcome to Trauma Dump Bot!
+# Welcome to Trauma Dump Bot
 
 > 🚧 Warning
 >
@@ -26,7 +26,7 @@ for so many different things!_
 It's really simple, generate the a json file, upload it to your preferred chat bot and
 and run the prompt... okay maybe that's not so simple...
 
-### How to start using NOW!
+### How to start using NOW
 
 - Download the Relational_Analysis_Vault.json file from this repo
 - Grab the Prompt from System_Prompt_JSON.md (the System_Prompt_JSON_mini.md is also a

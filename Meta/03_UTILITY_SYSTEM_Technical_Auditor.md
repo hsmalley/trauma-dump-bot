@@ -27,28 +27,27 @@ related:
 
 ### 💻 Workflow
 
-1.  **File Audit & Indexing (Action):** Scan all files across the `Prompts/`,
-    `Frameworks/`, and `Templates/` directories.
-2.  **Frontmatter Validation:** For every file, check that the YAML frontmatter includes
-    the mandatory `tags: [prompt | framework | template]` and the correct
-    `type: [prompt | framework | template]` field. Add or correct fields where
-    necessary.
-3.  **Link Integrity Check (Action):** Identify all internal `[[...]]` links in the
-    scanned files.
-    - **Find Broken Links:** Compile a list of all links that point to non-existent
-      files ("link rot").
-    - **Fix Common Errors:** Automatically fix common errors (e.g., changing
-      `[[Polyvagal Theory]]` to the standardized `[[Polyvagal Theory]]`).
-4.  **Header Standardization:** Ensure all core files use the required top-level section
-    headers (e.g., `## Frameworks Referenced`, `## Usage`). Correct any files found
-    using non-standard headings.
-5.  **Output Summary:** Do not modify any files until the final step. Instead, output a
-    summary report detailing:
-    - Total Files Audited
-    - Number of Broken Links Found
-    - Number of Files with Corrected Frontmatter
-    - Recommended actions for any remaining complex issues (e.g., deleting a file
-      pointed to by multiple broken links).
+1. **File Audit & Indexing (Action):** Scan all files across the `Prompts/`,
+   `Frameworks/`, and `Templates/` directories.
+2. **Frontmatter Validation:** For every file, check that the YAML frontmatter includes
+   the mandatory `tags: [prompt | framework | template]` and the correct
+   `type: [prompt | framework | template]` field. Add or correct fields where necessary.
+3. **Link Integrity Check (Action):** Identify all internal `[[...]]` links in the
+   scanned files.
+   - **Find Broken Links:** Compile a list of all links that point to non-existent files
+     ("link rot").
+   - **Fix Common Errors:** Automatically fix common errors (e.g., changing
+     `[[Polyvagal Theory]]` to the standardized `[[Polyvagal Theory]]`).
+4. **Header Standardization:** Ensure all core files use the required top-level section
+   headers (e.g., `## Frameworks Referenced`, `## Usage`). Correct any files found using
+   non-standard headings.
+5. **Output Summary:** Do not modify any files until the final step. Instead, output a
+   summary report detailing:
+   - Total Files Audited
+   - Number of Broken Links Found
+   - Number of Files with Corrected Frontmatter
+   - Recommended actions for any remaining complex issues (e.g., deleting a file pointed
+     to by multiple broken links).
 
 ---
 

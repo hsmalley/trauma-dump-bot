@@ -38,12 +38,12 @@ used in health and therapeutic settings.
   revealing desire, ability, reasons, need, or commitment to change) must come from the
   client for it to be effective and sustainable.
 - **Guiding Principles (The Spirit of MI):**
-  1.  **Partnership:** MI is a collaborative relationship, not an expert/recipient one.
-  2.  **Acceptance:** Respecting the client's autonomy and capacity for self-direction,
-      with absolute worth and accurate empathy.
-  3.  **Compassion:** Actively promoting the welfare and best interests of the client.
-  4.  **Evocation:** Drawing out the client's own motivations, resources, and arguments
-      for change.
+  1. **Partnership:** MI is a collaborative relationship, not an expert/recipient one.
+  2. **Acceptance:** Respecting the client's autonomy and capacity for self-direction,
+     with absolute worth and accurate empathy.
+  3. **Compassion:** Actively promoting the welfare and best interests of the client.
+  4. **Evocation:** Drawing out the client's own motivations, resources, and arguments
+     for change.
 - **Core Skill:** Recognizing and responding to **Change Talk** while gently softening
   **Sustain Talk** (statements favoring the status quo).
 
