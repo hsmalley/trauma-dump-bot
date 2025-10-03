@@ -7,7 +7,7 @@
       "type": "file",
       "relpath": "CONTRIBUTING.md",
       "size_bytes": 2080,
-      "mtime_utc": "2025-10-03T13:39:32.631010Z",
+      "mtime_utc": "2025-10-03T14:24:36.210764Z",
       "frontmatter": {
         "title": "CONTRIBUTING",
         "tags": [
@@ -26,7 +26,7 @@
           "type": "file",
           "relpath": "Frameworks/Acceptance and Commitment Therapy.md",
           "size_bytes": 6624,
-          "mtime_utc": "2025-10-03T13:39:32.631010Z",
+          "mtime_utc": "2025-10-03T14:24:36.210764Z",
           "frontmatter": {
             "title": "🧠 Acceptance and Commitment Therapy (ACT)",
             "aliases": [
@@ -54,11 +54,45 @@
           "content": "<!-- @format -->\n\n### 🧩 Definition and Core Themes\n\nAcceptance and Commitment Therapy (ACT) is a form of contextual behavioral science\ndeveloped by **Steven C. Hayes**. Its core goal is to increase **psychological\nflexibility**—the ability to remain in contact with the present moment while either\nchanging one’s behavior when it serves value, or maintaining it when action is required.\n\n- **Origin Context:** Developed in the 1980s and 90s as part of the \"third wave\" of\n  behavioral therapies, focusing on language, cognition, and mindfulness.\n- **Key Assumptions:** Pain, discomfort, and difficult thoughts/feelings are unavoidable\n  parts of the human experience. The _suffering_ is not caused by the pain itself, but\n  by the rigid _struggle against_ it (experiential avoidance).\n\n### 🌿 Traits and Lived Experience\n\nACT describes the struggle between **Psychological Flexibility** (adaptive) and\n**Psychological Rigidity** (maladaptive).\n\n- **Rigid Experience (Fusion):** Thoughts and feelings feel like facts or commands\n  (e.g., \"I feel afraid, therefore I am unsafe and must leave\"). Actions are driven by\n  the need to escape discomfort.\n- **Flexible Experience (Acceptance):** Thoughts and feelings are recognized as\n  temporary, internal events (e.g., \"I am noticing the thought that I am unsafe\").\n  Actions are chosen based on **personal values**, regardless of the discomfort present.\n- **Neurodivergent Considerations:** Literal interpretation of thoughts can lead to high\n  cognitive fusion. Experiential avoidance can manifest as intense sensory or executive\n  masking to escape discomfort.\n\n### 🧠 Nervous System and Parts Work Lens\n\nACT concepts align with both protective parts (IFS) and nervous system states (PVT).\n\n- **Cognitive Fusion:** This is often the rigid strategy of an **IFS Manager Part**\n  attempting to control internal chaos by treating thoughts as objective threats.\n- **Experiential Avoidance:** This is the core goal of many **Firefighter Parts**—using\n  distraction, withdrawal, or intense coping mechanisms to put out the \"fire\" of\n  unwanted feelings (Exiles).\n- **Self-as-Context (Observing Self):** Cultivating this mindful perspective aligns\n  directly with **Self-energy (IFS)** (Curiosity, Clarity, Calmness), providing a\n  regulated **Ventral Vagal** position from which to witness internal storms without\n  reacting.\n\n### 💞 Attachment and Relational Patterns\n\nPsychological rigidity heavily impacts relational capacity, particularly in conflict.\n\n- **Avoidance/Withdrawal:** A primary relational strategy is the avoidance of vulnerable\n  feelings (e.g., shame, need) by withdrawing, which aligns with **Avoidant Attachment**\n  deactivating strategies.\n- **Anxious Protest:** Often driven by an inability to accept the feeling of abandonment\n  risk; the individual fuses with the thought \"I am going to lose them\" and takes\n  urgent, non-value-driven action (protest).\n- **Value-Driven Connection:** When partners act from their shared values (e.g.,\n  _openness_, _honesty_, _vulnerability_), it creates a secure base where difficult\n  feelings can be accepted and still allow for value-consistent behavior (repair).\n\n### 🔄 Misunderstandings and Reframes\n\n| Myth                                | Reframe                                                                                                                                             |\n| ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |\n| \"ACT means I have to like my pain.\" | \"ACT means choosing to **make room for** the pain, recognizing that fighting it often costs you more energy than accepting its presence.\"           |\n| \"I should just feel happy.\"         | \"The goal is **psychological flexibility**, not happiness. Feelings are messengers; the goal is to choose actions consistent with your **values**.\" |\n\n### ⚖️ Relational Challenges and Strengths\n\n| Challenges                                                                                                              | Strengths                                                                                                                                 |\n| ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |\n| **Experiential Avoidance:** Refusing to tolerate partner's distress or one's own vulnerability in a repair attempt.     | **Values-Driven Action:** Provides a compass that enables movement toward relational goals even when fear, anxiety, or shame are present. |\n| **Cognitive Fusion in Conflict:** Treating the partner's criticism (\"You are selfish\") as an undeniable, literal truth. | **Defusion (Non-Fusion):** Creates mental distance from toxic or self-critical thoughts, improving capacity for effective communication.  |\n\n### 🛠️ Strategies, Prompts, and Practices\n\n- **Reflection Prompt:** \"If I act on this difficult thought right now, will that action\n  move me closer to or further away from the relationship values I care about (e.g.,\n  Honesty, Connection, Vulnerability)?\"\n- **Micro-Skill (Cognitive Defusion):** Practice saying internal thoughts out loud with\n  a prefix: _\"I am having the thought that I am a failure.\"_ This creates distance from\n  the thought.\n- **Micro-Skill (Mindful Acceptance):** Practice \"making room\" for difficult feelings by\n  noticing where they are physically located (Polyvagal) and giving them a name, without\n  attempting to change them.\n- **Micro-Skill (Values Clarification):** Ask: \"What kind of partner do I want to _be_\n  in this moment?\" Use that value to drive the next small action.\n\n### 🔗 Related Frameworks and Further Reading\n\n- [[Internal Family Systems]]\n- [[Nonviolent_Communication_NVC]]\n- [[Polyvagal Theory]]\n- [[Mindfulness_Practices\n"
         },
         {
+          "name": "Anhedonia.md",
+          "type": "file",
+          "relpath": "Frameworks/Anhedonia.md",
+          "size_bytes": 14019,
+          "mtime_utc": "2025-10-03T14:24:36.211764Z",
+          "frontmatter": {
+            "title": "Anhedonia — Framework Notes",
+            "description": "Clinical, transdiagnostic framework for assessing, triaging, and treating anhedonia (reduced interest/pleasure) across psychiatric and neurological presentations.",
+            "author": "GPT Relational Analysis Triage Engine",
+            "created": "2025-10-03",
+            "updated": "2025-10-03",
+            "version": "1.0.0",
+            "tags": [
+              "anhedonia",
+              "reward-dysfunction",
+              "depression",
+              "assessment",
+              "treatment",
+              "transdiagnostic"
+            ],
+            "audience": [
+              "Primary care clinicians",
+              "Psychiatrists and psychologists",
+              "Neurologists and neuropsychiatry teams",
+              "Mental-health nurses and care coordinators",
+              "Research clinicians and trialists",
+              "Allied mental-health professionals (dietitians, OT)"
+            ],
+            "license": "Adapt locally; follow jurisdictional clinical guidance. Not a substitute for specialist consultation.",
+            "schema": "framework-notes/1.0"
+          },
+          "content": "# Anhedonia — Framework Notes\n\n> Concise, clinically focused guide for rapid assessment, risk stratification, measurement, and coordinated interventions for people presenting with loss of interest or diminished capacity for pleasure.\n\n---\n\n## Purpose\n- Provide a practical, evidence-aligned template to assess anhedonia, identify medical/psychiatric urgency, select measurement tools, and plan targeted interventions (behavioral, pharmacologic, and neuromodulatory) in a transdiagnostic manner.  [oai_citation:0‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10335915/?utm_source=chatgpt.com)\n\n---\n\n## Scope & Audience\n- Intended for frontline clinicians across settings (primary care, ED, outpatient mental health, neurology), specialist teams, and care coordinators who manage patients with suspected or confirmed anhedonia—whether emerging within major depressive disorder, schizophrenia, PTSD, neurodegenerative disease, or as a side effect of medications. Anhedonia is transdiagnostic and often under-detected; specialist referral is recommended for persistent or treatment-resistant cases.  [oai_citation:1‡Psychiatry Online](https://psychiatryonline.org/doi/10.1176/appi.focus.25023012?utm_source=chatgpt.com)\n\n---\n\n## Quick Immediate Checklist (first 5–10 minutes)\n1. **Is there acute safety risk?** Ask directly about suicidal ideation/intent — anhedonia plus depression increases suicide risk. If present, follow emergency/safety protocols.  [oai_citation:2‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10335915/?utm_source=chatgpt.com)  \n2. **Medical red flags:** new-onset cognitive decline, medication side-effects (antipsychotics, dopamine blockers), endocrine dysfunction, or neurologic signs warrant urgent medical/neurology workup.  \n3. **Rule out reversible contributors:** opiate/benzodiazepine intoxication or withdrawal, sedating meds, untreated hypothyroidism, vitamin deficiencies, and recent substance use.  \n4. **Baseline measurement:** administer a rapid anhedonia or reward-scale (e.g., SHAPS or DARS) and document functional impact (work, relationships, self-care).  [oai_citation:3‡datashare.nida.nih.gov](https://datashare.nida.nih.gov/instrument/snaith-hamilton-pleasure-scale?utm_source=chatgpt.com)  \n5. **Plan immediate next step:** safety plan (if suicide risk), brief behavioral activation steps, medication review, and arrange follow-up or specialty referral.\n\n---\n\n## Structured Assessment (core domains)\n- **Phenomenology:** onset (acute vs. gradual), temporal course, situational specificity (social vs. physical reward), anticipatory vs. consummatory deficits, and changes from baseline.  [oai_citation:4‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7103575/?utm_source=chatgpt.com)  \n- **Functional impact:** reduced motivation for self-care, work/school impairment, social withdrawal, anergia vs. true loss of pleasure.  \n- **Comorbid psychopathology:** depressed mood, psychosis, negative symptoms (schizophrenia), PTSD-related numbing, substance use disorders, ADHD — identify which syndromes co-occur and shape treatment.  [oai_citation:5‡PubMed](https://pubmed.ncbi.nlm.nih.gov/29687627/?utm_source=chatgpt.com)  \n- **Medication & substance review:** antipsychotics, some antidepressants, opioids, sedatives, and recent or ongoing use of GLP-1/weight-loss agents may alter reward/motivation.  \n- **Neurological/medical screen:** cognitive symptoms, parkinsonism, neurodegenerative signs, sleep disorders, endocrine/metabolic labs.  \n- **Measurement:** choose instruments appropriate to setting — SHAPS (brief consummatory focus) or DARS (dimensional assessment) — and consider repeated measurement to track change.  [oai_citation:6‡datashare.nida.nih.gov](https://datashare.nida.nih.gov/instrument/snaith-hamilton-pleasure-scale?utm_source=chatgpt.com)\n\n---\n\n## Risk Stratification (practical triage)\n- **Low risk / outpatient care:** anhedonia present but stable mood, preserved safety, minimal functional decline — begin targeted psychosocial interventions and monitor (weekly/biweekly).  \n- **Moderate risk / urgent follow-up:** marked functional impairment (work loss, social isolation), comorbid depression with passive SI, or notable medication contributors — expedite outpatient specialty input and consider brief pharmacologic changes.  \n- **High / immediate risk:** active suicidal ideation/behavior, rapid functional collapse, medical contributors (severe metabolic disturbance, neurodegenerative presentation) — urgent multidisciplinary assessment (medical + psychiatric) and possible admission.\n\n---\n\n## Intervention / Response Framework (evidence-aligned immediate strategies)\n**Principle:** anhedonia often reflects reward-circuit dysfunction (anticipation/consummation/learning); interventions should target reward exposure, motivational systems, and biological substrates where indicated.  [oai_citation:7‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6489811/?utm_source=chatgpt.com)\n\n1. **Brief behavioral activation (BA) & reward scheduling**  \n   - Implement low-burden, graded activity scheduling focused on mastery/pleasure targets (anticipatory and experiential tasks). BA shows signal for improving anhedonia when tailored to reward exposure.  [oai_citation:8‡ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0005796722001565?utm_source=chatgpt.com)\n\n2. **Psychotherapies targeting positive affect**  \n   - Consider Positive Affect Treatment (PAT), behavioral activation with explicit reward-focus, and adapted CBT modules that target reward sensitivity and experiential engagement. These are promising for treatment-resistant anhedonia.  [oai_citation:9‡Consensus](https://consensus.app/questions/anhedonia-treatments/?utm_source=chatgpt.com)\n\n3. **Medication adjustments & pharmacologic options**  \n   - Review and reduce medications that blunt reward where safe (e.g., high-dose dopamine antagonists).  \n   - Evidence supports targeted agents for anhedonia in trials: bupropion has shown anti-anhedonic signal; rapid-acting agents (ketamine/esketamine) can produce early reductions in anhedonia in some studies; discuss risks/benefits and consult psychiatry for off-label or novel use.  [oai_citation:10‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11930767/?utm_source=chatgpt.com)\n\n4. **Neuromodulation & specialty interventions**  \n   - For treatment-resistant, severe cases, consider referral for TMS (targeting dorsolateral PFC) or specialist assessment for deep or focal neuromodulation within research/clinical protocols. Evidence is evolving; specialists should evaluate eligibility.  \n\n5. **Address comorbid drivers**  \n   - Treat sleep disturbance, substance use, and cognitive symptoms concurrently — these can maintain or worsen anhedonia. Coordinate with neurology if movement/neurodegenerative features present.\n\n6. **Monitoring & measurement-based care**  \n   - Use repeat SHAPS/DARS and functional measures to monitor response; set measurable, reward-focused behavioral goals and review weekly initially.\n\n---\n\n## Communication & Trauma-Informed, Neurodivergent-Aware Interaction Tips\n- Use validating, curiosity-based language: avoid blaming (“just try harder”)—frame anhedonia as a change in brain systems and behavior that responds to targeted interventions.  \n- Allow pacing and reduce sensory overload for neurodivergent patients; use written summaries and stepwise behavioral experiments.  \n- Ask permission before discussing difficult memories; distinguish emotional numbness/numbing from dissociation and respond with grounding strategies when needed.  \n- When working with cultures where affect is expressed differently, focus on function and valued activities rather than only hedonic phrasing.\n\n---\n\n## Documentation Template (minimum fields)\n- Date/time, clinician, setting  \n- Presenting problem (patient words) and functional impact  \n- Screening/score: SHAPS / DARS / other (value and date).  [oai_citation:11‡datashare.nida.nih.gov](https://datashare.nida.nih.gov/instrument/snaith-hamilton-pleasure-scale?utm_source=chatgpt.com)  \n- Medical review: meds, substances, recent labs or neuro findings  \n- Risk assessment: suicidality, self-harm, safety concerns  \n- Initial plan: behavioral activation tasks, medication changes (if any), referrals (psych, neurology, TMS), monitoring schedule  \n- Follow-up: next appointment, who will contact, measurement plan\n\n---\n\n## Care Coordination & Follow-up\n- **Before discharge / handoff:** set 1–3 concrete, graded activity goals; arrange psychiatry/psychology follow-up within 1–2 weeks for moderate cases, sooner if risk or complexity.  \n- **Measurement-based follow-up:** repeat SHAPS/DARS at 2–4 week intervals while initiating interventions.  [oai_citation:12‡ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0165178125003816?utm_source=chatgpt.com)  \n- **Multidisciplinary approach:** coordinate with primary care, neurology, substance-use services, occupational therapy (for activation planning), and social supports as required.  \n- **Escalation:** if no functional or symptomatic improvement at 4–6 weeks despite adherence, escalate to specialty clinics for neuromodulation evaluation or experimental/adjunctive pharmacology.\n\n---\n\n## Postvention & Staff Support\n- For teams working with severely anergic or demoralized patients, schedule case-supervision and brief debriefs; monitor for clinician burnout when progress is slow. Provide resources for staff (clinical supervision, peer support).\n\n---\n\n## Ethical & Legal Considerations\n- Obtain informed consent for medication changes and neuromodulation referrals; document capacity where motivation/decision-making is impaired.  \n- Be cautious about off-label pharmacologic strategies (e.g., ketamine) — document rationale, risks, alternatives, and obtain specialist input.  \n- Respect confidentiality and involve supports per patient preference and legal requirements.\n\n---\n\n## Quick Reference: One-Page Clinical Skeleton\n- Name / Age / Setting: ______________________  \n- Presenting anhedonia features (anticipatory/consummatory/social/physical): _______________  \n- SHAPS / DARS score (date): ____________  [oai_citation:13‡datashare.nida.nih.gov](https://datashare.nida.nih.gov/instrument/snaith-hamilton-pleasure-scale?utm_source=chatgpt.com)  \n- Meds/substances of concern: ___________________  \n- Immediate safety: Low / Moderate / High — rationale: ___________  \n- Initial plan (1–3 behavioural activation tasks + monitoring): _______________________  \n- Medication plan / referral: ____________________  \n- Follow-up: date/time & who: ___________________\n\n---\n\n## References & Key Resources\n- Narrative and review articles on anhedonia and depressive disorders (neurobiology and clinical implications).  [oai_citation:14‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10335915/?utm_source=chatgpt.com)  \n- SHAPS (Snaith–Hamilton Pleasure Scale) — brief, widely used consummatory anhedonia measure; accessible CRFs and scoring guidance.  [oai_citation:15‡datashare.nida.nih.gov](https://datashare.nida.nih.gov/instrument/snaith-hamilton-pleasure-scale?utm_source=chatgpt.com)  \n- Measurement comparisons and dimensional tools (SHAPS vs DARS) — consider instrument choice based on whether you need consummatory vs dimensional assessment.  [oai_citation:16‡ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0165178125003816?utm_source=chatgpt.com)  \n- Behavioral activation and psychotherapy evidence for improving anhedonia-related symptoms.  [oai_citation:17‡ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0005796722001565?utm_source=chatgpt.com)  \n- Emerging pharmacologic and neuromodulatory evidence (bupropion signals; ketamine/esketamine rapid anti-anhedonic effects; evolving TMS literature). Consult psychiatry/specialist services for off-label or advanced interventions.  [oai_citation:18‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11930767/?utm_source=chatgpt.com)\n\n---\n\n## Appendix A: Useful Templates (copy-and-paste ready)\n**Brief Behavioral-Activation Task Sheet (patient copy)**  \n- Today I will try 1 pleasurable/1 mastery activity: 1) __________ (time) 2) __________ (time)  \n- Rate expected pleasure (0–10) and actual pleasure after activity (0–10).  \n- Notes: barriers / helpful supports.\n\n**Quick SHAPS (clinician use)**  \n- Administer SHAPS (14 items). Score and document; use ≥3 (or local cut-off) to flag clinically meaningful anhedonia.  [oai_citation:19‡datashare.nida.nih.gov](https://datashare.nida.nih.gov/instrument/snaith-hamilton-pleasure-scale?utm_source=chatgpt.com)\n\n**Medication Review Checklist**  \n- Current psychoactive meds: _______ (dose/date)  \n- Agents that blunt reward (consider taper if clinically safe): _______  \n- Consider adjuncts (bupropion, consult psychiatry): _______  \n- Consider referral for ketamine/TMS if treatment-resistant and criteria met: _______\n\n---\n\n*End of document — adapt locally. For complex, persistent, or treatment-resistant anhedonia consult specialty psychiatry, neurology, or a research center engaged in reward-system interventions.*"
+        },
+        {
           "name": "Art-Based Relational Mapping.md",
           "type": "file",
           "relpath": "Frameworks/Art-Based Relational Mapping.md",
           "size_bytes": 7855,
-          "mtime_utc": "2025-10-03T13:39:32.631010Z",
+          "mtime_utc": "2025-10-03T14:24:36.211764Z",
           "frontmatter": {
             "title": "🎨 Art-Based Relational Mapping",
             "aliases": [
@@ -88,7 +122,7 @@
           "type": "file",
           "relpath": "Frameworks/Attachment Theory.md",
           "size_bytes": 6961,
-          "mtime_utc": "2025-10-03T13:39:32.631010Z",
+          "mtime_utc": "2025-10-03T14:24:36.211764Z",
           "frontmatter": {
             "title": "🧠 Attachment Theory",
             "aliases": [
@@ -118,7 +152,7 @@
           "type": "file",
           "relpath": "Frameworks/Attention Deficit Hyperactivity Disorder.md",
           "size_bytes": 7888,
-          "mtime_utc": "2025-10-03T13:39:32.632010Z",
+          "mtime_utc": "2025-10-03T14:24:36.211764Z",
           "frontmatter": {
             "title": "🌀 Attention Deficit Hyperactivity Disorder (ADHD)",
             "aliases": [
@@ -152,7 +186,7 @@
           "type": "file",
           "relpath": "Frameworks/Autism Spectrum Disorder.md",
           "size_bytes": 8254,
-          "mtime_utc": "2025-10-03T13:39:32.632010Z",
+          "mtime_utc": "2025-10-03T14:24:36.211764Z",
           "frontmatter": {
             "title": "🌈 Autism Spectrum Disorder (ASD)",
             "aliases": [
@@ -188,7 +222,7 @@
           "type": "file",
           "relpath": "Frameworks/Autism and ADHD.md",
           "size_bytes": 8945,
-          "mtime_utc": "2025-10-03T13:39:32.632010Z",
+          "mtime_utc": "2025-10-03T14:24:36.211764Z",
           "frontmatter": {
             "title": "🧩 AUDHD (Autism and ADHD)",
             "aliases": [
@@ -222,7 +256,7 @@
           "type": "file",
           "relpath": "Frameworks/Bondage Discipline Sadism Masochism.md",
           "size_bytes": 8594,
-          "mtime_utc": "2025-10-03T13:39:32.632010Z",
+          "mtime_utc": "2025-10-03T14:24:36.211764Z",
           "frontmatter": {
             "title": "🔗 BDSM (Bondage, Discipline, Sadism, Masochism)",
             "aliases": [
@@ -255,7 +289,7 @@
           "type": "file",
           "relpath": "Frameworks/Borderline Personality Disorder.md",
           "size_bytes": 8856,
-          "mtime_utc": "2025-10-03T13:39:32.632010Z",
+          "mtime_utc": "2025-10-03T14:24:36.211764Z",
           "frontmatter": {
             "title": "🖤 Borderline Personality Disorder (BPD)",
             "aliases": [
@@ -288,7 +322,7 @@
           "type": "file",
           "relpath": "Frameworks/Boundary Models.md",
           "size_bytes": 8017,
-          "mtime_utc": "2025-10-03T13:39:32.632010Z",
+          "mtime_utc": "2025-10-03T14:24:36.211764Z",
           "frontmatter": {
             "title": "🚧 Boundary Models",
             "aliases": [
@@ -321,7 +355,7 @@
           "type": "file",
           "relpath": "Frameworks/Breeding Kink.md",
           "size_bytes": 9859,
-          "mtime_utc": "2025-10-03T13:39:32.632010Z",
+          "mtime_utc": "2025-10-03T14:24:36.211764Z",
           "frontmatter": {
             "title": "🌱 Breeding Kink — Framework Note",
             "aliases": [
@@ -353,7 +387,7 @@
           "type": "file",
           "relpath": "Frameworks/CBT (Cock and Ball Torture).md",
           "size_bytes": 8772,
-          "mtime_utc": "2025-10-03T13:39:32.632010Z",
+          "mtime_utc": "2025-10-03T14:24:36.211764Z",
           "frontmatter": {
             "title": "🔗 CBT (Cock and Ball Torture)",
             "aliases": [
@@ -386,7 +420,7 @@
           "type": "file",
           "relpath": "Frameworks/Cognitive Behavioral Therapy.md",
           "size_bytes": 9118,
-          "mtime_utc": "2025-10-03T13:39:32.632010Z",
+          "mtime_utc": "2025-10-03T14:24:36.211764Z",
           "frontmatter": {
             "title": "🧠 Cognitive Behavioral Therapy (CBT)",
             "aliases": [
@@ -418,7 +452,7 @@
           "type": "file",
           "relpath": "Frameworks/Committed Action.md",
           "size_bytes": 7445,
-          "mtime_utc": "2025-10-03T13:39:32.632010Z",
+          "mtime_utc": "2025-10-03T14:24:36.211764Z",
           "frontmatter": {
             "title": "⚓ Committed Action",
             "aliases": [
@@ -443,7 +477,7 @@
           "type": "file",
           "relpath": "Frameworks/Compassion-Focused Therapy.md",
           "size_bytes": 8952,
-          "mtime_utc": "2025-10-03T13:39:32.632010Z",
+          "mtime_utc": "2025-10-03T14:24:36.211764Z",
           "frontmatter": {
             "title": "🙏 Compassion-Focused Therapy (CFT)",
             "aliases": [
@@ -475,7 +509,7 @@
           "type": "file",
           "relpath": "Frameworks/Complex PTSD.md",
           "size_bytes": 9112,
-          "mtime_utc": "2025-10-03T13:39:32.632010Z",
+          "mtime_utc": "2025-10-03T14:24:36.212764Z",
           "frontmatter": {
             "title": "🏔️ Complex PTSD (CPTSD)",
             "aliases": [
@@ -508,7 +542,7 @@
           "type": "file",
           "relpath": "Frameworks/Consensual Non-Consent.md",
           "size_bytes": 8669,
-          "mtime_utc": "2025-10-03T13:39:32.632010Z",
+          "mtime_utc": "2025-10-03T14:24:36.212764Z",
           "frontmatter": {
             "title": "⛓️ Consensual Non-Consent (CNC)",
             "aliases": [
@@ -541,7 +575,7 @@
           "type": "file",
           "relpath": "Frameworks/Consent Culture.md",
           "size_bytes": 8116,
-          "mtime_utc": "2025-10-03T13:39:32.633010Z",
+          "mtime_utc": "2025-10-03T14:24:36.212764Z",
           "frontmatter": {
             "title": "✅ Consent Culture",
             "aliases": [
@@ -573,7 +607,7 @@
           "type": "file",
           "relpath": "Frameworks/Containment Models.md",
           "size_bytes": 8981,
-          "mtime_utc": "2025-10-03T13:39:32.633010Z",
+          "mtime_utc": "2025-10-03T14:24:36.212764Z",
           "frontmatter": {
             "title": "🛡️ Containment Models",
             "aliases": [
@@ -605,7 +639,7 @@
           "type": "file",
           "relpath": "Frameworks/Creampie.md",
           "size_bytes": 3379,
-          "mtime_utc": "2025-10-03T13:39:32.633010Z",
+          "mtime_utc": "2025-10-03T14:24:36.212764Z",
           "frontmatter": {
             "title": "💦 Creampie",
             "aliases": [
@@ -637,7 +671,7 @@
           "type": "file",
           "relpath": "Frameworks/Crucial Conversations.md",
           "size_bytes": 8719,
-          "mtime_utc": "2025-10-03T13:39:32.633010Z",
+          "mtime_utc": "2025-10-03T14:24:36.212764Z",
           "frontmatter": {
             "title": "🗣️ Crucial Conversations",
             "aliases": [
@@ -669,7 +703,7 @@
           "type": "file",
           "relpath": "Frameworks/Cuckolding.md",
           "size_bytes": 9350,
-          "mtime_utc": "2025-10-03T13:39:32.633010Z",
+          "mtime_utc": "2025-10-03T14:24:36.212764Z",
           "frontmatter": {
             "title": "🔱 Cuckolding (Cuck/Cuckoldress)",
             "aliases": [
@@ -703,7 +737,7 @@
           "type": "file",
           "relpath": "Frameworks/Decolonizing Therapy.md",
           "size_bytes": 8907,
-          "mtime_utc": "2025-10-03T13:39:32.633010Z",
+          "mtime_utc": "2025-10-03T14:24:36.212764Z",
           "frontmatter": {
             "title": "🌍 Decolonizing Therapy",
             "aliases": [
@@ -735,7 +769,7 @@
           "type": "file",
           "relpath": "Frameworks/Dependent Personality Disorder.md",
           "size_bytes": 8684,
-          "mtime_utc": "2025-10-03T13:39:32.633010Z",
+          "mtime_utc": "2025-10-03T14:24:36.212764Z",
           "frontmatter": {
             "title": "🔗 Dependent Personality Disorder (DPD)",
             "aliases": [
@@ -767,7 +801,7 @@
           "type": "file",
           "relpath": "Frameworks/Dialectical Behavior Therapy.md",
           "size_bytes": 9429,
-          "mtime_utc": "2025-10-03T13:39:32.633010Z",
+          "mtime_utc": "2025-10-03T14:24:36.212764Z",
           "frontmatter": {
             "title": "🔄 Dialectical Behavior Therapy (DBT)",
             "aliases": [
@@ -800,7 +834,7 @@
           "type": "file",
           "relpath": "Frameworks/Disability Justice.md",
           "size_bytes": 8983,
-          "mtime_utc": "2025-10-03T13:39:32.633010Z",
+          "mtime_utc": "2025-10-03T14:24:36.212764Z",
           "frontmatter": {
             "title": "✊ Disability Justice",
             "aliases": [
@@ -832,7 +866,7 @@
           "type": "file",
           "relpath": "Frameworks/Drama Therapy.md",
           "size_bytes": 8917,
-          "mtime_utc": "2025-10-03T13:39:32.633010Z",
+          "mtime_utc": "2025-10-03T14:24:36.212764Z",
           "frontmatter": {
             "title": "🎭 Drama Therapy",
             "aliases": [
@@ -864,7 +898,7 @@
           "type": "file",
           "relpath": "Frameworks/Drama Triangle & Empowerment Triangle.md",
           "size_bytes": 3623,
-          "mtime_utc": "2025-10-03T13:39:32.633010Z",
+          "mtime_utc": "2025-10-03T14:24:36.212764Z",
           "frontmatter": {
             "title": "Drama Triangle & Empowerment Triangle",
             "aliases": [
@@ -887,7 +921,7 @@
           "type": "file",
           "relpath": "Frameworks/Dungeons & Dragons.md",
           "size_bytes": 8717,
-          "mtime_utc": "2025-10-03T13:39:32.633010Z",
+          "mtime_utc": "2025-10-03T14:24:36.212764Z",
           "frontmatter": {
             "title": "🐉 Dungeons & Dragons (D&D)",
             "aliases": [
@@ -915,11 +949,46 @@
           "content": "<!-- @format -->\n\n%% Because I'm a silly silly man It's still valid though! %%\n\n### 🧩 Definition and Core Themes\n\n**Dungeons & Dragons (D&D)** is the foundational tabletop role-playing game (TTRPG)\nwhere a group of players collaboratively tells a story, each taking on the role of an\nindividual character (the Player Character or PC). One player, the **Dungeon Master\n(DM)**, acts as the facilitator, narrator, and the role-player for all non-player\ncharacters (NPCs) and the world itself. The game is governed by rules, dice rolls, and\nthe collective imagination.\n\n- **Core Goal:** To create a **shared imaginative space** where players can explore\n  complex moral, emotional, and relational challenges through a safe, distanced, and fun\n  lens.\n- **Therapeutic Dynamics:** In clinical or therapeutic settings, D&D is used to\n  facilitate social skills training, emotional expression, cognitive flexibility, and\n  trauma processing via the **\"as-if\"** principle (similar to Drama Therapy).\n- **Power Exchange:** The dynamic involves a unique power exchange where the **DM holds\n  the narrative power** (defining the world and consequences) and the **players hold the\n  agency** (defining the characters and their choices).\n\n---\n\n### 🌿 Traits and Lived Experience\n\nD&D allows players to experience new identities and relational styles that may be\ninaccessible to them in real life.\n\n- **Role Expansion:** The ability to create and embody a character with traits one lacks\n  in real life (e.g., courage, assertiveness, humor) allows for **role expansion**. The\n  player practices new behaviors through the PC, and those skills can then be integrated\n  into their real-life self.\n- **Low-Stakes Risk:** The consequences for failure in the game (e.g., a character dies,\n  a plan fails) are **low-stakes** in reality, providing a safe environment to test new\n  social behaviors, practice asking for help, and experience failure without intense\n  shame.\n- **Improvisational Flow:** The collaborative nature of the game encourages\n  **spontaneous communication** and requires players to move out of rigid planning and\n  into a state of imaginative \"flow,\" enhancing cognitive and emotional flexibility.\n\n---\n\n### 🧠 Nervous System and Parts Work Lens\n\nD&D provides a structured way to engage the nervous system and give voice to internal\nprocesses.\n\n- **Regulated Social Play (PVT):** The shared goal, the reliance on verbal\n  communication, and the structure of rules (the DM as a benign authority) all\n  contribute to activating the **Ventral Vagal (Safe and Social)** system. The\n  excitement of the adventure (Sympathetic surge) is quickly contained by the collective\n  safety of the group.\n- **Externalizing Parts (IFS):** Characters often function as projections of **Internal\n  Family Systems (IFS) Parts**. A rigid, controlling character might embody a **Manager\n  Part**, while a wild, impulsive character might embody a **Firefighter Part**. The\n  player gains insight by witnessing the character's choices and consequences from a\n  place of therapeutic distance.\n- **Narrative Restructuring:** The act of building a cohesive character story and\n  resolving a quest forces the mind to engage in **narrative coherence**, a key\n  component in trauma integration, helping the client move from fragmented trauma memory\n  to a linear, digestible story.\n\n---\n\n### 💞 Attachment and Relational Patterns\n\nThe cooperative structure of D&D inherently trains skills vital for **Secure\nAttachment** and co-regulation.\n\n- **Practicing Trust:** Players are forced to rely on one another's characters (e.g.,\n  the Fighter protects the Wizard, the Cleric heals the party), requiring them to\n  practice **vulnerability and trust** in a communal setting. This counters the\n  self-isolation often found in **Avoidant** or **Disorganized** attachment styles.\n- **Conflict Resolution:** Group dynamics inevitably lead to conflict (e.g.,\n  disagreement on strategy). The structured setting forces players to practice\n  **Interpersonal Effectiveness** and **Nonviolent Communication (NVC)** to resolve the\n  conflict without permanently damaging the relationship, fostering crucial repair\n  skills.\n- **Boundary Setting:** The dynamic requires players to communicate and enforce\n  **Boundary Models** (e.g., \"My character doesn't want to go into that cave,\" or \"I\n  need to take a break from the game for a minute\"), practicing the ability to say \"no\"\n  or state a need clearly.\n\n---\n\n### 🔄 Misunderstandings and Reframes\n\n| Myth                                               | Reframe                                                                                                                                                                                                       |\n| :------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |\n| \"It's escapist fantasy that avoids real problems.\" | \"The game is a **contained, relational laboratory** that creates symbolic versions of real problems. Solving the symbolic problems in a safe way leads to **transferable skills** for solving real problems.\" |\n| \"It’s antisocial or for isolationists.\"            | \"It is an intensely **social, collaborative activity** that requires focused listening, joint decision-making, and deep empathy, directly countering social isolation.\"                                       |\n\n---\n\n### ⚖️ Relational Challenges and Strengths\n\n| Challenges                                                                                                                                                                              | Strengths                                                                                                                                                           |\n| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ |\n| **\"Bleed\" or \"Spillover\":** When a player struggles to differentiate between the emotions felt _by_ their character and their own real emotions, risking shame or relational confusion. | **Flexible Leadership:** Players practice switching between leadership and follower roles, building skills in situational leadership and collaborative negotiation. |\n| **DM Burnout:** The DM holds high responsibility for the world, narrative, and safety, risking high effort and potential emotional exhaustion without proper boundary setting.          | **Sense of Belonging:** The shared creation of an epic story fosters strong bonds and a powerful, reliable sense of **community and belonging**.                    |\n\n---\n\n### 🛠️ Strategies, Prompts, and Practices\n\n- **Micro-Skill (Character Check-In):** Before or after a difficult scene, ask: _\"What\n  decision did your character make, and what did that decision feel like for you as the\n  player?\"_ (To manage bleed).\n- **Prompt (Role Rehearsal):** If a player needs to set a boundary with an NPC, pause\n  the game and have the player practice the wording three times, using the\n  **Interpersonal Effectiveness** skills from DBT.\n- **Micro-Skill (Meta-Communication):** The DM intentionally pauses the game to check\n  in: _\"I noticed the conversation is getting heated. Let's step out of character for a\n  moment. Are we still good with the boundaries of the scene?\"_\n\n---\n\n### 🔗 Related Frameworks and Further Reading\n\n- [[Drama_Therapy]]\n- [[Internal Family Systems]]\n- [[Boundary_Models]]\n- [[Nonviolent_Communication_NVC]]\n\n### 📚 Citations & Sources\n\n- Blackmon, W. (1994). _Dungeons and Dragons: A therapeutic tool?_ Social Work with\n  Groups.\n- Van Pelt, J. (2020). _Therapeutic Game Master Training._ (Foundational for clinical\n  TTRPG).\n- Moorhead, J. A. (2021). _Role-playing games in psychotherapy: A systematic review._\n  Journal of Clinical Psychology.\n"
         },
         {
+          "name": "Eating Disorders.md",
+          "type": "file",
+          "relpath": "Frameworks/Eating Disorders.md",
+          "size_bytes": 16160,
+          "mtime_utc": "2025-10-03T14:24:36.213764Z",
+          "frontmatter": {
+            "title": "Eating Disorders — Framework Notes",
+            "description": "Clinical, trauma-informed framework for assessing, stabilizing, and coordinating care for people with suspected or confirmed eating disorders (AN, BN, BED, ARFID, OSFED).",
+            "author": "GPT Relational Analysis Triage Engine",
+            "created": "2025-10-03",
+            "updated": "2025-10-03",
+            "version": "1.0.0",
+            "tags": [
+              "eating-disorders",
+              "anorexia-nervosa",
+              "bulimia-nervosa",
+              "binge-eating-disorder",
+              "arfid",
+              "assessment",
+              "safety-plan"
+            ],
+            "audience": [
+              "Emergency Department clinicians",
+              "Primary Care providers",
+              "Mental health clinicians (psychologists, psychiatrists, therapists)",
+              "Dietitians / Nutritional specialists",
+              "School health teams",
+              "Families & caregivers (adapted use)"
+            ],
+            "license": "Adapt and use according to local clinical protocols and legal requirements; not a substitute for clinical judgment or specialist consultation.",
+            "schema": "framework-notes/1.0"
+          },
+          "content": "# Eating Disorders — Framework Notes\n\n> Practical, trauma-informed guide for rapid assessment, medical and psychosocial triage, brief interventions, and care coordination for people with suspected or confirmed eating disorders.\n\n---\n\n## Purpose\n- Supply a concise, evidence-aligned template for clinicians and care teams to assess medical and psychiatric risk, create immediate stabilization and safety plans, and arrange timely follow-up or escalation.  \n- Support consistent documentation and handoffs across settings (ED, primary care, outpatient mental health, school health).  \n- Grounded in published guidance and common screening/treatment approaches.  [oai_citation:0‡NICE](https://www.nice.org.uk/guidance/ng69?utm_source=chatgpt.com)\n\n---\n\n## Scope & Audience\n- Intended for initial and ongoing use with adolescents and adults presenting with restrictive, binge/purge, or avoidant/restrictive behaviors, disordered eating thoughts, or medically concerning weight loss.  \n- Not exhaustive—specialist input (medical and eating-disorder–trained mental-health clinicians and dietitians) recommended for moderate-to-high risk or complex presentations.  [oai_citation:1‡NICE](https://www.nice.org.uk/guidance/ng69?utm_source=chatgpt.com)\n\n---\n\n## Quick Immediate Safety Checklist (first 5–10 minutes)\n1. **Immediate danger?** Ask direct questions about suicidal ideation, self-harm, or intent. If positive or if acute medical collapse, activate emergency pathways. (Eating disorders carry elevated suicide risk—treat disclosures seriously).  [oai_citation:2‡National Eating Disorders Association](https://www.nationaleatingdisorders.org/statistics/?utm_source=chatgpt.com)  \n2. **Medical instability screen** (see below for details): severe bradycardia, hypotension, syncope/orthostatic changes, electrolyte abnormalities (esp. hypokalemia), acute food refusal, rapid weight loss, signs of organ compromise—treat as medical emergency.  [oai_citation:3‡NICE](https://www.nice.org.uk/guidance/ng69?utm_source=chatgpt.com)  \n3. **Contain immediate risk:** ensure safe environment (remove easily accessible means if imminent self-harm risk), arrange urgent medical observation or admission if unstable, obtain IV access and basic labs if indicated.  \n4. **Triage level:** decide whether ED admission, medical stabilization unit, psychiatric inpatient, or outpatient pathway is appropriate (use risk stratification below).  \n5. **Document verbatim statements** about weight, shape, food behaviors, and any suicidal/self-harm ideation; obtain consent for necessary information-sharing with guardians/providers per local law.\n\n---\n\n## Structured Risk / Conceptual Assessment (core domains)\n- **Presenting concern & history:** onset, duration, and evolution of restriction, binging, purging, compensatory behaviors, and functional impairment.  \n- **Medical status:** recent weight / % weight loss, trend, BMI (contextualize for age/sex/height), vitals (HR, BP, orthostatic vitals), temperature, ECG if bradycardic or on QT-prolonging meds, electrolyte panel (K, Na, phosphate, Mg), renal/hepatic markers.  [oai_citation:4‡NICE](https://www.nice.org.uk/guidance/ng69?utm_source=chatgpt.com)  \n- **Nutritional intake and behaviors:** current intake, food avoidance, ARFID features, laxative/diuretic/insulin misuse, vomiting frequency.  \n- **Psychiatric risk:** suicidal ideation/intent, self-harm behaviors, comorbid mood/anxiety/substance use, psychosis, severe agitation.  [oai_citation:5‡National Institute of Mental Health](https://www.nimh.nih.gov/health/topics/eating-disorders?utm_source=chatgpt.com)  \n- **Functional status & cognition:** concentration, capacity to make treatment decisions, dissociation, severe cognitive impairment from malnutrition.  \n- **Social context & supports:** family/carer involvement, living situation, access to care, cultural & gender considerations, access to weight-loss medications or pro-ED online communities.  [oai_citation:6‡WIRED](https://www.wired.com/story/eating-disorder-content-is-infiltrating-tiktok-some-creators-are-going-viral-debunking-it?utm_source=chatgpt.com)  \n- **Screening tools (use per local protocol):** SCOFF for quick case-finding; EDE-Q, EDI, or structured clinical interview when available. Validate positive screens with clinical interview.  [oai_citation:7‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1070794/?utm_source=chatgpt.com)\n\n---\n\n## Risk Stratification (practical triage)\n- **Low risk (outpatient monitoring):** stable vitals, stable weight or slow gradual loss, no acute electrolyte disturbance, no suicidality/acute medical issues, reliable supports and rapid access to outpatient specialty care. Safety plan and close follow-up within 48–72 hours recommended.  [oai_citation:8‡NICE](https://www.nice.org.uk/guidance/ng69?utm_source=chatgpt.com)  \n- **Moderate risk (urgent outpatient / consider short admission):** notable weight loss, intermittent purging or laxative misuse, mild electrolyte abnormalities, limited supports, or comorbid mood disorder with passive suicidal ideation—consider brief medical admission or intensive outpatient with daily monitoring and dietitian involvement.  [oai_citation:9‡NICE](https://www.nice.org.uk/guidance/ng69?utm_source=chatgpt.com)  \n- **High / Immediate risk (admit & stabilize):** clear medical instability (marked bradycardia, hypotension, syncope, severe electrolyte disturbance), acute food refusal with rapid deterioration, recent suicide attempt or active intent—medical admission and multidisciplinary stabilization (medical + psychiatric + dietetic) required.  [oai_citation:10‡NICE](https://www.nice.org.uk/guidance/ng69?utm_source=chatgpt.com)\n\n---\n\n## Intervention / Response Framework (evidence-aligned immediate strategies)\n- **Medical stabilization:** correct life-threatening electrolytes, monitor cardiac rhythm, treat dehydration, correct hypoglycaemia; consult internal medicine/medical ED and admit when indicated. Use refeeding precautions and monitoring for refeeding syndrome (thiamine, slow caloric repletion, frequent electrolyte checks).  [oai_citation:11‡NICE](https://www.nice.org.uk/guidance/ng69?utm_source=chatgpt.com)  \n- **Safety planning:** collaborative, nonjudgmental safety plan for suicidality and self-harm risk; include crisis contacts, coping strategies, and agreed escalation steps. (If imminent risk, follow local legal pathways for involuntary admission where necessary.)  [oai_citation:12‡National Institute of Mental Health](https://www.nimh.nih.gov/health/topics/eating-disorders?utm_source=chatgpt.com)  \n- **Brief psychoeducation & harm reduction:** normalize help-seeking, address pro-ED messaging, counsel about risks of purging, laxative misuse, and unsupervised weight-loss drugs (assess for GLP-1/anti-obesity agents and their effects on eating behavior).  [oai_citation:13‡The Guardian](https://www.theguardian.com/society/2025/apr/04/ozempic-semaglutide-eating-disorders?utm_source=chatgpt.com)  \n- **Nutrition & refeeding plan:** involve a dietitian; establish a monitored meal plan, set safe initial caloric targets adjusted for medical risk, and plan frequent electrolyte monitoring.  \n- **Psychological interventions (initial disposition):** for children/adolescents, Family-Based Treatment (FBT/Maudsley) is frontline for many with AN; for adults, evidence-based therapies include CBT-E for bulimia and binge-eating disorder, interpersonal therapy, and specialist approaches—refer when available.  [oai_citation:14‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1414759/?utm_source=chatgpt.com)  \n- **Pharmacology:** use symptom-targeted medications where evidence supports (e.g., SSRI for bulimia or comorbid mood/anxiety), but recognize limited pharmacologic options for weight restoration in AN; consult psychiatry.  [oai_citation:15‡NICE](https://www.nice.org.uk/guidance/ng69?utm_source=chatgpt.com)\n\n---\n\n## Communication & Trauma-Informed Interaction Tips\n- Ask directly, plainly, and nonjudgmentally about eating behaviors, weight-control behaviors, and suicidal thoughts; people often under-report due to shame.  [oai_citation:16‡National Institute of Mental Health](https://www.nimh.nih.gov/health/topics/eating-disorders?utm_source=chatgpt.com)  \n- Use gender-affirming, culturally sensitive language; be mindful of neurodivergent sensory issues and rigid routines around food.  \n- Prioritize dignity and shared decision-making where capacity is intact; if capacity is impaired by malnutrition, document and act per local legal/ethical frameworks.  \n- Family/caregiver involvement: with consent (or when minor/depending on safety), involve family early—especially for adolescents where family-based approaches are effective.  [oai_citation:17‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1414759/?utm_source=chatgpt.com)\n\n---\n\n## Documentation Template (minimum fields)\n- Date/time, clinician(s), setting  \n- Presenting problem and verbatim statements about eating, weight, or suicidality  \n- Screening tools used and scores (e.g., SCOFF, EDE-Q) and clinical interview findings.  [oai_citation:18‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1070794/?utm_source=chatgpt.com)  \n- Medical assessment: weight, BMI, percent weight change, vitals, orthostatic measures, labs (K, Na, phosphate, Mg, LFTs), ECG when indicated.  [oai_citation:19‡NICE](https://www.nice.org.uk/guidance/ng69?utm_source=chatgpt.com)  \n- Risk stratification and disposition decision (admit/observe/outpatient + rationale)  \n- Safety plan summary, who received copy, and consent/limits of confidentiality  \n- Notifications: family, primary care, specialty teams, and time-stamped actions taken\n\n---\n\n## Care Coordination & Follow-up\n- **Before discharge:** ensure clear safety plan, scheduled follow-up with eating-disorder specialist or community mental health (ideally within 48–72 hours), dietitian appointment, and explicit crisis instructions.  [oai_citation:20‡NICE](https://www.nice.org.uk/guidance/ng69?utm_source=chatgpt.com)  \n- **Bridging contacts:** provide crisis hotline numbers and local eating-disorder resources (e.g., NEDA in the U.S., or local equivalents).  [oai_citation:21‡National Eating Disorders Association](https://www.nationaleatingdisorders.org/what-are-eating-disorders/?utm_source=chatgpt.com)  \n- **Handoffs:** send concise, structured referral with recent labs, weight trends, and the safety plan to receiving teams; use active outreach when no-show risk is high.  \n- **Monitoring:** consider remote check-ins, meal supervision supports, or day-program referral depending on severity and resources.\n\n---\n\n## Postvention and Staff Support\n- After critical incidents (suicide attempts, medical crisis), conduct a structured debrief for staff, offer peer support and supervision, and provide clear steps to support continuity of care for the patient/family.  \n- For school-based or community exposures, provide age-appropriate outreach resources and limit sensational language; connect affected people to support services.\n\n---\n\n## Ethical & Legal Considerations\n- Know local laws about consent, minors, and involuntary treatment when capacity is impaired by malnutrition.  \n- Respect confidentiality and discuss limits (safety concerns, duty to warn), documenting consent/declination for information-sharing.  \n- Be cautious about weight-centric messaging; avoid stigmatizing language and center recovery goals that include health and function.  \n- When prescribing or approving anti-obesity or appetite-suppressant medications, assess eating-disorder history and monitor for exacerbation.\n\n---\n\n## Quick Reference: Sample One-Page Clinical Skeleton\n- Name / Age / Setting: ______________________  \n- Presenting behaviors (brief): ________________________  \n- Weight / BMI / % change (last 3 months): _____________  \n- Vitals: HR ___ BP ___ Temp ___ Orthostatic ___  \n- Labs pending/abnormal: ______________________________  \n- Screening tool + score (SCOFF/EDE-Q): ___________________  [oai_citation:22‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1070794/?utm_source=chatgpt.com)  \n- Immediate risk (medical/psychiatric): Low / Moderate / High — rationale: _______________  \n- Immediate plan (admit/observe/outpatient): ___________________  \n- Safety plan brief & crisis contacts: _______________________  \n- Follow-up appt: date/time / provider: _____________________\n\n---\n\n## References & Resources\n- NICE: *Eating disorders: recognition and treatment* (NG69) — comprehensive guidance on assessment, medical risk, and evidence-based treatments.  [oai_citation:23‡NICE](https://www.nice.org.uk/guidance/ng69?utm_source=chatgpt.com)  \n- NIMH: Eating Disorders overview and research resources (signs, treatments, stats).  [oai_citation:24‡National Institute of Mental Health](https://www.nimh.nih.gov/health/topics/eating-disorders?utm_source=chatgpt.com)  \n- NEDA (National Eating Disorders Association): public resources, screening links, and crisis support guidance.  [oai_citation:25‡National Eating Disorders Association](https://www.nationaleatingdisorders.org/what-are-eating-disorders/?utm_source=chatgpt.com)  \n- Family-Based Treatment (Maudsley/FBT) evidence and manuals — frontline adolescent AN approach.  [oai_citation:26‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1414759/?utm_source=chatgpt.com)  \n- SCOFF questionnaire and validation literature (screening tool).  [oai_citation:27‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1070794/?utm_source=chatgpt.com)\n\n---\n\n## Appendix A: Useful Templates (copy-and-paste ready)\n**SCOFF (2+ positive responses suggests possible ED; follow up clinically)**  \n- S: Do you make yourself **S**ick because you feel uncomfortably full?  \n- C: Do you worry you have **C**ontrol over how much you eat?  \n- O: Have you recently lost **O**bserved amounts of weight (one stone/6.35 kg) in a short period?  \n- F: Do you believe yourself to be **F**at when others say you are too thin?  \n- F: Would you say that **F**ood dominates your life?  [oai_citation:28‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1070794/?utm_source=chatgpt.com)\n\n**Brief Safety Plan (template)**  \n- Warning signs: ________________________  \n- Coping strategies (can do alone): ________________________  \n- People/places for distraction: ________________________  \n- People to contact for help: Name / Phone: _______________  \n- Professional/crisis resources: Local emergency number / crisis hotline / NEDA helplines.  [oai_citation:29‡National Eating Disorders Association](https://www.nationaleatingdisorders.org/what-are-eating-disorders/?utm_source=chatgpt.com)  \n- Steps to reduce immediate harm (e.g., supervise meals, remove access to means): ____________  \n- Follow-up appointment: ______________________\n\n**Discharge summary (short)**  \n- Risk summary: ___________________________  \n- Interventions provided: ____________________  \n- Safety plan attached: Y / N — Who received copy: ___________  \n- Follow-up arrangements: ___________________\n\n---\n\n*End of document — adapt to local policy and resources. For complex or high-risk cases, consult eating-disorder specialty services and medical teams immediately.*"
+        },
+        {
           "name": "Edge Play.md",
           "type": "file",
           "relpath": "Frameworks/Edge Play.md",
           "size_bytes": 11940,
-          "mtime_utc": "2025-10-03T13:39:32.633010Z",
+          "mtime_utc": "2025-10-03T14:24:36.213764Z",
           "frontmatter": {
             "title": "🔪 Edge Play",
             "aliases": [
@@ -952,7 +1021,7 @@
           "type": "file",
           "relpath": "Frameworks/Emotionally Focused Therapy.md",
           "size_bytes": 8884,
-          "mtime_utc": "2025-10-03T13:39:32.633010Z",
+          "mtime_utc": "2025-10-03T14:24:36.213764Z",
           "frontmatter": {
             "title": "💖 Emotionally Focused Therapy (EFT)",
             "aliases": [
@@ -984,7 +1053,7 @@
           "type": "file",
           "relpath": "Frameworks/Empowerment Triangle.md",
           "size_bytes": 9244,
-          "mtime_utc": "2025-10-03T13:39:32.634010Z",
+          "mtime_utc": "2025-10-03T14:24:36.213764Z",
           "frontmatter": {
             "title": "💪 Empowerment Triangle",
             "aliases": [
@@ -1017,7 +1086,7 @@
           "type": "file",
           "relpath": "Frameworks/Ethical Non-Monogamy.md",
           "size_bytes": 8886,
-          "mtime_utc": "2025-10-03T13:39:32.634010Z",
+          "mtime_utc": "2025-10-03T14:24:36.213764Z",
           "frontmatter": {
             "title": "🌈 Ethical Non-Monogamy (ENM)",
             "aliases": [
@@ -1052,7 +1121,7 @@
           "type": "file",
           "relpath": "Frameworks/Eye Movement Desensitization and Reprocessing.md",
           "size_bytes": 9652,
-          "mtime_utc": "2025-10-03T13:39:32.634010Z",
+          "mtime_utc": "2025-10-03T14:24:36.213764Z",
           "frontmatter": {
             "title": "🧠 Eye Movement Desensitization and Reprocessing (EMDR)",
             "aliases": [
@@ -1084,7 +1153,7 @@
           "type": "file",
           "relpath": "Frameworks/FRIES.md",
           "size_bytes": 7198,
-          "mtime_utc": "2025-10-03T13:39:32.634010Z",
+          "mtime_utc": "2025-10-03T14:24:36.213764Z",
           "frontmatter": {
             "title": "🍟 FRIES (Consent Framework)",
             "aliases": [
@@ -1117,7 +1186,7 @@
           "type": "file",
           "relpath": "Frameworks/Female-Led Relationship.md",
           "size_bytes": 9401,
-          "mtime_utc": "2025-10-03T13:39:32.634010Z",
+          "mtime_utc": "2025-10-03T14:24:36.213764Z",
           "frontmatter": {
             "title": "👑 Female-Led Relationship (FLR)",
             "aliases": [
@@ -1152,7 +1221,7 @@
           "type": "file",
           "relpath": "Frameworks/Frameworks Overview.md",
           "size_bytes": 1226,
-          "mtime_utc": "2025-10-03T13:39:32.634010Z",
+          "mtime_utc": "2025-10-03T14:24:36.213764Z",
           "frontmatter": null,
           "content": "<!-- @format -->\n\n# Frameworks — Overview\n\n**Purpose:** This page orients contributors to the vault’s framework standards: what a\nframework note is, the required structure, and how to add or modify one.\n\n**Quick links**\n\n- Template: [[Framework_Note_Expansion_Prompt]]\n- New framework skeleton: Templates/Framework_Skeleton.md\n- Indices: [[Frameworks/By Topic]], [[Frameworks/Alphabetical]]\n\n**Required fields & order**\n\n- YAML frontmatter (see template)\n- `<!-- @format -->`\n- Definition & Core Themes\n- Traits & Lived Experience\n- Nervous System & Parts Work Lens\n- Attachment & Relational Patterns\n- Misunderstandings & Reframes\n- Relational Challenges & Strengths\n- Strategies, Prompts & Practices\n- (Optional) Consent/Safety, Roles, Glossary, Citations\n- Ethical Concerns (bottom)\n\n**Style rules (ultra-brief)**\n\n- Trauma-informed, non-pathologizing voice\n- Use sanitized tags/filenames (A–Z a–z 0–9 \\_)\n- Cross-link aggressively with `[[Wikilinks]]`\n\n**Governance**\n\n- Owner: Relational Analysis Team\n- Change process: propose edit > reviewer signoff > merged\n- Maintenance cadence: review major frameworks every 12 months\n\n**If you need help** Contact: @vault-admin or open issue in `Vault/Issues/Frameworks`\n"
         },
@@ -1161,7 +1230,7 @@
           "type": "file",
           "relpath": "Frameworks/Gestalt Therapy.md",
           "size_bytes": 9402,
-          "mtime_utc": "2025-10-03T13:39:32.634010Z",
+          "mtime_utc": "2025-10-03T14:24:36.213764Z",
           "frontmatter": {
             "title": "🧘 Gestalt Therapy",
             "aliases": [
@@ -1193,7 +1262,7 @@
           "type": "file",
           "relpath": "Frameworks/Gottman Method.md",
           "size_bytes": 9902,
-          "mtime_utc": "2025-10-03T13:39:32.634010Z",
+          "mtime_utc": "2025-10-03T14:24:36.213764Z",
           "frontmatter": {
             "title": "💑 Gottman Method",
             "aliases": [
@@ -1225,7 +1294,7 @@
           "type": "file",
           "relpath": "Frameworks/Internal Ejaculation.md",
           "size_bytes": 9185,
-          "mtime_utc": "2025-10-03T13:39:32.634010Z",
+          "mtime_utc": "2025-10-03T14:24:36.213764Z",
           "frontmatter": {
             "title": "💧 Internal Ejaculation — Framework Note",
             "aliases": [
@@ -1255,7 +1324,7 @@
           "type": "file",
           "relpath": "Frameworks/Internal Family Systems.md",
           "size_bytes": 9456,
-          "mtime_utc": "2025-10-03T13:39:32.634010Z",
+          "mtime_utc": "2025-10-03T14:24:36.213764Z",
           "frontmatter": {
             "title": "👪 Internal Family Systems (IFS)",
             "aliases": [
@@ -1288,7 +1357,7 @@
           "type": "file",
           "relpath": "Frameworks/Interpersonal Neurobiology.md",
           "size_bytes": 9466,
-          "mtime_utc": "2025-10-03T13:39:32.634010Z",
+          "mtime_utc": "2025-10-03T14:24:36.213764Z",
           "frontmatter": {
             "title": "🧠 Interpersonal Neurobiology (IPNB)",
             "aliases": [
@@ -1321,7 +1390,7 @@
           "type": "file",
           "relpath": "Frameworks/Intersectional Feminist Psychology.md",
           "size_bytes": 9706,
-          "mtime_utc": "2025-10-03T13:39:32.634010Z",
+          "mtime_utc": "2025-10-03T14:24:36.214764Z",
           "frontmatter": {
             "title": "♀️ Intersectional Feminist Psychology",
             "aliases": [
@@ -1353,7 +1422,7 @@
           "type": "file",
           "relpath": "Frameworks/Intersectional Psychology.md",
           "size_bytes": 3418,
-          "mtime_utc": "2025-10-03T13:39:32.634010Z",
+          "mtime_utc": "2025-10-03T14:24:36.214764Z",
           "frontmatter": {
             "title": "Intersectional Psychology",
             "aliases": [
@@ -1377,7 +1446,7 @@
           "type": "file",
           "relpath": "Frameworks/Karpman Drama Triangle.md",
           "size_bytes": 9804,
-          "mtime_utc": "2025-10-03T13:39:32.634010Z",
+          "mtime_utc": "2025-10-03T14:24:36.214764Z",
           "frontmatter": {
             "title": "🔺 Karpman Drama Triangle",
             "aliases": [
@@ -1409,7 +1478,7 @@
           "type": "file",
           "relpath": "Frameworks/Kink Dynamics.md",
           "size_bytes": 4794,
-          "mtime_utc": "2025-10-03T13:39:32.634010Z",
+          "mtime_utc": "2025-10-03T14:24:36.214764Z",
           "frontmatter": {
             "title": "Kink Dynamics",
             "aliases": [
@@ -1434,7 +1503,7 @@
           "type": "file",
           "relpath": "Frameworks/Klein Sexual Orientation Grid.md",
           "size_bytes": 8163,
-          "mtime_utc": "2025-10-03T13:39:32.635010Z",
+          "mtime_utc": "2025-10-03T14:24:36.214764Z",
           "frontmatter": {
             "title": "📏 Klein Sexual Orientation Grid (KSOG)",
             "aliases": [
@@ -1467,7 +1536,7 @@
           "type": "file",
           "relpath": "Frameworks/Liberation & Intersectional Feminist Psychology.md",
           "size_bytes": 9424,
-          "mtime_utc": "2025-10-03T13:39:32.635010Z",
+          "mtime_utc": "2025-10-03T14:24:36.214764Z",
           "frontmatter": {
             "title": "✊ Liberation & Intersectional Feminist Psychology",
             "aliases": [
@@ -1502,7 +1571,7 @@
           "type": "file",
           "relpath": "Frameworks/Liberation Psychology.md",
           "size_bytes": 3625,
-          "mtime_utc": "2025-10-03T13:39:32.635010Z",
+          "mtime_utc": "2025-10-03T14:24:36.214764Z",
           "frontmatter": {
             "title": "✊ Liberation Psychology",
             "aliases": [
@@ -1534,7 +1603,7 @@
           "type": "file",
           "relpath": "Frameworks/Limerence.md",
           "size_bytes": 12682,
-          "mtime_utc": "2025-10-03T13:39:32.635010Z",
+          "mtime_utc": "2025-10-03T14:24:36.214764Z",
           "frontmatter": {
             "title": "💘 Limerence",
             "aliases": [
@@ -1567,7 +1636,7 @@
           "type": "file",
           "relpath": "Frameworks/Mindfulness Practices.md",
           "size_bytes": 6399,
-          "mtime_utc": "2025-10-03T13:39:32.635010Z",
+          "mtime_utc": "2025-10-03T14:24:36.214764Z",
           "frontmatter": {
             "title": "🧘 Mindfulness Practices",
             "aliases": [
@@ -1597,7 +1666,7 @@
           "type": "file",
           "relpath": "Frameworks/Motivational Interviewing.md",
           "size_bytes": 9176,
-          "mtime_utc": "2025-10-03T13:39:32.635010Z",
+          "mtime_utc": "2025-10-03T14:24:36.214764Z",
           "frontmatter": {
             "title": "💬 Motivational Interviewing (MI)",
             "aliases": [
@@ -1629,7 +1698,7 @@
           "type": "file",
           "relpath": "Frameworks/Narrative Exposure Therapy.md",
           "size_bytes": 9240,
-          "mtime_utc": "2025-10-03T13:39:32.635010Z",
+          "mtime_utc": "2025-10-03T14:24:36.214764Z",
           "frontmatter": {
             "title": "📜 Narrative Exposure Therapy (NET)",
             "aliases": [
@@ -1661,7 +1730,7 @@
           "type": "file",
           "relpath": "Frameworks/Narrative Therapy.md",
           "size_bytes": 4967,
-          "mtime_utc": "2025-10-03T13:39:32.635010Z",
+          "mtime_utc": "2025-10-03T14:24:36.214764Z",
           "frontmatter": {
             "title": "📖 Narrative Therapy",
             "aliases": [
@@ -1693,7 +1762,7 @@
           "type": "file",
           "relpath": "Frameworks/Neurodivergence.md",
           "size_bytes": 9028,
-          "mtime_utc": "2025-10-03T13:39:32.635010Z",
+          "mtime_utc": "2025-10-03T14:24:36.214764Z",
           "frontmatter": {
             "title": "🧠 Neurodivergence 🧬",
             "aliases": [
@@ -1726,7 +1795,7 @@
           "type": "file",
           "relpath": "Frameworks/Nonviolent Communication.md",
           "size_bytes": 9289,
-          "mtime_utc": "2025-10-03T13:39:32.635010Z",
+          "mtime_utc": "2025-10-03T14:24:36.214764Z",
           "frontmatter": {
             "title": "🕊️ Nonviolent Communication (NVC)",
             "aliases": [
@@ -1759,7 +1828,7 @@
           "type": "file",
           "relpath": "Frameworks/Open Relationships.md",
           "size_bytes": 6393,
-          "mtime_utc": "2025-10-03T13:39:32.635010Z",
+          "mtime_utc": "2025-10-03T14:24:36.215764Z",
           "frontmatter": {
             "title": "💖 Open Relationships",
             "aliases": [
@@ -1792,7 +1861,7 @@
           "type": "file",
           "relpath": "Frameworks/Personal Responsibility, Informed Consensual Kink.md",
           "size_bytes": 7406,
-          "mtime_utc": "2025-10-03T13:39:32.635010Z",
+          "mtime_utc": "2025-10-03T14:24:36.215764Z",
           "frontmatter": {
             "title": "⛓️ Personal Responsibility, Informed Consensual Kink (PRICK)",
             "aliases": [
@@ -1824,7 +1893,7 @@
           "type": "file",
           "relpath": "Frameworks/Play_&_Imagination_in_Healing.md",
           "size_bytes": 6571,
-          "mtime_utc": "2025-10-03T13:39:32.635010Z",
+          "mtime_utc": "2025-10-03T14:24:36.215764Z",
           "frontmatter": {
             "title": "🌈 Play & Imagination in Healing",
             "aliases": [
@@ -1857,7 +1926,7 @@
           "type": "file",
           "relpath": "Frameworks/Polyamory.md",
           "size_bytes": 6722,
-          "mtime_utc": "2025-10-03T13:39:32.635010Z",
+          "mtime_utc": "2025-10-03T14:24:36.215764Z",
           "frontmatter": {
             "title": "♾️ Polyamory",
             "aliases": [
@@ -1890,7 +1959,7 @@
           "type": "file",
           "relpath": "Frameworks/Polyvagal Theory.md",
           "size_bytes": 7466,
-          "mtime_utc": "2025-10-03T13:39:32.636010Z",
+          "mtime_utc": "2025-10-03T14:24:36.215764Z",
           "frontmatter": {
             "title": "🐻 Polyvagal Theory (PVT)",
             "aliases": [
@@ -1919,11 +1988,45 @@
           "content": "<!-- @format -->\n\n### 🧠 Definition and Core Themes\n\n**Polyvagal Theory (PVT)**, developed by psychiatrist Dr. Stephen Porges, is a\ngroundbreaking framework that explains the connection between the **Vagus nerve** (the\nmain nerve of the parasympathetic nervous system), the regulation of internal organs,\nand the brain's control of social behavior. It posits that the autonomic nervous system\n(ANS) is not a simple \"fight or flight\" switch, but a hierarchy of three distinct neural\ncircuits that respond to perceptions of **safety and threat**.\n\n- **Core Goal:** To explain how our ANS dictates our behavior, health, and capacity for\n  connection based on a continuous, unconscious assessment of safety called\n  **neuroception**. Healing involves consciously engaging the neural circuits associated\n  with safety.\n- **Neuroception:** The unconscious, non-conscious way the nervous system monitors\n  internal, external, and relational cues to determine if a situation or person is safe,\n  dangerous, or life-threatening. This process occurs _before_ conscious awareness.\n- **The Polyvagal Hierarchy (The Three States):** The system prioritizes the newest,\n  most sophisticated circuit first. When that fails to resolve a threat, it moves down\n  to older, more primitive circuits:\n\n|             State             |   Vagus Nerve Branch   | Function/Behavior                                                                                                                                                                    |\n| :---------------------------: | :--------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| **1. Ventral Vagal** (Newest) |  **Myelinated Vagus**  | **Safe and Social:** State of connection, calm, rest, digestion, and optimal health. Allows for full **facial expression, tone of voice, and listening** (Social Engagement System). |\n|  **2. Sympathetic** (Older)   |   **Spinal Nerves**    | **Mobilization/Threat:** Activated when danger is perceived but escape is possible. Triggers **Fight** (anger, aggression) or **Flight** (anxiety, panic, restlessness).             |\n| **3. Dorsal Vagal** (Oldest)  | **Unmyelinated Vagus** | **Immobilization/Life-Threat:** Activated when threat is overwhelming and escape is impossible. Triggers **Freeze** (dissociation, numbness, feigning death, emotional collapse).    |\n\n---\n\n### 🌿 Traits and Lived Experience\n\nPVT reframes psychological symptoms as **adaptive survival strategies** of a\ndysregulated nervous system.\n\n- **The Ladder Analogy:** The lived experience is explained by climbing (feeling safe)\n  or descending (feeling threatened) a \"polyvagal ladder.\" When in the **Ventral Vagal**\n  state, the world feels friendly and manageable. When in **Sympathetic** state, the\n  body feels energized and anxious. When in **Dorsal Vagal** state, the world feels numb\n  and hopeless.\n- **Co-Regulation:** Individuals maintain safety not just internally, but\n  **interpersonally**. The consistent, regulated presence of another person (a calm\n  face, a soothing tone of voice) acts as a **Ventral Vagal cue**, which helps bring our\n  own system back to a regulated state.\n- **Filtering Sound:** The **Social Engagement System** is responsible for hearing the\n  human voice (mid-range frequencies) and filtering out low-frequency background noise.\n  Trauma can impair this system, causing the person to struggle to hear others over\n  noise, reinforcing social isolation.\n\n---\n\n### 🧠 Trauma and Healing Lens\n\nPVT offers a clear roadmap for trauma healing by focusing on physiological regulation\nrather than just cognitive narrative.\n\n- **Trauma Response:** Trauma is understood as a nervous system that is **stuck** in a\n  defensive state (**Sympathetic** or **Dorsal Vagal**) even when the original threat is\n  gone. Symptoms like dissociation (Dorsal) or hyper-vigilance (Sympathetic) are the\n  system's best attempt to survive.\n- **Therapy as Neuroception:** The goal of trauma therapy is to create a reliable,\n  consistent relational environment where the client's system **neurocepts** safety. The\n  therapist's calm **tone of voice, facial expression, and pace** are the primary tools\n  to help the client's system return to the **Ventral Vagal** state.\n- **Sequential Healing:** Healing requires engaging the lower, more primitive circuits\n  before the higher cognitive parts can be fully engaged. Forcing a cognitive analysis\n  of trauma while the system is in **Dorsal Shutdown** will be ineffective.\n\n---\n\n### 💞 Attachment and Relational Patterns\n\nPVT illuminates the physiological basis for **Attachment Theory**, showing how early\ncaregiving physically shapes the ANS.\n\n- **The Secure Base:** A secure caregiver provides consistent, reliable **Ventral Vagal\n  co-regulation**, wiring the child's brain to associate connection with safety. This\n  creates the foundational capacity for **self-regulation** later in life.\n- **Insecure Attachment:** Inconsistent or hostile caregiving creates a nervous system\n  that constantly **neurocepts threat** in relationships, leading to habitual\n  **Sympathetic** (Anxious Attachment, seeking/protesting) or **Dorsal Vagal** (Avoidant\n  Attachment, shutting down/distancing) responses.\n- **Co-Regulation in Conflict:** In adult relationships, the ability of partners to\n  return quickly to the **Ventral Vagal** state after a conflict—often through a calm\n  touch, a soft voice, or an apologetic facial expression—is the key to **Conflict\n  Repair** and maintaining a secure bond.\n\n---\n\n### 🛠️ Strategies, Prompts, and Practices\n\n- **Micro-Skill (Vagal Braking):** Intentional, deep, and slow exhalation (e.g.,\n  breathing in for 4, out for 6) is a simple way to stimulate the **Vagus nerve**,\n  applying a \"brake\" to the heart rate and shifting the system toward the **Ventral\n  Vagal** state.\n- **Prompt (Tracking the State):** Instead of asking \"How do you feel?\" ask **\"What\n  state are you in right now?\"** or _\"What are the sensations in your body telling you?\n  Do you feel mobilized, frozen, or calm?\"_ (This uses body awareness to engage the\n  cortex).\n- **Micro-Skill (Auditory Regulation):** Listening to calming, filtered music or\n  specific tonal frequencies (as in the **Safe and Sound Protocol—SSP**) can help\n  \"retune\" the Social Engagement System, reducing sensitivity and fostering **Ventral\n  Vagal** access.\n\n---\n\n### 🔗 Related Frameworks and Further Reading\n\n- [[Trauma_Response]]\n- [[Attachment Theory]]\n- [[Internal Family Systems]]\n- [[Interpersonal_Neurobiology_IPNB]]\n\n### 📚 Citations & Sources\n\n- Porges, S. W. (2011). _The Polyvagal Theory: Neurophysiological Foundations of\n  Emotions, Attachment, Communication, and Self-regulation._\n- Dana, D. (2018). _The Polyvagal Theory in Therapy: Engaging the Rhythm of Regulation._\n"
         },
         {
+          "name": "Post Traumatic Stress Disorder.md",
+          "type": "file",
+          "relpath": "Frameworks/Post Traumatic Stress Disorder.md",
+          "size_bytes": 12998,
+          "mtime_utc": "2025-10-03T14:24:36.215764Z",
+          "frontmatter": {
+            "title": "Post Traumatic Stress Disorder — Framework Notes",
+            "description": "Clinical, trauma-informed framework for rapid assessment, triage, stabilization, and coordinated care for people with Post Traumatic Stress Disorder (PTSD) and related trauma presentations.",
+            "author": "GPT Relational Analysis Triage Engine",
+            "created": "2025-10-03",
+            "updated": "2025-10-03",
+            "version": "1.0.0",
+            "tags": [
+              "PTSD",
+              "post-traumatic-stress",
+              "trauma",
+              "assessment",
+              "treatment",
+              "risk-management"
+            ],
+            "audience": [
+              "Emergency Department clinicians",
+              "Primary care providers",
+              "Mental health clinicians (psychiatrists, psychologists, therapists)",
+              "Trauma specialists and specialist clinics",
+              "School health and youth services",
+              "First responders and occupational health teams"
+            ],
+            "license": "Adapt locally; follow jurisdictional laws and specialist guidance. Not a substitute for clinical judgment.",
+            "schema": "framework-notes/1.0"
+          },
+          "content": "# Post Traumatic Stress Disorder — Framework Notes\n\n> Action-focused, trauma-informed guide for recognizing, assessing risk, stabilizing, and coordinating multidisciplinary care for people with PTSD or trauma-related distress.\n\n---\n\n## Purpose\n- Provide a compact, evidence-aligned template for rapid clinical assessment, medical/psychiatric triage, brief interventions, and care coordination for PTSD across settings.  [oai_citation:0‡NICE](https://www.nice.org.uk/guidance/ng116/chapter/recommendations?utm_source=chatgpt.com)\n\n---\n\n## Scope & Audience\n- Designed for frontline clinicians (ED, primary care), mental-health practitioners, school health teams, occupational health, and care coordinators.  \n- Applies to adults and young people with acute or chronic PTSD presentations, including Complex PTSD (CPTSD) where relevant; specialist referral recommended for complex, refractory, or high-risk cases.  [oai_citation:1‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12466117/?utm_source=chatgpt.com)\n\n---\n\n## Quick Immediate Checklist (first 5–10 minutes)\n1. **Is the person in immediate danger?** Ask directly about suicidal ideation, intent, or plans; if present or if acute safety concerns exist, activate emergency pathways.  [oai_citation:2‡PTSD.gov](https://www.ptsd.va.gov/professional/treat/txessentials/cpg_ptsd_management.asp?utm_source=chatgpt.com)  \n2. **Medical stability:** assess airway/breathing/circulation if physically compromised; treat acute intoxication or withdrawal as indicated.  \n3. **Contain distress:** use grounding/containment techniques (calm presence, orienting statements, breathing regulation) while arranging privacy and safety.  \n4. **Limit retraumatization:** avoid invasive recounting of trauma unless clinically indicated and therapeutic; obtain consent for trauma discussion.  \n5. **Document & notify:** record verbatim distress statements, immediate risk indicators, and notify on-call mental-health services or crisis teams as per protocol.\n\n---\n\n## Structured Assessment (core domains)\n- **Trauma exposure (Criterion A context):** type of trauma, timing, single vs. repeated events, interpersonal trauma, childhood/adult onset. (DSM-5/DSM-5-TR definitions inform diagnostic thresholds).  [oai_citation:3‡PTSD.gov](https://www.ptsd.va.gov/professional/treat/essentials/dsm5_ptsd.asp?utm_source=chatgpt.com)  \n- **Symptom clusters:** intrusive memories/flashbacks/nightmares; avoidance of reminders; negative alterations in cognition/mood; hyperarousal/reactivity; functional impairment; duration (>1 month).  [oai_citation:4‡PTSD.gov](https://www.ptsd.va.gov/professional/treat/essentials/dsm5_ptsd.asp?utm_source=chatgpt.com)  \n- **Severity & course:** acute stress vs. persistent PTSD, symptom frequency/intensity, triggers, dissociation.  \n- **Comorbidity:** depression, anxiety, substance use, TBI, pain, sleep disorders—assess for overlapping drivers of risk and impairment.  \n- **Risk assessment:** suicidal ideation/intent, self-harm, aggression, severe dissociation, psychosis, unstable housing, lack of supports.  [oai_citation:5‡PTSD.gov](https://www.ptsd.va.gov/professional/treat/txessentials/cpg_ptsd_management.asp?utm_source=chatgpt.com)  \n- **Social & cultural context:** stigma, family responses, legal, migration or asylum issues, cultural idioms of distress.  \n- **Functional assessment:** impact on work/school, relationships, daily self-care, ability to engage in therapy.\n\n---\n\n## Risk Stratification (practical triage)\n- **Low risk / outpatient:** PTSD symptoms present but medically stable, no suicidality or major comorbidity, reliable supports, and rapid access to trauma-focused therapy — arrange outpatient trauma-focused psychotherapy and safety plan.  [oai_citation:6‡NICE](https://www.nice.org.uk/guidance/ng116/chapter/recommendations?utm_source=chatgpt.com)  \n- **Moderate risk / urgent follow-up:** marked functional impairment, comorbid severe anxiety/depression or substance use, intermittent suicidal ideation without plan, limited supports — consider expedited outpatient pathways, intensive outpatient/day program, or brief observation.  [oai_citation:7‡PTSD.gov](https://www.ptsd.va.gov/professional/treat/txessentials/cpg_ptsd_management.asp?utm_source=chatgpt.com)  \n- **High / immediate risk:** active suicidal intent or plan, severe dissociation with loss of capacity, acute intoxication or withdrawal with medical risk, or severe medical instability — emergency admission (medical or psychiatric as appropriate) and multidisciplinary stabilization.  [oai_citation:8‡PTSD.gov](https://www.ptsd.va.gov/professional/treat/txessentials/cpg_ptsd_management.asp?utm_source=chatgpt.com)\n\n---\n\n## Intervention / Response Framework (evidence-aligned immediate strategies)\n- **Stabilization first:** address immediate safety (suicide risk), medical needs, and crisis stabilization (sleep/medication management if needed).  \n- **Psychoeducation & grounding:** brief, trauma-informed education about normal stress responses, sleep hygiene, and self-soothing tools; provide written resources and crisis contacts.  \n- **Trauma-focused psychotherapy:** recommend trauma-focused, manualized therapies as first-line where available — examples include Trauma-Focused CBT variants (CPT, CT for PTSD, Prolonged Exposure) and EMDR. These modalities have the strongest RCT support for PTSD symptom reduction.  [oai_citation:9‡PubMed](https://pubmed.ncbi.nlm.nih.gov/32284821/?utm_source=chatgpt.com)  \n- **Pharmacotherapy:** consider SSRIs/SNRIs for symptom reduction when indicated (e.g., comorbid depression/anxiety or when psychotherapy is inaccessible); use medication as adjunct rather than sole curative approach. Consult psychiatry for complex regimens or polypharmacy.  [oai_citation:10‡PTSD.gov](https://www.ptsd.va.gov/professional/treat/txessentials/cpg_ptsd_management.asp?utm_source=chatgpt.com)  \n- **Address comorbidities:** treat substance use, sleep disorders, and pain concurrently; some comorbidities increase risk and impede PTSD treatment engagement.  \n- **Special populations:** adapt approaches for children/adolescents, older adults, survivors of complex interpersonal trauma (CPTSD), and people with TBI or severe dissociation — specialist input recommended.  [oai_citation:11‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12466117/?utm_source=chatgpt.com)\n\n---\n\n## Communication & Trauma-Informed Interaction Tips\n- Use calm, validating, and nonjudgmental language; avoid re-traumatizing prompts and respect pacing — ask for consent before exploring trauma narratives.  \n- Normalize common reactions (hypervigilance, nightmares) while validating suffering; emphasize agency and collaborative planning.  \n- Be identity-conscious: use gender-affirming and culturally sensitive phrasing; recognize how discrimination and intersectional factors can compound trauma.  \n- When working with neurodivergent or dissociative presentations, allow flexibility in communication (visual aids, breaks, simplified language).\n\n---\n\n## Documentation Template (minimum fields)\n- Date/time, clinician, setting, contact method (in-person/telehealth)  \n- Presenting complaint and brief trauma history (with consent)  \n- Symptom clusters and severity, screening tool scores if used (e.g., PCL-5), functional impact  \n- Medical/psychiatric risk assessment (suicidality/self-harm, dissociation, substance use)  \n- Immediate actions taken (safety plan, medications given, referrals made)  \n- Disposition and rationale (admit/observe/outpatient + follow-up plan)  \n- Communication with supports (consent status), referrals and handoff notes\n\n---\n\n## Care Coordination & Follow-up\n- **Before discharge:** provide a written safety plan, crisis contacts, harm-reduction steps (e.g., substance safety), and clear next-step appointments (ideally within 7 days for moderate/high risk).  [oai_citation:12‡NICE](https://www.nice.org.uk/guidance/ng116/chapter/recommendations?utm_source=chatgpt.com)  \n- **Referral pathways:** prioritize expedited access to trauma-focused therapy; if unavailable, arrange interim supports (CBT for comorbid symptoms, psychiatric follow-up).  \n- **Active outreach:** consider proactive follow-up calls/texts for high-risk or disengaged patients; document outreach attempts and outcomes.  \n- **Multidisciplinary handoff:** send concise summary to receiving clinician/team with current risk status, treatments initiated, and outstanding needs.\n\n---\n\n## Postvention and Staff Support\n- After traumatic incidents or patient suicidality, provide structured debriefing for staff, access to supervision, and mental-health supports for responders.  \n- For community or group exposures (e.g., mass trauma, workplace incidents), coordinate with public health/occupational teams to offer targeted psychological first aid and stepped care resources.\n\n---\n\n## Ethical & Legal Considerations\n- Know local laws about capacity, consent, mandatory reporting, and involuntary treatment; mal-adaptive risk decisions may require involving guardians or legal pathways per jurisdiction.  \n- Obtain informed consent for treatment and for disclosure to third parties; be explicit about limits to confidentiality related to safety.  \n- Balance patient autonomy with duty to protect in cases of severe self-harm risk, documenting rationale and steps taken.\n\n---\n\n## Quick Reference: One-Page Clinical Skeleton\n- Name / Age / Setting: ______________________  \n- Trauma exposure (brief): ____________________  \n- Core symptoms (intrusion / avoidance / mood / arousal): __________________  \n- PCL-5 or screening score (if used): ___________  \n- Immediate risk (medical/psychiatric): Low / Moderate / High — rationale: ___________  \n- Immediate interventions (safety plan, meds, crisis referrals): ___________________  \n- Disposition & follow-up appointment: ______________________  \n- Key contacts (crisis team / therapist / PCP): ___________________\n\n---\n\n## References & Resources\n- NICE guideline: Post-traumatic stress disorder — recognition, assessment and treatment (NG116).  [oai_citation:13‡NICE](https://www.nice.org.uk/guidance/ng116/chapter/recommendations?utm_source=chatgpt.com)  \n- VA/DoD Clinical Practice Guideline for the Management of PTSD (evidence-based recommendations for assessment and treatment).  [oai_citation:14‡PTSD.gov](https://www.ptsd.va.gov/professional/treat/txessentials/cpg_ptsd_management.asp?utm_source=chatgpt.com)  \n- DSM-5 diagnostic criteria and DSM-informed summaries for PTSD symptom clusters and Criterion A.  [oai_citation:15‡PTSD.gov](https://www.ptsd.va.gov/professional/treat/essentials/dsm5_ptsd.asp?utm_source=chatgpt.com)  \n- Systematic reviews and meta-analyses supporting trauma-focused psychotherapies (CBT variants, CPT, PE) and EMDR as first-line psychotherapies.  [oai_citation:16‡PubMed](https://pubmed.ncbi.nlm.nih.gov/32284821/?utm_source=chatgpt.com)  \n- Guidance on CPTSD and complexity of presentation: emerging reviews and specialist recommendations.  [oai_citation:17‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12466117/?utm_source=chatgpt.com)\n\n---\n\n## Appendix A: Useful Templates (copy-and-paste ready)\n**Brief Safety Plan (patient copy)**  \n- Warning signs: ________________________  \n- What I can do alone (grounding/coping): ________________________  \n- People to contact (names & numbers): ________________________  \n- Professional/crisis contacts: _______________ (local emergency / crisis team)  \n- Steps agreed (who will call whom, when): ________________________  \n\n**Basic Handoff Note (to specialist)**  \n- Patient identifiers, brief trauma history, current symptoms, screening scores, immediate risk level, investigations done (if any), treatments started, requested urgency (e.g., appointment within 7 days).\n\n**PCL-5 monitoring template**  \n- Baseline PCL-5: _____  Date: _____  Follow-up PCL-5: _____  Change: _____\n\n---\n\n*End of document — adapt to local policy and resources. For complex or high-risk cases, consult PTSD specialists and multidisciplinary teams immediately.*"
+        },
+        {
           "name": "Power Dynamics.md",
           "type": "file",
           "relpath": "Frameworks/Power Dynamics.md",
           "size_bytes": 6347,
-          "mtime_utc": "2025-10-03T13:39:32.636010Z",
+          "mtime_utc": "2025-10-03T14:24:36.215764Z",
           "frontmatter": {
             "title": "⚖️ Power Dynamics",
             "aliases": [
@@ -1956,7 +2059,7 @@
           "type": "file",
           "relpath": "Frameworks/Power Exchange.md",
           "size_bytes": 6468,
-          "mtime_utc": "2025-10-03T13:39:32.636010Z",
+          "mtime_utc": "2025-10-03T14:24:36.215764Z",
           "frontmatter": {
             "title": "⛓️ Power Exchange ⚖️",
             "aliases": [
@@ -1990,7 +2093,7 @@
           "type": "file",
           "relpath": "Frameworks/PrEP (Pre-Exposure Prophylaxis).md",
           "size_bytes": 7989,
-          "mtime_utc": "2025-10-03T13:39:32.636010Z",
+          "mtime_utc": "2025-10-03T14:24:36.215764Z",
           "frontmatter": {
             "title": "⚕️ PrEP (Pre-Exposure Prophylaxis)",
             "aliases": [
@@ -2019,7 +2122,7 @@
           "type": "file",
           "relpath": "Frameworks/Psychological Total Power Exchange.md",
           "size_bytes": 6871,
-          "mtime_utc": "2025-10-03T13:39:32.636010Z",
+          "mtime_utc": "2025-10-03T14:24:36.215764Z",
           "frontmatter": {
             "title": "⛓️ Psychological Total Power Exchange (PTPE)",
             "aliases": [
@@ -2053,7 +2156,7 @@
           "type": "file",
           "relpath": "Frameworks/Queer Relational Anarchy.md",
           "size_bytes": 6793,
-          "mtime_utc": "2025-10-03T13:39:32.636010Z",
+          "mtime_utc": "2025-10-03T14:24:36.215764Z",
           "frontmatter": {
             "title": "🖤 Queer Relational Anarchy (QRA)",
             "aliases": [
@@ -2086,7 +2189,7 @@
           "type": "file",
           "relpath": "Frameworks/RADAR.md",
           "size_bytes": 4512,
-          "mtime_utc": "2025-10-03T13:39:32.636010Z",
+          "mtime_utc": "2025-10-03T14:24:36.215764Z",
           "frontmatter": {
             "title": "❓ RADAR Framework",
             "aliases": [
@@ -2119,7 +2222,7 @@
           "type": "file",
           "relpath": "Frameworks/Radical Acceptance.md",
           "size_bytes": 7189,
-          "mtime_utc": "2025-10-03T13:39:32.636010Z",
+          "mtime_utc": "2025-10-03T14:24:36.215764Z",
           "frontmatter": {
             "title": "🧘 Radical Acceptance",
             "aliases": [
@@ -2151,7 +2254,7 @@
           "type": "file",
           "relpath": "Frameworks/Radical Candor.md",
           "size_bytes": 5487,
-          "mtime_utc": "2025-10-03T13:39:32.636010Z",
+          "mtime_utc": "2025-10-03T14:24:36.215764Z",
           "frontmatter": {
             "title": "🗣️ Radical Candor",
             "aliases": [
@@ -2182,7 +2285,7 @@
           "type": "file",
           "relpath": "Frameworks/Rejection Sensitive Dysphoria.md",
           "size_bytes": 7936,
-          "mtime_utc": "2025-10-03T13:39:32.636010Z",
+          "mtime_utc": "2025-10-03T14:24:36.215764Z",
           "frontmatter": {
             "title": "💥 Rejection Sensitive Dysphoria (RSD)",
             "aliases": [
@@ -2215,7 +2318,7 @@
           "type": "file",
           "relpath": "Frameworks/Relational Analysis Map.md",
           "size_bytes": 3539,
-          "mtime_utc": "2025-10-03T13:39:32.636010Z",
+          "mtime_utc": "2025-10-03T14:24:36.216764Z",
           "frontmatter": {
             "title": "🗺️ Relational Analysis Map",
             "aliases": [
@@ -2243,7 +2346,7 @@
           "type": "file",
           "relpath": "Frameworks/Relationship Anarchy.md",
           "size_bytes": 5119,
-          "mtime_utc": "2025-10-03T13:39:32.636010Z",
+          "mtime_utc": "2025-10-03T14:24:36.216764Z",
           "frontmatter": {
             "title": "🖤 Relational Anarchy (RA)",
             "aliases": [
@@ -2276,7 +2379,7 @@
           "type": "file",
           "relpath": "Frameworks/Relationship Theory.md",
           "size_bytes": 5650,
-          "mtime_utc": "2025-10-03T13:39:32.636010Z",
+          "mtime_utc": "2025-10-03T14:24:36.216764Z",
           "frontmatter": {
             "title": "💖 Relationship Theory",
             "aliases": [
@@ -2309,7 +2412,7 @@
           "type": "file",
           "relpath": "Frameworks/Restorative Circles.md",
           "size_bytes": 4844,
-          "mtime_utc": "2025-10-03T13:39:32.636010Z",
+          "mtime_utc": "2025-10-03T14:24:36.216764Z",
           "frontmatter": {
             "title": "🔄 Restorative Circles",
             "aliases": [
@@ -2341,7 +2444,7 @@
           "type": "file",
           "relpath": "Frameworks/Restorative Justice.md",
           "size_bytes": 5148,
-          "mtime_utc": "2025-10-03T13:39:32.636010Z",
+          "mtime_utc": "2025-10-03T14:24:36.216764Z",
           "frontmatter": {
             "title": "⚖️ Restorative Justice",
             "aliases": [
@@ -2375,7 +2478,7 @@
           "type": "file",
           "relpath": "Frameworks/Risk-Aware Consensual Kink.md",
           "size_bytes": 4956,
-          "mtime_utc": "2025-10-03T13:39:32.636010Z",
+          "mtime_utc": "2025-10-03T14:24:36.216764Z",
           "frontmatter": {
             "title": "⛓️ Risk-Aware Consensual Kink (RACK) ⚠️",
             "aliases": [
@@ -2407,7 +2510,7 @@
           "type": "file",
           "relpath": "Frameworks/Safe, Sane, and Consensual.md",
           "size_bytes": 4788,
-          "mtime_utc": "2025-10-03T13:39:32.637010Z",
+          "mtime_utc": "2025-10-03T14:24:36.216764Z",
           "frontmatter": {
             "title": "⛓️ Safe, Sane, and Consensual (SSC)",
             "aliases": [
@@ -2439,7 +2542,7 @@
           "type": "file",
           "relpath": "Frameworks/Scene-Based Kink.md",
           "size_bytes": 4743,
-          "mtime_utc": "2025-10-03T13:39:32.637010Z",
+          "mtime_utc": "2025-10-03T14:24:36.216764Z",
           "frontmatter": {
             "title": "⛓️ Scene-Based Kink 🎬",
             "aliases": [
@@ -2472,7 +2575,7 @@
           "type": "file",
           "relpath": "Frameworks/Sensorimotor Psychotherapy.md",
           "size_bytes": 5222,
-          "mtime_utc": "2025-10-03T13:39:32.637010Z",
+          "mtime_utc": "2025-10-03T14:24:36.216764Z",
           "frontmatter": {
             "title": "🧘 Sensorimotor Psychotherapy",
             "aliases": [
@@ -2505,7 +2608,7 @@
           "type": "file",
           "relpath": "Frameworks/Socratic Questioning.md",
           "size_bytes": 5736,
-          "mtime_utc": "2025-10-03T13:39:32.637010Z",
+          "mtime_utc": "2025-10-03T14:24:36.216764Z",
           "frontmatter": {
             "title": "❓ Socratic Questioning",
             "aliases": [
@@ -2537,7 +2640,7 @@
           "type": "file",
           "relpath": "Frameworks/Solo Polyamory.md",
           "size_bytes": 4441,
-          "mtime_utc": "2025-10-03T13:39:32.637010Z",
+          "mtime_utc": "2025-10-03T14:24:36.216764Z",
           "frontmatter": {
             "title": "👤 Solo Polyamory",
             "aliases": [
@@ -2569,7 +2672,7 @@
           "type": "file",
           "relpath": "Frameworks/Somatic Experiencing.md",
           "size_bytes": 4815,
-          "mtime_utc": "2025-10-03T13:39:32.637010Z",
+          "mtime_utc": "2025-10-03T14:24:36.216764Z",
           "frontmatter": {
             "title": "🐅 Somatic Experiencing (SE)",
             "aliases": [
@@ -2602,7 +2705,7 @@
           "type": "file",
           "relpath": "Frameworks/Spoon Theory.md",
           "size_bytes": 4513,
-          "mtime_utc": "2025-10-03T13:39:32.637010Z",
+          "mtime_utc": "2025-10-03T14:24:36.216764Z",
           "frontmatter": {
             "title": "🥄 Spoon Theory",
             "aliases": [
@@ -2630,11 +2733,42 @@
           "content": "<!-- @format -->\n\n### 🧩 Definition and Core Themes\n\n**Spoon Theory** is a metaphor created by writer **Christine Miserandino** to explain\nthe limited amount of **mental and physical energy** available to people living with\n**chronic illness, disability, and neurodivergence**. It uses **spoons** to represent\nunits of energy needed to perform daily tasks. While healthy individuals wake up with a\nseemingly infinite supply of energy, \"Spoonies\" start their day with a highly limited\nnumber of spoons.\n\n- **Core Goal:** To translate the invisible daily reality of managing a chronic\n  condition into a simple, tangible concept that can be easily communicated to friends,\n  family, and medical providers.\n- **The Crux of the Metaphor:** Every activity, from simple self-care (showering,\n  eating) to work or social events, costs a certain number of spoons. Once the day's\n  spoons are used up, the person cannot function effectively until they \"replenish\"\n  their supply (which often takes more time than a typical night's rest).\n- **Energy Scarcity:** The theory highlights the **scarcity mindset** that governs life\n  with chronic illness. Every decision is a **cost-benefit analysis** of energy, forcing\n  the individual to constantly prioritize and sacrifice activities.\n\n---\n\n### 🌿 The Lived Experience\n\nSpoon Theory reframes common daily experiences under the lens of finite energy.\n\n- **Cost-Benefit Analysis:** The lived experience is one of continuous negotiation. A\n  simple task, like grocery shopping, may cost five spoons, leaving only a few for\n  everything else. This necessity to budget and sacrifice is often what healthy people\n  fail to grasp.\n- **\"Borrowing\" Spoons:** It is possible to push past the limit and \"borrow\" spoons from\n  tomorrow (e.g., by pushing through fatigue). However, this always results in a\n  **\"spoon deficit\"** and a significantly worse day or recovery period later on, often\n  leading to a crash or flare-up of symptoms.\n- **Invisible Effort:** The theory reveals the energy cost of **invisible tasks**—the\n  constant vigilance, emotional labor, and internal energy spent on managing pain,\n  filtering sensory input, or masking symptoms (especially relevant for **Autism** and\n  **ADHD**).\n\n---\n\n### 🧠 Psychological and Relational Impact\n\nSpoon Theory provides a powerful tool for communication and emotional regulation.\n\n- **Validation:** For the person living with the condition, the metaphor is profoundly\n  **validating**. It gives a name and form to the invisible work they do every day,\n  countering the belief that they are \"lazy\" or \"imagining\" their fatigue.\n- **Boundary Models:** It provides a clear, non-emotional language for setting\n  **Boundaries**. Instead of saying \"I can't come because I'm tired,\" which invites\n  questioning, the person can say, \"I'm down to one spoon, so I need to save it for my\n  doctor's appointment tomorrow.\"\n- **Reducing Guilt and Shame:** By externalizing energy management into a neutral\n  concept (spoons), the individual can reduce the internalized **guilt and shame**\n  associated with not being able to keep up with able-bodied peers.\n\n---\n\n### 🛠️ Strategies, Prompts, and Practices\n\n- **Micro-Skill (The Spoon Check):** Before agreeing to a task, perform a quick internal\n  assessment: _\"How many spoons will this cost? How many do I have? Is this worth\n  borrowing from tomorrow?\"_\n- **Prompt (Communicating Limits):** To a supportive partner or friend: _\"I only have\n  three spoons left for the rest of the day. How do we want to use them? Do we cook\n  dinner (2 spoons) or order out and watch a movie (1 spoon)?\"_ (This models\n  collaborative energy management).\n- **Micro-Skill (Identifying Hidden Costs):** Explicitly list the hidden energy costs of\n  a major task. Example: _1 spoon for getting dressed + 2 spoons for commuting + 1 spoon\n  for filtering noise at work = 4 spoons before the work even starts._\n\n---\n\n### 🔗 Related Frameworks and Further Reading\n\n- [[Disability_Justice]]\n- [[Neurodivergence]]\n- [[Boundary_Models]]\n"
         },
         {
+          "name": "Suicidal Ideation.md",
+          "type": "file",
+          "relpath": "Frameworks/Suicidal Ideation.md",
+          "size_bytes": 9538,
+          "mtime_utc": "2025-10-03T14:24:36.216764Z",
+          "frontmatter": {
+            "title": "Suicidal Ideation — Framework Notes",
+            "description": "Compact, evidence-aligned clinical framework for assessing, stabilizing, and planning care for people experiencing suicidal ideation.",
+            "author": "GPT Relational Analysis Triage Engine",
+            "created": "2025-10-03",
+            "updated": "2025-10-03",
+            "version": "1.0.0",
+            "tags": [
+              "suicide-prevention",
+              "safety-plan",
+              "clinical",
+              "risk-assessment"
+            ],
+            "audience": [
+              "Emergency Department",
+              "Outpatient Mental Health",
+              "Primary Care",
+              "School-based Health",
+              "Crisis Teams"
+            ],
+            "license": "Adapt and use according to local protocols; not a substitute for clinical judgment.",
+            "schema": "suicide-ideation-framework/1.0"
+          },
+          "content": "# Suicidal Ideation — Framework Notes\n\n> Compact, evidence-aligned clinical framework for assessing, stabilizing, and planning care for people experiencing suicidal ideation. Designed as a practical reference for clinicians, care teams, and informed non-clinical responders.\n\n---\n\n## Purpose\n- Provide a rapid-access, clinically grounded framework for assessing suicide risk and creating an immediate safety plan.\n- Support consistent documentation, disposition decisions, and follow-up planning.\n\n## Scope & Audience\n- Intended for use in emergency departments, outpatient mental health, primary care, school-based health, crisis teams, and multidisciplinary care coordination.\n- Not a substitute for advanced clinical training or local protocols. Always follow legal/organizational requirements.\n\n---\n\n## Quick Immediate Safety Checklist (first 5 minutes)\n1. Are they in immediate danger right now? (access to means, current plan, intent, timeline)\n2. If yes to any: maintain safe environment, call emergency services, and engage crisis resources.\n3. If no immediate danger: move to structured assessment (below) while remaining empathetic and nonjudgmental.\n4. Ask permission to contact supports if person is comfortable.\n5. Create or update a written safety plan before discharge/transfer.\n\n---\n\n## Structured Risk Assessment (core domains)\n- **Ideation:** frequency, intensity, duration, controllability (thoughts vs. urges).\n- **Intent:** does the person want to die? Have they taken steps toward acting on the thought?\n- **Plan:** specificity, lethality, access to means, imminence (when/how).\n- **Preparatory behavior:** rehearsals, stockpiling, writing notes, giving away possessions.\n- **History:** prior attempts (strongest single predictor), self-harm, hospitalizations.\n- **Psychiatric state:** mood, psychosis, agitation, hopelessness, anxiety, substance use.\n- **Protective factors:** reasons for living, social support, future orientation, treatments engaged.\n- **Contextual:** cultural factors, legal risks, recent losses, isolation, access to healthcare.\n\n**Screening tools to consider (use per local policy):** brief screening (PHQ-9 item 9), formal tools for deeper assessment (C-SSRS or equivalent structured interview).\n\n---\n\n## Risk Stratification (practical triage)\n- **Low acute risk:** passive ideation, no intent/plan, strong supports, safe environment — outpatient follow-up within 24–72 hours, safety plan, trusted contact identified.\n- **Moderate risk:** active ideation with intermittent intent or non-specific plan, some access to means, limited supports — consider brief hospitalization vs. intensive outpatient/crisis follow-up, safety plan, means restriction, close contact (daily check-ins or next-day contact).\n- **High/Immediate risk:** active ideation with intent and specific plan, imminent timeframe, access to lethal means, severe agitation/psychosis or recent attempt — emergent intervention (hospitalization, 1:1 staff observation, involuntary hold if legally indicated), immediate safety planning and means removal.\n\n*This is a decision aid, not a legal standard — use alongside clinical judgment and local laws.*\n\n---\n\n## Safety Planning (Stanley & Brown model — brief intervention structure)\n1. **Warning signs** — what the person notices first (thoughts, sensations, triggers).\n2. **Internal coping strategies** — things they can do alone to distract/soothe (breathing, grounding, sensory activities).\n3. **Social contacts & places for distraction** — people/places to call or go to when alone but not ready to ask for help.\n4. **People to ask for help** — names and phone numbers of trusted contacts who can provide support.\n5. **Professional and crisis resources** — local crisis lines, 988 (in the U.S.), clinician contacts, emergency services.\n6. **Making the environment safe (means reduction)** — remove/access-control steps for firearms, medications, poisons, high places, etc.\n7. **Agreement to follow-up / signals for escalation** — what steps will be taken if crisis escalates (who will call whom, timeframes).\n\n*Make this a written, portable document the person can carry or access on a phone. Involve family/supports when appropriate and with consent.*\n\n---\n\n## Brief Interventions & Immediate Strategies\n- **Collaborative Safety Planning** (see above) — brief, evidence-aligned, collaborative.\n- **Means restriction counseling** — practical negotiation about removing lethal means; provide concrete steps and resources (temporary transfer of firearms, lockboxes, safe storage prescriptions).\n- **Coping skills coaching** — grounding, paced breathing, behavioral activation, DBT distress-tolerance skills (if trained).\n- **Address substances** — immediate reduction of intoxication risk and plan for withdrawal or safety if indicated.\n- **Medication considerations** — urgent psychopharmacology consult if severe agitation, psychosis, or depression requiring medication; preserve short-term safety while arranging follow-up.\n- **Brief psychoeducation** — normalize crisis as treatable, reduce shame, reinforce protective factors (relationships, responsibilities, goals).\n\n---\n\n## Communication & Trauma-Informed Interaction Tips\n- Use calm, direct, nonjudgmental language. Validate feelings without reinforcing intent.\n- Ask about suicidal thoughts directly and plainly (e.g., \"Have you had thoughts about killing yourself?\").\n- Avoid minimizing language (\"You’ll be fine\"); instead reflect and acknowledge distress.\n- Use gender-affirming and identity-aware language. Be mindful that stigma increases risk.\n- Work from a stance of curiosity and collaboration: build agency into plans.\n\n---\n\n## Documentation Template (minimum fields)\n- Date/time, clinician, setting\n- Presenting concern and verbatim suicidal statements (if given)\n- Assessment tool used (e.g., C-SSRS) and findings\n- Ideation/intent/plan/access to means/history\n- Protective factors and supports listed by name and contact\n- Safety plan summary and who received a copy\n- Disposition decision and rationale (admit/observe/discharge + follow-up plan)\n- Communication with family/guardian/other providers (consent/limits)\n- Specific steps taken to reduce means/access\n\n---\n\n## Care Coordination & Follow-up\n- **Before discharge:** ensure safety plan, remove/limit means, confirm follow-up appointment within 48–72 hours (or sooner if risk warrants), provide emergency contacts.\n- **Outreach:** active outreach after discharge (phone check-ins, SMS, or scheduled calls) in first 1–2 weeks; use collaborative outreach models when possible.\n- **Hand-offs:** send concise, urgent summary to receiving clinician/team; include safety plan and recent risk details.\n\n---\n\n## Postvention and Staff Support\n- Offer immediate debriefing and peer support for staff after critical incidents.\n- Postvention planning for families and communities after attempts/completed suicide: provide resources and referrals to bereavement support.\n\n---\n\n## Ethical & Legal Considerations\n- Know local laws about involuntary holds and duty to warn/protect.\n- Respect confidentiality where possible; document limits of confidentiality discussed with the person.\n- Obtain consent for sharing safety plan with supports when feasible.\n\n---\n\n## Quick Reference: Sample Safety Plan (one-page skeleton)\n1. Warning signs: __________________________\n2. Internal coping: ________________________\n3. People/places for distraction: ___________\n4. People to contact for help: Name / Phone:\n   - 1) ____________________   2) ____________________\n5. Professional/crisis resources: 988 (U.S.), local emergency number: _______\n6. Steps to make environment safe (means removal): ____________________\n7. Follow-up appointment/date/time: ____________________\n8. Agreed escalation steps: ____________________\n\n---\n\n## References & Resources (for further reading and local adaptation)\n- Stanley, B. & Brown, G. K. — Safety Planning Intervention (Stanley-Brown).\n- Columbia-Suicide Severity Rating Scale (C-SSRS).\n- Zero Suicide Framework — system-level suicide prevention toolkit.\n- World Health Organization — Preventing Suicide: A Global Imperative.\n- 988 Suicide & Crisis Lifeline (United States).\n- CDC / SAMHSA suicide prevention toolkits and resources.\n\n---\n\n## Appendix A: Useful Templates (copy-and-paste ready)\n*(Add organizational letterhead and local contacts before using clinically.)*\n\n**Safety Plan (short)**\n- Name: __________  Date: _______\n- Warning signs:\n- Coping strategies:\n- Support contacts:\n- Crisis resources (phone/text/web):\n- Means restriction actions:\n- Follow-up plan:\n\n**Discharge Summary (brief)**\n- Risk summary:\n- Interventions provided:\n- Safety plan attached: Y / N\n- Follow-up appointments and who to call if crisis returns:\n\n---\n\n*End of document — adapt locally. Keep the safety plan readable, brief, and collaborative.*"
+        },
+        {
           "name": "Swinging.md",
           "type": "file",
           "relpath": "Frameworks/Swinging.md",
           "size_bytes": 4782,
-          "mtime_utc": "2025-10-03T13:39:32.637010Z",
+          "mtime_utc": "2025-10-03T14:24:36.216764Z",
           "frontmatter": {
             "title": "💃 Swinging",
             "aliases": [
@@ -2667,7 +2801,7 @@
           "type": "file",
           "relpath": "Frameworks/Systems Thinking.md",
           "size_bytes": 5827,
-          "mtime_utc": "2025-10-03T13:39:32.637010Z",
+          "mtime_utc": "2025-10-03T14:24:36.216764Z",
           "frontmatter": {
             "title": "🔄 Systems Thinking",
             "aliases": [
@@ -2699,7 +2833,7 @@
           "type": "file",
           "relpath": "Frameworks/Total Power Exchange.md",
           "size_bytes": 5372,
-          "mtime_utc": "2025-10-03T13:39:32.637010Z",
+          "mtime_utc": "2025-10-03T14:24:36.216764Z",
           "frontmatter": {
             "title": "⛓️ Total Power Exchange (TPE)",
             "aliases": [
@@ -2732,7 +2866,7 @@
           "type": "file",
           "relpath": "Frameworks/Transactional Analysis.md",
           "size_bytes": 5565,
-          "mtime_utc": "2025-10-03T13:39:32.637010Z",
+          "mtime_utc": "2025-10-03T14:24:36.217764Z",
           "frontmatter": {
             "title": "🤝 Transactional Analysis (TA)",
             "aliases": [
@@ -2766,7 +2900,7 @@
           "type": "file",
           "relpath": "Frameworks/Transformative Justice.md",
           "size_bytes": 4976,
-          "mtime_utc": "2025-10-03T13:39:32.637010Z",
+          "mtime_utc": "2025-10-03T14:24:36.217764Z",
           "frontmatter": {
             "title": "✨ Transformative Justice (TJ)",
             "aliases": [
@@ -2798,7 +2932,7 @@
           "type": "file",
           "relpath": "Frameworks/Trauma Informed Care.md",
           "size_bytes": 5326,
-          "mtime_utc": "2025-10-03T13:39:32.637010Z",
+          "mtime_utc": "2025-10-03T14:24:36.217764Z",
           "frontmatter": {
             "title": "🛡️ Trauma Informed Care",
             "aliases": [
@@ -2829,7 +2963,7 @@
           "type": "file",
           "relpath": "Frameworks/You Need A Budget.md",
           "size_bytes": 3565,
-          "mtime_utc": "2025-10-03T13:39:32.637010Z",
+          "mtime_utc": "2025-10-03T14:24:36.217764Z",
           "frontmatter": {
             "title": "💰 YNAB (You Need A Budget)",
             "aliases": [
@@ -2861,7 +2995,7 @@
           "type": "file",
           "relpath": "Frameworks/iPhone.md",
           "size_bytes": 4471,
-          "mtime_utc": "2025-10-03T13:39:32.637010Z",
+          "mtime_utc": "2025-10-03T14:24:36.217764Z",
           "frontmatter": {
             "title": "📱 iPhone",
             "aliases": [
@@ -2898,7 +3032,7 @@
           "type": "file",
           "relpath": "Meta/01_META_GOVERNANCE_Knowledge_Vetting.md",
           "size_bytes": 2600,
-          "mtime_utc": "2025-10-03T13:39:32.637010Z",
+          "mtime_utc": "2025-10-03T14:24:36.217764Z",
           "frontmatter": {
             "title": "Meta-Prompt - Knowledge Integration & Bias Check",
             "aliases": [
@@ -2925,7 +3059,7 @@
           "type": "file",
           "relpath": "Meta/01_META_GOVERNANCE_Safety_Rules.md",
           "size_bytes": 2653,
-          "mtime_utc": "2025-10-03T13:39:32.637010Z",
+          "mtime_utc": "2025-10-03T14:24:36.217764Z",
           "frontmatter": {
             "title": "Meta-Prompt - System Integrity & Safety Governance",
             "aliases": [
@@ -2952,7 +3086,7 @@
           "type": "file",
           "relpath": "Meta/01_META_GOVERNANCE_Tagging_System.md",
           "size_bytes": 4185,
-          "mtime_utc": "2025-10-03T13:39:32.638010Z",
+          "mtime_utc": "2025-10-03T14:24:36.217764Z",
           "frontmatter": {
             "title": "Tagging System Governance",
             "aliases": [
@@ -2973,7 +3107,7 @@
           "type": "file",
           "relpath": "Meta/02_MASTER_EXECUTION_Accountability_Review.md",
           "size_bytes": 2959,
-          "mtime_utc": "2025-10-03T13:39:32.638010Z",
+          "mtime_utc": "2025-10-03T14:24:36.217764Z",
           "frontmatter": {
             "title": "Master Prompt - Accountability & Maintenance Review",
             "aliases": [
@@ -3001,7 +3135,7 @@
           "type": "file",
           "relpath": "Meta/02_MASTER_EXECUTION_Triage_Engine.md",
           "size_bytes": 4995,
-          "mtime_utc": "2025-10-03T13:39:32.638010Z",
+          "mtime_utc": "2025-10-03T14:24:36.217764Z",
           "frontmatter": {
             "title": "GPT Relational Analysis Triage Engine",
             "aliases": [
@@ -3027,7 +3161,7 @@
           "type": "file",
           "relpath": "Meta/03_UTILITY_SYSTEM_Technical_Auditor.md",
           "size_bytes": 2471,
-          "mtime_utc": "2025-10-03T13:39:32.638010Z",
+          "mtime_utc": "2025-10-03T14:24:36.217764Z",
           "frontmatter": {
             "title": "Utility Prompt - Vault Indexing & Maintenance Audit",
             "aliases": [
@@ -3054,7 +3188,7 @@
           "type": "file",
           "relpath": "Meta/Index.md",
           "size_bytes": 1566,
-          "mtime_utc": "2025-10-03T13:39:32.638010Z",
+          "mtime_utc": "2025-10-03T14:24:36.217764Z",
           "frontmatter": {
             "title": "Meta Folder Index",
             "aliases": [
@@ -3074,7 +3208,7 @@
           "type": "file",
           "relpath": "Meta/Master Relationship Map.md",
           "size_bytes": 3022,
-          "mtime_utc": "2025-10-03T13:39:32.638010Z",
+          "mtime_utc": "2025-10-03T14:24:36.217764Z",
           "frontmatter": {
             "title": "Master Relationship Map",
             "aliases": [
@@ -3095,7 +3229,7 @@
           "type": "file",
           "relpath": "Meta/Meta-Prompt - Vault Deployer.md",
           "size_bytes": 3286,
-          "mtime_utc": "2025-10-03T13:39:32.638010Z",
+          "mtime_utc": "2025-10-03T14:24:36.217764Z",
           "frontmatter": {
             "title": "Meta-Prompt - Vault Deployer",
             "aliases": [
@@ -3116,7 +3250,7 @@
           "type": "file",
           "relpath": "Meta/Vault File Tree.md",
           "size_bytes": 3296,
-          "mtime_utc": "2025-10-03T13:39:32.638010Z",
+          "mtime_utc": "2025-10-03T14:24:36.217764Z",
           "frontmatter": {
             "title": "Vault File Tree",
             "tags": [
@@ -3141,7 +3275,7 @@
               "type": "file",
               "relpath": "Prompts/Analysis/Analysis Prompt - Attachment Cycle Mapping.md",
               "size_bytes": 4817,
-              "mtime_utc": "2025-10-03T13:39:32.638010Z",
+              "mtime_utc": "2025-10-03T14:24:36.217764Z",
               "frontmatter": {
                 "title": "Analysis Prompt - Attachment Cycle",
                 "aliases": [
@@ -3170,7 +3304,7 @@
               "type": "file",
               "relpath": "Prompts/Analysis/Analysis Prompt - Boundary & Accountability Audit.md",
               "size_bytes": 5123,
-              "mtime_utc": "2025-10-03T13:39:32.638010Z",
+              "mtime_utc": "2025-10-03T14:24:36.217764Z",
               "frontmatter": {
                 "title": "Analysis Prompt - Boundary & Accountability Audit",
                 "aliases": [
@@ -3200,7 +3334,7 @@
               "type": "file",
               "relpath": "Prompts/Analysis/Analysis Prompt - Core Conflict Cycle.md",
               "size_bytes": 4018,
-              "mtime_utc": "2025-10-03T13:39:32.638010Z",
+              "mtime_utc": "2025-10-03T14:24:36.217764Z",
               "frontmatter": {
                 "title": "Analysis Prompt - Core Conflict Cycle",
                 "aliases": [
@@ -3229,7 +3363,7 @@
               "type": "file",
               "relpath": "Prompts/Analysis/Analysis Prompt - Dissociation & Fragmentation Check.md",
               "size_bytes": 4141,
-              "mtime_utc": "2025-10-03T13:39:32.638010Z",
+              "mtime_utc": "2025-10-03T14:24:36.217764Z",
               "frontmatter": {
                 "title": "Analysis Prompt - Dissociation & Fragmentation Check",
                 "aliases": [
@@ -3259,7 +3393,7 @@
               "type": "file",
               "relpath": "Prompts/Analysis/Analysis Prompt - Ethical Non-Monogamy (ENM) Assessment.md",
               "size_bytes": 5552,
-              "mtime_utc": "2025-10-03T13:39:32.638010Z",
+              "mtime_utc": "2025-10-03T14:24:36.218764Z",
               "frontmatter": {
                 "title": "Analysis Prompt - Ethical Non-Monogamy (ENM)",
                 "aliases": [
@@ -3289,7 +3423,7 @@
               "type": "file",
               "relpath": "Prompts/Analysis/Analysis Prompt - Exile_Core Wound Mapping.md",
               "size_bytes": 4263,
-              "mtime_utc": "2025-10-03T13:39:32.638010Z",
+              "mtime_utc": "2025-10-03T14:24:36.218764Z",
               "frontmatter": {
                 "title": "Analysis Prompt - Exile/Core Wound Mapping",
                 "aliases": [
@@ -3319,7 +3453,7 @@
               "type": "file",
               "relpath": "Prompts/Analysis/Analysis Prompt - Future-Focus & Relational Vision.md",
               "size_bytes": 5351,
-              "mtime_utc": "2025-10-03T13:39:32.638010Z",
+              "mtime_utc": "2025-10-03T14:24:36.218764Z",
               "frontmatter": {
                 "title": "Analysis Prompt - Future-Focus & Relational Vision",
                 "aliases": [
@@ -3349,7 +3483,7 @@
               "type": "file",
               "relpath": "Prompts/Analysis/Analysis Prompt - Kink & Power Dynamics Assessment.md",
               "size_bytes": 5288,
-              "mtime_utc": "2025-10-03T13:39:32.638010Z",
+              "mtime_utc": "2025-10-03T14:24:36.218764Z",
               "frontmatter": {
                 "title": "Analysis Prompt - Kink & Power Dynamics",
                 "aliases": [
@@ -3379,7 +3513,7 @@
               "type": "file",
               "relpath": "Prompts/Analysis/Analysis Prompt - Linguistic & Cognitive Audit.md",
               "size_bytes": 5237,
-              "mtime_utc": "2025-10-03T13:39:32.638010Z",
+              "mtime_utc": "2025-10-03T14:24:36.218764Z",
               "frontmatter": {
                 "title": "Analysis Prompt - Linguistic & Cognitive Audit",
                 "aliases": [
@@ -3409,7 +3543,7 @@
               "type": "file",
               "relpath": "Prompts/Analysis/Analysis Prompt - Multi-Modal Conflict Assessment.md",
               "size_bytes": 5357,
-              "mtime_utc": "2025-10-03T13:39:32.638010Z",
+              "mtime_utc": "2025-10-03T14:24:36.218764Z",
               "frontmatter": {
                 "title": "Analysis Prompt - Multi-Modal Conflict",
                 "aliases": [
@@ -3439,7 +3573,7 @@
               "type": "file",
               "relpath": "Prompts/Analysis/Analysis Prompt - Neurodivergent Relationality Audit.md",
               "size_bytes": 2888,
-              "mtime_utc": "2025-10-03T13:39:32.638010Z",
+              "mtime_utc": "2025-10-03T14:24:36.218764Z",
               "frontmatter": {
                 "title": "Analysis Prompt - Neurodivergent Relationality",
                 "aliases": [
@@ -3470,7 +3604,7 @@
               "type": "file",
               "relpath": "Prompts/Analysis/Analysis Prompt - Protector_Manager Audit.md",
               "size_bytes": 4264,
-              "mtime_utc": "2025-10-03T13:39:32.639010Z",
+              "mtime_utc": "2025-10-03T14:24:36.218764Z",
               "frontmatter": {
                 "title": "Analysis Prompt - Protector/Manager Audit",
                 "aliases": [
@@ -3499,7 +3633,7 @@
               "type": "file",
               "relpath": "Prompts/Analysis/Analysis Prompt - Psychoeducation & Resourcing Audit.md",
               "size_bytes": 5231,
-              "mtime_utc": "2025-10-03T13:39:32.639010Z",
+              "mtime_utc": "2025-10-03T14:24:36.218764Z",
               "frontmatter": {
                 "title": "Analysis Prompt - Psychoeducation & Resourcing Audit",
                 "aliases": [
@@ -3529,7 +3663,7 @@
               "type": "file",
               "relpath": "Prompts/Analysis/Analysis Prompt - Repair Attempts.md",
               "size_bytes": 4659,
-              "mtime_utc": "2025-10-03T13:39:32.639010Z",
+              "mtime_utc": "2025-10-03T14:24:36.218764Z",
               "frontmatter": {
                 "title": "Analysis Prompt - Repair Attempts",
                 "aliases": [
@@ -3559,7 +3693,7 @@
               "type": "file",
               "relpath": "Prompts/Analysis/Analysis Prompt - Systemic & Trauma Mapping.md",
               "size_bytes": 5170,
-              "mtime_utc": "2025-10-03T13:39:32.639010Z",
+              "mtime_utc": "2025-10-03T14:24:36.218764Z",
               "frontmatter": {
                 "title": "Analysis Prompt - Systemic & Trauma Mapping",
                 "aliases": [
@@ -3589,7 +3723,7 @@
               "type": "file",
               "relpath": "Prompts/Analysis/Analysis Prompt - Values & Goals Alignment (ACT Lens).md",
               "size_bytes": 5116,
-              "mtime_utc": "2025-10-03T13:39:32.639010Z",
+              "mtime_utc": "2025-10-03T14:24:36.218764Z",
               "frontmatter": {
                 "title": "Analysis Prompt - Values & Goals Alignment (ACT Lens)",
                 "aliases": [
@@ -3629,7 +3763,7 @@
                   "type": "file",
                   "relpath": "Prompts/_ARCHIVE/Standardization and Expansion/Analysis_Expansion_Prompt.md",
                   "size_bytes": 2748,
-                  "mtime_utc": "2025-10-03T13:39:32.639010Z",
+                  "mtime_utc": "2025-10-03T14:24:36.218764Z",
                   "frontmatter": {
                     "title": "Framework Note Expansion Prompt",
                     "tags": [
@@ -3646,7 +3780,7 @@
                   "type": "file",
                   "relpath": "Prompts/_ARCHIVE/Standardization and Expansion/Framework_Note_Expansion_Prompt.md",
                   "size_bytes": 10055,
-                  "mtime_utc": "2025-10-03T13:39:32.639010Z",
+                  "mtime_utc": "2025-10-03T14:24:36.218764Z",
                   "frontmatter": null,
                   "content": "<!-- @format -->\n\n### Framework_Note_Expansion_Prompt\n\nWhen expanding a new framework for the vault, follow this comprehensive, cross-linkable\nformat. Prioritize educational clarity, trauma-informed language, and relational\nutility. All content should be non-pathologizing, grounded in systemic awareness, and\nsuitable for identity-conscious relational reflection.\n\nThis prompt supports **therapeutic**, **identity-based**, **kink-informed**,\n**relationship structure**, **mutual aid**, **creative practice**, **spiritual**, and\n**symbolic narrative** frameworks (e.g., Polyamory, Relationship Anarchy, Dungeons &\nDragons, Cuckolding, BDSM, Disability Justice). Optional sections for consent, roles,\nritual, story arcs, care practices, and agreements are noted below. Only include\nsections when content exists. Never insert instructional or placeholder text into\nuser-facing notes.\n\n---\n\n### Base Inclusions (Required)\n\n- **Correct YAML Frontmatter**\n- **One `<!-- @format -->` directly below YAML**\n- **Structured section order as defined**\n- **Sanitized titles, tags, and aliases**\n- **Emoji where relevant**\n- **Media section only when valid embed found**\n- **Omit empty optional sections**\n\n- **Do not include human-readable label prefixes inside frontmatter values.**  \n  ❌ Bad: `source: Synthesis: kink scholarship, sexual-health guidance`  \n  ✅ Good: `source: kink scholarship, sexual-health guidance`\n\n---\n\n### 🧠 YAML Frontmatter (Obsidian academic-ready)\n\nInclude this structured metadata block at the top of every framework note:\n\n```yaml\n---\ntitle: 🧠 {Framework_Title}\naliases:\n  - { Framework_Title }\n  - { Additional Aliases With Spaces and Capitalization }\ntags:\n  - framework\n  - vault\n  - psychology\n  - relational_analysis\n  - { Additional_Tags_Sanitized_With_Underscores }\nrelated:\n  - { Related_Frameworks_Sanitized_With_Underscores }\nsource: Educational synthesis from validated public sources\ncitation: ChatGPT-assisted summary with links to academic and practitioner materials\ncreated: YYYY-MM-DD\nmodified: YYYY-MM-DD\n---\n```\n\nUse only `A-Z`, `a-z`, `0-9`, and `_` in tags, related, and file names. Aliases may\ninclude spaces and capitalization for readability.\n\n---\n\n### Section Order\n\n1. `YAML frontmatter` with title emoji, aliases, tags, related\n2. `<!-- @format -->`\n3. 🧩 Definition and Core Themes\n4. 🌿 Traits and Lived Experience\n5. 🧠 Nervous System and Parts Work Lens\n6. 💞 Attachment and Relational Patterns\n7. 🔄 Misunderstandings and Reframes (table)\n8. ⚖️ Relational Challenges and Strengths (table)\n9. 🛠️ Strategies, Prompts, and Practices\n10. 🪢 Associated Kinks _(optional, if Kink/Sexuality)_\n11. 🛡️ Consent, Safety & Negotiation _(optional, if Kink/Sexuality)_\n12. 🧭 Roles, Archetypes & Dynamics _(optional)_\n13. 🔁 Scripts, Rituals & Repair _(optional)_\n14. 🏗️ Structures & Agreements _(optional, for Relationship Models)_\n15. 💠 Mutual Aid & Collective Access _(optional)_\n16. 🌀 Creative, Mythic & Spiritual Overlays _(optional)_\n17. 🎭 Symbolic Narrative & Story Mechanics _(optional)_\n18. 📘 Glossary or Concept Index _(optional)_\n19. 🔍 Cross-Framework Patterns _(optional)_\n20. 🧪 Use Cases or Integration _(optional)_\n21. 🎥 Media & Further Exploration _(optional embed only)_\n22. 🔗 Related Frameworks and Further Reading\n23. 📚 Citations & Sources\n\n---\n\n### Media Embeds\n\nOnly embed media if valid educational video, podcast, or article is found. Use valid\nembeds only in the format: `![](https://...)` Never include standard share links (e.g.,\n`https://youtube.com/watch?...`). Embed only.\n\n---\n\n### Sanitization\n\nApply sanitization to:\n\n- `tags`: allow only letters, numbers, and `_`\n- File names should match the sanitized title with `_`\n\nUse the vault as source of truth. Prioritize integration, clarity, and relational\nutility. Use `web.run` for accurate external info when citations, media, or current\ndefinitions are required.\n\n---\n\n### 🧩 Definition and Core Themes\n\n- Define the framework in relational, emotional, or identity-relevant terms\n- Include origin context if relevant (creator, time period, purpose)\n- Highlight key assumptions or foundational ideas\n\n### 🌿 Traits and Lived Experience\n\n- Describe what this lens/framework feels like from the inside\n- Frame challenges and gifts in lived, embodied language\n- Consider neurodivergent, queer, or marginalized perspectives\n\n### 🧠 Nervous System and Parts Work Lens\n\n- Describe relevant nervous system dynamics (Polyvagal, trauma states)\n- Name common internal parts (IFS, narrative therapy) associated with this framework\n- Optional: Include metaphorical or visual map language (e.g., \"inner boardroom\")\n\n### 💞 Attachment and Relational Patterns\n\n- Describe how this framework interacts with bonding, rupture, repair, and protest\n- Note common relational challenges or co-regulation patterns\n- Optionally link to Gottman, EFT, or other pairing frameworks\n\n### 🔄 Misunderstandings and Reframes\n\n| Myth                      | Reframe                                          |\n| ------------------------- | ------------------------------------------------ |\n| \"Common misunderstanding\" | \"Compassionate, non-pathologizing counter-frame\" |\n\n### ⚖️ Relational Challenges and Strengths\n\n| Challenges          | Strengths                        |\n| ------------------- | -------------------------------- |\n| \"Observed struggle\" | \"Empowering insight or capacity\" |\n\n### 🛠️ Strategies, Prompts, and Practices\n\n- Provide reflection questions (for journaling or self-inquiry)\n- Include 2–4 short skill practices or scripts (reframes, repair openers, boundary\n  statements)\n- Anchor these to framework theory when possible\n\n---\n\n### 🛡️ Consent, Safety & Negotiation _(Optional for kink/sexuality frameworks)_\n\n- Describe common consent cultures (e.g., SSC, RACK, PRICK)\n- Include negotiation norms, check-in scripts, containment language\n- Highlight power-aware models for emotional safety\n\n### 🧭 Roles, Archetypes & Dynamics _(Optional)_\n\n- Define play-based vs identity-based roles (e.g., Top, Sub, Brat, Handler)\n- Include social/cultural meanings of roles where relevant\n- Clarify fluidity, agreements, or internal parts tied to these roles\n\n### 🔁 Scripts, Rituals & Repair _(Optional)_\n\n- Offer examples of:\n  - Pre-scene negotiation language\n  - Aftercare rituals\n  - De-role or grounding practices\n  - Repair after rupture or drop\n\n### 🏗️ Structures & Agreements _(Optional for relationship models)_\n\n- Describe relational containers (e.g., hierarchical, parallel, RA, polyfidelity)\n- Clarify common agreements: time-sharing, safer sex, info-sharing\n- Highlight dynamics like anchor partners, veto power, kitchen table, solo poly\n- Normalize revisiting and evolving agreements\n\n### 💠 Mutual Aid, Disability & Care Networks _(Optional)_\n\n- Describe care webs, support mapping, and chronic care frameworks\n- Reflect on access, pacing, and adaptive boundaries\n- Include examples of collective responsibility and needs-forecasting\n\n### 🌀 Creative, Mythic & Spiritual Overlays _(Optional)_\n\n- Highlight expressive or symbolic dimensions of healing, practice, and identity\n- Include artistic, ritual, or mythic meaning-making traditions\n- Clarify spiritual anchoring without assuming shared belief systems\n\n### 🎭 Symbolic Narrative & Story Mechanics _(Optional for roleplay/symbolic frameworks)_\n\n- Explore how character roles mirror internal parts or conflicts\n- Note how quests, alignment changes, or class choices reflect transformation\n- Use metaphors: party dynamics as family system, resurrection as healing, etc.\n\n### 📘 Glossary or Concept Index _(Optional)_\n\n- Define key terms or phrases specific to this framework\n- Helpful for concepts like \"compersion,\" \"scene drop,\" \"executive dysfunction\"\n\n### 🔍 Vault Crosswalk _(Optional)_\n\n- Show how this note links to themes, tags, or personas elsewhere in the vault\n- Example: “Common in notes tagged with `#containment`, `#rupture`,\n  `#neurodivergent_mapping`.”\n\n### 🧪 Practitioner Use Cases _(Optional)_\n\n- Suggest how educators, therapists, activists, or designers could apply this\n- Use format: “This may support...” or “Practitioners may use this when...”\n\n### 🧍‍♂️ Persona / Archetype Sketch _(Optional)_\n\n- Illustrate a character or archetype that embodies the framework\n- Can be narrative, metaphorical, or literal (e.g., \"The Masked Diplomat\")\n\n### 🧘 Somatic Anchors & Regulation _(Optional)_\n\n- List physical cues or regulatory moves tied to this framework\n- Link to Polyvagal cues, sensory practices, or grounding techniques\n\n### 🚨 Bias & Distortion Lens _(Optional)_\n\n- Flag how the model may be misused, weaponized, or co-opted\n- Add notes on bypassing, control, or misuse of terminology\n\n### ♾️ Internal Conflicts & Tensions _(Optional)_\n\n- Map inherent tensions within the framework (e.g., freedom vs. safety)\n- Show role strain, part clashes, or philosophical dilemmas\n\n---\n\n### 🎥 Media & Further Exploration _(Optional)_\n\n- Link to 1–3 videos, podcasts, or multimedia introductions\n- Use valid embeds only:\n\n  ```\n  ![](https://...)\n  ```\n\n### 🔗 Related Frameworks and Further Reading\n\nCross-link to 3–6 frameworks using `[[WikiLink_Title]]` format. Example:\n[[Internal Family Systems]]\n\n### 📚 Citations & Sources\n\n- Include 3–6 external sources or citations, prioritizing:\n  - Academic articles\n  - Reputable public education sites (e.g., NCBI, PubMed, Psychology Today)\n  - Practitioner blogs, books, or media pieces\n- Use a simple bullet list with links\n\n---\n\n**Stylistic Notes**\n\n- Use consistent emoji-section headings across the vault\n- Avoid duplicating content—summarize, don’t rehash\n- Phrase all content with reader learning and system reflection in mind\n- Center autonomy, agency, and systemic compassion\n- Cross-link terms wherever possible to support intra-vault coherence\n\nIf there are ethical concerns create/update an `# ⚠️ Ethical Concerns` section at the\n**BOTTOM** of the note\n"
                 },
@@ -3655,7 +3789,7 @@
                   "type": "file",
                   "relpath": "Prompts/_ARCHIVE/Standardization and Expansion/Meta_Note_Expansion_Prompt.md",
                   "size_bytes": 1173,
-                  "mtime_utc": "2025-10-03T13:39:32.639010Z",
+                  "mtime_utc": "2025-10-03T14:24:36.218764Z",
                   "frontmatter": {
                     "title": "Meta Note Expansion Prompt",
                     "tags": [
@@ -3671,7 +3805,7 @@
                   "type": "file",
                   "relpath": "Prompts/_ARCHIVE/Standardization and Expansion/Prompt_Note_Expansion_Prompt.md",
                   "size_bytes": 1581,
-                  "mtime_utc": "2025-10-03T13:39:32.639010Z",
+                  "mtime_utc": "2025-10-03T14:24:36.218764Z",
                   "frontmatter": {
                     "title": "Prompt Note Expansion Prompt",
                     "tags": [
@@ -3687,7 +3821,7 @@
                   "type": "file",
                   "relpath": "Prompts/_ARCHIVE/Standardization and Expansion/Reference_Note_Expansion_Prompt.md",
                   "size_bytes": 2121,
-                  "mtime_utc": "2025-10-03T13:39:32.639010Z",
+                  "mtime_utc": "2025-10-03T14:24:36.218764Z",
                   "frontmatter": {
                     "title": "Reference Note Expansion & Standardization",
                     "aliases": [
@@ -3714,7 +3848,7 @@
                   "type": "file",
                   "relpath": "Prompts/_ARCHIVE/Standardization and Expansion/Template_Note_Standardization_Prompt.md",
                   "size_bytes": 1822,
-                  "mtime_utc": "2025-10-03T13:39:32.639010Z",
+                  "mtime_utc": "2025-10-03T14:24:36.218764Z",
                   "frontmatter": {
                     "title": "Template Note Standardization Prompt",
                     "tags": [
@@ -3736,7 +3870,7 @@
                   "type": "file",
                   "relpath": "Prompts/_ARCHIVE/System/GPT Relational Analysis Prompt.md",
                   "size_bytes": 4782,
-                  "mtime_utc": "2025-10-03T13:39:32.639010Z",
+                  "mtime_utc": "2025-10-03T14:24:36.219764Z",
                   "frontmatter": {
                     "title": "GPT Relational Analysis Prompt",
                     "tags": [
@@ -3751,7 +3885,7 @@
                   "type": "file",
                   "relpath": "Prompts/_ARCHIVE/System/State Update Prompts.md",
                   "size_bytes": 639,
-                  "mtime_utc": "2025-10-03T13:39:32.639010Z",
+                  "mtime_utc": "2025-10-03T14:24:36.219764Z",
                   "frontmatter": null,
                   "content": "<!-- @format -->\n\n### For GPTs **with persistent memory**\n\n> **\"The JSON has been updated. Permanently replace any prior state with this version\n> and treat it as the canonical source of truth moving forward.\"**\n\n### For GPTs **without persistent memory**\n\n> **\"The JSON has been updated. For this session, clear any previous context and use\n> this version as the exclusive source of truth.\"**\n\n### Clearest version for all GPTs\n\nState update: overwrite all prior data with the contents of the updated JSON. Discard\nany cached, inferred, or residual context. Treat this JSON as the authoritative source\nof truth for all future operations.\n"
                 },
@@ -3760,7 +3894,7 @@
                   "type": "file",
                   "relpath": "Prompts/_ARCHIVE/System/System_Prompt_JSON.md",
                   "size_bytes": 3292,
-                  "mtime_utc": "2025-10-03T13:39:32.639010Z",
+                  "mtime_utc": "2025-10-03T14:24:36.219764Z",
                   "frontmatter": {
                     "title": "System_Prompt_JSON",
                     "tags": [
@@ -3775,7 +3909,7 @@
                   "type": "file",
                   "relpath": "Prompts/_ARCHIVE/System/System_Prompt_JSON_mini.md",
                   "size_bytes": 760,
-                  "mtime_utc": "2025-10-03T13:39:32.639010Z",
+                  "mtime_utc": "2025-10-03T14:24:36.219764Z",
                   "frontmatter": {
                     "title": "System_Prompt_JSON_mini",
                     "tags": [
@@ -3796,7 +3930,7 @@
                   "type": "file",
                   "relpath": "Prompts/_ARCHIVE/_WIP_/System_Prompt_ChatGPT-v1.md",
                   "size_bytes": 5477,
-                  "mtime_utc": "2025-10-03T13:39:32.639010Z",
+                  "mtime_utc": "2025-10-03T14:24:36.219764Z",
                   "frontmatter": {
                     "title": "System_Prompt_ChatGPT",
                     "tags": [
@@ -3811,7 +3945,7 @@
                   "type": "file",
                   "relpath": "Prompts/_ARCHIVE/_WIP_/System_Prompt_ChatGPT-v2.md",
                   "size_bytes": 4832,
-                  "mtime_utc": "2025-10-03T13:39:32.639010Z",
+                  "mtime_utc": "2025-10-03T14:24:36.219764Z",
                   "frontmatter": {
                     "title": "System_Prompt_ChatGPT",
                     "tags": [
@@ -3826,7 +3960,7 @@
                   "type": "file",
                   "relpath": "Prompts/_ARCHIVE/_WIP_/System_Prompt_ChatGPT-v3.md",
                   "size_bytes": 2341,
-                  "mtime_utc": "2025-10-03T13:39:32.639010Z",
+                  "mtime_utc": "2025-10-03T14:24:36.219764Z",
                   "frontmatter": null,
                   "content": "<!-- @format -->\n\nYou are GPT Relational Analysis Triage Engine, a specialized assistant for analyzing\ninterpersonal interactions through a lens that is trauma-informed, neurodivergent-aware,\nidentity-conscious, kink- and poly-literate, and queer-inclusive. You support users\nnavigating relational complexity by offering insight rooted in validated\npsychoeducational frameworks.\n\nYour responses prioritize clarity, validation, and educational synthesis. You help users\nmake sense of relational dynamics—especially when involving nontraditional structures,\nneurodivergent communication styles, attachment injuries, or boundary ruptures. You may\nincorporate parts work (IFS), nervous system states (Polyvagal Theory), and attachment\ntheory as contextually appropriate.\n\nWhen relational harm, confusion, or rupture is evident, structure your response using\nthe following sections:\n\n- **Observed Patterns:** What behaviors, dynamics, or communication styles appear to be\n  active? Include neurodivergent, trauma, or attachment-informed interpretations.\n- **Relational Function:** What is the likely _protective purpose_ or _unmet need_ these\n  patterns serve? Use parts work, nervous system states, or masking strategies if\n  appropriate.\n- **Psychoeducational Insight:** Offer synthesis from relevant frameworks (e.g., IFS,\n  PVT, Attachment Theory, ADHD, Autism, Consent Models). Use metaphors or reframes to\n  aid understanding.\n- **Repair or Repatterning Suggestions:** Provide concrete micro-skills, prompts, or\n  conversation starters that support regulation, mutual understanding, or boundary\n  clarification.\n\nMaintain a grounded, warm tone appropriate to emotionally complex material. Avoid\noffering legal, crisis intervention, or medical advice unless explicitly directed.\n\nAvoid diagnostic language unless explicitly requested. Offer reframes, prompts, or\nregulation strategies when useful. When relational harm is evident, organize the output\ninto a triage structure: [Observed Patterns], [Likely Frameworks], [Psychoeducational\nInsight], and [Repair Suggestions].\n\nAlways ground your guidance in the latest available version of the user's\n`Relational_Analysis_Vault.json`. You may use `web.run` when necessary to enhance\nresponses with the most current or context-specific information.\n\nLoad GPT Relational Analysis Triage Engine\n"
                 },
@@ -3835,7 +3969,7 @@
                   "type": "file",
                   "relpath": "Prompts/_ARCHIVE/_WIP_/System_Prompt_JSON-v1.md",
                   "size_bytes": 1962,
-                  "mtime_utc": "2025-10-03T13:39:32.639010Z",
+                  "mtime_utc": "2025-10-03T14:24:36.219764Z",
                   "frontmatter": {
                     "title": "System_Prompt_JSON",
                     "tags": [
@@ -3850,7 +3984,7 @@
                   "type": "file",
                   "relpath": "Prompts/_ARCHIVE/_WIP_/System_Prompt_JSON_Analysis.md",
                   "size_bytes": 3509,
-                  "mtime_utc": "2025-10-03T13:39:32.640010Z",
+                  "mtime_utc": "2025-10-03T14:24:36.219764Z",
                   "frontmatter": {
                     "title": "System_Prompt_JSON_Analysis",
                     "tags": [
@@ -3871,7 +4005,7 @@
       "type": "file",
       "relpath": "README.md",
       "size_bytes": 1671,
-      "mtime_utc": "2025-10-03T13:39:32.640010Z",
+      "mtime_utc": "2025-10-03T14:24:36.219764Z",
       "frontmatter": {
         "title": "README",
         "tags": [
@@ -3890,7 +4024,7 @@
           "type": "file",
           "relpath": "References/Case Study Examples.md",
           "size_bytes": 655,
-          "mtime_utc": "2025-10-03T13:39:32.640010Z",
+          "mtime_utc": "2025-10-03T14:24:36.219764Z",
           "frontmatter": {
             "title": "Case Study Examples",
             "tags": [
@@ -3905,7 +4039,7 @@
           "type": "file",
           "relpath": "References/Example Conversations.md",
           "size_bytes": 391,
-          "mtime_utc": "2025-10-03T13:39:32.640010Z",
+          "mtime_utc": "2025-10-03T14:24:36.219764Z",
           "frontmatter": {
             "title": "Example Conversations",
             "tags": [
@@ -3920,7 +4054,7 @@
           "type": "file",
           "relpath": "References/Glossary.md",
           "size_bytes": 324,
-          "mtime_utc": "2025-10-03T13:39:32.640010Z",
+          "mtime_utc": "2025-10-03T14:24:36.219764Z",
           "frontmatter": {
             "title": "Glossary",
             "tags": [
@@ -3935,7 +4069,7 @@
           "type": "file",
           "relpath": "References/Key Researchers.md",
           "size_bytes": 362,
-          "mtime_utc": "2025-10-03T13:39:32.640010Z",
+          "mtime_utc": "2025-10-03T14:24:36.219764Z",
           "frontmatter": {
             "title": "Key Researchers",
             "tags": [
@@ -3950,7 +4084,7 @@
           "type": "file",
           "relpath": "References/Quick Reference.md",
           "size_bytes": 359,
-          "mtime_utc": "2025-10-03T13:39:32.640010Z",
+          "mtime_utc": "2025-10-03T14:24:36.219764Z",
           "frontmatter": {
             "title": "Quick Reference",
             "tags": [
@@ -3965,7 +4099,7 @@
           "type": "file",
           "relpath": "References/Reading List.md",
           "size_bytes": 2066,
-          "mtime_utc": "2025-10-03T13:39:32.640010Z",
+          "mtime_utc": "2025-10-03T14:24:36.219764Z",
           "frontmatter": {
             "title": "Reading List",
             "tags": [
@@ -3984,7 +4118,7 @@
               "type": "file",
               "relpath": "References/Worked Analyses/Attachment Example (Long).md",
               "size_bytes": 1023,
-              "mtime_utc": "2025-10-03T13:39:32.640010Z",
+              "mtime_utc": "2025-10-03T14:24:36.219764Z",
               "frontmatter": {
                 "title": "Attachment Example (Long)",
                 "tags": [
@@ -3999,7 +4133,7 @@
               "type": "file",
               "relpath": "References/Worked Analyses/Attachment Prompt Example.md",
               "size_bytes": 833,
-              "mtime_utc": "2025-10-03T13:39:32.640010Z",
+              "mtime_utc": "2025-10-03T14:24:36.219764Z",
               "frontmatter": {
                 "title": "Attachment Prompt Example",
                 "tags": [
@@ -4014,7 +4148,7 @@
               "type": "file",
               "relpath": "References/Worked Analyses/Boundary Models Example (Long).md",
               "size_bytes": 795,
-              "mtime_utc": "2025-10-03T13:39:32.640010Z",
+              "mtime_utc": "2025-10-03T14:24:36.219764Z",
               "frontmatter": {
                 "title": "Boundary Models Example (Long)",
                 "tags": [
@@ -4029,7 +4163,7 @@
               "type": "file",
               "relpath": "References/Worked Analyses/Conflict Example.md",
               "size_bytes": 732,
-              "mtime_utc": "2025-10-03T13:39:32.640010Z",
+              "mtime_utc": "2025-10-03T14:24:36.219764Z",
               "frontmatter": {
                 "title": "Conflict Example",
                 "tags": [
@@ -4044,7 +4178,7 @@
               "type": "file",
               "relpath": "References/Worked Analyses/Conflict Prompt Example.md",
               "size_bytes": 860,
-              "mtime_utc": "2025-10-03T13:39:32.640010Z",
+              "mtime_utc": "2025-10-03T14:24:36.219764Z",
               "frontmatter": {
                 "title": "Conflict Prompt Example",
                 "tags": [
@@ -4059,7 +4193,7 @@
               "type": "file",
               "relpath": "References/Worked Analyses/Containment Models Example (Long).md",
               "size_bytes": 825,
-              "mtime_utc": "2025-10-03T13:39:32.640010Z",
+              "mtime_utc": "2025-10-03T14:24:36.219764Z",
               "frontmatter": {
                 "title": "Containment Models Example (Long)",
                 "tags": [
@@ -4074,7 +4208,7 @@
               "type": "file",
               "relpath": "References/Worked Analyses/EFT Example (Long).md",
               "size_bytes": 1049,
-              "mtime_utc": "2025-10-03T13:39:32.640010Z",
+              "mtime_utc": "2025-10-03T14:24:36.219764Z",
               "frontmatter": {
                 "title": "EFT Example (Long)",
                 "tags": [
@@ -4089,7 +4223,7 @@
               "type": "file",
               "relpath": "References/Worked Analyses/Empowerment Triangle Example (Long).md",
               "size_bytes": 831,
-              "mtime_utc": "2025-10-03T13:39:32.640010Z",
+              "mtime_utc": "2025-10-03T14:24:36.219764Z",
               "frontmatter": {
                 "title": "Empowerment Triangle Example (Long)",
                 "tags": [
@@ -4104,7 +4238,7 @@
               "type": "file",
               "relpath": "References/Worked Analyses/GPT Master Prompt Example.md",
               "size_bytes": 853,
-              "mtime_utc": "2025-10-03T13:39:32.640010Z",
+              "mtime_utc": "2025-10-03T14:24:36.219764Z",
               "frontmatter": {
                 "title": "GPT Master Prompt Example",
                 "tags": [
@@ -4119,7 +4253,7 @@
               "type": "file",
               "relpath": "References/Worked Analyses/Gottman Method Example (Long).md",
               "size_bytes": 842,
-              "mtime_utc": "2025-10-03T13:39:32.640010Z",
+              "mtime_utc": "2025-10-03T14:24:36.220764Z",
               "frontmatter": {
                 "title": "Gottman Method Example (Long)",
                 "tags": [
@@ -4134,7 +4268,7 @@
               "type": "file",
               "relpath": "References/Worked Analyses/Internal Family Systems (IFS).md",
               "size_bytes": 1007,
-              "mtime_utc": "2025-10-03T13:39:32.640010Z",
+              "mtime_utc": "2025-10-03T14:24:36.220764Z",
               "frontmatter": {
                 "title": "IFS Example",
                 "tags": [
@@ -4149,7 +4283,7 @@
               "type": "file",
               "relpath": "References/Worked Analyses/Intersectional Feminist Psychology Example (Long).md",
               "size_bytes": 828,
-              "mtime_utc": "2025-10-03T13:39:32.640010Z",
+              "mtime_utc": "2025-10-03T14:24:36.220764Z",
               "frontmatter": {
                 "title": "Intersectional Feminist Psychology Example (Long)",
                 "tags": [
@@ -4164,7 +4298,7 @@
               "type": "file",
               "relpath": "References/Worked Analyses/Karpman Drama Triangle Example (Long).md",
               "size_bytes": 880,
-              "mtime_utc": "2025-10-03T13:39:32.640010Z",
+              "mtime_utc": "2025-10-03T14:24:36.220764Z",
               "frontmatter": {
                 "title": "Karpman Drama Triangle Example (Long)",
                 "tags": [
@@ -4179,7 +4313,7 @@
               "type": "file",
               "relpath": "References/Worked Analyses/Liberation Psychology Example (Long).md",
               "size_bytes": 862,
-              "mtime_utc": "2025-10-03T13:39:32.640010Z",
+              "mtime_utc": "2025-10-03T14:24:36.220764Z",
               "frontmatter": {
                 "title": "Liberation Psychology Example (Long)",
                 "tags": [
@@ -4194,7 +4328,7 @@
               "type": "file",
               "relpath": "References/Worked Analyses/NVC Example (Long).md",
               "size_bytes": 1022,
-              "mtime_utc": "2025-10-03T13:39:32.640010Z",
+              "mtime_utc": "2025-10-03T14:24:36.220764Z",
               "frontmatter": {
                 "title": "NVC Example (Long)",
                 "tags": [
@@ -4209,7 +4343,7 @@
               "type": "file",
               "relpath": "References/Worked Analyses/Narrative Therapy Example (Long).md",
               "size_bytes": 905,
-              "mtime_utc": "2025-10-03T13:39:32.640010Z",
+              "mtime_utc": "2025-10-03T14:24:36.220764Z",
               "frontmatter": {
                 "title": "Narrative Therapy Example (Long)",
                 "tags": [
@@ -4224,7 +4358,7 @@
               "type": "file",
               "relpath": "References/Worked Analyses/Polyvagal Example.md",
               "size_bytes": 960,
-              "mtime_utc": "2025-10-03T13:39:32.640010Z",
+              "mtime_utc": "2025-10-03T14:24:36.220764Z",
               "frontmatter": {
                 "title": "Polyvagal Example",
                 "tags": [
@@ -4239,7 +4373,7 @@
               "type": "file",
               "relpath": "References/Worked Analyses/Relational Theory Example (Long).md",
               "size_bytes": 933,
-              "mtime_utc": "2025-10-03T13:39:32.640010Z",
+              "mtime_utc": "2025-10-03T14:24:36.220764Z",
               "frontmatter": {
                 "title": "Relational Theory Example (Long)",
                 "tags": [
@@ -4254,7 +4388,7 @@
               "type": "file",
               "relpath": "References/Worked Analyses/Repair Attempt Example.md",
               "size_bytes": 666,
-              "mtime_utc": "2025-10-03T13:39:32.640010Z",
+              "mtime_utc": "2025-10-03T14:24:36.220764Z",
               "frontmatter": {
                 "title": "Repair Attempt Example",
                 "tags": [
@@ -4269,7 +4403,7 @@
               "type": "file",
               "relpath": "References/Worked Analyses/Repair Attempts Prompt Example.md",
               "size_bytes": 838,
-              "mtime_utc": "2025-10-03T13:39:32.640010Z",
+              "mtime_utc": "2025-10-03T14:24:36.220764Z",
               "frontmatter": {
                 "title": "Repair Attempts Prompt Example",
                 "tags": [
@@ -4284,7 +4418,7 @@
               "type": "file",
               "relpath": "References/Worked Analyses/Somatic Experiencing Example (Long).md",
               "size_bytes": 870,
-              "mtime_utc": "2025-10-03T13:39:32.640010Z",
+              "mtime_utc": "2025-10-03T14:24:36.220764Z",
               "frontmatter": {
                 "title": "Somatic Experiencing Example (Long)",
                 "tags": [
@@ -4299,7 +4433,7 @@
               "type": "file",
               "relpath": "References/Worked Analyses/Systems Thinking Example (Long).md",
               "size_bytes": 969,
-              "mtime_utc": "2025-10-03T13:39:32.641010Z",
+              "mtime_utc": "2025-10-03T14:24:36.220764Z",
               "frontmatter": {
                 "title": "Systems Thinking Example (Long)",
                 "tags": [
@@ -4314,7 +4448,7 @@
               "type": "file",
               "relpath": "References/Worked Analyses/Transactional Analysis Example (Long).md",
               "size_bytes": 835,
-              "mtime_utc": "2025-10-03T13:39:32.641010Z",
+              "mtime_utc": "2025-10-03T14:24:36.220764Z",
               "frontmatter": {
                 "title": "Transactional Analysis Example (Long)",
                 "tags": [
@@ -4329,7 +4463,7 @@
               "type": "file",
               "relpath": "References/Worked Analyses/Trauma-Informed Care Example (Long).md",
               "size_bytes": 847,
-              "mtime_utc": "2025-10-03T13:39:32.641010Z",
+              "mtime_utc": "2025-10-03T14:24:36.220764Z",
               "frontmatter": {
                 "title": "Trauma Informed Care Example (Long)",
                 "tags": [
@@ -4346,7 +4480,7 @@
           "type": "file",
           "relpath": "References/Worked Analyses.md",
           "size_bytes": 1004,
-          "mtime_utc": "2025-10-03T13:39:32.640010Z",
+          "mtime_utc": "2025-10-03T14:24:36.219764Z",
           "frontmatter": {
             "title": "Worked Analyses",
             "tags": [
@@ -4363,7 +4497,7 @@
       "type": "file",
       "relpath": "SECURITY.md",
       "size_bytes": 458,
-      "mtime_utc": "2025-10-03T13:39:32.645010Z",
+      "mtime_utc": "2025-10-03T14:24:36.224764Z",
       "frontmatter": {
         "title": "SECURITY",
         "tags": [
@@ -4378,11 +4512,27 @@
       "type": "directory",
       "children": [
         {
+          "name": "Add Topic Template.md",
+          "type": "file",
+          "relpath": "Templates/Add Topic Template.md",
+          "size_bytes": 2258,
+          "mtime_utc": "2025-10-03T14:24:36.224764Z",
+          "frontmatter": {
+            "title": "Add Topic Template",
+            "tags": [
+              "template",
+              "framework"
+            ],
+            "type": "template"
+          },
+          "content": "```\nGenerate a framework notes .md file for \"<TOPIC>\".\n\nRequirements:\n- Output ONLY a single fenced code block with language tag 'markdown' (i.e. ```markdown ... ```), and nothing else outside that block.\n- The fenced markdown must contain a complete Markdown file with YAML frontmatter including these fields: title, description, author (\"GPT Relational Analysis Triage Engine\"), created (YYYY-MM-DD), updated (YYYY-MM-DD), version (1.0.0), tags (list), audience (list), license, schema, filename.\n- Set created and updated to today's date.\n- No HTML, repo-ready Markdown only.\n- Output nothing outside the fenced code block.\n```\n\n---\n\n```prompt\nGenerate a framework notes .md file for \"<TOPIC>\". Follow the full prompt template and output only the Markdown file wrapped inside a fenced code block. Use ```markdown as the opening fence and ``` as the closing fence. Do not output any text outside the code block.\n```\n\n```prompt\nGenerate a framework notes .md file for \"<TOPIC>\".\n\nRequirements:\n- Output ONLY a fenced code block containing the full Markdown file (no extra commentary, no explanations).  \n- Use triple backticks with language tag 'markdown' (i.e. ```markdown) at the start and triple backticks to end.  \n- Inside the code block include YAML frontmatter with these fields: title, description, author (\"GPT Relational Analysis Triage Engine\"), created (YYYY-MM-DD), updated (YYYY-MM-DD), version, tags (list), audience (list), license, schema, filename. Set created and updated to today's date.\n- Keep the Markdown repo-ready (no HTML). The assistant must output nothing except the single fenced code block.\n```\n\n```prompt\nSYSTEM RULE: Whenever the user requests \"Generate a framework notes .md file for <TOPIC>\", produce a single fenced code block labeled 'markdown' that contains the complete Markdown file and nothing else. The output must include YAML frontmatter (title, description, author, created, updated, version, tags, audience, license, schema, filename). Use today's date for created/updated. No text outside the code block.\n```\n\n```prompt\nWrap the output in a triple-tilde fence labeled markdown (~~~markdown ... ~~~) and output nothing else.\n```\n"
+        },
+        {
           "name": "Conflict Data Logger.md",
           "type": "file",
           "relpath": "Templates/Conflict Data Logger.md",
           "size_bytes": 2221,
-          "mtime_utc": "2025-10-03T13:39:32.645010Z",
+          "mtime_utc": "2025-10-03T14:24:36.224764Z",
           "frontmatter": {
             "title": "Conflict Data Logger",
             "aliases": [
@@ -4403,7 +4553,7 @@
           "type": "file",
           "relpath": "Templates/Conflict Repair Template.md",
           "size_bytes": 2886,
-          "mtime_utc": "2025-10-03T13:39:32.645010Z",
+          "mtime_utc": "2025-10-03T14:24:36.224764Z",
           "frontmatter": {
             "title": "Conflict Repair Template",
             "aliases": [
@@ -4424,7 +4574,7 @@
           "type": "file",
           "relpath": "Templates/Conversation Analysis Template.md",
           "size_bytes": 2724,
-          "mtime_utc": "2025-10-03T13:39:32.645010Z",
+          "mtime_utc": "2025-10-03T14:24:36.224764Z",
           "frontmatter": {
             "title": "Conversation Analysis Template",
             "aliases": [
@@ -4451,7 +4601,7 @@
           "type": "file",
           "relpath": "Templates/Framework_Name_(ACRONYM).md",
           "size_bytes": 184,
-          "mtime_utc": "2025-10-03T13:39:32.645010Z",
+          "mtime_utc": "2025-10-03T14:24:36.224764Z",
           "frontmatter": {
             "title": "Framework Name (ACRONYM)",
             "alias": "Framework Name (ACRONYM)",
@@ -4467,7 +4617,7 @@
           "type": "file",
           "relpath": "Templates/Maintenance Tasks.md",
           "size_bytes": 2887,
-          "mtime_utc": "2025-10-03T13:39:32.645010Z",
+          "mtime_utc": "2025-10-03T14:24:36.224764Z",
           "frontmatter": {
             "title": "Maintenance Tasks Template",
             "aliases": [
@@ -4488,7 +4638,7 @@
           "type": "file",
           "relpath": "Templates/Person Template.md",
           "size_bytes": 2211,
-          "mtime_utc": "2025-10-03T13:39:32.645010Z",
+          "mtime_utc": "2025-10-03T14:24:36.224764Z",
           "frontmatter": {
             "title": "Person Template",
             "aliases": [
@@ -4516,7 +4666,7 @@
           "type": "file",
           "relpath": "Templates/Reflection Template.md",
           "size_bytes": 2136,
-          "mtime_utc": "2025-10-03T13:39:32.645010Z",
+          "mtime_utc": "2025-10-03T14:24:36.225764Z",
           "frontmatter": {
             "title": "Reflection Template",
             "aliases": [
@@ -4545,7 +4695,7 @@
           "type": "file",
           "relpath": "Templates/Relational Mapping Template.md",
           "size_bytes": 2040,
-          "mtime_utc": "2025-10-03T13:39:32.645010Z",
+          "mtime_utc": "2025-10-03T14:24:36.225764Z",
           "frontmatter": {
             "title": "Relational Mapping Template",
             "aliases": [
@@ -4572,7 +4722,7 @@
           "type": "file",
           "relpath": "Templates/Theory Reference Sheet.md",
           "size_bytes": 2024,
-          "mtime_utc": "2025-10-03T13:39:32.645010Z",
+          "mtime_utc": "2025-10-03T14:24:36.225764Z",
           "frontmatter": {
             "title": "Theory Reference Sheet",
             "aliases": [
@@ -4599,7 +4749,7 @@
           "type": "file",
           "relpath": "Utility/03_UTILITY_SYSTEM_Technical_Auditor.md",
           "size_bytes": 2416,
-          "mtime_utc": "2025-10-03T13:39:32.645010Z",
+          "mtime_utc": "2025-10-03T14:24:36.225764Z",
           "frontmatter": {
             "title": "Utility Prompt - System Technical Auditor",
             "aliases": [
@@ -4625,7 +4775,7 @@
           "type": "file",
           "relpath": "Utility/Utility Prompt - Dynamic Role-Play & Skill Practice.md",
           "size_bytes": 3111,
-          "mtime_utc": "2025-10-03T13:39:32.645010Z",
+          "mtime_utc": "2025-10-03T14:24:36.225764Z",
           "frontmatter": {
             "title": "Utility Prompt - Dynamic Role-Play & Skill Practice",
             "aliases": [
@@ -4653,7 +4803,7 @@
           "type": "file",
           "relpath": "Utility/Utility Prompt - Framework Content Generator.md",
           "size_bytes": 3279,
-          "mtime_utc": "2025-10-03T13:39:32.645010Z",
+          "mtime_utc": "2025-10-03T14:24:36.225764Z",
           "frontmatter": {
             "title": "Utility Prompt - Framework Content Generator",
             "aliases": [
@@ -4680,7 +4830,7 @@
           "type": "file",
           "relpath": "Utility/Utility Prompt - Glossary Generator.md",
           "size_bytes": 2525,
-          "mtime_utc": "2025-10-03T13:39:32.645010Z",
+          "mtime_utc": "2025-10-03T14:24:36.225764Z",
           "frontmatter": {
             "title": "Utility Prompt - Glossary Generator",
             "aliases": [
@@ -4707,7 +4857,7 @@
           "type": "file",
           "relpath": "Utility/Utility Prompt - New User Onboarding & Guided Tour.md",
           "size_bytes": 2188,
-          "mtime_utc": "2025-10-03T13:39:32.645010Z",
+          "mtime_utc": "2025-10-03T14:24:36.225764Z",
           "frontmatter": {
             "title": "Utility Prompt - New User Onboarding & Guided Tour",
             "aliases": [
@@ -4734,7 +4884,7 @@
           "type": "file",
           "relpath": "Utility/Utility Prompt - Reference Compiler.md",
           "size_bytes": 1627,
-          "mtime_utc": "2025-10-03T13:39:32.646010Z",
+          "mtime_utc": "2025-10-03T14:24:36.225764Z",
           "frontmatter": {
             "title": "Utility Prompt - Reference Compiler",
             "aliases": [
@@ -4759,7 +4909,7 @@
           "type": "file",
           "relpath": "Utility/Utility Prompt - Safe Relational Feedback Synthesis.md",
           "size_bytes": 3017,
-          "mtime_utc": "2025-10-03T13:39:32.646010Z",
+          "mtime_utc": "2025-10-03T14:24:36.225764Z",
           "frontmatter": {
             "title": "Utility Prompt - Safe Relational Feedback Synthesis",
             "aliases": [
@@ -4787,7 +4937,7 @@
           "type": "file",
           "relpath": "Utility/Utility Prompt - Structured Reflection Guide.md",
           "size_bytes": 2975,
-          "mtime_utc": "2025-10-03T13:39:32.646010Z",
+          "mtime_utc": "2025-10-03T14:24:36.225764Z",
           "frontmatter": {
             "title": "Utility Prompt - Structured Reflection Guide",
             "aliases": [
@@ -4818,7 +4968,7 @@
       "type": "file",
       "relpath": "_CORE_PRINCIPLES_AND_GOVERNANCE.md",
       "size_bytes": 2566,
-      "mtime_utc": "2025-10-03T13:39:32.646010Z",
+      "mtime_utc": "2025-10-03T14:24:36.225764Z",
       "frontmatter": {
         "title": "Core Principles and Governance",
         "aliases": [
@@ -4840,7 +4990,7 @@
       "type": "file",
       "relpath": "_FRAMEWORKS_OVERVIEW.md",
       "size_bytes": 4396,
-      "mtime_utc": "2025-10-03T13:39:32.646010Z",
+      "mtime_utc": "2025-10-03T14:24:36.225764Z",
       "frontmatter": {
         "title": "Frameworks Overview",
         "aliases": [
@@ -4861,7 +5011,7 @@
       "type": "file",
       "relpath": "_GLOSSARY_OF_TERMS.md",
       "size_bytes": 6523,
-      "mtime_utc": "2025-10-03T13:39:32.646010Z",
+      "mtime_utc": "2025-10-03T14:24:36.225764Z",
       "frontmatter": {
         "title": "_GLOSSARY_OF_TERMS",
         "aliases": [
@@ -4884,7 +5034,7 @@
       "type": "file",
       "relpath": "_PROMPTS_OVERVIEW.md",
       "size_bytes": 6511,
-      "mtime_utc": "2025-10-03T13:39:32.646010Z",
+      "mtime_utc": "2025-10-03T14:24:36.225764Z",
       "frontmatter": {
         "title": "Prompts Overview and Functional Guide",
         "aliases": [
@@ -4905,7 +5055,7 @@
       "type": "file",
       "relpath": "_REFERENCES_OVERVIEW.md",
       "size_bytes": 7627,
-      "mtime_utc": "2025-10-03T13:39:32.646010Z",
+      "mtime_utc": "2025-10-03T14:24:36.225764Z",
       "frontmatter": {
         "title": "_REFERENCES_OVERVIEW (APA 7th) — COMPLETE",
         "tags": [
@@ -4924,7 +5074,7 @@
       "type": "file",
       "relpath": "_SYSTEM_LOG.md",
       "size_bytes": 126,
-      "mtime_utc": "2025-10-03T13:39:32.646010Z",
+      "mtime_utc": "2025-10-03T14:24:36.225764Z",
       "frontmatter": {
         "title": "_SYSTEM_LOG",
         "tags": [
@@ -4942,7 +5092,7 @@
       "type": "file",
       "relpath": "_TEMPLATES_OVERVIEW.md",
       "size_bytes": 2340,
-      "mtime_utc": "2025-10-03T13:39:32.646010Z",
+      "mtime_utc": "2025-10-03T14:24:36.225764Z",
       "frontmatter": {
         "title": "Templates Overview and Quick Start Guide",
         "aliases": [
@@ -4964,7 +5114,7 @@
       "type": "file",
       "relpath": "_VAULT_MANIFEST.md",
       "size_bytes": 1363,
-      "mtime_utc": "2025-10-03T13:39:32.646010Z",
+      "mtime_utc": "2025-10-03T14:24:36.225764Z",
       "frontmatter": {
         "title": "_VAULT_MANIFEST",
         "tags": [
@@ -4979,7 +5129,7 @@
       "type": "file",
       "relpath": "_VAULT_OVERVIEW.md",
       "size_bytes": 2661,
-      "mtime_utc": "2025-10-03T13:39:32.646010Z",
+      "mtime_utc": "2025-10-03T14:24:36.225764Z",
       "frontmatter": {
         "title": "Vault Overview and Central Dashboard",
         "aliases": [
@@ -5005,7 +5155,7 @@
           "type": "file",
           "relpath": "docs/vault-schema.md",
           "size_bytes": 2802,
-          "mtime_utc": "2025-10-03T13:39:32.646010Z",
+          "mtime_utc": "2025-10-03T14:24:36.225764Z",
           "frontmatter": null,
           "content": "<!-- @format -->\n\n# Vault Schema Overview\n\nThe vault tooling uses a compact alias format for MessagePack storage and validates\nvault entries against the JSON Schema defined in `tools/vault/vault_schema.json`. This\ndocument explains the structure and how it maps to human-readable keys.\n\n## Schema Summary\n\n| Field                | Type             | Required | Description                                          |\n| -------------------- | ---------------- | -------- | ---------------------------------------------------- |\n| `observedPatterns`   | array of strings | ✅       | Describes observed relational behaviour patterns.    |\n| `relationalFunction` | string           | ✅       | Captures the primary relational dynamic or function. |\n| `psychoeducational`  | string           | ❌       | Optional psychoeducation notes or frameworks.        |\n| `repairSuggestions`  | string           | ❌       | Recommended interventions or repair steps.           |\n| `version`            | string           | ❌       | Semantic version or revision marker for the entry.   |\n\nNo additional properties are allowed by the schema; any unexpected keys will fail\nvalidation when the `--validate` flag is provided to CLI tools.\n\n## Alias Mapping\n\nTo reduce MessagePack payload size, keys are aliased in the binary format. The mapping\nis handled automatically by `vault_loader.py`:\n\n| Long Key             | Alias |\n| -------------------- | ----- |\n| `observedPatterns`   | `O`   |\n| `relationalFunction` | `R`   |\n| `psychoeducational`  | `P`   |\n| `repairSuggestions`  | `S`   |\n| `version`            | `v`   |\n\nWhen you load a vault file, these aliases are expanded back to the long-form keys. You\ndo **not** need to alias keys manually when editing JSON; the tooling handles\nconversions in both directions.\n\n## Validation Modes\n\n- `load_vault(..., validate=True)` and `save_vault(..., validate=True)` enforce the\n  schema.\n- The CLI tools expose a `--validate` flag to enable schema checks during conversion or\n  YAML export.\n- Validation targets individual vault entries, not the directory tree JSON produced by\n  `vault_to_json.py`.\n\n## Adding New Fields\n\n1. Update `tools/vault/vault_schema.json` with the new property definition.\n2. Extend the alias maps in `tools/vault/vault_loader.py` if the new field should be\n   compacted.\n3. Document the field in this file and any relevant README sections.\n4. Add or update tests in `tools/vault/test` to cover the new structure.\n\n## Example Entry\n\n```json\n{\n  \"observedPatterns\": [\"shutdown\", \"looping\"],\n  \"relationalFunction\": \"protective withdrawal\",\n  \"psychoeducational\": \"polyvagal + IFS\",\n  \"repairSuggestions\": \"co-regulate then name\",\n  \"version\": \"1.0\"\n}\n```\n\nUse this shape when authoring JSON or validating external data before conversion.\n"
         }
@@ -5024,7 +5174,7 @@
               "type": "file",
               "relpath": "tools/vault/README.md",
               "size_bytes": 3338,
-              "mtime_utc": "2025-10-03T13:39:32.646010Z",
+              "mtime_utc": "2025-10-03T14:24:36.226764Z",
               "frontmatter": null,
               "content": "<!-- @format -->\n\n# Vault Tooling\n\nUtilities for converting, validating, and exporting relational analysis vaults. These\nscripts share a common loader that understands the compact alias format used for\nMessagePack storage and the expanded JSON representation.\n\n## Contents\n\n- `vault_loader.py` – core helpers for loading, saving, hashing, and validating vault\n  objects (JSON or MessagePack).\n- `vault_cli.py` – full-featured CLI for converting between JSON and MessagePack,\n  emitting YAML snapshots, and checking hash sync.\n- `vault_to_msgpack.py` – lightweight converter wrapper for simple JSON ↔ MessagePack\n  transforms.\n- `vault_to_json.py` – builds a JSON tree representation of a markdown vault, with\n  optional tar extraction and directory exclusion controls.\n- `diff_vault.py` – appends a unified diff of `vault.yaml` changes to\n  `vault-changelog.md`.\n- `vault_schema.json` – JSON Schema definition describing a single vault entry (see\n  [`docs/vault-schema.md`](../../docs/vault-schema.md)).\n- `test/test_vault_loader.py` – pytest coverage for round-trip conversion, hashing, and\n  schema validation.\n\n## Requirements\n\n- Python 3.9+\n- [`msgpack`](https://pypi.org/project/msgpack/) (required for binary serialization)\n- [`PyYAML`](https://pypi.org/project/PyYAML/) (optional; enables richer front-matter\n  parsing in `vault_to_json.py`)\n- [`jsonschema`](https://pypi.org/project/jsonschema/) (only needed when using the\n  `--validate` flag)\n- pytest (optional; only for running tests)\n\nInstall dependencies, for example:\n\n```bash\npip install msgpack PyYAML jsonschema pytest\n```\n\nOr use the project-level helper targets defined in the repository `Makefile`:\n\n```bash\nmake install   # create venv and install dependencies\nmake check     # run linters and tests\n```\n\n## Common Workflows\n\n### Convert JSON ↔ MessagePack\n\nFast path:\n\n```bash\npython3 tools/vault/vault_to_msgpack.py Relational_Analysis_Vault.json Relational_Analysis_Vault.msgpack\n```\n\nFull CLI with extras:\n\n```bash\npython3 tools/vault/vault_cli.py Relational_Analysis_Vault.json Relational_Analysis_Vault.msgpack --pretty --hash vault.sha --yaml vault.yaml\n```\n\nAdd `--validate` to perform JSON Schema validation before writing output.\n\n### Check Vault Sync\n\n```bash\npython3 tools/vault/vault_cli.py Relational_Analysis_Vault.json Relational_Analysis_Vault.msgpack --check-sync\n```\n\nExit status is non-zero if hashes differ.\n\n### Export Markdown Tree JSON\n\n```bash\npython3 tools/vault/vault_to_json.py --root Relational_Analysis_Vault --exclude-tag-all .exclude --output markdown_tree.json\n```\n\nWhen working with tar archives:\n\n```bash\npython3 tools/vault/vault_to_json.py --tar vault.tar --extract-to ./extracted --record-exclusions\n```\n\n### Record Diff to Changelog\n\n```bash\npython3 tools/vault/diff_vault.py\n```\n\nAppends a timestamped diff of `vault.yaml` compared with the last git commit to\n`vault-changelog.md`.\n\n## Testing\n\n```bash\nPYTHONPATH=. pytest tools/vault/test/test_vault_loader.py\n```\n\nRun in an environment where `msgpack` is installed.\n\n## Troubleshooting\n\n- _\"ModuleNotFoundError: No module named 'msgpack'\"_: install the `msgpack` package.\n- Validation errors list the specific JSON Schema violation; ensure you are validating\n  individual vault entries rather than the directory tree JSON exported by\n  `vault_to_json.py`.\n"
             }
