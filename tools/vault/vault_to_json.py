@@ -84,7 +84,10 @@ def parse_frontmatter(text: str) -> Tuple[Optional[Dict], str]:
         stripped = line.strip()
         if stripped.startswith("- "):
             if cur_key:
-                data.setdefault(cur_key, []).append(stripped[2:].strip())
+                # Convert scalar to list if needed
+                if not isinstance(data.get(cur_key), list):
+                    data[cur_key] = [data[cur_key]] if cur_key in data else []
+                data[cur_key].append(stripped[2:].strip())
             continue
         if ":" in stripped:
             key, val = stripped.split(":", 1)
@@ -99,7 +102,11 @@ def parse_frontmatter(text: str) -> Tuple[Optional[Dict], str]:
                     val_conv = int(val)
                 except Exception:
                     val_conv = val
-            data[key] = val_conv
+            # If the key was already a list, append to it
+            if key in data and isinstance(data[key], list):
+                data[key].append(val_conv)
+            else:
+                data[key] = val_conv
             cur_key = key
         else:
             # continuation line for last key
