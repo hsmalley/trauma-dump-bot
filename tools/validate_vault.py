@@ -107,8 +107,7 @@ def candidate_targets(raw: str) -> Set[str]:
 def find_broken_links(root: Path, by_stem, aliases):
     broken = []
     valid_relative = {
-        str(path.relative_to(root)).rsplit(".", 1)[0]
-        for path in by_stem.values()
+        str(path.relative_to(root)).rsplit(".", 1)[0] for path in by_stem.values()
     }
     for f in root.rglob("*.md"):
         text = read_text(f)

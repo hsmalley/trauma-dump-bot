@@ -53,7 +53,8 @@ def extract_messages(soup):
     if not candidates:
         # Fallback: look for divs whose id starts with "message"
         candidates = soup.find_all(
-            lambda tag: tag.name == "div" and str(tag.get("id", "")).startswith("message")
+            lambda tag: tag.name == "div"
+            and str(tag.get("id", "")).startswith("message")
         )
     for m in candidates:
         # find sender

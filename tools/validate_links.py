@@ -106,9 +106,7 @@ def validate_links(vault: Dict[str, Any], path: Path) -> List[Dict[str, str]]:
     valid_targets = all_titles | all_aliases
 
     relative_targets = {
-        data["file"][:-3]
-        if data["file"].lower().endswith(".md")
-        else data["file"]
+        data["file"][:-3] if data["file"].lower().endswith(".md") else data["file"]
         for data in vault.values()
     }
     valid_targets |= relative_targets
