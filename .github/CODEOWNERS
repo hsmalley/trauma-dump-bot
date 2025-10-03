@@ -1,0 +1,7 @@
+# Automatically request reviews from owners of specific paths.
+
+* @hsmalley
+
+# Dedicated ownership for core tooling scripts.
+tools/vault/ @hsmalley
+.github/workflows/ @hsmalley
