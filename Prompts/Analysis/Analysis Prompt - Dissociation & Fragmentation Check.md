@@ -44,7 +44,7 @@ related:
 
 1.  **[[Polyvagal Theory (PVT)]] (Primary)**: Provides the core framework for understanding Dorsal Vagal shutdown and the biological need for safety/grounding.
 2.  **[[Analysis Prompt - Systemic & Trauma Mapping]]**: Used to infer that the dissociation is likely linked to a past trauma response being re-enacted.
-3.  **[[_CORE_PRINCIPLES_AND_GOVERNANCE.md]] (Mandatory)**: Enforces the "Regulation First" and "Safety Over Analysis" rule.
+3.  **[[_CORE_PRINCIPLES_AND_GOVERNANCE]] (Mandatory)**: Enforces the "Regulation First" and "Safety Over Analysis" rule.
 
 ---
 
