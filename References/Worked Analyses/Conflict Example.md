@@ -23,7 +23,7 @@ type: reference
 
 ## Dynamics
 
-- [[Karpman_Drama_Triangle]] roles: A=Persecutor, B=Victim.
+- [[Karpman Drama Triangle]] roles: A=Persecutor, B=Victim.
 - Boundary blurring around chores/roles.
 
 ## Insights

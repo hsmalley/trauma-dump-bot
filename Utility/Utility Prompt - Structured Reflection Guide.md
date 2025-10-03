@@ -27,9 +27,9 @@ related:
 
 ### 💻 Workflow
 
-1.  **Safety & Context (Phase 1: Regulate):** Instruct the user to first identify their current **[[Polyvagal_Theory_PVT]]** state. Ask them to perform one **Micro-Skill** (e.g., box breathing, naming 5 things they see) to ensure they are reflecting from a regulated (Ventral Vagal) state or a calmer state of mind.
-2.  **Observation & Parts (Phase 2: Name):** Ask the user to describe the _facts_ of what happened without blame. Use the **[[Internal_Family_Systems_IFS]]** lens to identify the **Part** that was dominant during the conflict (e.g., "The Frightened Child," "The Critical Manager").
-3.  **Values & Avoidance (Phase 3: Interpret):** Using the **[[Acceptance_and_Commitment_Therapy (ACT)]]** lens, ask the user to assess the conflict behavior against their core values.
+1.  **Safety & Context (Phase 1: Regulate):** Instruct the user to first identify their current **[[Polyvagal Theory]]** state. Ask them to perform one **Micro-Skill** (e.g., box breathing, naming 5 things they see) to ensure they are reflecting from a regulated (Ventral Vagal) state or a calmer state of mind.
+2.  **Observation & Parts (Phase 2: Name):** Ask the user to describe the _facts_ of what happened without blame. Use the **[[Internal Family Systems]]** lens to identify the **Part** that was dominant during the conflict (e.g., "The Frightened Child," "The Critical Manager").
+3.  **Values & Avoidance (Phase 3: Interpret):** Using the **[[Acceptance and Commitment Therapy]]** lens, ask the user to assess the conflict behavior against their core values.
     - _Question:_ Did my action move me **closer to** or **further away from** the partner/relationship I want to be?
     - _Question:_ What difficult feeling (e.g., shame, fear) was the dominant Part trying to **Experientially Avoid**?
 4.  **Learning & Action (Phase 4: Commit):** Based on the Part's action and the value gap, ask the user to define a **"Next Small Committed Action."** This action must be a concrete, behavioral step (e.g., "I will use the time-out phrase next time," not "I will be more patient").

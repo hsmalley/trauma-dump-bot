@@ -33,4 +33,4 @@ type: reference
 - Use coaching questions before advice.
 - Offer caring challenge with consent.
 
-**Related:** [[Karpman_Drama_Triangle]], [[Systems Thinking]], [[Analysis Prompt - Repair Attempts]]
+**Related:** [[Karpman Drama Triangle]], [[Systems Thinking]], [[Analysis Prompt - Repair Attempts]]

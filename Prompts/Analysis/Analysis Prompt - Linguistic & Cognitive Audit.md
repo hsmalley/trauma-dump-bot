@@ -30,7 +30,7 @@ related:
 
 1.  **Identify Distortions (Action):** Systematically audit the transcript for common **Cognitive Distortions** (e.g., Catastrophizing, Emotional Reasoning, All-or-Nothing Thinking, Personalization).
 2.  **Audit Absolutes:** Specifically identify and list all **"always/never"** statements and highly rigid generalizations. These are key linguistic markers of cognitive fusion.
-3.  **Ambiguity Check (Action 3):** Check the language for ambiguity or passive voice. Were needs stated as vague generalities, or as clear, actionable **[[Nonviolent_Communication_NVC]]** requests?
+3.  **Ambiguity Check (Action 3):** Check the language for ambiguity or passive voice. Were needs stated as vague generalities, or as clear, actionable **[[Nonviolent Communication]]** requests?
 4.  **Mind Reading Audit (Action 3):** Identify instances of **Mind Reading** (e.g., "I know you didn't _really_ mean that") and **Labeling** (e.g., "You're just being manipulative").
 5.  **Language Transformation (Action 3):** For a key distortion, demonstrate how the language could be **Defused** (ACT) or transformed into an **Observation** (NVC).
 6.  **Synthesis and Micro-Skill:** Provide a clear summary of the top 3 cognitive traps, and offer a specific **[[Acceptance and Commitment Therapy]]** micro-skill (like **Defusion**) to address the pattern.

@@ -35,4 +35,4 @@ type: reference
 - Model: 'When the dishes pile up, I feel overwhelmed; I need support; would you wash them tonight?'
 - Practice empathy before problem-solving.
 
-**Related:** [[Transactional Analysis]], [[Gottman_Method]], [[Analysis Prompt - Multi-Modal Conflict Assessment]]
+**Related:** [[Transactional Analysis]], [[Gottman Method]], [[Analysis Prompt - Multi-Modal Conflict Assessment]]

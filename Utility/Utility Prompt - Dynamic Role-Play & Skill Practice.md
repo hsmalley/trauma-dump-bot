@@ -32,7 +32,7 @@ related:
     - **Partner Persona:** Define the partner's likely **[[Attachment Theory]]** style or dominant emotional state (e.g., Anxious and defensive, Avoidant and shutting down).
 2.  **Role-Play Execution (Action):** The system takes on the Partner Persona and initiates the exchange.
 3.  **The Challenge:** The system's response to the user's initial script must **challenge the user**, forcing them to move beyond their initial prepared script. Challenges should focus on:
-    - **Defensiveness:** Responding with a **[[Gottman_Method]]** horseman (e.g., "Why are you always bringing this up?").
+    - **Defensiveness:** Responding with a **[[Gottman Method]]** horseman (e.g., "Why are you always bringing this up?").
     - **Avoidance:** Shutting down or giving one-word answers.
     - **Insecurity:** Shifting the focus to their own **[[Attachment Theory]]** fear (e.g., "So you just don't love me anymore?").
 4.  **Coach-Mode Intervention:** If the user fails to de-escalate or repeats the initial script verbatim, the system must break role (using bold text) to provide a **coaching tip** based on **[[Utility Prompt - Safe Relational Feedback Synthesis]]**.

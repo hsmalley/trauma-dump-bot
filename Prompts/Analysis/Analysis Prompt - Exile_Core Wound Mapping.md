@@ -28,7 +28,7 @@ related:
 
 ### 💻 Workflow
 
-1.  **Protector Link:** Reference the finding from the **[[Analysis Prompt - Protector/Manager Audit]]**. What specific **Protector Part** (Manager/Firefighter) was active?
+1.  **Protector Link:** Reference the finding from the **[[Analysis Prompt - Protector_Manager Audit]]**. What specific **Protector Part** (Manager/Firefighter) was active?
 2.  **Exile Hypothesis (Action):** Based on the Protector's _positive intent_, hypothesize the single, core **Exile Belief** that the Protector was fighting to hide or suppress.
     - _Example:_ If the Protector was **The Critic**, the Exile belief is likely: _“I am fundamentally flawed/unlovable.”_
     - _Example:_ If the Protector was **The Pleaser**, the Exile belief is likely: _“I will be abandoned if I set a boundary.”_

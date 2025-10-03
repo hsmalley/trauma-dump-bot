@@ -33,4 +33,4 @@ type: reference
 - Reinforce repair by pairing apology with action.
 - Add structured debrief ritual after conflict.
 
-**Related:** [[Gottman_Method]], [[Nonviolent_Communication]], [[Analysis Prompt - Repair Attempts]]
+**Related:** [[Gottman Method]], [[Nonviolent Communication]], [[Analysis Prompt - Repair Attempts]]

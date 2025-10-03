@@ -43,8 +43,8 @@ related:
 The analysis relies on the following frameworks, sorted by primary relevance:
 
 1.  **[[Attachment Theory]]** (Primary Relevance): Critical for analyzing insecurity (e.g., jealousy, anxiety) triggered by external relationships; the need for reassurance is often heightened.
-2.  **[[Nonviolent_Communication_NVC]]**: Essential for analyzing clarity in boundary setting, distinguishing a _request_ from a _demand_, and translating jealousy into an unmet **need**.
-3.  **[[Polyvagal_Theory_PVT]]**: Used to analyze emotional flooding related to boundary violations or insecurity, reframing the distress as a somatic nervous system response.
+2.  **[[Nonviolent Communication]]**: Essential for analyzing clarity in boundary setting, distinguishing a _request_ from a _demand_, and translating jealousy into an unmet **need**.
+3.  **[[Polyvagal Theory]]**: Used to analyze emotional flooding related to boundary violations or insecurity, reframing the distress as a somatic nervous system response.
 4.  **Consent Culture/EOC (Enthusiastic Ongoing Consent)**: Used to audit the relationship's ethical foundation—not just sexual, but regarding time and emotional commitments.
 5.  **Relationship Anarchy (RA)**: Used to evaluate relationships that intentionally eschew hierarchy, focusing on individual autonomy and fluid agreements.
 
@@ -52,11 +52,11 @@ The analysis relies on the following frameworks, sorted by primary relevance:
 
 ## 📈 Use Cases (Action 4)
 
-| Use Case                                    | When to Apply                                                                                       | Evidence-Based Suggestion                                                                                            |
-| :------------------------------------------ | :-------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------- |
-| **New Relationship Energy (NRE) Spillover** | When a new partner causes distress or strain in an existing relationship (NRE is a common trigger). | The analysis should audit the time/energy allocation agreement to restore stability to the primary relationship(s).  |
-| **Boundary Renegotiation**                  | When an established agreement needs to be changed due to unforeseen emotional needs.                | Focus on the **[[Nonviolent_Communication_NVC]]** lens to ensure the new boundary is stated as a need, not a demand. |
-| **Managing Compersion/Jealousy**            | When a partner is struggling with compersion (joy for a partner's joy) and instead feels distress.  | Map the distress to the **[[Attachment Theory]]** fear to address the root insecurity, not just the symptom.         |
+| Use Case                                    | When to Apply                                                                                       | Evidence-Based Suggestion                                                                                           |
+| :------------------------------------------ | :-------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------ |
+| **New Relationship Energy (NRE) Spillover** | When a new partner causes distress or strain in an existing relationship (NRE is a common trigger). | The analysis should audit the time/energy allocation agreement to restore stability to the primary relationship(s). |
+| **Boundary Renegotiation**                  | When an established agreement needs to be changed due to unforeseen emotional needs.                | Focus on the **[[Nonviolent Communication]]** lens to ensure the new boundary is stated as a need, not a demand.    |
+| **Managing Compersion/Jealousy**            | When a partner is struggling with compersion (joy for a partner's joy) and instead feels distress.  | Map the distress to the **[[Attachment Theory]]** fear to address the root insecurity, not just the symptom.        |
 
 ---
 

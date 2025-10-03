@@ -23,7 +23,7 @@ related:
 
 ### 💻 Workflow
 
-1.  **Source Identification (Action):** Scan all files in the `Frameworks/` and `Prompts/Analysis/` directories.
+1.  **Source Identification (Action):** Scan all files in the `Frameworks/` and `Prompts/Analysis/` directories. Use `web.run` only when vault lacks context or external validation is required
 2.  **Extraction:** Extract all entries found within the `## Citations` sections of the files.
 3.  **Deduplication:** Remove all duplicate entries to create a unique list of sources.
 4.  **Categorization:** Organize the final list into relevant thematic categories to enhance readability (e.g., Core Theories, Specialized Dynamics, Trauma/ACT).

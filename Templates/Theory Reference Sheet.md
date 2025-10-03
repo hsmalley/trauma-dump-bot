@@ -37,7 +37,7 @@ type: template
 
 ### A. PVT Alignment (Body/Regulation)
 
-- How does this framework explain or utilize the three **[[Polyvagal Theory (PVT)]]** states (Ventral Vagal, Sympathetic, Dorsal Vagal)?
+- How does this framework explain or utilize the three **[[Polyvagal Theory]]** states (Ventral Vagal, Sympathetic, Dorsal Vagal)?
 
 ### B. IFS Alignment (Internal Structure)
 

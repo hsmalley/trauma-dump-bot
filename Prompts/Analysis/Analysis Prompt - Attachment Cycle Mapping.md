@@ -41,8 +41,8 @@ The analysis relies on the following frameworks, sorted by primary relevance:
 
 1.  **[[Attachment Theory]]** (Primary Relevance): The foundation for identifying styles, fears, and core needs.
 2.  **Emotionally Focused Therapy (EFT)**: The specific therapeutic model that operationalizes attachment theory into identifying the negative cycle and distress responses.
-3.  **[[Internal_Family_Systems_IFS]]**: Useful for framing the defensive attachment behavior (e.g., criticism, withdrawal) as a protective "Part" attempting to shield a vulnerable core.
-4.  **[[Polyvagal_Theory_PVT]]**: Used to ground the emotional distress in somatic experience, noting how attachment fear triggers a sympathetic (fight/flight) or dorsal vagal (freeze/collapse) state.
+3.  **[[Internal Family Systems]]**: Useful for framing the defensive attachment behavior (e.g., criticism, withdrawal) as a protective "Part" attempting to shield a vulnerable core.
+4.  **[[Polyvagal Theory]]**: Used to ground the emotional distress in somatic experience, noting how attachment fear triggers a sympathetic (fight/flight) or dorsal vagal (freeze/collapse) state.
 
 ---
 

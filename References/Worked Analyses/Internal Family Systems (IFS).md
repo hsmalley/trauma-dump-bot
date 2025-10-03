@@ -34,4 +34,4 @@ type: reference
 - Pause for unblending and Self-access.
 - Encourage Self-to-Self dialogue: curiosity, compassion.
 
-**Related:** [[Narrative_Therapy]], [[Nonviolent_Communication]], [[Analysis Prompt - Multi-Modal Conflict Assessment]]
+**Related:** [[Narrative Therapy]], [[Nonviolent Communication]], [[Analysis Prompt - Multi-Modal Conflict Assessment]]

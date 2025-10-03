@@ -33,7 +33,7 @@ related:
       - _Example:_ "I noticed my **Sympathetic** nervous system took over, which made me sound like the **Critical Manager Part** in that moment."
     - **Part 2: Empathy & Non-Blaming Reframe:** Validate the partner's reaction using soft language, linking it to their core need/fear.
       - _Example:_ "I can see that when I did that, it likely triggered your fear of being abandoned, which is a totally natural **[[Attachment Theory]]** response."
-    - **Part 3: Committed Action & NVC Request:** State one small, actionable step (Committed Action) and one clear **[[Nonviolent_Communication_NVC]]** request for the future.
+    - **Part 3: Committed Action & NVC Request:** State one small, actionable step (Committed Action) and one clear **[[Nonviolent Communication]]** request for the future.
       - _Example:_ "I commit to using a time-out phrase next time. Would you be willing to remind me if I miss it?"
 
 4.  **Final Review:** Ensure the synthesis uses **zero jargon** (no "Sympathetic," "Exile," or "Defusion") and instead uses plain language (e.g., replace "Cognitive Fusion" with "getting stuck on a thought").

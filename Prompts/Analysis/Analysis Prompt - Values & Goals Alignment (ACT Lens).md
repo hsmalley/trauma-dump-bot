@@ -32,7 +32,7 @@ related:
 2.  **Fusion Audit (Action 3):** Identify instances of **Cognitive Fusion** in the transcript—where a partner is treating a thought or story (e.g., "I am always right," "I am a failure") as an absolute truth.
 3.  **Avoidance Audit (Action 3):** Identify instances of **Experiential Avoidance**—where partners are avoiding necessary but painful emotions (e.g., shutting down during tough talks to avoid anxiety, avoiding necessary conflict to maintain false peace).
 4.  **Action Gap Analysis:** Compare the identified **Values** to the observed **Actions**. Is there a significant gap? (e.g., Value is _Connection_, but action is _Withdrawal_).
-5.  **Identify Stuckness:** Determine the core **[[Internal_Family_Systems_IFS]]** Part or emotional burden that is preventing **Committed Action** aligned with values.
+5.  **Identify Stuckness:** Determine the core **[[Internal Family Systems]]** Part or emotional burden that is preventing **Committed Action** aligned with values.
 6.  **Synthesis and Micro-Skill:** Synthesize the analysis to explain how the _relational system_ is stuck due to _shared_ avoidance, and suggest one **Defusion** or **Mindfulness** micro-skill.
 
 ---
@@ -42,9 +42,9 @@ related:
 The analysis relies on the following frameworks, sorted by primary relevance:
 
 1.  **[[Acceptance and Commitment Therapy]]** (Primary Relevance): Provides the foundation for auditing values, fusion, and committed action. The core diagnostic tool.
-2.  **[[Nonviolent_Communication_NVC]]**: Used to simplify complex emotional drivers into universal human needs/values (e.g., Freedom, Autonomy, Security).
-3.  **[[Internal_Family_Systems_IFS]]**: Useful for framing **fusion** as a protective strategy of a **Part** (e.g., the Criticizing Part fuses with the thought "You are a disaster" to motivate change).
-4.  **[[Polyvagal_Theory_PVT]]**: Used to ground **Experiential Avoidance** in the somatic reality of the nervous system (avoiding Ventral Vagal shutdown).
+2.  **[[Nonviolent Communication]]**: Used to simplify complex emotional drivers into universal human needs/values (e.g., Freedom, Autonomy, Security).
+3.  **[[Internal Family Systems]]**: Useful for framing **fusion** as a protective strategy of a **Part** (e.g., the Criticizing Part fuses with the thought "You are a disaster" to motivate change).
+4.  **[[Polyvagal Theory]]**: Used to ground **Experiential Avoidance** in the somatic reality of the nervous system (avoiding Ventral Vagal shutdown).
 
 ---
 

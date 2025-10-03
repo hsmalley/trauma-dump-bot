@@ -32,13 +32,13 @@ related:
 ## 🌡 Emotional Map (The Polyvagal Lens)
 
 - What emotions were present?
-- Where did you feel them in your body? (Use **[[Polyvagal_Theory_PVT]]** language: e.g., feeling tension in the chest (Sympathetic), collapse in the shoulders (Dorsal Vagal), or flow (Ventral Vagal))
+- Where did you feel them in your body? (Use **[[Polyvagal Theory]]** language: e.g., feeling tension in the chest (Sympathetic), collapse in the shoulders (Dorsal Vagal), or flow (Ventral Vagal))
 
 ## 💡 Core Insights (IFS & ACT Lens)
 
 - What belief or assumption drove your behavior? (Use **[[Acceptance and Commitment Therapy]]** language: e.g., "I fused with the thought that I was being abandoned.")
-- What internal **[[Internal_Family_Systems]] (IFS)** Part took the lead? (e.g., Critical Manager, Frightened Exile, Controlling Firefighter)
-- What was the core need (**[[Nonviolent_Communication]] (NVC)**) you were fighting for? (e.g., Safety, Autonomy, Belonging, Rest)
+- What internal **[[Internal Family Systems]]** Part took the lead? (e.g., Critical Manager, Frightened Exile, Controlling Firefighter)
+- What was the core need (**[[Nonviolent Communication]]**) you were fighting for? (e.g., Safety, Autonomy, Belonging, Rest)
 
 ## ➡️ Next Action
 

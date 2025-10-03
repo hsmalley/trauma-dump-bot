@@ -34,4 +34,4 @@ type: reference
 - Add meta-communication checkpoints (What loop are we in?).
 - Small experiments; measure system response rather than blame.
 
-**Related:** [[Relational Theory]], [[Karpman_Drama_Triangle]], [[Gottman_Method]]
+**Related:** [[Relational Theory]], [[Karpman Drama Triangle]], [[Gottman Method]]

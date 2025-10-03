@@ -42,9 +42,9 @@ related:
 The analysis relies on the following frameworks, sorted by primary relevance:
 
 1.  **Trauma-Informed Practice (Implicit)**: Provides the core goal of the prompt—ensuring the couple is moving toward **resourcing** and **self-regulation**.
-2.  **[[Polyvagal_Theory_PVT]]** (Primary Relevance): Essential for checking literacy in **somatic naming** (correctly identifying sympathetic/vagal states) and evaluating self-regulation attempts.
+2.  **[[Polyvagal Theory]]** (Primary Relevance): Essential for checking literacy in **somatic naming** (correctly identifying sympathetic/vagal states) and evaluating self-regulation attempts.
 3.  **[[Conflict Repair Template]] / [[Reflection Template]]**: Used as standards to check the integrity of a repair attempt or reflective practice initiated by the partners.
-4.  **[[Acceptance_and_Commitment_Therapy (ACT)]]**: Used to audit the partners' willingness to accept the discomfort required to practice a new, difficult skill.
+4.  **[[Acceptance and Commitment Therapy]]**: Used to audit the partners' willingness to accept the discomfort required to practice a new, difficult skill.
 
 ---
 

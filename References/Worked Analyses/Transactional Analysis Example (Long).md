@@ -32,4 +32,4 @@ type: reference
 - Make clean contracts: who/what/when/how.
 - Balance appreciation with clear requests.
 
-**Related:** [[Nonviolent_Communication]], [[Karpman_Drama_Triangle]], [[Analysis Prompt - Multi-Modal Conflict Assessment]]
+**Related:** [[Nonviolent Communication]], [[Karpman Drama Triangle]], [[Analysis Prompt - Multi-Modal Conflict Assessment]]

@@ -33,4 +33,4 @@ type: reference
 - Collect exceptions; re-author preferred identity.
 - Invite witnesses to thicken the preferred story.
 
-**Related:** [[Internal_Family_Systems]], [[Nonviolent_Communication]], [[Analysis Prompt - Multi-Modal Conflict Assessment]]
+**Related:** [[Internal Family Systems]], [[Nonviolent Communication]], [[Analysis Prompt - Multi-Modal Conflict Assessment]]

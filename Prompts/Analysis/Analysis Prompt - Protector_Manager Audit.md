@@ -41,8 +41,8 @@ related:
 ## 📚 Frameworks Referenced
 
 1.  **[[Internal Family Systems (IFS)]] (Primary)**: Provides the core terminology and methodology for Parts work (Protector, Manager, Firefighter, Self).
-2.  **[[Analysis Prompt - Exile/Core Wound Mapping]] (Implicit)**: Used to define the _target_ of the Protector's defense.
-3.  **[[Acceptance and Commitment Therapy (ACT)]]**: Used to reinforce the idea that the Part's _action_ contradicts the user's core _values_.
+2.  **[[Analysis Prompt - Exile_Core Wound Mapping]] (Implicit)**: Used to define the _target_ of the Protector's defense.
+3.  **[[Acceptance and Commitment Therapy]]**: Used to reinforce the idea that the Part's _action_ contradicts the user's core _values_.
 
 ---
 

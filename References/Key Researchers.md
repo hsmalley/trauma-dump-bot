@@ -9,8 +9,8 @@ type: reference
 
 # 👩‍🔬 Key Researchers
 
-- Stephen Porges ([[Polyvagal_Theory]]
-- Richard Schwartz (IFS)
-- Sue Johnson (EFT)
-- Marshall Rosenberg (NVC)
-- John & Julie Gottman ([[Gottman_Method]])
+- Stephen Porges ([[Polyvagal Theory]]
+- Richard Schwartz (IFS) [[Internal Family Systems]]
+- Sue Johnson (EFT) [[Emotionally Focused Therapy]]
+- Marshall Rosenberg (NVC) [[Nonviolent Communication]]]
+- John & Julie Gottman ([[Gottman Method]])

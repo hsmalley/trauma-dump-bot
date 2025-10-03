@@ -28,7 +28,7 @@ related:
 1.  **Define Purpose:** State the vault's core function simply: **"To take confused, painful relational data and turn it into clear, actionable next steps for repair and growth."**
 2.  **Explain Structure:** Briefly explain the three main content types (Frameworks, Templates, Prompts).
 3.  **Prioritized Action (Action):** Define the most effective "First Three Steps" for a new user:
-    - **Step 1: Regulation First** (Refer to **[[Polyvagal_Theory_PVT]]** and encourage physical regulation before thinking).
+    - **Step 1: Regulation First** (Refer to **[[Polyvagal Theory]]** and encourage physical regulation before thinking).
     - **Step 2: Practice Reflection** (Refer to **[[Reflection Template]]** for self-assessment).
     - **Step 3: Data Collection** (Refer to **[[Conflict Data Logger]]** for structured input).
 4.  **The Core Loop:** Clearly explain the full lifecycle that every successful analysis follows: **Dysregulation -> Data Collection -> Analysis -> Synthesis -> Repair Action.**

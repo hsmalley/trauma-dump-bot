@@ -36,13 +36,13 @@ related:
     - Did the user state they have _no memory_ of how a core event started or finished?
 3.  **Safety Compromise Assessment (Action 3):** Determine if the observed dissociation was a defense mechanism against an overwhelming threat (an **Exile trigger**). If so, was the threat internal or external?
 4.  **Immediate Action Mandate (Action 3):** If clear signs of dissociation or Dorsal Vagal are present, immediately interrupt the analysis and issue a **Safety Mandate**.
-5.  **Synthesis and Micro-Skill:** Provide a summary of the state and recommend the specific **[[Polyvagal Theory (PVT)]] micro-skill** of **Grounding and Orientation** as the primary intervention before _any_ further relational work is attempted.
+5.  **Synthesis and Micro-Skill:** Provide a summary of the state and recommend the specific **[[Polyvagal Theory]] micro-skill** of **Grounding and Orientation** as the primary intervention before _any_ further relational work is attempted.
 
 ---
 
 ## 📚 Frameworks Referenced
 
-1.  **[[Polyvagal Theory (PVT)]] (Primary)**: Provides the core framework for understanding Dorsal Vagal shutdown and the biological need for safety/grounding.
+1.  **[[Polyvagal Theory]] (Primary)**: Provides the core framework for understanding Dorsal Vagal shutdown and the biological need for safety/grounding.
 2.  **[[Analysis Prompt - Systemic & Trauma Mapping]]**: Used to infer that the dissociation is likely linked to a past trauma response being re-enacted.
 3.  **[[_CORE_PRINCIPLES_AND_GOVERNANCE]] (Mandatory)**: Enforces the "Regulation First" and "Safety Over Analysis" rule.
 

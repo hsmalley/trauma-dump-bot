@@ -32,4 +32,4 @@ type: reference
 - Offer alternatives and pacing options.
 - Use strengths-based, non-pathologizing framing.
 
-**Related:** [[Polyvagal Theory]], [[Consent_Culture]], [[Analysis Prompt - Multi-Modal Conflict Assessment]]
+**Related:** [[Polyvagal Theory]], [[Consent Culture]], [[Analysis Prompt - Multi-Modal Conflict Assessment]]
