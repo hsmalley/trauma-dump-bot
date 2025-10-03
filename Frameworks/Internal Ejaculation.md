@@ -1,8 +1,8 @@
 ---
-title: "💧 Internal Ejaculation — Framework Note"
+title: 💧 Internal Ejaculation — Framework Note
 aliases:
-  - "Creampie"
-  - "Internal Ejaculation"
+  - Creampie
+  - Internal Ejaculation
 tags:
   - sexual_health
   - consent
@@ -12,7 +12,7 @@ tags:
 related:
   - safer_sex_practices
   - consent_culture
-source: Educational synthesis: sexual health guidance, harm-reduction best practices, and trauma-informed communication
+source: Educational synthesis sexual health guidance, harm-reduction best practices, and trauma-informed communication
 citation: ChatGPT-assisted summary (references omitted in canvas; include APA citations when exporting)
 created: 2025-10-02
 modified: 2025-10-02

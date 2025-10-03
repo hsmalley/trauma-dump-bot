@@ -37,9 +37,9 @@ related:
 4.  **Citations (Action):** Identify the primary academic sources for the framework and format them accurately in the final `## Citations` section.
 
 5.  **Clean Output:** Ensure the final output contains **no instructional text, no placeholders, and no remaining `[... fill in ...]` prompts** from the template.
-6. - **Do not include human-readable label prefixes inside frontmatter values.**  
-  ❌ Bad: `source: Synthesis: kink scholarship, sexual-health guidance`  
-  ✅ Good: `source: kink scholarship, sexual-health guidance`
+6.  - **Do not include human-readable label prefixes inside frontmatter values.**  
+      ❌ Bad: `source: Synthesis: kink scholarship, sexual-health guidance`  
+      ✅ Good: `source: kink scholarship, sexual-health guidance`
 
 ---
 
