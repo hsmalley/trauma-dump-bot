@@ -7,7 +7,6 @@ description:
 author: GPT Relational Analysis Triage Engine
 created: 2025-10-03
 updated: 2025-10-03
-version: 1.0.0
 tags:
   - PTSD
   - post-traumatic-stress
@@ -25,7 +24,6 @@ audience:
 license:
   Adapt locally; follow jurisdictional laws and specialist guidance. Not a substitute
   for clinical judgment.
-schema: framework-notes/1.0
 ---
 
 <!-- @format -->

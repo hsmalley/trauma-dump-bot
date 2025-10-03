@@ -24,7 +24,6 @@ audience:
 license:
   Adapt locally; follow jurisdictional clinical guidance. Not a substitute for
   specialist consultation.
-schema: framework-notes/1.0
 ---
 
 <!-- @format -->

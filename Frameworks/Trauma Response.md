@@ -19,7 +19,6 @@ audience:
   - Occupational health and HR leads
   - Disaster response coordinators and humanitarian teams
 license: Adapt to local policy, regulatory requirements, and clinical judgment. Not a substitute for legal or specialist advice.
-schema: framework-notes/1.0
 ---
 
 <!-- @format -->
