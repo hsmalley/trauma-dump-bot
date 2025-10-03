@@ -1,268 +1,203 @@
 ---
-title: Post Traumatic Stress Disorder — Framework Notes
-description:
-  Clinical, trauma-informed framework for rapid assessment, triage, stabilization, and
-  coordinated care for people with Post Traumatic Stress Disorder (PTSD) and related
-  trauma presentations.
-author: GPT Relational Analysis Triage Engine
-created: 2025-10-03
-updated: 2025-10-03
-tags:
+title: "🧠 Post Traumatic Stress Disorder"
+aliases:
+  - Post Traumatic Stress Disorder
   - PTSD
-  - post-traumatic-stress
-  - trauma
-  - assessment
-  - treatment
-  - risk-management
-audience:
-  - Emergency Department clinicians
-  - Primary care providers
-  - Mental health clinicians (psychiatrists, psychologists, therapists)
-  - Trauma specialists and specialist clinics
-  - School health and youth services
-  - First responders and occupational health teams
-license:
-  Adapt locally; follow jurisdictional laws and specialist guidance. Not a substitute
-  for clinical judgment.
+tags:
+  - framework
+  - vault
+  - psychology
+  - relational_analysis
+  - post_traumatic_stress_disorder
+related:
+  - Polyvagal_Theory
+  - Internal_Family_Systems
+  - Attachment_Theory
+  - DBT
+  - EMDR
+source: Educational synthesis from validated public sources
+citation: ChatGPT-assisted summary with links to academic and practitioner materials
+created: 2025-10-03
+modified: 2025-10-03
 ---
 
 <!-- @format -->
 
-# Post Traumatic Stress Disorder — Framework Notes
+### 🧩 Definition and Core Themes
+**Post Traumatic Stress Disorder (PTSD)** is a trauma-response condition that can develop after exposure to one or more traumatic events (threat to life, physical integrity, sexual violence, or severe threat). PTSD is characterized by clusters of symptoms: intrusive memories or flashbacks, avoidance of trauma reminders, negative alterations in cognition and mood, and marked alterations in arousal/reactivity. Core themes for a vault-ready framework: relational impact, nervous-system dysregulation, parts-driven protective strategies, and the need for multi-domain, culturally competent interventions.
 
-> Action-focused, trauma-informed guide for recognizing, assessing risk, stabilizing,
-> and coordinating multidisciplinary care for people with PTSD or trauma-related
-> distress.
-
----
-
-## Purpose
-
-- Provide a compact, evidence-aligned template for rapid clinical assessment,
-  medical/psychiatric triage, brief interventions, and care coordination for PTSD across
-  settings.
-  [oai_citation:0‡NICE](https://www.nice.org.uk/guidance/ng116/chapter/recommendations?utm_source=chatgpt.com)
+This framework treats PTSD as a biopsychosocial phenomenon — biological (neurobiology, genetics), psychological (memory, meaning-making, parts), and social (relationships, systems of care, cultural context) — and centers trauma-informed, non-pathologizing language and practice.
 
 ---
 
-## Scope & Audience
+### 🌿 Traits and Lived Experience
+From lived experience, PTSD commonly feels like:
+- **Intrusion:** sudden, vivid memories, nightmares, or sensory flashbacks that feel as if the trauma is recurring.  
+- **Avoidance:** deliberate or automatic efforts to avoid people, places, conversations, or internal states that cue trauma.  
+- **Hypervigilance and startle:** persistent sense of threat, difficulty relaxing, sleep disruption.  
+- **Emotional numbing / negative cognition:** difficulty feeling positive emotions, persistent guilt/shame, distorted beliefs about self or others.  
+- **Relational consequences:** mistrust, withdrawal, difficulty with intimacy and co-regulation, and role-shifts in caregiving relationships.
 
-- Designed for frontline clinicians (ED, primary care), mental-health practitioners,
-  school health teams, occupational health, and care coordinators.
-- Applies to adults and young people with acute or chronic PTSD presentations, including
-  Complex PTSD (CPTSD) where relevant; specialist referral recommended for complex,
-  refractory, or high-risk cases.
-  [oai_citation:1‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12466117/?utm_source=chatgpt.com)
-
----
-
-## Quick Immediate Checklist (first 5–10 minutes)
-
-1. **Is the person in immediate danger?** Ask directly about suicidal ideation, intent,
-   or plans; if present or if acute safety concerns exist, activate emergency pathways.
-   [oai_citation:2‡PTSD.gov](https://www.ptsd.va.gov/professional/treat/txessentials/cpg_ptsd_management.asp?utm_source=chatgpt.com)
-2. **Medical stability:** assess airway/breathing/circulation if physically compromised;
-   treat acute intoxication or withdrawal as indicated.
-3. **Contain distress:** use grounding/containment techniques (calm presence, orienting
-   statements, breathing regulation) while arranging privacy and safety.
-4. **Limit retraumatization:** avoid invasive recounting of trauma unless clinically
-   indicated and therapeutic; obtain consent for trauma discussion.
-5. **Document & notify:** record verbatim distress statements, immediate risk
-   indicators, and notify on-call mental-health services or crisis teams as per
-   protocol.
+Intersectional note: cultural context, minority stress, systemic trauma (e.g., racism, colonial violence), and neurodivergence all alter presentation, coping strategies, help-seeking, and effective interventions. Validate diverse trauma narratives and avoid one-size-fits-all expectations.
 
 ---
 
-## Structured Assessment (core domains)
-
-- **Trauma exposure (Criterion A context):** type of trauma, timing, single vs. repeated
-  events, interpersonal trauma, childhood/adult onset. (DSM-5/DSM-5-TR definitions
-  inform diagnostic thresholds).
-  [oai_citation:3‡PTSD.gov](https://www.ptsd.va.gov/professional/treat/essentials/dsm5_ptsd.asp?utm_source=chatgpt.com)
-- **Symptom clusters:** intrusive memories/flashbacks/nightmares; avoidance of
-  reminders; negative alterations in cognition/mood; hyperarousal/reactivity; functional
-  impairment; duration (>1 month).
-  [oai_citation:4‡PTSD.gov](https://www.ptsd.va.gov/professional/treat/essentials/dsm5_ptsd.asp?utm_source=chatgpt.com)
-- **Severity & course:** acute stress vs. persistent PTSD, symptom frequency/intensity,
-  triggers, dissociation.
-- **Comorbidity:** depression, anxiety, substance use, TBI, pain, sleep disorders—assess
-  for overlapping drivers of risk and impairment.
-- **Risk assessment:** suicidal ideation/intent, self-harm, aggression, severe
-  dissociation, psychosis, unstable housing, lack of supports.
-  [oai_citation:5‡PTSD.gov](https://www.ptsd.va.gov/professional/treat/txessentials/cpg_ptsd_management.asp?utm_source=chatgpt.com)
-- **Social & cultural context:** stigma, family responses, legal, migration or asylum
-  issues, cultural idioms of distress.
-- **Functional assessment:** impact on work/school, relationships, daily self-care,
-  ability to engage in therapy.
+### 🧠 Nervous System and Parts Work Lens
+**Polyvagal framing:** Trauma frequently shifts autonomic balance toward sympathetic mobilization (fight/flight) or dorsal vagal responses (shutdown/numbing). Re-establishing ventral-vagal safety is central to restoring social engagement and reducing reactivity.  
+**IFS/Parts framing:** PTSD dynamics often involve exiled parts (trauma memory, shame), managers/protectors (avoidance, hypercontrol), and firefighters (substance use, dissociation, risky behavior). A parts-aware approach supports negotiation with protectors and gradual, contained access to exiles.  
+**Practical map metaphor:** "Inner perimeter" — protectors build walls; therapy offers trusted gateways (safe cues, gradual exposure) so memory can be processed without overwhelming the system.
 
 ---
 
-## Risk Stratification (practical triage)
-
-- **Low risk / outpatient:** PTSD symptoms present but medically stable, no suicidality
-  or major comorbidity, reliable supports, and rapid access to trauma-focused therapy —
-  arrange outpatient trauma-focused psychotherapy and safety plan.
-  [oai_citation:6‡NICE](https://www.nice.org.uk/guidance/ng116/chapter/recommendations?utm_source=chatgpt.com)
-- **Moderate risk / urgent follow-up:** marked functional impairment, comorbid severe
-  anxiety/depression or substance use, intermittent suicidal ideation without plan,
-  limited supports — consider expedited outpatient pathways, intensive outpatient/day
-  program, or brief observation.
-  [oai_citation:7‡PTSD.gov](https://www.ptsd.va.gov/professional/treat/txessentials/cpg_ptsd_management.asp?utm_source=chatgpt.com)
-- **High / immediate risk:** active suicidal intent or plan, severe dissociation with
-  loss of capacity, acute intoxication or withdrawal with medical risk, or severe
-  medical instability — emergency admission (medical or psychiatric as appropriate) and
-  multidisciplinary stabilization.
-  [oai_citation:8‡PTSD.gov](https://www.ptsd.va.gov/professional/treat/txessentials/cpg_ptsd_management.asp?utm_source=chatgpt.com)
+### 💞 Attachment and Relational Patterns
+- **Attachment injuries** (abandonment, betrayal) commonly co-occur with or exacerbate PTSD; they shape trust, repair, and expectations of safety.  
+- **Relational dysregulation**: partners may be pulled into caretaker/rescuer roles, experience compassion fatigue, or misinterpret avoidance as rejection.  
+- **Repair pathways:** predictable co-regulation rituals, transparent renegotiation of roles, and explicit aftercare plans support recovery at the relational level.  
+- **Couples/family interventions** that foster containment and shared safety routines improve outcomes when paired with individual trauma work.
 
 ---
 
-## Intervention / Response Framework (evidence-aligned immediate strategies)
+### 🔄 Misunderstandings and Reframes
 
-- **Stabilization first:** address immediate safety (suicide risk), medical needs, and
-  crisis stabilization (sleep/medication management if needed).
-- **Psychoeducation & grounding:** brief, trauma-informed education about normal stress
-  responses, sleep hygiene, and self-soothing tools; provide written resources and
-  crisis contacts.
-- **Trauma-focused psychotherapy:** recommend trauma-focused, manualized therapies as
-  first-line where available — examples include Trauma-Focused CBT variants (CPT, CT for
-  PTSD, Prolonged Exposure) and EMDR. These modalities have the strongest RCT support
-  for PTSD symptom reduction.
-  [oai_citation:9‡PubMed](https://pubmed.ncbi.nlm.nih.gov/32284821/?utm_source=chatgpt.com)
-- **Pharmacotherapy:** consider SSRIs/SNRIs for symptom reduction when indicated (e.g.,
-  comorbid depression/anxiety or when psychotherapy is inaccessible); use medication as
-  adjunct rather than sole curative approach. Consult psychiatry for complex regimens or
-  polypharmacy.
-  [oai_citation:10‡PTSD.gov](https://www.ptsd.va.gov/professional/treat/txessentials/cpg_ptsd_management.asp?utm_source=chatgpt.com)
-- **Address comorbidities:** treat substance use, sleep disorders, and pain
-  concurrently; some comorbidities increase risk and impede PTSD treatment engagement.
-- **Special populations:** adapt approaches for children/adolescents, older adults,
-  survivors of complex interpersonal trauma (CPTSD), and people with TBI or severe
-  dissociation — specialist input recommended.
-  [oai_citation:11‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12466117/?utm_source=chatgpt.com)
+| Myth | Reframe |
+| --- | --- |
+| PTSD means someone is permanently broken. | PTSD is a response to overwhelming events; many people recover substantially with appropriate, staged supports. |
+| Exposure-based therapies retraumatize people. | When paced and contained, trauma-focused exposures (PTSD therapies) aim to safely process memories and reduce avoidance; they require skillful pacing and consent. |
+| PTSD is only about combat or catastrophic events. | PTSD can follow many events (assault, medical trauma, disasters, prolonged interpersonal trauma, systemic oppression). |
 
 ---
 
-## Communication & Trauma-Informed Interaction Tips
+### ⚖️ Relational Challenges and Strengths
 
-- Use calm, validating, and nonjudgmental language; avoid re-traumatizing prompts and
-  respect pacing — ask for consent before exploring trauma narratives.
-- Normalize common reactions (hypervigilance, nightmares) while validating suffering;
-  emphasize agency and collaborative planning.
-- Be identity-conscious: use gender-affirming and culturally sensitive phrasing;
-  recognize how discrimination and intersectional factors can compound trauma.
-- When working with neurodivergent or dissociative presentations, allow flexibility in
-  communication (visual aids, breaks, simplified language).
+| Challenges | Strengths |
+| --- | --- |
+| Avoidance and numbing → relationship distance and misattunement. | Structured rituals and low-demand shared activities create reliable scaffolding for reconnection. |
+| High reactivity or dissociation → ruptures and shame cycles. | Psychoeducation and validated scripts reduce misinterpretation and support timely repair. |
+| Fragmented care across medical, therapy, and community systems. | Multidisciplinary teams and coordinated safety plans distribute care and reduce single-point burden. |
 
 ---
 
-## Documentation Template (minimum fields)
+### 🛠️ Strategies, Prompts, and Practices
+**Assessment prompts**
+- “What happened, and what are your most frequent reminders?” (brief trauma history, trigger map)  
+- “Describe the sensations or images when a memory comes up.” (intrusion phenomenology)  
+- “What do you do to cope when triggered? What helps afterward?” (parts and strategies)  
+- Use brief measures (PCL-5, symptom diary) for tracking change when appropriate.
 
-- Date/time, clinician, setting, contact method (in-person/telehealth)
-- Presenting complaint and brief trauma history (with consent)
-- Symptom clusters and severity, screening tool scores if used (e.g., PCL-5), functional
-  impact
-- Medical/psychiatric risk assessment (suicidality/self-harm, dissociation, substance
-  use)
-- Immediate actions taken (safety plan, medications given, referrals made)
-- Disposition and rationale (admit/observe/outpatient + follow-up plan)
-- Communication with supports (consent status), referrals and handoff notes
+**Stabilization & safety (first-phase priorities)**
+1. **Psychoeducation:** normalize responses, explain fear-memory mechanisms and the three-phase model (stabilize, process, integrate).  
+2. **Safety planning:** identify triggers, grounding strategies, safe people, and tangible steps for acute distress.  
+3. **Regulation toolkit (Polyvagal-informed):** paced breathing, orienting exercises, sensory anchors, movement resets, and social cueing.  
+4. **Reduce immediate risks:** substance harms, suicidal ideation, and unsafe environments — coordinate urgent care when needed.
 
----
+**Therapies and sequencing**
+- **Phase-based care:** begin with stabilization (skills, safety), then trauma processing, then integration/relational repair.  
+- **Evidence-based trauma therapies:** trauma-focused CBT (TF-CBT for youth; CPT or Prolonged Exposure for adults), EMDR, Narrative Exposure Therapy, and phased IFS-informed trauma work. Choose modality according to client readiness, preferences, and comorbidity.  
+- **Adjunctive supports:** DBT skills for emotion regulation; medication for comorbid depression/anxiety or sleep; sleep hygiene and medical review.
 
-## Care Coordination & Follow-up
-
-- **Before discharge:** provide a written safety plan, crisis contacts, harm-reduction
-  steps (e.g., substance safety), and clear next-step appointments (ideally within 7
-  days for moderate/high risk).
-  [oai_citation:12‡NICE](https://www.nice.org.uk/guidance/ng116/chapter/recommendations?utm_source=chatgpt.com)
-- **Referral pathways:** prioritize expedited access to trauma-focused therapy; if
-  unavailable, arrange interim supports (CBT for comorbid symptoms, psychiatric
-  follow-up).
-- **Active outreach:** consider proactive follow-up calls/texts for high-risk or
-  disengaged patients; document outreach attempts and outcomes.
-- **Multidisciplinary handoff:** send concise summary to receiving clinician/team with
-  current risk status, treatments initiated, and outstanding needs.
+**Relational and community practices**
+- **Pre-negotiated safe-phrases and pause protocols** for partners during triggering events or scenes.  
+- **Shared aftercare plans** after exposure to reminders (media, community rituals).  
+- **Moderator/community governance**: content warnings and opt-in threads reduce accidental retraumatization in group spaces.
 
 ---
 
-## Postvention and Staff Support
-
-- After traumatic incidents or patient suicidality, provide structured debriefing for
-  staff, access to supervision, and mental-health supports for responders.
-- For community or group exposures (e.g., mass trauma, workplace incidents), coordinate
-  with public health/occupational teams to offer targeted psychological first aid and
-  stepped care resources.
+### 🪢 Associated Kinks
+When trauma history intersects with kink: informed negotiation, explicit consent, robust pre/post-grounding, and clinical dialogue are critical. Avoid rehearsal of unresolved trauma in erotic contexts without concurrent trauma therapy and clear, revocable consent. Respect that some survivors may be re-sexualizing trauma in healing ways — treat each case with individualized assessment.
 
 ---
 
-## Ethical & Legal Considerations
-
-- Know local laws about capacity, consent, mandatory reporting, and involuntary
-  treatment; mal-adaptive risk decisions may require involving guardians or legal
-  pathways per jurisdiction.
-- Obtain informed consent for treatment and for disclosure to third parties; be explicit
-  about limits to confidentiality related to safety.
-- Balance patient autonomy with duty to protect in cases of severe self-harm risk,
-  documenting rationale and steps taken.
+### 🛡️ Consent, Safety & Negotiation
+- **Informed consent for trauma work:** explain expected phases, potential for temporary symptom increase, and right to pause or stop.  
+- **Consent in community spaces:** use content warnings, trauma-safe channels, and opt-in event design.  
+- **Safety documentation:** keep safety plans and crisis contacts up to date, stored securely, and shared with consent. For minors or imminent danger, follow legal/ethical duty-to-warn procedures.
 
 ---
 
-## Quick Reference: One-Page Clinical Skeleton
-
-- Name / Age / Setting: \***\*\*\*\*\***\_\_\***\*\*\*\*\***
-- Trauma exposure (brief): **\*\*\*\***\_\_\_\_**\*\*\*\***
-- Core symptoms (intrusion / avoidance / mood / arousal): **\*\*\*\***\_\_**\*\*\*\***
-- PCL-5 or screening score (if used): \***\*\_\_\_\*\***
-- Immediate risk (medical/psychiatric): Low / Moderate / High —
-  rationale: \***\*\_\_\_\*\***
-- Immediate interventions (safety plan, meds, crisis referrals):
-  **\*\*\*\***\_\_\_**\*\*\*\***
-- Disposition & follow-up appointment: \***\*\*\*\*\***\_\_\***\*\*\*\*\***
-- Key contacts (crisis team / therapist / PCP): **\*\*\*\***\_\_\_**\*\*\*\***
+### 🧭 Roles, Archetypes & Dynamics
+- **Protector/Organizer:** tries to prevent re-exposure via strict routines; may resist processing.  
+- **Survivor/Exile:** holds raw memory and shame; needs slow, contained access.  
+- **Caretaker/Partner:** supports safety but risks burnout; needs boundary guidance and respite.  
+Mapping these roles clarifies who needs what and how to rotate emotional labor.
 
 ---
 
-## References & Resources
-
-- NICE guideline: Post-traumatic stress disorder — recognition, assessment and treatment
-  (NG116).
-  [oai_citation:13‡NICE](https://www.nice.org.uk/guidance/ng116/chapter/recommendations?utm_source=chatgpt.com)
-- VA/DoD Clinical Practice Guideline for the Management of PTSD (evidence-based
-  recommendations for assessment and treatment).
-  [oai_citation:14‡PTSD.gov](https://www.ptsd.va.gov/professional/treat/txessentials/cpg_ptsd_management.asp?utm_source=chatgpt.com)
-- DSM-5 diagnostic criteria and DSM-informed summaries for PTSD symptom clusters and
-  Criterion A.
-  [oai_citation:15‡PTSD.gov](https://www.ptsd.va.gov/professional/treat/essentials/dsm5_ptsd.asp?utm_source=chatgpt.com)
-- Systematic reviews and meta-analyses supporting trauma-focused psychotherapies (CBT
-  variants, CPT, PE) and EMDR as first-line psychotherapies.
-  [oai_citation:16‡PubMed](https://pubmed.ncbi.nlm.nih.gov/32284821/?utm_source=chatgpt.com)
-- Guidance on CPTSD and complexity of presentation: emerging reviews and specialist
-  recommendations.
-  [oai_citation:17‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12466117/?utm_source=chatgpt.com)
+### 🔁 Scripts, Rituals & Repair
+**Grounding prompt (30–60s):** “Name 5 things you can see, 4 you can touch, 3 you can hear, 2 you can smell, 1 you can taste.” Pause, breathe, and re-orient.  
+**Pre-exposure negotiation (for therapy or community):** “We will try [exercise]; expected sensations include [list]; pause word is [word]; we’ll debrief afterward and schedule aftercare.”  
+**Repair opener after rupture:** “I’m sorry for what happened. I felt [somatic cue]; I’d like to understand what you experienced and make a small plan to avoid this next time.”
 
 ---
 
-## Appendix A: Useful Templates (copy-and-paste ready)
-
-**Brief Safety Plan (patient copy)**
-
-- Warning signs: \***\*\*\*\*\***\_\_\_\_\***\*\*\*\*\***
-- What I can do alone (grounding/coping): \***\*\*\*\*\***\_\_\_\_\***\*\*\*\*\***
-- People to contact (names & numbers): \***\*\*\*\*\***\_\_\_\_\***\*\*\*\*\***
-- Professional/crisis contacts: **\*\***\_\_\_**\*\*** (local emergency / crisis team)
-- Steps agreed (who will call whom, when): \***\*\*\*\*\***\_\_\_\_\***\*\*\*\*\***
-
-**Basic Handoff Note (to specialist)**
-
-- Patient identifiers, brief trauma history, current symptoms, screening scores,
-  immediate risk level, investigations done (if any), treatments started, requested
-  urgency (e.g., appointment within 7 days).
-
-**PCL-5 monitoring template**
-
-- Baseline PCL-5: **\_** Date: **\_** Follow-up PCL-5: **\_** Change: **\_**
+### 💠 Mutual Aid & Collective Access
+- **Peer-led support groups** (trauma-informed) reduce isolation and model regulation strategies.  
+- **Resource mapping:** curated lists of trauma-aware therapists, low-cost clinics, and culturally competent providers.  
+- **Accessibility planning:** sensory-safe rooms, quiet spaces at events, flexible participation formats (text-based, asynchronous).
 
 ---
 
-_End of document — adapt to local policy and resources. For complex or high-risk cases,
-consult PTSD specialists and multidisciplinary teams immediately._
+### 🌀 Creative, Mythic & Spiritual Overlays
+- Narrative therapy and symbolic ritual can help re-author trauma narratives (e.g., reclaiming agency through storytelling, rite-of-passage metaphors, or symbolic boundary-work). Use these only with informed consent and clinical oversight when trauma is severe.
+
+---
+
+### 🎭 Symbolic Narrative & Story Mechanics
+- Frame recovery as a gradual reclaiming arc: containment → witness/processing → reintegration. Small, measurable “quests” (e.g., one brief exposure with supports) construct mastery and rebuild agency.
+
+---
+
+### 📘 Glossary or Concept Index
+- **Flashback:** vivid re-experiencing of the traumatic event.  
+- **Hypervigilance:** heightened scanning for threat.  
+- **Dissociation:** disconnect from surroundings, sensations, or identity continuity.  
+- **Prolonged Exposure (PE):** a trauma-processing therapy using graduated, repeated exposure to memories and cues.  
+- **CPT (Cognitive Processing Therapy):** trauma-focused cognitive therapy addressing stuck beliefs.
+
+---
+
+### 🔍 Cross-Framework Patterns
+- Pair with [[Polyvagal_Theory]] for regulation sequencing.  
+- Use [[Internal_Family_Systems]] to negotiate protectors and access exiles.  
+- Integrate [[DBT]] for skills training in emotion regulation and interpersonal effectiveness.  
+- Coordinate with [[Attachment_Theory]]-informed relational interventions to rebuild safety in close relationships.
+
+---
+
+### 🧪 Use Cases or Integration
+- **Intake clinician:** run trauma-screen, safety triage, stabilization checklist, and co-create a phased plan.  
+- **Community organizer:** implement content warnings, trauma-safe event design, and opt-in support rosters.  
+- **Therapist:** follow a phase-based roadmap; coordinate medical, psychiatric, and social supports when needed.
+
+---
+
+### 🎥 Media & Further Exploration
+_(Embed omitted — recommend authoritative trainings and organization resources such as ISTSS, VA/DoD clinical practice guidance, and trauma-focused EMDR/TF-CBT training modules for practitioner learning.)_
+
+---
+
+### 🔗 Related Frameworks and Further Reading
+- [[Polyvagal_Theory]]  
+- [[Internal_Family_Systems]]  
+- [[DBT]]  
+- [[EMDR]]  
+- [[Attachment_Theory]]
+
+---
+
+### 📚 Citations & Sources
+- American Psychiatric Association. *Diagnostic and Statistical Manual of Mental Disorders* (DSM-5).  
+- International Society for Traumatic Stress Studies (ISTSS) — practice guidelines and resources. https://istss.org/  
+- National Center for PTSD (U.S. Department of Veterans Affairs) — clinical resources and treatment guides. https://www.ptsd.va.gov/  
+- World Health Organization — trauma-related guidance and mental health resources. https://www.who.int/  
+- Foa, E. B., et al. Evidence-based treatments for PTSD: Prolonged Exposure, CPT, and EMDR — clinician reviews and meta-analyses.
+
+---
+
+### ⚠️ Ethical Concerns
+- Trauma work can temporarily increase symptom intensity; always obtain informed consent, clarify the pacing, and ensure safety plans are in place.  
+- Avoid imposing exposure without readiness; coercive practices retraumatize.  
+- Respect cultural and intersectional contexts — do not universalize any single trauma narrative.  
+- When community-level safety interventions (records, moderation actions) are used, secure consent and adhere to privacy/data-protection standards.  
+- If imminent danger or suicidality is present, follow local emergency protocols and escalate to clinical/crisis services immediately.
+
+---

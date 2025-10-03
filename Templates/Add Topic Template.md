@@ -12,8 +12,9 @@ type: template
 Generate a framework notes .md file for "<TOPIC>".
 
 Requirements:
+
 - Output ONLY a single fenced code block with language tag 'markdown' (i.e. ```markdown ... ```), and nothing else outside that block.
-- The fenced markdown must contain a complete Markdown file with YAML frontmatter including these fields: title, description, author ("GPT Relational Analysis Triage Engine"), created (YYYY-MM-DD), updated (YYYY-MM-DD), version (1.0.0), tags (list), audience (list), license, schema, filename.
+- The fenced markdown must contain a complete Markdown file with YAML frontmatter
 - Set created and updated to today's date.
 - No HTML, repo-ready Markdown only.
 - Output nothing outside the fenced code block.

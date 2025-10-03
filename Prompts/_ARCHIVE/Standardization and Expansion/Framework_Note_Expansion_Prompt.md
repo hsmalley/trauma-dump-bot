@@ -26,6 +26,7 @@ user-facing notes.
 - **Emoji where relevant**
 - **Media section only when valid embed found**
 - **Omit empty optional sections**
+- **Output ONLY a single fenced code block with language tag 'markdown' (i.e. markdown ... ), and nothing else outside that block.**
 
 - **Do not include human-readable label prefixes inside frontmatter values.**  
   ❌ Bad: `source: Synthesis: kink scholarship, sexual-health guidance`  
@@ -155,7 +156,6 @@ definitions are required.
   statements)
 - Anchor these to framework theory when possible
 
----
 
 ### 🛡️ Consent, Safety & Negotiation _(Optional for kink/sexuality frameworks)_
 
@@ -237,8 +237,6 @@ definitions are required.
 
 - Map inherent tensions within the framework (e.g., freedom vs. safety)
 - Show role strain, part clashes, or philosophical dilemmas
-
----
 
 ### 🎥 Media & Further Exploration _(Optional)_
 
