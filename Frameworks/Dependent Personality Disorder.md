@@ -137,9 +137,9 @@ Attachment**.
 
 - [[Attachment Theory]]
 - [[Internal Family Systems]]
-- [[Boundary_Models]]
-- [[Borderline_Personality_Disorder_BPD]] (Often confused with DPD due to abandonment
-  fear, but BPD involves emotional volatility and DPD involves submission/passivity).
+- [[Boundary Models]]
+- [[Borderline Personality Disorder]] (Often confused with DPD due to abandonment fear,
+  but BPD involves emotional volatility and DPD involves submission/passivity).
 
 ### 📚 Citations & Sources
 

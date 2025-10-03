@@ -127,10 +127,10 @@ secure attachment experiences.
 
 ### 🔗 Related Frameworks and Further Reading
 
-- [[Drama_Therapy]]
+- [[Drama Therapy]]
 - [[Internal Family Systems]]
 - [[Polyvagal Theory]]
-- [[Trauma_Response]]
+- [[Trauma Response]]
 - [[Neurodivergence]] (Stimming as self-regulation/play)
 
 ### 📚 Citations & Sources
