@@ -21,6 +21,9 @@ __pycache__/**
 .venv/
 .env
 
+# Caches
+.pretier.cache
+
 # Binary vault exports / build artifacts
 *.msgpack
 *.mpack
