@@ -22,8 +22,6 @@ modified: 2025-10-02
 
 <!-- @format -->
 
-%% Because I'm a silly silly man %%
-
 ### 🧩 Definition and Core Themes
 
 A **Creampie** is a term used to describe a sexual act where a person with a penis **ejaculates inside** a receiving partner's orifice (typically the vagina or anus) **without the use of a barrier method** (condom), with the semen subsequently becoming **visible** as it seeps or drips out.

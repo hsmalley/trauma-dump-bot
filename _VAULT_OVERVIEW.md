@@ -44,10 +44,10 @@ Follow this four-step loop to turn a crisis into a learning opportunity:
 
 Use these links to navigate to the detailed maps of the vault's structure and knowledge base:
 
-| Index                           | Content                 | Purpose                                                                |
-| :------------------------------ | :---------------------- | :--------------------------------------------------------------------- |
+| Index                        | Content                 | Purpose                                                                |
+| :--------------------------- | :---------------------- | :--------------------------------------------------------------------- |
 | **[[_PROMPTS_OVERVIEW]]**    | **The Tool Index**      | Map of all 20+ master, analysis, and utility tools.                    |
 | **[[_FRAMEWORKS_OVERVIEW]]** | **The Knowledge Index** | Map of all psychological models (PVT, IFS, ACT) by function.           |
 | **[[_TEMPLATES_OVERVIEW]]**  | **The Input Index**     | Map of all necessary forms for data collection and repair.             |
 | **[[_GLOSSARY_OF_TERMS]]**   | **Terminology Lookup**  | Quick definitions for all complex relational and psychological jargon. |
-| **[[_VAULT_MANIFEST_md]]**      | **The File Index**      | Complete list of all files in the system (for maintenance).            |
+| **[[_VAULT_MANIFEST_md]]**   | **The File Index**      | Complete list of all files in the system (for maintenance).            |

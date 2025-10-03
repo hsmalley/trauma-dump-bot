@@ -25,28 +25,17 @@ It's really simple, generate the a json file, upload it to your preferred chat b
 
 ### How to start using NOW!
 
-Use the chatgpt bot if you want you the quickest way.
-
-However to use on your own chat bot:
-
 - Download the vault.json file
-- Grab the Prompt from Prompts/System/System_Prompt_JSON.md (the System_Prompt_JSON_mini.md is also a very fast way of getting it loaded)
-- Upload vault.json and past in the prompt
+- Grab the Prompt from System_Prompt_JSON.md (the System_Prompt_JSON_mini.md is also a very fast way of getting it loaded)
+- Upload vault.json and paste in the prompt
 - 🚀 Bob es tu tio | via con dios 🫡
+
+## How it should be used
+
+Okay, so this is kinda tricky
 
 ## TODO
 
 Setup some kind of Obsidian friendly github pages
 And maybe more...
 
-## Relational Analysis Vault aka Trauma Dump Bot
-
-This vault contains:
-
-- **Frameworks**: Core and additional psychological/communication frameworks.
-- **Templates**: Tools for analysis, reflection, and mapping.
-- **Prompts**: [[GPT Relational Analysis Prompt]](s)
-- **References**: Space for external material.
-- **Data**: Spaces for data that needs to be analysed
-
-Use Meta/[[Index|Index.md]] as your navigation hub.
