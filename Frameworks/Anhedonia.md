@@ -27,6 +27,8 @@ license:
 schema: framework-notes/1.0
 ---
 
+<!-- @format -->
+
 # Anhedonia — Framework Notes
 
 > Concise, clinically focused guide for rapid assessment, risk stratification,

@@ -6,6 +6,8 @@ tags:
 type: template
 ---
 
+<!-- @format -->
+
 ````
 Generate a framework notes .md file for "<TOPIC>".
 

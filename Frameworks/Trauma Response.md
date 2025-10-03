@@ -22,6 +22,8 @@ license: Adapt to local policy, regulatory requirements, and clinical judgment. 
 schema: framework-notes/1.0
 ---
 
+<!-- @format -->
+
 # Trauma Response — Framework Notes
 
 > Action-oriented, trauma-informed guidance for first contact, short-term stabilization,
@@ -234,17 +236,18 @@ schema: framework-notes/1.0
 
 ## Quick Reference: One-Page Trauma-Response Skeleton
 
-- Incident: ****\*\*****\_\_****\*\***** Date/time: \***\*\_\_\_\*\***
+- Incident: \***\*\*\*\*\***\_\_\***\*\*\*\*\*** Date/time: \***\*\_\_\_\*\***
   Location: \***\*\_\_\_\_\*\***
-- Immediate medical needs: Y / N — summary: ****\*\*****\_\_\_\_****\*\*****
-- Safety concerns (self/others/ongoing threat): ****\*\*****\_\_\_\_****\*\*****
-- Peritraumatic signs (dissociation/LOC/fainting): ****\*\*****\_\_\_\_****\*\*****
+- Immediate medical needs: Y / N — summary: \***\*\*\*\*\***\_\_\_\_\***\*\*\*\*\***
+- Safety concerns (self/others/ongoing threat): \***\*\*\*\*\***\_\_\_\_\***\*\*\*\*\***
+- Peritraumatic signs
+  (dissociation/LOC/fainting): \***\*\*\*\*\***\_\_\_\_\***\*\*\*\*\***
 - Immediate psychosocial actions taken (PFA, grounding, shelter, contact family):
   **\_\_\_\_**
 - Referrals made: Medical / Psychiatric / Forensic / Social / Legal —
   details: \***\*\_\_\_\*\***
-- Follow-up contact scheduled: date/time / responsible clinician:
-  ****\*\*****\_****\*\*****
+- Follow-up contact scheduled: date/time / responsible
+  clinician: \***\*\*\*\*\***\_\***\*\*\*\*\***
 
 ---
 

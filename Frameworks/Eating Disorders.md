@@ -28,6 +28,8 @@ license:
 schema: "framework-notes/1.0"
 ---
 
+<!-- @format -->
+
 # Eating Disorders — Framework Notes
 
 > Practical, trauma-informed guide for rapid assessment, medical and psychosocial

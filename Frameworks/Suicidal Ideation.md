@@ -22,6 +22,8 @@ license:
   Adapt and use according to local protocols; not a substitute for clinical judgment.
 ---
 
+<!-- @format -->
+
 # Suicidal Ideation — Framework Notes
 
 > Compact, evidence-aligned clinical framework for assessing, stabilizing, and planning

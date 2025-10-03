@@ -28,6 +28,8 @@ license:
 schema: framework-notes/1.0
 ---
 
+<!-- @format -->
+
 # Post Traumatic Stress Disorder — Framework Notes
 
 > Action-focused, trauma-informed guide for recognizing, assessing risk, stabilizing,
