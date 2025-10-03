@@ -55,11 +55,11 @@ degree of explicit boundary setting.
   This structure provides a built-in safety net and social protocol.
 - **Explicit Rules and Boundaries:** Success hinges on meticulous negotiation of
   **Boundary Models** often centered around sex. Common rules include:
-    - **Same-Room Rule:** Outside sex must occur with both partners present and watching.
-    - **Separate-Room Rule (Soft Swap):** Sexual activity with others is restricted to
+  - **Same-Room Rule:** Outside sex must occur with both partners present and watching.
+  - **Separate-Room Rule (Soft Swap):** Sexual activity with others is restricted to
     certain activities (e.g., kissing, mutual masturbation) but stops short of
     penetration or orgasm.
-    - **Full Swap:** Sexual activity can include penetration with others.
+  - **Full Swap:** Sexual activity can include penetration with others.
 - **The "Veto" Power:** The primary couple often retains the power to veto a potential
   partner or end a connection if one partner feels threatened or uncomfortable,
   reinforcing the hierarchy.

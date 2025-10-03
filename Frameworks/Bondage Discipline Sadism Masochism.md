@@ -74,9 +74,9 @@ when executed safely.
   catharsis upon release.
 - **Role Satisfaction (IFS):** Role-play can often temporarily satisfy or discharge the
   burden of protective parts:
-    - A **Manager Part** exhausted by responsibility can find relief in the **submissive
+  - A **Manager Part** exhausted by responsibility can find relief in the **submissive
     role's surrender** of control.
-    - A part needing control due to past chaos can safely express that need in the
+  - A part needing control due to past chaos can safely express that need in the
     **Dominant role's structured leadership**.
 - **Aftercare (PVT Co-regulation):** The post-play period of **Aftercare** (snuggling,
   deep conversation, mutual soothing) is essential for bringing the nervous system back

@@ -43,9 +43,9 @@ of **Submission (s)**.
   Coercion, manipulation, or control _outside_ the negotiated agreement constitutes
   abuse.
 - **Types of Power Exchange:**
-    - **Total/24/7 Px:** Power dynamics permeate all or most aspects of the partners'
+  - **Total/24/7 Px:** Power dynamics permeate all or most aspects of the partners'
     lives (e.g., wardrobe, scheduling, personal goals).
-    - **Part-Time/Scene Px:** Power dynamics are primarily contained within scheduled
+  - **Part-Time/Scene Px:** Power dynamics are primarily contained within scheduled
     scenes or ritualized interactions.
 
 ---

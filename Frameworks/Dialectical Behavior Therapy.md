@@ -133,13 +133,13 @@ DBT directly addresses the relational deficits and fears inherent in
   relaxation.
 - **Prompt (Interpersonal Effectiveness - DEAR MAN):** Use this structure to clearly
   state a need:
-    - **D**escribe the facts of the situation.
-    - **E**xpress feelings/opinions clearly (using "I" statements).
-    - **A**ssert what you want (ask clearly/say no).
-    - **R**einforce (explain the benefits).
-    - **M**indful (stay focused on the goal).
-    - **A**ppear Confident.
-    - **N**egotiate.
+  - **D**escribe the facts of the situation.
+  - **E**xpress feelings/opinions clearly (using "I" statements).
+  - **A**ssert what you want (ask clearly/say no).
+  - **R**einforce (explain the benefits).
+  - **M**indful (stay focused on the goal).
+  - **A**ppear Confident.
+  - **N**egotiate.
 - **Micro-Skill (Emotion Regulation Check-the-Facts):** When an emotion is intense, ask:
   _"Is my emotion justified by the facts (CBT)? Does my intensity match the situation?"_
   If not, use opposite action (behaving contrary to the emotion's urge).

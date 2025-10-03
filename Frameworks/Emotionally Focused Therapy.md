@@ -90,10 +90,10 @@ EFT is essentially a model for deliberately moving couples from **Insecure Attac
 patterns to a consolidated **Secure Attachment** bond.
 
 - **The Pursuer-Distancer Cycle (Insecure Dance):**
-    - **Pursuer (Anxious Attachment):** Expresses attachment anxiety through seeking
+  - **Pursuer (Anxious Attachment):** Expresses attachment anxiety through seeking
     proximity, often escalating into criticism or demanding behavior to get a response.
     Their primary emotion is **fear of abandonment**.
-    - **Distancer (Avoidant Attachment):** Responds to pursuit by withdrawing, shutting
+  - **Distancer (Avoidant Attachment):** Responds to pursuit by withdrawing, shutting
     down, or intellectualizing to manage emotional overwhelm. Their primary emotion is
     **fear of engulfment/failure**.
 - **The Hold Me Tight Experience:** Successful EFT creates **"corrective emotional

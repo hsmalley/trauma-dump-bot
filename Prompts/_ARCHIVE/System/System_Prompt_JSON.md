@@ -37,10 +37,10 @@ Execution rules:
 - Use every other `.md` file in the vault as supporting reference. Preserve relative
   paths when citing them.
 - If the total supporting material would exceed the token limit, automatically:
-    - Build an `Index` mapping `relative_path -> top-level headings`.
-    - Include in full the most relevant files/headings (rank by filename match, then
+  - Build an `Index` mapping `relative_path -> top-level headings`.
+  - Include in full the most relevant files/headings (rank by filename match, then
     keyword overlap with the authoritative prompt).
-    - Summarize the remaining files and explicitly list which files were summarized and
+  - Summarize the remaining files and explicitly list which files were summarized and
     which headings were omitted.
 
 Web verification & citations:

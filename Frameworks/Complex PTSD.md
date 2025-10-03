@@ -78,11 +78,11 @@ survival over connection.
      calm, social connection.
 - **Parts Driven by Trauma (IFS):** The inner system is dominated by highly protective,
   often extreme parts:
-    - **Firefighter Parts:** The impulsive, self-destructive behaviors (substance use,
+  - **Firefighter Parts:** The impulsive, self-destructive behaviors (substance use,
     self-harm, rage) attempting to rapidly escape overwhelming emotional pain.
-    - **Exile Parts:** Numerous, deeply wounded child parts holding the intense,
+  - **Exile Parts:** Numerous, deeply wounded child parts holding the intense,
     overwhelming pain of neglect, terror, and abandonment.
-    - **Perfectionistic/Caretaker Managers:** Rigid parts that attempt to control every
+  - **Perfectionistic/Caretaker Managers:** Rigid parts that attempt to control every
     detail of life or fawn/people-please others to preemptively avoid conflict or
     abandonment.
 

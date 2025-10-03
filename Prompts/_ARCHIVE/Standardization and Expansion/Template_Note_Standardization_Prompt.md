@@ -55,9 +55,9 @@ Links must be relative or Obsidian-compatible (e.g., `[[Frameworks/NVC]]`).
 
 - Ensure every template file includes a final section (e.g., '## Usage' or '## Execution
   Notes') with a clear summary:
-    - **Intended Output:** (e.g., "A summary of needs using NVC format.")
-    - **Target User:** (e.g., "Partner A during conflict cool-down.")
-    - **Fill-in Method:** (e.g., "Fill out the sections with brief bullet points; use
+  - **Intended Output:** (e.g., "A summary of needs using NVC format.")
+  - **Target User:** (e.g., "Partner A during conflict cool-down.")
+  - **Fill-in Method:** (e.g., "Fill out the sections with brief bullet points; use
     'self-talk' for the Reflection Template.")
 
 ---

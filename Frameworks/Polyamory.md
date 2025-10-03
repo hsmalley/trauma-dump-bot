@@ -64,11 +64,11 @@ confrontation of ingrained **mononormative** (monogamy-assumed) cultural scripts
   joy one experiences when a partner finds happiness in another relationship. This is
   the positive emotional opposite of jealousy.
 - **Relationship Structures:** Common structures include:
-    - **Vee:** One person is connected to two partners who are not connected to each
+  - **Vee:** One person is connected to two partners who are not connected to each
     other.
-    - **Triad/Throuple:** Three people are romantically involved with each other (a
+  - **Triad/Throuple:** Three people are romantically involved with each other (a
     three-way partnership).
-    - **Kitchen Table Polyamory (KTP):** Partners and metamours (a partner's partner) are
+  - **Kitchen Table Polyamory (KTP):** Partners and metamours (a partner's partner) are
     comfortable interacting and being a part of each other's lives (e.g., gathering
     around the "kitchen table").
 

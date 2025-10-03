@@ -31,10 +31,10 @@ type: template
   ```
 
 - Use sections like:
-    - `## Prompt`
-    - `## Frameworks Referenced`
-    - `## Use Cases`
-    - `## Workflow`
+  - `## Prompt`
+  - `## Frameworks Referenced`
+  - `## Use Cases`
+  - `## Workflow`
 
 #### 2. Expand Workflow
 

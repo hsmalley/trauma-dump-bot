@@ -172,10 +172,10 @@ definitions are required.
 ### 🔁 Scripts, Rituals & Repair _(Optional)_
 
 - Offer examples of:
-    - Pre-scene negotiation language
-    - Aftercare rituals
-    - De-role or grounding practices
-    - Repair after rupture or drop
+  - Pre-scene negotiation language
+  - Aftercare rituals
+  - De-role or grounding practices
+  - Repair after rupture or drop
 
 ### 🏗️ Structures & Agreements _(Optional for relationship models)_
 
@@ -257,9 +257,9 @@ Cross-link to 3–6 frameworks using `[[WikiLink_Title]]` format. Example:
 ### 📚 Citations & Sources
 
 - Include 3–6 external sources or citations, prioritizing:
-    - Academic articles
-    - Reputable public education sites (e.g., NCBI, PubMed, Psychology Today)
-    - Practitioner blogs, books, or media pieces
+  - Academic articles
+  - Reputable public education sites (e.g., NCBI, PubMed, Psychology Today)
+  - Practitioner blogs, books, or media pieces
 - Use a simple bullet list with links
 
 ---

@@ -47,13 +47,13 @@ The framework offers a step-by-step method to maintain composure and clarity whe
 nervous system is typically hijacked by the urge to fight or flee.
 
 - **Contrasting Lived Experience:**
-    - **Silence (Avoiding):** The person withholds meaning from the pool (e.g., masking,
+  - **Silence (Avoiding):** The person withholds meaning from the pool (e.g., masking,
     withdrawing, ignoring the issue) to avoid conflict. Leads to resentment and
     stagnation.
-    - **Violence (Controlling):** The person tries to force their meaning into the pool
+  - **Violence (Controlling):** The person tries to force their meaning into the pool
     (e.g., arguing, name-calling, lecturing, threatening). Leads to rupture and
     defensiveness.
-    - **Dialogue (Engaging):** The person actively contributes their views while remaining
+  - **Dialogue (Engaging):** The person actively contributes their views while remaining
     genuinely open to hearing others. Leads to better decisions and strengthened
     relationships.
 - **"Start with Heart":** The most critical trait is the ability to monitor one's own
@@ -90,9 +90,9 @@ Effective navigation of crucial conversations builds the trust necessary for sta
 
 - **Addressing Abandonment/Engulfment:** The clear boundaries and focused dialogue
   inherent in this model provide safety for both major attachment fears:
-    - The **Anxious** partner is soothed by the ability to keep the difficult conversation
+  - The **Anxious** partner is soothed by the ability to keep the difficult conversation
     going without immediate abandonment (Silence).
-    - The **Avoidant** partner is soothed by the clear rules and the focus on shared
+  - The **Avoidant** partner is soothed by the clear rules and the focus on shared
     meaning (Dialogue), reducing the fear of being overwhelmed or controlled (Violence).
 - **Creating Safety:** The core focus on ensuring the other person feels **respected and
   cared for** is the process of building a **Secure Base**, making it safe for both
@@ -126,11 +126,11 @@ Effective navigation of crucial conversations builds the trust necessary for sta
   make sure we're aligned on the next steps (what I do mean)."_
 - **Prompt (Sharing Your Path - STATE):** When you need to contribute a difficult
   opinion, follow this structure:
-    - **S**hare your **F**acts. (The least controversial data)
-    - **T**ell your **A**greed-upon story. (Your interpretation of the facts)
-    - **A**sk for others' paths. (Invite dialogue)
-    - **T**alk tentatively. (Avoid absolutes like "The truth is...")
-    - **E**ncourage testing. (Encourage them to disagree with you)
+  - **S**hare your **F**acts. (The least controversial data)
+  - **T**ell your **A**greed-upon story. (Your interpretation of the facts)
+  - **A**sk for others' paths. (Invite dialogue)
+  - **T**alk tentatively. (Avoid absolutes like "The truth is...")
+  - **E**ncourage testing. (Encourage them to disagree with you)
 - **Micro-Skill (Exploring Others' Paths - AMPP):** When they react negatively, help
   them share their perspective by using: **A**sk (to get things started), **M**irror (to
   confirm feelings), **P**araphrase (to confirm content), **P**rime (to guess/prompt

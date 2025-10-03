@@ -78,7 +78,7 @@ instability.
   1. The **Autistic Manager Part** demands **stillness, routine, and sensory
      protection**.
   2. The **ADHD Firefighter Part** demands **movement, novelty, and dopamine hits**.
-    - These parts perpetually trigger each other, preventing the core **Self** from
+  - These parts perpetually trigger each other, preventing the core **Self** from
     achieving a regulated state.
 - **Sensory Input and PVT:** Sensory seeking (ADHD) and sensory avoidance (Autism) often
   co-exist, forcing the nervous system to process conflicting signals on how to achieve

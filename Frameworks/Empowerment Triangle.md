@@ -98,9 +98,9 @@ Attachment** by modeling reliability, emotional clarity, and competence.
   **Challenger** is **Responsive** by offering support (but not control), and the
   **Assertive** partner is **Engaged** in problem-solving.
 - **Resolving Fear of Abandonment/Engulfment:**
-    - The **Vulnerable** role soothes **Anxious Attachment** by allowing for clear, direct
+  - The **Vulnerable** role soothes **Anxious Attachment** by allowing for clear, direct
     need-asking, reducing the need for escalating pursuit.
-    - The **Caring/Challenger** role soothes **Avoidant Attachment** by maintaining
+  - The **Caring/Challenger** role soothes **Avoidant Attachment** by maintaining
     boundaries and refusing to be engulfed by the other's needs, reducing the urge to
     distance.
 - **Boundary Fortification:** The shift from Rescuer to **Caring/Challenger** is a

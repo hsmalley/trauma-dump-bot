@@ -75,10 +75,10 @@ nervous system in a state of alert instability.
   **Dorsal Vagal** responses—a total immobilization or collapse due to chronic overload.
   This is a survival mechanism where the system disconnects.
 - **Protective Parts (IFS):**
-    - **Manager Parts:** Highly intellectual, rules-based parts that obsessively study
+  - **Manager Parts:** Highly intellectual, rules-based parts that obsessively study
     social scripts or create rigid routines to control the environment and prevent
     sensory/social failure.
-    - **Exile Parts:** Parts that carry the deep shame of being "weird," "broken," or a
+  - **Exile Parts:** Parts that carry the deep shame of being "weird," "broken," or a
     burden, which fuel the intense need to mask.
 
 ---

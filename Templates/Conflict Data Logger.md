@@ -50,4 +50,4 @@ correct analysis prompts (PVT, IFS, NVC).
 
 - **My Part Name:** [What specific **Protector Part** took over my actions? (e.g., The
   Critic, The Pleaser, The Silent Withdrawer)]
-- **My Part's Positive Intent:** [What was that Part trying to *protect* me from? (e.g
+- **My Part's Positive Intent:** [What was that Part trying to _protect_ me from? (e.g

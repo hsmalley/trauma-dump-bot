@@ -53,8 +53,8 @@ Use consistent markdown headings:
 - Update Frameworks Referenced to include additional or missed frameworks from
   `Frameworks/` folder.
 - Link to related notes using Obsidian’s double-bracket style:
-    - e.g., `[[Polyvagal Theory]]`, `[[Consent Culture]]`, `[[Reflection Prompts]]`
-    - Consider what frameworks may be most useful in the context of this prompt, sort them
+  - e.g., `[[Polyvagal Theory]]`, `[[Consent Culture]]`, `[[Reflection Prompts]]`
+  - Consider what frameworks may be most useful in the context of this prompt, sort them
     at the top of the list, sort the rest of the list in A-Z style
 
 #### 4. Use Cases
