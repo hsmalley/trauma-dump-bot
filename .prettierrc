@@ -1,0 +1,10 @@
+# @format
+
+{
+  "proseWrap": "always",
+  "printWidth": 88,
+  "semi": false,
+  "singleQuote": false,
+  "trailingComma": "es5",
+  "overrides": [{ "files": "*.md", "options": { "tabWidth": 2 } }],
+}

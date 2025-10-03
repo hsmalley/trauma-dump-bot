@@ -1,0 +1,20 @@
+# Ignore binary exports and cache directories
+*.msgpack
+*.mpack
+.extracted/
+.extracted/**
+Relational_Analysis_Vault.json
+
+# Skip Python sources (handled by black/isort if desired)
+**/*.py
+
+# Obsidian specific caches
+.obsidian/
+.obsidian-cache/
+.trash/
+
+# Test and build outputs
+.pytest_cache/
+__pycache__/
+dist/
+build/

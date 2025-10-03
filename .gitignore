@@ -15,7 +15,23 @@ Data/**
 # Python stuff
 __pycache__/
 __pycache__/**
+.pytest_cache/
+.mypy_cache/
+*.pyc
+.venv/
+.env
+
+# Binary vault exports / build artifacts
+*.msgpack
+*.mpack
+dist/
+build/
+
+# Editor settings
+.vscode/
+.idea/
 
 # Stuff to keep
 !Relational_Analysis_Relational_Analysis_Vault.json
 !tools/vault/vault_schema.json
+.direnv/

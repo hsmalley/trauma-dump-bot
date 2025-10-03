@@ -1,0 +1,10 @@
+* text=auto eol=lf
+
+*.sh text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+
+*.msgpack binary
+*.mpack binary
+*.tar binary
+*.zip binary

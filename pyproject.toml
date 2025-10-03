@@ -1,13 +1,52 @@
 [project]
+# Package metadata used by build backends and tooling.
 name = "relational-analysis-vault"
+
+# Semantic version for the vault tooling bundle.
 version = "0.1.0"
+
+# Short description displayed in packaging indexes.
 description = "Add your description here"
+
+# Primary README surfaced on package pages.
 readme = "README.md"
+
+# Minimum Python runtime required for the scripts.
 requires-python = ">=3.12"
+
+# Third-party dependencies shared across the tooling scripts and tests.
 dependencies = [
+    # HTML parsing support for Telegram export conversion.
     "beautifulsoup4>=4.14.2",
+    # JSON Schema validation for vault integrity checks.
     "jsonschema>=4.25.1",
+    # Binary serialization backend for compact vault storage.
     "msgpack>=1.1.1",
+    # Test runner used by tools/vault/test.
     "pytest>=8.4.2",
+    # YAML front-matter parsing and vault exports.
     "pyyaml>=6.0.3",
+]
+
+[tool.ruff]
+# Base lint configuration shared across scripts.
+line-length = 100
+indent-width = 4
+target-version = "py312"
+
+[tool.ruff.lint]
+# Silence import sorting since we rely on the formatter subcommand for that.
+select = ["E", "F", "I", "W"]
+ignore = []
+
+[tool.ruff.format]
+# Keep string quotes as-is to better match Markdown-adjacent scripts.
+skip-magic-trailing-comma = false
+quote-style = "double"
+
+[tool.pytest.ini_options]
+# Run tests out of the tools directory by default and show short tracebacks.
+addopts = "-q"
+testpaths = [
+    "tools/vault/test",
 ]
