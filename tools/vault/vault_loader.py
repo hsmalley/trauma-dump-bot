@@ -7,9 +7,9 @@ Unified vault loader and saver for .json and .msgpack formats.
 from vault_loader import load_vault, save_vault
 
 vault = load_vault("Relational_Analysis_Vault.json")
-save_vault(vault, "vault.msgpack")
+save_vault(vault, "Relational_Analysis_Vault.msgpack")
 
-vault2 = load_vault("vault.msgpack")
+vault2 = load_vault("Relational_Analysis_Vault.msgpack")
 save_vault(vault2, "vault-pretty.json", pretty=True)
 
 """
