@@ -12,7 +12,7 @@ tags:
   - skill_building
 type: prompt
 related:
-  - "Polyvagal_Theory_PVT"
+  - "Polyvagal Theory"
   - "Conflict Repair Template"
   - "Reflection Template"
   - "Maintenance Tasks"

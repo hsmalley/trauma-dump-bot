@@ -13,7 +13,7 @@ tags:
   - trauma_response
 related:
   - Attention_Deficit_Hyperactivity_Disorder_ADHD
-  - Internal_Family_Systems_IFS
+  - Internal Family Systems
   - Attachment_Theory
 source: Educational synthesis from validated public sources
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
@@ -93,8 +93,8 @@ RSD is a major driver of insecure attachment behaviors in adulthood.
 ### 🔗 Related Frameworks and Further Reading
 
 - [[Attention_Deficit_Hyperactivity_Disorder_ADHD]]
-- [[Internal_Family_Systems_IFS]]
-- [[Polyvagal_Theory_PVT]]
+- [[Internal Family Systems]]
+- [[Polyvagal Theory]]
 - [[Attachment Theory]]
 
 ### 📚 Citations & Sources

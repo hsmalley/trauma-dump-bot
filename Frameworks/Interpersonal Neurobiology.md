@@ -11,10 +11,10 @@ tags:
   - neurobiology
   - attachment
 related:
-  - Polyvagal_Theory_PVT
+  - Polyvagal Theory
   - Attachment_Theory
   - Trauma_Response
-  - Internal_Family_Systems_IFS
+  - Internal Family Systems
 source: Educational synthesis from validated public sources (Daniel Siegel's model)
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
 created: 2025-10-02
@@ -92,9 +92,9 @@ IPNB highlights the neurobiological mechanisms through which attachment relation
 
 ### 🔗 Related Frameworks and Further Reading
 
-- [[Polyvagal_Theory_PVT]]
+- [[Polyvagal Theory]]
 - [[Attachment Theory]]
-- [[Internal_Family_Systems_IFS]]
+- [[Internal Family Systems]]
 - [[Trauma_Response]]
 
 ### 📚 Citations & Sources

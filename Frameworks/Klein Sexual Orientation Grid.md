@@ -88,7 +88,7 @@ The Klein Grid is essential for partners negotiating relational structures that 
 
 - [[Sexual_Identity_Models]]
 - [[Gender_Identity]]
-- [[Internal_Family_Systems_IFS]] (To address conflicting parts of identity)
+- [[Internal Family Systems]] (To address conflicting parts of identity)
 
 ### 📚 The Seven Variables and Three Time Periods
 

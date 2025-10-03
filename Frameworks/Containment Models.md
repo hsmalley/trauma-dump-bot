@@ -11,9 +11,9 @@ tags:
   - emotion
   - trauma_response
 related:
-  - Polyvagal_Theory_PVT
+  - Polyvagal Theory
   - Attachment_Theory
-  - Internal_Family_Systems_IFS
+  - Internal Family Systems
 source: Educational synthesis from validated public sources (Bion and relational theory)
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
 created: 2025-10-02
@@ -90,9 +90,9 @@ Containment is a hallmark of **Secure Attachment** and is essential for relation
 
 ### 🔗 Related Frameworks and Further Reading
 
-- [[Polyvagal_Theory_PVT]]
+- [[Polyvagal Theory]]
 - [[Attachment Theory]]
-- [[Internal_Family_Systems_IFS]]
+- [[Internal Family Systems]]
 - [[Conflict_Repair_Template]]
 
 ### 📚 Citations & Sources

@@ -12,7 +12,7 @@ tags:
   - neurobiology
 related:
   - Attachment_Theory
-  - Polyvagal_Theory_PVT
+  - Polyvagal Theory
   - Conflict_Repair_Template
   - Ethical_Non_Monogamy_ENM
 source: Educational synthesis from attachment, social exchange, and critical relational theories

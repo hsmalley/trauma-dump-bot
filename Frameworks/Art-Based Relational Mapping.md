@@ -11,7 +11,7 @@ tags:
   - non_verbal
 related:
   - Relational_Analysis_Map
-  - Internal_Family_Systems_IFS
+  - Internal Family Systems
 source: Educational synthesis from validated public sources
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
 created: 2025-10-02
@@ -84,8 +84,8 @@ Art-Based Mapping is profoundly regulating, as it utilizes creative, action-base
 ### 🔗 Related Frameworks and Further Reading
 
 - [[Relational_Analysis_Map]] (Provides the structural template for analysis)
-- [[Internal_Family_Systems_IFS]]
-- [[Polyvagal_Theory_PVT]]
+- [[Internal Family Systems]]
+- [[Polyvagal Theory]]
 - [[Attachment Theory]]
 
 ### 📚 Citations & Sources

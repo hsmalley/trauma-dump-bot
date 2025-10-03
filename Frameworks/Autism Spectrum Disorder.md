@@ -16,8 +16,8 @@ tags:
 related:
   - Attention_Deficit_Hyperactivity_Disorder_ADHD
   - AUDHD
-  - Internal_Family_Systems_IFS
-  - Polyvagal_Theory_PVT
+  - Internal Family Systems
+  - Polyvagal Theory
 source: Educational synthesis from validated public sources
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
 created: 2025-10-02
@@ -96,8 +96,8 @@ ASD influences relationships through differences in communication and processing
 ### 🔗 Related Frameworks and Further Reading
 
 - [[AUDHD]]
-- [[Internal_Family_Systems_IFS]]
-- [[Polyvagal_Theory_PVT]]
+- [[Internal Family Systems]]
+- [[Polyvagal Theory]]
 - [[Nonviolent_Communication_NVC]]
 
 ### 📚 Citations & Sources

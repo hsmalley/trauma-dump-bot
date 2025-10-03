@@ -12,8 +12,8 @@ tags:
   - attachment
 related:
   - Attachment_Theory
-  - Internal_Family_Systems_IFS
-  - Polyvagal_Theory_PVT
+  - Internal Family Systems
+  - Polyvagal Theory
   - Trauma_Response
 source: Educational synthesis from validated public sources (DBT and relational theory)
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
@@ -91,8 +91,8 @@ BPD behaviors create a chaotic, intense relational style known as **Fearful-Avoi
 ### 🔗 Related Frameworks and Further Reading
 
 - [[Attachment Theory]]
-- [[Internal_Family_Systems_IFS]]
-- [[Polyvagal_Theory_PVT]]
+- [[Internal Family Systems]]
+- [[Polyvagal Theory]]
 - [[Dialectical_Behavior_Therapy_DBT]]
 
 ### 📚 Citations & Sources

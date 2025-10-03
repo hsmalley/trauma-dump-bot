@@ -11,7 +11,7 @@ tags:
   - embodiment
   - trauma_response
 related:
-  - Polyvagal_Theory_PVT
+  - Polyvagal Theory
   - Trauma_Response
   - Sensorimotor_Psychotherapy
   - Interpersonal_Neurobiology_IPNB
@@ -64,7 +64,7 @@ SE is highly effective because it directly addresses the brainstem and autonomic
 ### 🔗 Related Frameworks and Further Reading
 
 - [[Trauma_Response]]
-- [[Polyvagal_Theory_PVT]]
+- [[Polyvagal Theory]]
 - [[Sensorimotor Psychotherapy]]
 - [[Mindfulness]]
 

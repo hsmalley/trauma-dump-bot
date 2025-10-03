@@ -13,7 +13,7 @@ tags:
 related:
   - Complex_PTSD
   - Trauma_Response
-  - Internal_Family_Systems_IFS
+  - Internal Family Systems
 source: Educational synthesis from validated public sources (NADTA and psychodrama models)
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
 created: 2025-10-02
@@ -91,8 +91,8 @@ Drama therapy provides a low-risk environment to experiment with new relational 
 ### 🔗 Related Frameworks and Further Reading
 
 - [[Trauma_Response]]
-- [[Internal_Family_Systems_IFS]]
-- [[Polyvagal_Theory_PVT]]
+- [[Internal Family Systems]]
+- [[Polyvagal Theory]]
 - [[Embodiment_Practices]] (If created, link here)
 
 ### 📚 Citations & Sources

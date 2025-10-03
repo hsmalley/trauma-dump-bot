@@ -12,7 +12,7 @@ related:
   - "GPT Relational Analysis Prompt"
   - "Relational Analysis Data Template"
   - "Gottman_Method"
-  - "Polyvagal_Theory_PVT"
+  - "Polyvagal Theory"
 ---
 
 <!-- @format -->

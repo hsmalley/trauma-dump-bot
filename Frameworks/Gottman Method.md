@@ -105,7 +105,7 @@ The Gottman Method creates a robust framework for maintaining the security of th
 - [[Emotionally_Focused_Therapy_EFT]]
 - [[Conflict_Repair_Template]]
 - [[Crucial_Conversations]]
-- [[Polyvagal_Theory_PVT]]
+- [[Polyvagal Theory]]
 
 ### 📚 Citations & Sources
 

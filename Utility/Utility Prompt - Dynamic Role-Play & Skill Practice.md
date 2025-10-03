@@ -13,7 +13,7 @@ type: utility
 related:
   - "Conflict Repair Template"
   - "Utility Prompt - Safe Relational Feedback Synthesis"
-  - "Polyvagal_Theory_PVT"
+  - "Polyvagal Theory"
 ---
 
 <!-- @format -->

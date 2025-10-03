@@ -12,7 +12,7 @@ tags:
   - group_dynamics
 related:
   - Drama_Therapy
-  - Internal_Family_Systems_IFS
+  - Internal Family Systems
   - Boundary_Models
 source: Educational synthesis from psychotherapeutic applications of TTRPGs
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
@@ -96,7 +96,7 @@ The cooperative structure of D&D inherently trains skills vital for **Secure Att
 ### 🔗 Related Frameworks and Further Reading
 
 - [[Drama_Therapy]]
-- [[Internal_Family_Systems_IFS]]
+- [[Internal Family Systems]]
 - [[Boundary_Models]]
 - [[Nonviolent_Communication_NVC]]
 

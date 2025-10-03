@@ -15,7 +15,7 @@ type: prompt
 related:
   - "Autism_Spectrum_Disorder"
   - "Attention_Deficit_Hyperactivity_Disorder"
-  - "Polyvagal_Theory_PVT"
+  - "Polyvagal Theory"
   - "Gottman_Method"
 ---
 

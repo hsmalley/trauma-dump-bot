@@ -13,7 +13,7 @@ tags:
 related:
   - Trauma_Response
   - Attachment_Theory
-  - Internal_Family_Systems_IFS
+  - Internal Family Systems
   - Interpersonal_Neurobiology_IPNB
 source: Educational synthesis from validated public sources (Stephen Porges's model)
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
@@ -81,7 +81,7 @@ PVT illuminates the physiological basis for **Attachment Theory**, showing how e
 
 - [[Trauma_Response]]
 - [[Attachment Theory]]
-- [[Internal_Family_Systems_IFS]]
+- [[Internal Family Systems]]
 - [[Interpersonal_Neurobiology_IPNB]]
 
 ### 📚 Citations & Sources

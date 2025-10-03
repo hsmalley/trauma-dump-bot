@@ -96,7 +96,7 @@ The framework critically examines the power dynamics within the therapeutic and 
 - [[Decolonizing_Therapy]]
 - [[Power_Dynamics]]
 - [[Disability_Justice]]
-- [[Internal_Family_Systems_IFS]]
+- [[Internal Family Systems]]
 
 ### 📚 Citations & Sources
 

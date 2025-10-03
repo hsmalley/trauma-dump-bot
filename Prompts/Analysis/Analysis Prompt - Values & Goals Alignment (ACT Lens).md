@@ -15,7 +15,7 @@ type: prompt
 related:
   - "Acceptance_and_Commitment_Therapy"
   - "Nonviolent_Communication_NVC"
-  - "Internal_Family_Systems_IFS"
+  - "Internal Family Systems"
 ---
 
 <!-- @format -->

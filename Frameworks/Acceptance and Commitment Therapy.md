@@ -12,7 +12,7 @@ tags:
   - behavioral
   - mindfulness
 related:
-  - Internal_Family_Systems_IFS
+  - Internal Family Systems
   - Nonviolent_Communication_NVC
 source: Educational synthesis from validated public sources
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
@@ -76,7 +76,7 @@ Psychological rigidity heavily impacts relational capacity, particularly in conf
 
 ### 🔗 Related Frameworks and Further Reading
 
-- [[Internal_Family_Systems_IFS]]
+- [[Internal Family Systems]]
 - [[Nonviolent_Communication_NVC]]
-- [[Polyvagal_Theory_PVT]]
+- [[Polyvagal Theory]]
 - [[Mindfulness_Practices

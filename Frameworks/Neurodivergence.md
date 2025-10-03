@@ -14,7 +14,7 @@ related:
   - Decolonizing_Therapy
   - Intersectional_Feminist_Psychology
   - Disability_Justice
-  - Internal_Family_Systems_IFS
+  - Internal Family Systems
 source: Educational synthesis from neurodiversity advocacy and critical psychology
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
 created: 2025-10-02
@@ -95,8 +95,8 @@ Neurodivergence complicates attachment dynamics, particularly due to differences
 
 - [[Disability_Justice]]
 - [[Intersectional_Feminist_Psychology]]
-- [[Polyvagal_Theory_PVT]]
-- [[Internal_Family_Systems_IFS]]
+- [[Polyvagal Theory]]
+- [[Internal Family Systems]]
 
 ### 📚 Citations & Sources
 

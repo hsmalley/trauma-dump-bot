@@ -10,8 +10,8 @@ tags:
   - relational_analysis
   - attachment_theory
 related:
-  - Internal_Family_Systems_IFS
-  - Polyvagal_Theory_PVT
+  - Internal Family Systems
+  - Polyvagal Theory
 source: Educational synthesis from validated public sources
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
 created: 2025-10-02
@@ -77,8 +77,8 @@ The interaction between two attachment styles creates a patterned dance, or a "c
 
 ### 🔗 Related Frameworks and Further Reading
 
-- [[Internal_Family_Systems_IFS]]
-- [[Polyvagal_Theory_PVT]]
+- [[Internal Family Systems]]
+- [[Polyvagal Theory]]
 - [[Nonviolent_Communication_NVC]]
 - [[Trauma Informed Care]]
 

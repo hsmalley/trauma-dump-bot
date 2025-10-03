@@ -14,7 +14,7 @@ related:
   - Conflict_Repair_Template
   - Boundary_Models
   - Nonviolent_Communication_NVC
-  - Polyvagal_Theory_PVT
+  - Polyvagal Theory
 source: Educational synthesis from The Mandt System, Multiamory, and academic methodology
 citation: ChatGPT-assisted summary with links to external frameworks
 created: 2025-10-02
@@ -61,5 +61,5 @@ This model is a safety and de-escalation tool used to guide a person's behavior 
 
 - [[Nonviolent_Communication_NVC]]
 - [[Conflict_Repair_Template]]
-- [[Polyvagal_Theory_PVT]]
+- [[Polyvagal Theory]]
 - [[Boundary_Models]]

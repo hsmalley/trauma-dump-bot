@@ -14,7 +14,7 @@ related:
   - "Acceptance_and_Commitment_Therapy"
   - "Internal_Family_Systems"
   - "Nonviolent_Communication"
-  - "Polyvagal_Theory_PVT"
+  - "Polyvagal Theory"
 ---
 
 <!-- @format -->

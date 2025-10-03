@@ -14,8 +14,8 @@ tags:
   - masking
 related:
   - Attention_Deficit_Hyperactivity_Disorder_ADHD
-  - Internal_Family_Systems_IFS
-  - Polyvagal_Theory_PVT
+  - Internal Family Systems
+  - Polyvagal Theory
 source: Educational synthesis from validated public sources on dually neurodivergent experiences
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
 created: 2025-10-02
@@ -95,8 +95,8 @@ Relational dynamics are complicated by unpredictable engagement and complex comm
 ### 🔗 Related Frameworks and Further Reading
 
 - [[Attention_Deficit_Hyperactivity_Disorder_ADHD]]
-- [[Internal_Family_Systems_IFS]]
-- [[Polyvagal_Theory_PVT]]
+- [[Internal Family Systems]]
+- [[Polyvagal Theory]]
 - [[Rejection_Sensitive_Dysphoria_RSD]]
 
 ### 📚 Citations & Sources

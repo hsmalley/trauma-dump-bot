@@ -93,7 +93,7 @@ NET is implicitly healing for clients with severe **Attachment Trauma** (e.g., b
 - [[Complex_PTSD]]
 - [[Trauma_Response]]
 - [[Eye_Movement_Desensitization_and_Reprocessing_EMDR]]
-- [[Polyvagal_Theory_PVT]]
+- [[Polyvagal Theory]]
 
 ### 📚 Citations & Sources
 

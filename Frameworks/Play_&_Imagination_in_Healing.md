@@ -12,8 +12,8 @@ tags:
   - trauma_response
 related:
   - Drama_Therapy
-  - Internal_Family_Systems_IFS
-  - Polyvagal_Theory_PVT
+  - Internal Family Systems
+  - Polyvagal Theory
   - Neurodivergence
 source: Educational synthesis from neuroscience, attachment theory, and play therapy models
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
@@ -78,8 +78,8 @@ Play provides a non-threatening arena for repairing relational ruptures and buil
 ### 🔗 Related Frameworks and Further Reading
 
 - [[Drama_Therapy]]
-- [[Internal_Family_Systems_IFS]]
-- [[Polyvagal_Theory_PVT]]
+- [[Internal Family Systems]]
+- [[Polyvagal Theory]]
 - [[Trauma_Response]]
 - [[Neurodivergence]] (Stimming as self-regulation/play)
 

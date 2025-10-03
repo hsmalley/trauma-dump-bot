@@ -101,7 +101,7 @@ The Drama Triangle is a hallmark of **Insecure Attachment** dynamics, particular
 
 - [[Empowerment_Triangle]] (The corrective model)
 - [[Boundary_Models]]
-- [[Internal_Family_Systems_IFS]]
+- [[Internal Family Systems]]
 - [[Nonviolent_Communication_NVC]]
 
 ### 📚 Citations & Sources

@@ -99,8 +99,8 @@ MI uses a core set of relational skills often remembered by the acronym **OARS**
 
 - [[Nonviolent_Communication_NVC]]
 - [[Stages_of_Change]]
-- [[Internal_Family_Systems_IFS]]
-- [[Polyvagal_Theory_PVT]]
+- [[Internal Family Systems]]
+- [[Polyvagal Theory]]
 
 ### 📚 Citations & Sources
 

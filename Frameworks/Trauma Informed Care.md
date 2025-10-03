@@ -11,8 +11,8 @@ tags:
   - trauma
   - ethics
 related:
-  - Polyvagal_Theory_PVT
-  - Internal_Family_Systems_IFS
+  - Polyvagal Theory
+  - Internal Family Systems
 source: Educational synthesis from validated public sources
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
 created: 2025-10-02
@@ -67,7 +67,7 @@ Trauma Informed Care (TIC) is a systemic framework that assumes an individual ha
 
 ### 🔗 Related Frameworks and Further Reading
 
-- [[Polyvagal_Theory_PVT]]
+- [[Polyvagal Theory]]
 - [[Consent_Culture]]
 - [[Nonviolent_Communication_NVC]]
 

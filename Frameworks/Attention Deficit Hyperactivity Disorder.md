@@ -13,8 +13,8 @@ tags:
   - neurodiversity
   - relational_analysis
 related:
-  - Internal_Family_Systems_IFS
-  - Polyvagal_Theory_PVT
+  - Internal Family Systems
+  - Polyvagal Theory
   - Attachment_Theory
 source: Educational synthesis from validated public sources
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
@@ -91,8 +91,8 @@ ADHD traits can complicate the development and maintenance of secure attachment 
 
 ### 🔗 Related Frameworks and Further Reading
 
-- [[Internal_Family_Systems_IFS]]
-- [[Polyvagal_Theory_PVT]]
+- [[Internal Family Systems]]
+- [[Polyvagal Theory]]
 - [[Attachment Theory]]
 - [[Neuroscience_of_Self_Regulation]]
 

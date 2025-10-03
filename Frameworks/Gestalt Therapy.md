@@ -12,8 +12,8 @@ tags:
   - embodiment
 related:
   - Drama_Therapy
-  - Internal_Family_Systems_IFS
-  - Polyvagal_Theory_PVT
+  - Internal Family Systems
+  - Polyvagal Theory
 source: Educational synthesis from validated public sources (Perls and Gestalt tradition)
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
 created: 2025-10-02
@@ -91,8 +91,8 @@ The relational aspect of Gestalt focuses on authenticity and the present moment 
 ### 🔗 Related Frameworks and Further Reading
 
 - [[Drama_Therapy]]
-- [[Internal_Family_Systems_IFS]]
-- [[Polyvagal_Theory_PVT]]
+- [[Internal Family Systems]]
+- [[Polyvagal Theory]]
 - [[Embodiment_Practices]] (If created, link here)
 
 ### 📚 Citations & Sources

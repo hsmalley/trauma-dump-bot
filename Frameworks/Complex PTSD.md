@@ -14,7 +14,7 @@ related:
   - Post_Traumatic_Stress_Disorder_PTSD
   - Borderline_Personality_Disorder_BPD
   - Attachment_Theory
-  - Polyvagal_Theory_PVT
+  - Polyvagal Theory
 source: Educational synthesis from validated public sources (Herman, Van der Kolk)
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
 created: 2025-10-02
@@ -99,8 +99,8 @@ CPTSD is intimately linked to **Disorganized (Fearful-Avoidant) Attachment**, ch
 ### 🔗 Related Frameworks and Further Reading
 
 - [[Attachment Theory]]
-- [[Internal_Family_Systems_IFS]]
-- [[Polyvagal_Theory_PVT]]
+- [[Internal Family Systems]]
+- [[Polyvagal Theory]]
 - [[Trauma_Response]]
 - [[Dialectical_Behavior_Therapy_DBT]]
 

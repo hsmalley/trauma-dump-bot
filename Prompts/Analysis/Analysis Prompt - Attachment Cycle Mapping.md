@@ -14,7 +14,7 @@ type: prompt
 related:
   - "Attachment_Theory"
   - "Gottman_Method"
-  - "Internal_Family_Systems_IFS"
+  - "Internal Family Systems"
 ---
 
 <!-- @format -->

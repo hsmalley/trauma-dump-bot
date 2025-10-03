@@ -14,7 +14,7 @@ tags:
 related:
   - BDSM
   - BDSM_Dynamics
-  - Polyvagal_Theory_PVT
+  - Polyvagal Theory
 source: Educational synthesis from validated public sources on consensual kink
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
 created: 2025-10-02
@@ -92,7 +92,7 @@ CNC requires and reinforces the highest levels of relational trust, making it a 
 
 - [[Bondage_Discipline_Sadism_Masochism]]
 - [[BDSM_Dynamics]]
-- [[Polyvagal_Theory_PVT]]
+- [[Polyvagal Theory]]
 - [[Attachment Theory]]
 
 ### 📚 Citations & Sources

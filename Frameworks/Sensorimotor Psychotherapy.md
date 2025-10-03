@@ -11,10 +11,10 @@ tags:
   - embodiment
   - trauma_response
 related:
-  - Polyvagal_Theory_PVT
+  - Polyvagal Theory
   - Trauma_Response
   - Eye_Movement_Desensitization_and_Reprocessing_EMDR
-  - Internal_Family_Systems_IFS
+  - Internal Family Systems
 source: Educational synthesis from validated public sources (Pat Ogden's model)
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
 created: 2025-10-02
@@ -64,8 +64,8 @@ SP is deeply rooted in the principles of **Polyvagal Theory (PVT)** and somatic 
 ### 🔗 Related Frameworks and Further Reading
 
 - [[Trauma_Response]]
-- [[Polyvagal_Theory_PVT]]
-- [[Internal_Family_Systems_IFS]]
+- [[Polyvagal Theory]]
+- [[Internal Family Systems]]
 - [[Mindfulness]]
 
 ### 📚 Citations & Sources

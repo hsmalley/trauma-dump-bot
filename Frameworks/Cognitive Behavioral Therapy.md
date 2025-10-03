@@ -13,7 +13,7 @@ tags:
 related:
   - Dialectical_Behavior_Therapy_DBT
   - Acceptance_and_Commitment_Therapy_ACT
-  - Internal_Family_Systems_IFS
+  - Internal Family Systems
 source: Educational synthesis from validated public sources (Aaron Beck's model)
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
 created: 2025-10-02
@@ -99,7 +99,7 @@ CBT helps individuals address maladaptive schemas about self and others that int
 
 - [[Dialectical_Behavior_Therapy_DBT]] (Often used as an enhanced CBT for emotional dysregulation)
 - [[Acceptance_and_Commitment_Therapy_ACT]] (The "third wave" CBT alternative)
-- [[Internal_Family_Systems_IFS]]
+- [[Internal Family Systems]]
 
 ### 📚 Citations & Sources
 

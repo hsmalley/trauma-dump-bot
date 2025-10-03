@@ -13,8 +13,8 @@ tags:
   - ifs
 type: prompt
 related:
-  - "Internal_Family_Systems_IFS"
-  - "Polyvagal_Theory_PVT"
+  - "Internal Family Systems"
+  - "Polyvagal Theory"
   - "Attachment_Theory"
 ---
 

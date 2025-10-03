@@ -11,8 +11,8 @@ tags:
   - self_regulation
   - emotion
 related:
-  - Polyvagal_Theory_PVT
-  - Internal_Family_Systems_IFS
+  - Polyvagal Theory
+  - Internal Family Systems
   - Trauma_Response
 source: Educational synthesis from validated public sources (Paul Gilbert's model)
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
@@ -95,8 +95,8 @@ CFT addresses the relational need for safety and connection, often compensating 
 
 ### 🔗 Related Frameworks and Further Reading
 
-- [[Polyvagal_Theory_PVT]]
-- [[Internal_Family_Systems_IFS]]
+- [[Polyvagal Theory]]
+- [[Internal Family Systems]]
 - [[Trauma_Response]]
 - [[Mindfulness]]
 

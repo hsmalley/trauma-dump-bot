@@ -238,7 +238,7 @@ Use `web.run` for accurate external info when citations, media, or current defin
 ### 🔗 Related Frameworks and Further Reading
 
 Cross-link to 3–6 frameworks using `[[WikiLink_Title]]` format.
-Example: [[Internal_Family_Systems_IFS]]
+Example: [[Internal Family Systems]]
 
 ### 📚 Citations & Sources
 

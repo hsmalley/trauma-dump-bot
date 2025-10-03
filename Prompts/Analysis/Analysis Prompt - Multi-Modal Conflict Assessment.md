@@ -14,8 +14,8 @@ type: prompt
 related:
   - "Gottman_Method"
   - "Attachment_Theory"
-  - "Polyvagal_Theory_PVT"
-  - "Internal_Family_Systems_IFS"
+  - "Polyvagal Theory"
+  - "Internal Family Systems"
 ---
 
 <!-- @format -->
@@ -29,7 +29,7 @@ related:
 ### 💻 Workflow
 
 1.  **Identify Core Cycle (Action 1):** Determine the primary negative relational pattern (e.g., Pursue-Withdraw).
-2.  **Somatic Mapping (Action 3):** For both partners, identify the likely **[[Polyvagal_Theory_PVT]]** state (Ventral Vagal, Sympathetic, Dorsal Vagal) driving their verbal and non-verbal cues.
+2.  **Somatic Mapping (Action 3):** For both partners, identify the likely **[[Polyvagal Theory]]** state (Ventral Vagal, Sympathetic, Dorsal Vagal) driving their verbal and non-verbal cues.
 3.  **Core Need Mapping (Action 3):** Identify the underlying **[[Attachment Theory]]** need (e.g., Closeness, Autonomy, Security) being expressed or violated.
 4.  **Communication Failures (Action 3):** Point out explicit **[[Gottman Method]]** "Four Horsemen" behaviors or **[[Nonviolent Communication]]** failures (demands vs. requests).
 5.  **Internal Framing (Action 3):** Briefly frame the most intense behavior as a protective "Part" (**[[Internal Family Systems]]**), highlighting the fear it is protecting.

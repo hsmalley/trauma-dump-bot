@@ -77,7 +77,7 @@ PTPE demands and reinforces the highest form of **Earned Secure Attachment** bui
 - [[Power_Exchange]]
 - [[Personal_Responsibility,_Informed_Consensual_Kink_PRICK]]
 - [[Boundary_Models]]
-- [[Polyvagal_Theory_PVT]]
+- [[Polyvagal Theory]]
 
 ### 📚 Citations & Sources
 

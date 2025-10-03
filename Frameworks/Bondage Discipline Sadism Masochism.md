@@ -13,7 +13,7 @@ tags:
   - consent
 related:
   - Attachment_Theory
-  - Polyvagal_Theory_PVT
+  - Polyvagal Theory
   - Nonviolent_Communication_NVC
 source: Educational synthesis from validated public sources on consensual kink
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
@@ -93,7 +93,7 @@ The structure of BDSM, when done ethically, demands a secure relational foundati
 ### 🔗 Related Frameworks and Further Reading
 
 - [[Attachment Theory]]
-- [[Polyvagal_Theory_PVT]]
+- [[Polyvagal Theory]]
 - [[Nonviolent_Communication_NVC]]
 - [[Relational_Analysis_Map]]
 

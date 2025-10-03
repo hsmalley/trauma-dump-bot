@@ -12,7 +12,7 @@ type: template
 related:
   - "Attachment_Theory"
   - "Internal_Family_Systems"
-  - "Polyvagal_Theory_PVT"
+  - "Polyvagal Theory"
   - "Autism_Spectrum_Disorder"
 ---
 

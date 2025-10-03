@@ -12,7 +12,7 @@ tags:
   - embodiment
 related:
   - Complex_PTSD
-  - Polyvagal_Theory_PVT
+  - Polyvagal Theory
   - Attachment_Theory
   - Trauma_Response
 source: Educational synthesis from validated public sources (Richard Schwartz's model)
@@ -94,7 +94,7 @@ IFS can be used to heal relational injuries and improve current attachment dynam
 
 ### 🔗 Related Frameworks and Further Reading
 
-- [[Polyvagal_Theory_PVT]]
+- [[Polyvagal Theory]]
 - [[Complex_PTSD]]
 - [[Drama_Therapy]] (Often used with the Empty Chair technique to externalize parts).
 

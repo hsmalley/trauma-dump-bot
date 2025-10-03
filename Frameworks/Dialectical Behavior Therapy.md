@@ -14,7 +14,7 @@ related:
   - Cognitive_Behavioral_Therapy_CBT
   - Borderline_Personality_Disorder_BPD
   - Complex_PTSD
-  - Polyvagal_Theory_PVT
+  - Polyvagal Theory
 source: Educational synthesis from validated public sources (Marsha Linehan's model)
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
 created: 2025-10-02
@@ -105,7 +105,7 @@ DBT directly addresses the relational deficits and fears inherent in **Disorgani
 - [[Cognitive_Behavioral_Therapy_CBT]]
 - [[Borderline_Personality_Disorder_BPD]]
 - [[Complex_PTSD]]
-- [[Polyvagal_Theory_PVT]]
+- [[Polyvagal Theory]]
 
 ### 📚 Citations & Sources
 

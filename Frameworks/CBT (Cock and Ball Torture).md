@@ -13,7 +13,7 @@ tags:
   - consent
 related:
   - BDSM
-  - Polyvagal_Theory_PVT
+  - Polyvagal Theory
   - Attachment_Theory
 source: Educational synthesis from validated public sources on consensual kink
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
@@ -93,7 +93,7 @@ The extreme vulnerability of CBT makes it a measure of relational security.
 ### 🔗 Related Frameworks and Further Reading
 
 - [[Bondage_Discipline_Sadism_Masochism]]
-- [[Polyvagal_Theory_PVT]]
+- [[Polyvagal Theory]]
 - [[Attachment Theory]]
 - [[Consent_Models]]
 

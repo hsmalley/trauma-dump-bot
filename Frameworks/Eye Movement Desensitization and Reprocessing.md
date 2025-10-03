@@ -12,7 +12,7 @@ tags:
   - neurobiology
 related:
   - Complex_PTSD
-  - Polyvagal_Theory_PVT
+  - Polyvagal Theory
   - Trauma_Response
 source: Educational synthesis from validated public sources (Francine Shapiro's model)
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
@@ -92,8 +92,8 @@ EMDR, while focused on the individual's memory, requires and reinforces a secure
 
 - [[Complex_PTSD]]
 - [[Trauma_Response]]
-- [[Polyvagal_Theory_PVT]]
-- [[Internal_Family_Systems_IFS]]
+- [[Polyvagal Theory]]
+- [[Internal Family Systems]]
 
 ### 📚 Citations & Sources
 

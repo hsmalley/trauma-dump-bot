@@ -15,7 +15,7 @@ type: prompt
 related:
   - "Consent Culture"
   - "Attachment_Theory"
-  - "Polyvagal_Theory_PVT"
+  - "Polyvagal Theory"
 ---
 
 <!-- @format -->

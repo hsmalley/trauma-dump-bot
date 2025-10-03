@@ -90,7 +90,7 @@ DPD maps closely to an extreme, often pathologically amplified, form of **Anxiou
 ### 🔗 Related Frameworks and Further Reading
 
 - [[Attachment Theory]]
-- [[Internal_Family_Systems_IFS]]
+- [[Internal Family Systems]]
 - [[Boundary_Models]]
 - [[Borderline_Personality_Disorder_BPD]] (Often confused with DPD due to abandonment fear, but BPD involves emotional volatility and DPD involves submission/passivity).
 

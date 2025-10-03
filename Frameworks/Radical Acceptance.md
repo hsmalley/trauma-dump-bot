@@ -88,7 +88,7 @@ Radical Acceptance transforms relational dynamics by stopping the attempt to con
 - [[Dialectical_Behavior_Therapy_DBT]]
 - [[Mindfulness]]
 - [[Cognitive_Behavioral_Therapy_CBT]]
-- [[Polyvagal_Theory_PVT]]
+- [[Polyvagal Theory]]
 
 ### 📚 Citations & Sources
 

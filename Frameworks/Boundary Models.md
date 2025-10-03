@@ -11,8 +11,8 @@ tags:
   - self_regulation
   - consent
 related:
-  - Polyvagal_Theory_PVT
-  - Internal_Family_Systems_IFS
+  - Polyvagal Theory
+  - Internal Family Systems
   - Attachment_Theory
   - Nonviolent_Communication_NVC
 source: Educational synthesis from validated public sources on relational psychology
@@ -94,8 +94,8 @@ Boundary function is inextricably linked to attachment style.
 ### 🔗 Related Frameworks and Further Reading
 
 - [[Nonviolent_Communication_NVC]]
-- [[Internal_Family_Systems_IFS]]
-- [[Polyvagal_Theory_PVT]]
+- [[Internal Family Systems]]
+- [[Polyvagal Theory]]
 - [[Conflict_Repair_Template]]
 
 ### 📚 Citations & Sources

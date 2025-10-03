@@ -98,7 +98,7 @@ NVC provides a robust framework for establishing, maintaining, and repairing **S
 - [[Motivational_Interviewing_MI]]
 - [[Conflict_Repair_Template]]
 - [[Boundary_Models]]
-- [[Internal_Family_Systems_IFS]]
+- [[Internal Family Systems]]
 
 ### 📚 Citations & Sources
 

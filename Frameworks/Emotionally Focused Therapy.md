@@ -12,7 +12,7 @@ tags:
   - emotion
 related:
   - Attachment_Theory
-  - Polyvagal_Theory_PVT
+  - Polyvagal Theory
   - Conflict_Repair_Template
 source: Educational synthesis from validated public sources (Sue Johnson's model)
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
@@ -94,9 +94,9 @@ EFT is essentially a model for deliberately moving couples from **Insecure Attac
 ### 🔗 Related Frameworks and Further Reading
 
 - [[Attachment Theory]]
-- [[Polyvagal_Theory_PVT]]
+- [[Polyvagal Theory]]
 - [[Conflict_Repair_Template]]
-- [[Internal_Family_Systems_IFS]]
+- [[Internal Family Systems]]
 
 ### 📚 Citations & Sources
 

@@ -14,7 +14,7 @@ tags:
 related:
   - BDSM
   - Consensual_Non_Consent_CNC
-  - Polyvagal_Theory_PVT
+  - Polyvagal Theory
 source: Educational synthesis from validated public sources on consensual kink and risk management
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
 created: 2025-10-02
@@ -139,7 +139,7 @@ Edge Play is only viable in relationships characterized by high relational secur
 
 - [[Bondage_Discipline_Sadism_Masochism]]
 - [[Consensual_Non_Consent_CNC]]
-- [[Polyvagal_Theory_PVT]]
+- [[Polyvagal Theory]]
 - [[Attachment Theory]]
 - [[CNC]] — overview of cnc concepts and relevance to relationships
 - [[Consent_Culture]] — collaborative check-ins around needs, pacing, and support

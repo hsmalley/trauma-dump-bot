@@ -13,8 +13,8 @@ type: utility
 related:
   - "Reflection Template"
   - "Acceptance_and_Commitment_Therapy"
-  - "Polyvagal_Theory_PVT"
-  - "Internal_Family_Systems_IFS"
+  - "Polyvagal Theory"
+  - "Internal Family Systems"
 ---
 
 <!-- @format -->

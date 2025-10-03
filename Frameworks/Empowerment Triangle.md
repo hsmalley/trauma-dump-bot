@@ -99,7 +99,7 @@ The Empowerment Triangle is a template for consistently building **Earned Secure
 - [[Conflict_Repair_Template]]
 - [[Boundary_Models]]
 - [[Crucial_Conversations]]
-- [[Internal_Family_Systems_IFS]]
+- [[Internal Family Systems]]
 
 ### 📚 Citations & Sources
 
