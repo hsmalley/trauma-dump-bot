@@ -33,4 +33,4 @@ type: reference
 - Coach B to signal presence before retreat.
 - Name and interrupt the negative cycle.
 
-**Related:** [[Polyvagal Theory]], [[Attachment_Theory]], [[Analysis Prompt - Conflict]]
+**Related:** [[Polyvagal Theory]], [[Attachment Theory]], [[Analysis Prompt - Multi-Modal Conflict Assessment]]

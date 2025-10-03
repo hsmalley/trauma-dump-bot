@@ -51,8 +51,8 @@ Kink dynamics are not just about play—they can be **part-time, scene-based, li
 
 ## 🔐 Consent Models Referenced
 
-- [[Risk-Aware_Consensual_Kink]]
-- [[Safe_Sane_and_Consensual]]
+- [[Risk-Aware Consensual Kink (RACK)]]
+- [[Safe, Sane, and Consensual]]
 - [[PRICK (Personal Responsibility, Informed Consensual Kink)]]
 - [[FRIES]] – Freely Given, Reversible, Informed, Enthusiastic, Specific
 
@@ -86,9 +86,9 @@ Kink dynamics are not just about play—they can be **part-time, scene-based, li
 - [[PRICK (Personal Responsibility, Informed Consensual Kink)]] — overview of prick (personal responsibility, informed consensual kink) concepts and relevance to relationships
 - [[Psychological_Total_Power_Exchange]] — overview of psychological total power exchange concepts and relevance to relationships
 - [[RACK]] — overview of rack concepts and relevance to relationships
-- [[Risk-Aware_Consensual_Kink]] — overview of risk-aware consensual kink concepts and relevance to relationships
-- [[Safe_Sane_and_Consensual]] — overview of safe, sane, and consensual concepts and relevance to relationships
-- [[Total_Power_Exchange]] — overview of total power exchange concepts and relevance to relationships
+- [[Risk-Aware Consensual Kink (RACK)]] — overview of risk-aware consensual kink concepts and relevance to relationships
+- [[Safe, Sane, and Consensual]] — overview of safe, sane, and consensual concepts and relevance to relationships
+- [[Total Power Exchange]] — overview of total power exchange concepts and relevance to relationships
 - [[Trauma-Informed Care]] — recognition of chronic misattunement and sensory trauma
 
 ## 📚 Further Reading

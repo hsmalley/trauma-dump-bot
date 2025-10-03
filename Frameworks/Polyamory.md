@@ -80,7 +80,7 @@ Polyamory is a challenging yet powerful environment for developing **Earned Secu
 - [[Open_Relationships]]
 - [[Ethical_Non_Monogamy_ENM]]
 - [[FRIES_Consent]]
-- [[Attachment_Theory]]
+- [[Attachment Theory]]
 
 ### 📚 Citations & Sources
 

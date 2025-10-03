@@ -35,4 +35,4 @@ type: reference
 - Structure an enactment: A risks vulnerability; B responds with presence.
 - Reinforce A.R.E. moments to build secure bonding.
 
-**Related:** [[Attachment_Theory]], [[Polyvagal Theory]], [[Analysis Prompt - Repair Attempts]]
+**Related:** [[Attachment Theory]], [[Polyvagal Theory]], [[Analysis Prompt - Repair Attempts]]

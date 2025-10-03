@@ -35,4 +35,4 @@ type: reference
 - Coach A to express needs directly without accusation.
 - Coach B to provide short, reliable responsiveness signals.
 
-**Related:** [[Emotionally_Focused_Therapy]], [[Gottman_Method]], [[Analysis Prompt - Attachment]]
+**Related:** [[Emotionally_Focused_Therapy]], [[Gottman_Method]], [[Analysis Prompt - Attachment Cycle Mapping]]

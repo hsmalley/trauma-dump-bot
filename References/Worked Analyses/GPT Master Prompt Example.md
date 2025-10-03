@@ -33,4 +33,4 @@ type: reference
 - Coach presence cues (Polyvagal/EFT).
 - Translate judgments into needs/requests (NVC).
 
-**Related:** [[Internal_Family_Systems]], [[Polyvagal Theory]], [[Analysis Prompt - Conflict]]
+**Related:** [[Internal_Family_Systems]], [[Polyvagal Theory]], [[Analysis Prompt - Multi-Modal Conflict Assessment]]

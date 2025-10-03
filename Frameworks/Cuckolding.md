@@ -95,7 +95,7 @@ Due to its high emotional and psychological risk, cuckolding is a profound test 
 ### 🔗 Related Frameworks and Further Reading
 
 - [[Bondage_Discipline_Sadism_Masochism]]
-- [[Attachment_Theory]]
+- [[Attachment Theory]]
 - [[Consent_Culture]]
 - [[Boundary_Models]]
 

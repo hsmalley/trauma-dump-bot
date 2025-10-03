@@ -32,4 +32,4 @@ type: reference
 - Create structures for voice and safety.
 - Co-design norms that counter structural risks.
 
-**Related:** [[Intersectional_Feminist_Psychology]], [[Consent_Culture]], [[Analysis Prompt - Conflict]]
+**Related:** [[Intersectional_Feminist_Psychology]], [[Consent_Culture]], [[Analysis Prompt - Multi-Modal Conflict Assessment]]

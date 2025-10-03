@@ -1,30 +1,53 @@
 ---
 title: Reflection Template
-tags: [template]
-tag type: template
+aliases:
+  - Personal Reflection
+  - Self-Reflection Guide
+  - Post-Conflict Check-in
+tags:
+  - template
+  - reflection
+  - relational_repair
+  - self_regulation
+type: template
+related:
+  - "Acceptance_and_Commitment_Therapy"
+  - "Internal_Family_Systems"
+  - "Nonviolent_Communication"
+  - "Polyvagal_Theory_PVT"
 ---
 
 <!-- @format -->
 
-# Reflection / IFS Check-in
+# 🧘 Personal Reflection Template
 
-## Current State
+> **Purpose:** A structured template for self-guided, non-judgmental analysis of personal emotional and somatic responses immediately following a relational interaction or conflict.
 
-What sensations, emotions, or thoughts are most present?
+---
 
-## Parts / Voices
+## 📝 The Event
 
-- Part 1: What does it say?
-- Part 2: What does it need?
+- Briefly describe the conversation or interaction that triggered the need for reflection.
 
-## Nervous System State
+## 🌡 Emotional Map (The Polyvagal Lens)
 
-How regulated or activated do you feel? (Polyvagal)
+- What emotions were present?
+- Where did you feel them in your body? (Use **[[Polyvagal_Theory_PVT]]** language: e.g., feeling tension in the chest (Sympathetic), collapse in the shoulders (Dorsal Vagal), or flow (Ventral Vagal))
 
-## Self-Energy
+## 💡 Core Insights (IFS & ACT Lens)
 
-What qualities of Self (curiosity, compassion, clarity) are accessible?
+- What belief or assumption drove your behavior? (Use **[[Acceptance and Commitment Therapy]]** language: e.g., "I fused with the thought that I was being abandoned.")
+- What internal **[[Internal_Family_Systems]] (IFS)** Part took the lead? (e.g., Critical Manager, Frightened Exile, Controlling Firefighter)
+- What was the core need (**[[Nonviolent_Communication]] (NVC)**) you were fighting for? (e.g., Safety, Autonomy, Belonging, Rest)
 
-## Next Step
+## ➡️ Next Action
 
-What small action or reflection would feel supportive?
+- What is one small, **values-driven action** you can commit to next? (Action should move you closer to your core values, not away from discomfort.)
+
+---
+
+### ## 📌 Usage and Execution Notes
+
+- **Intended Output:** A clear, non-judgmental map of personal nervous system states, protective parts, and core unmet needs.
+- **Target User:** The individual immediately after a conflict cool-down or dysregulation event.
+- **Fill-in Method:** **Use concise, first-person "I" statements.** The process is one of non-judgmental observation (**Self-energy**), not problem-solving or formulating a partner response. Focus on internal experience only.

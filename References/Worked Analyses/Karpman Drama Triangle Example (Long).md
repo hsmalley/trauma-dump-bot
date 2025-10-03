@@ -32,4 +32,4 @@ type: reference
 - Shift to [[Empowerment_Triangle]] (Creator/Coach/Challenger).
 - Establish boundaries and clarity of responsibilities.
 
-**Related:** [[Empowerment_Triangle]], [[Transactional_Analysis]], [[Analysis Prompt - Conflict]]
+**Related:** [[Empowerment_Triangle]], [[Transactional Analysis]], [[Analysis Prompt - Multi-Modal Conflict Assessment]]

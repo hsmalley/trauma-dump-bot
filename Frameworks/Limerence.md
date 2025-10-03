@@ -154,7 +154,7 @@ Limerence is highly correlated with **Insecure Attachment** styles, particularly
 
 ### 🔗 Related Frameworks and Further Reading
 
-- [[Attachment_Theory]]
+- [[Attachment Theory]]
 - [[Internal_Family_Systems_IFS]]
 - [[Polyvagal_Theory_PVT]]
 - [[Trauma_Response]]

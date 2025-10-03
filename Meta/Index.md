@@ -1,78 +1,38 @@
 ---
-title: Index
+title: Meta Folder Index
+aliases:
+  - Governance Index
+  - Control Layer Map
 tags:
   - meta
+  - index
 type: meta
 ---
 
 <!-- @format -->
 
-# Relational Analysis Vault Index
+# 🧠 Meta Folder Index: The Control Layer
 
-## Frameworks
+This folder contains the **governance files** and **master execution prompts** that dictate the ethics, rules, and fundamental workflow of the entire Relational Analysis System.
 
-- [[Acceptance_and_Commitment_Therapy]]
-- [[Attachment_Theory]]
-- [[Boundary_Models]]
-- [[Borderline_ Personality_Disorder]]
-- [[Cognitive_Behavioral_Therapy]]
-- [[Consent_Culture]]
-- [[Containment_Models]]
-- [[Dialectical_Behavior_Therapy]]
-- [[Dependent_Personality_Disorder]]
-- [[Drama Triangle & Empowerment Triangle]]
-- [[Emotionally_Focused_Therapy]]
-- [[Empowerment_Triangle]]
-- [[Gottman_Method]]
-- [[Internal_Family_Systems]]
-- [[Intersectional_Feminist_Psychology]]
-- [[Intersectional Psychology]]
-- [[Karpman_Drama_Triangle]]
-- [[Liberation_Psychology]]
-- [[Narrative_Therapy]]
-- [[Nonviolent_Communication]]
-- [[Polyvagal_Theory]]
-- [[Relational Theory]]
-- [[Somatic_Experiencing]]
-- [[Systems_Thinking]]
-- [[Transactional_Analysis]]
-- [[Trauma-Informed Care (TIC)]]
+These files must **not** be edited without a full understanding of their purpose, as they maintain the vault's safety and integrity.
 
-## Templates
+---
 
-- [[Conversation Analysis Template]]
-- [[Conversation Analysis Template]]
-- [[Framework Name (ACRONYM)]]
-- [[Framework Reference Template]]
-- [[Person Template]]
-- [[Reflection Template]]
-- [[Relational Analysis Data Template]]
-- [[Relational Mapping Template]]
+## 1. 🥇 Governance & Ethical Rules (01\_)
 
-## Prompts
+These files are the **Constitution** of the vault, setting the fixed ethical constraints and rules for knowledge acquisition.
 
-- [[Analysis Prompt - Attachment]]
-- [[Analysis Prompt - Conflict]]
-- [[Analysis Prompt - Repair Attempts]]
-- [[GPT Relational Analysis Prompt]]
-- [[Reflection Prompts]]
+- **[[01_META_GOVERNANCE_Safety_Rules.md]]**
+  - _Function:_ Enforces the **Trauma-Informed Default** and **Regulation First** principles (The ethical control on all output).
+- **[[01_META_GOVERNANCE_Knowledge_Vetting.md]]**
+  - _Function:_ Governs the ethical process for adding and integrating new psychological theories (The control on knowledge growth).
 
-## References
+## 2. 🥈 Master Execution Files (02\_)
 
-- [[Case Study Examples]]
-- [[Example Conversations]]
-- [[Glossary]]
-- [[Key Researchers]]
-- [[Quick Reference]]
-- [[Reading List]]
-- [[Worked Analyses]]
+These files are the system's **Engine**, managing the triage of user requests and the long-term accountability loop.
 
-## Meta
-
-- [[Index]]
-- [[Maintenance]]
-- [[Master Relationship Map]]
-- [[Meta/README]]
-- [[Tagging System]]
-- [[Validator Usage]]
-- [[Vault File Tree]]
+- **[[02_MASTER_EXECUTION_Triage_Engine.md]]**
+  - _Function:_ The master prompt that selects the correct Analysis Tool based on user input (The control on workflow execution).
+- **[[02_MASTER_EXECUTION_Accountability_Review.md]]**
+  - _Function:_ Manages the long-term progress audit and maintenance cycle for the user (The control on sustained effort).

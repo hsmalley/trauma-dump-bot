@@ -94,7 +94,7 @@ The extreme vulnerability of CBT makes it a measure of relational security.
 
 - [[Bondage_Discipline_Sadism_Masochism]]
 - [[Polyvagal_Theory_PVT]]
-- [[Attachment_Theory]]
+- [[Attachment Theory]]
 - [[Consent_Models]]
 
 ### 📚 Citations & Sources

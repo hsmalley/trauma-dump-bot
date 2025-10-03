@@ -33,4 +33,4 @@ type: reference
 - Practice mutual empathy rounds (speak/listen/reflect).
 - Re-anchor norms: authenticity with care.
 
-**Related:** [[Consent_Culture]], [[Attachment_Theory]], [[Analysis Prompt - Repair Attempts]]
+**Related:** [[Consent_Culture]], [[Attachment Theory]], [[Analysis Prompt - Repair Attempts]]
