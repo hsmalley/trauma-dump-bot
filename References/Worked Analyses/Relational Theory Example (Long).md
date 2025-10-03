@@ -11,11 +11,9 @@ type: reference
 
 ## Transcript Excerpt
 
-> A: 'I don’t feel like myself around you lately.'
-> B: 'I’ve been keeping things inside to avoid fights.'
-> A: 'So we’re both hiding.'
-> B: 'I miss feeling close and honest.'
-> A: 'Me too; I want to try again.'
+> A: 'I don’t feel like myself around you lately.' B: 'I’ve been keeping things inside
+> to avoid fights.' A: 'So we’re both hiding.' B: 'I miss feeling close and honest.' A:
+> 'Me too; I want to try again.'
 
 ## Observations
 
@@ -33,4 +31,5 @@ type: reference
 - Practice mutual empathy rounds (speak/listen/reflect).
 - Re-anchor norms: authenticity with care.
 
-**Related:** [[Consent Culture]], [[Attachment Theory]], [[Analysis Prompt - Repair Attempts]]
+**Related:** [[Consent Culture]], [[Attachment Theory]],
+[[Analysis Prompt - Repair Attempts]]

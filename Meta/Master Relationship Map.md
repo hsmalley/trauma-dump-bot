@@ -14,7 +14,9 @@ type: meta
 
 # 🗺️ Master Relationship Map: System Schematic
 
-This map illustrates the operational flow of the entire Relational Analysis Vault, showing how inputs (Templates) are processed by the Engine (Prompts) to produce actionable results.
+This map illustrates the operational flow of the entire Relational Analysis Vault,
+showing how inputs (Templates) are processed by the Engine (Prompts) to produce
+actionable results.
 
 ---
 
@@ -24,9 +26,12 @@ The system is a closed loop designed to enforce regulation, analysis, and repair
 
 1.  **Input (Data Collection):** User provides structured data via the **Templates**.
 2.  **Triage (Diagnosis):** The **Triage Engine** selects the precise diagnostic tool.
-3.  **Analysis (Processing):** The **Analysis Prompts** apply the **Frameworks** (IFS, PVT, ACT) to the data.
-4.  **Output (Repair/Action):** The **Synthesis Prompt** translates the analysis into a final script.
-5.  **Audit (Maintenance):** The **Accountability Prompt** checks if the action was taken, completing the cycle.
+3.  **Analysis (Processing):** The **Analysis Prompts** apply the **Frameworks** (IFS,
+    PVT, ACT) to the data.
+4.  **Output (Repair/Action):** The **Synthesis Prompt** translates the analysis into a
+    final script.
+5.  **Audit (Maintenance):** The **Accountability Prompt** checks if the action was
+    taken, completing the cycle.
 
 ---
 
@@ -46,10 +51,15 @@ This table illustrates which parts of the system rely on other parts to function
 
 ## 3. The Governance Layer (The Unseen Controllers)
 
-These files control the _logic_ of the map but do not participate in the core analysis loop. They are the fixed rules.
+These files control the _logic_ of the map but do not participate in the core analysis
+loop. They are the fixed rules.
 
-- **Ethical Constraint:** **[[01_META_GOVERNANCE_Safety_Rules.md]]** (Ensures all analysis and output is non-blaming).
-- **Information Control:** **[[01_META_GOVERNANCE_Tagging_System.md]]** (Ensures all links and connections remain intact).
-- **Source Authority:** **[[_REFERENCES_OVERVIEW.md]]** (Verifies the academic integrity of the Frameworks).
+- **Ethical Constraint:** **[[01_META_GOVERNANCE_Safety_Rules.md]]** (Ensures all
+  analysis and output is non-blaming).
+- **Information Control:** **[[01_META_GOVERNANCE_Tagging_System.md]]** (Ensures all
+  links and connections remain intact).
+- **Source Authority:** **[[_REFERENCES_OVERVIEW.md]]** (Verifies the academic integrity
+  of the Frameworks).
 
-This map serves as the single source of truth for the system's architecture, completing your structured documentation.
+This map serves as the single source of truth for the system's architecture, completing
+your structured documentation.

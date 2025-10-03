@@ -2,7 +2,8 @@
 
 # 📂 VAULT DEPLOYMENT MANIFEST: Relational Analysis System
 
-This manifest lists all files and their intended directory structure, fulfilling the requirements of the original "Obsidian Vault Build Prompt."
+This manifest lists all files and their intended directory structure, fulfilling the
+requirements of the original "Obsidian Vault Build Prompt."
 
 ## I. Core Governance & Setup (Meta/)
 

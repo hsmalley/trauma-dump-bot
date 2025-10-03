@@ -11,10 +11,8 @@ type: reference
 
 ## Transcript Excerpt
 
-> A: 'You never listen to me!'
-> B: 'You’re always criticizing me.'
-> A: 'Because I feel ignored.'
-> B: 'I shut down when you yell.'
+> A: 'You never listen to me!' B: 'You’re always criticizing me.' A: 'Because I feel
+> ignored.' B: 'I shut down when you yell.'
 
 ## Observations
 
@@ -33,4 +31,5 @@ type: reference
 - Coach B to signal presence before retreat.
 - Name and interrupt the negative cycle.
 
-**Related:** [[Polyvagal Theory]], [[Attachment Theory]], [[Analysis Prompt - Multi-Modal Conflict Assessment]]
+**Related:** [[Polyvagal Theory]], [[Attachment Theory]],
+[[Analysis Prompt - Multi-Modal Conflict Assessment]]

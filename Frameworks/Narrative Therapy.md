@@ -24,17 +24,27 @@ modified: 2025-10-02
 
 ### 🧩 Definition and Core Themes
 
-**Narrative Therapy (NT)** is a **postmodern, collaborative, and non-pathologizing** approach to counseling developed in the 1980s by **Michael White** (Australia) and **David Epston** (New Zealand). It is founded on the idea that an individual's life is composed of multiple stories, and that a **"problem-saturated"** dominant story can significantly limit their identity and potential.
+**Narrative Therapy (NT)** is a **postmodern, collaborative, and non-pathologizing**
+approach to counseling developed in the 1980s by **Michael White** (Australia) and
+**David Epston** (New Zealand). It is founded on the idea that an individual's life is
+composed of multiple stories, and that a **"problem-saturated"** dominant story can
+significantly limit their identity and potential.
 
-- **Core Philosophy:** People make meaning of their lives and construct their identities through **narratives** (stories composed of events linked in sequence, across time, according to a plot).
+- **Core Philosophy:** People make meaning of their lives and construct their identities
+  through **narratives** (stories composed of events linked in sequence, across time,
+  according to a plot).
 - **Key Mantra:** **"The problem is the problem, the person is not the problem."**
-- **Therapist Stance:** The therapist maintains a **"decentered but influential"** and **"not-knowing"** stance, viewing the client as the **expert of their own life** and encouraging collaboration in the therapeutic process.
+- **Therapist Stance:** The therapist maintains a **"decentered but influential"** and
+  **"not-knowing"** stance, viewing the client as the **expert of their own life** and
+  encouraging collaboration in the therapeutic process.
 
 ---
 
 ### 🛠️ Key Techniques and Interventions
 
-Narrative Therapy uses specific conversational maps to help clients challenge the dominant, negative stories influencing their lives and **co-author** new, more hopeful ones.
+Narrative Therapy uses specific conversational maps to help clients challenge the
+dominant, negative stories influencing their lives and **co-author** new, more hopeful
+ones.
 
 | Technique                         | Description                                                                                                                                                          | Purpose                                                                                                                             |
 | :-------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
@@ -48,13 +58,21 @@ Narrative Therapy uses specific conversational maps to help clients challenge th
 
 ### 🧠 Postmodern and Social Context
 
-Narrative therapy is deeply rooted in **social constructionism** and **postmodern thought**, acknowledging that:
+Narrative therapy is deeply rooted in **social constructionism** and **postmodern
+thought**, acknowledging that:
 
-1.  **Reality is Socially Constructed:** The meaning people assign to events is shaped by culture, language, and the "dominant discourses" of society (e.g., cultural expectations around gender, race, or success).
-2.  **Problems are Discursive:** Problems often gain power because they align with these dominant cultural discourses, leading to "single-storied" identities that pathologize and limit people. NT seeks to help clients **deconstruct** these disempowering cultural influences.
+1.  **Reality is Socially Constructed:** The meaning people assign to events is shaped
+    by culture, language, and the "dominant discourses" of society (e.g., cultural
+    expectations around gender, race, or success).
+2.  **Problems are Discursive:** Problems often gain power because they align with these
+    dominant cultural discourses, leading to "single-storied" identities that
+    pathologize and limit people. NT seeks to help clients **deconstruct** these
+    disempowering cultural influences.
 
 ---
 
-David Epston reflects on Early Collaborations with Michael White This video offers personal insight from one of Narrative Therapy's co-founders regarding the development of the approach.
+David Epston reflects on Early Collaborations with Michael White This video offers
+personal insight from one of Narrative Therapy's co-founders regarding the development
+of the approach.
 
 ![David Epston Reflects on Early Collaborations with Michael White](https://www.youtube.com/watch?v=nJDdQE6m-SQ)

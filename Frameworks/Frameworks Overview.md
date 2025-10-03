@@ -2,7 +2,8 @@
 
 # Frameworks — Overview
 
-**Purpose:** This page orients contributors to the vault’s framework standards: what a framework note is, the required structure, and how to add or modify one.
+**Purpose:** This page orients contributors to the vault’s framework standards: what a
+framework note is, the required structure, and how to add or modify one.
 
 **Quick links**
 
@@ -36,5 +37,4 @@
 - Change process: propose edit > reviewer signoff > merged
 - Maintenance cadence: review major frameworks every 12 months
 
-**If you need help**
-Contact: @vault-admin or open issue in `Vault/Issues/Frameworks`
+**If you need help** Contact: @vault-admin or open issue in `Vault/Issues/Frameworks`

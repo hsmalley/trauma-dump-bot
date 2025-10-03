@@ -16,7 +16,9 @@ related:
   - Conflict_Repair_Template
   - Nonviolent_Communication_NVC
   - Trauma_Response
-source: Educational synthesis from restorative justice philosophy and conflict resolution theory
+source:
+  Educational synthesis from restorative justice philosophy and conflict resolution
+  theory
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
 created: 2025-10-02
 modified: 2025-10-02
@@ -26,20 +28,32 @@ modified: 2025-10-02
 
 ### 🧩 Definition and Core Themes
 
-**Restorative Justice (RJ)** is a philosophy and social movement that views conflict or crime as a violation of **people and relationships**, not just a violation of law or rules. Its central goal is to **repair the harm** caused by the conflict through a cooperative process involving the victim(s), the offender(s), and, where appropriate, the community.
+**Restorative Justice (RJ)** is a philosophy and social movement that views conflict or
+crime as a violation of **people and relationships**, not just a violation of law or
+rules. Its central goal is to **repair the harm** caused by the conflict through a
+cooperative process involving the victim(s), the offender(s), and, where appropriate,
+the community.
 
-- **Core Goal:** To shift the focus from **punishment** and **blame** to **needs** and **repair**. The primary question changes from _"What rule was broken?"_ to _"Who was harmed, and what is needed to make things right?"_
+- **Core Goal:** To shift the focus from **punishment** and **blame** to **needs** and
+  **repair**. The primary question changes from _"What rule was broken?"_ to _"Who was
+  harmed, and what is needed to make things right?"_
 - **Central Tenets (The Three Pillars):**
-  1.  **Encounter:** Creating a safe, structured opportunity for those affected to meet and dialogue.
-  2.  **Repair:** Focusing on concrete steps the person who caused harm will take to address the injuries (physical, emotional, or material).
-  3.  **Transformation:** Addressing the root causes of the harm and preventing future reoccurrence by fostering systemic change or community dialogue.
-- **Accountability:** True accountability is achieved when the person who caused the harm **takes personal responsibility** for their actions and actively participates in the repair process, rather than passively receiving a punishment.
+  1.  **Encounter:** Creating a safe, structured opportunity for those affected to meet
+      and dialogue.
+  2.  **Repair:** Focusing on concrete steps the person who caused harm will take to
+      address the injuries (physical, emotional, or material).
+  3.  **Transformation:** Addressing the root causes of the harm and preventing future
+      reoccurrence by fostering systemic change or community dialogue.
+- **Accountability:** True accountability is achieved when the person who caused the
+  harm **takes personal responsibility** for their actions and actively participates in
+  the repair process, rather than passively receiving a punishment.
 
 ---
 
 ### 🌿 Key Practices and Models
 
-Restorative Justice is implemented through several structured practices designed to facilitate dialogue and repair.
+Restorative Justice is implemented through several structured practices designed to
+facilitate dialogue and repair.
 
 | Practice                            | Description                                                                                                                                                                          | Focus                                           |
 | :---------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------- |
@@ -51,18 +65,33 @@ Restorative Justice is implemented through several structured practices designed
 
 ### 🧠 Psychological and Relational Impact
 
-RJ is effective because it meets fundamental psychological needs often ignored by punitive systems, which focus primarily on retribution.
+RJ is effective because it meets fundamental psychological needs often ignored by
+punitive systems, which focus primarily on retribution.
 
-- **Validation and Empowerment (Victim):** Being able to tell their story, have their harm fully acknowledged by the responsible party, and participate in defining the solution is profoundly **validating** and restores the victim's **agency**.
-- **Empathy and Moral Development (Offender):** By confronting the human impact of their actions directly (face-to-face), the person who caused harm moves from abstract guilt to concrete **empathy**, which is the most powerful catalyst for genuine, internal change and reduced recidivism.
-- **Safety and Co-Regulation:** The circle format, led by a calm, neutral **Facilitator**, provides a strong **Ventral Vagal (Safe and Social)** cue, which helps contain the intense emotions of the discussion and prevent the parties from moving into a defensive or dissociated state (**Trauma Response**).
+- **Validation and Empowerment (Victim):** Being able to tell their story, have their
+  harm fully acknowledged by the responsible party, and participate in defining the
+  solution is profoundly **validating** and restores the victim's **agency**.
+- **Empathy and Moral Development (Offender):** By confronting the human impact of their
+  actions directly (face-to-face), the person who caused harm moves from abstract guilt
+  to concrete **empathy**, which is the most powerful catalyst for genuine, internal
+  change and reduced recidivism.
+- **Safety and Co-Regulation:** The circle format, led by a calm, neutral
+  **Facilitator**, provides a strong **Ventral Vagal (Safe and Social)** cue, which
+  helps contain the intense emotions of the discussion and prevent the parties from
+  moving into a defensive or dissociated state (**Trauma Response**).
 
 ---
 
 ### 🛠️ Application Settings
 
-RJ principles are increasingly applied in diverse settings beyond the criminal justice system:
+RJ principles are increasingly applied in diverse settings beyond the criminal justice
+system:
 
-- **Educational Institutions:** Used to address bullying, rule infractions, and conflicts between students/teachers by focusing on repairing relationships and setting new, shared community norms.
-- **Organizational and Workplace Conflict:** Used to address harassment, discrimination, or toxic work environments, emphasizing systemic change and relational repair over firing or legal action alone.
-- **Community Building:** Used proactively (before harm occurs) to build strong, resilient communities capable of addressing conflict internally.
+- **Educational Institutions:** Used to address bullying, rule infractions, and
+  conflicts between students/teachers by focusing on repairing relationships and setting
+  new, shared community norms.
+- **Organizational and Workplace Conflict:** Used to address harassment, discrimination,
+  or toxic work environments, emphasizing systemic change and relational repair over
+  firing or legal action alone.
+- **Community Building:** Used proactively (before harm occurs) to build strong,
+  resilient communities capable of addressing conflict internally.

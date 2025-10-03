@@ -14,7 +14,9 @@ related:
   - Relational_Theory
   - Power_Dynamics
   - Conflict_Repair_Template
-source: Educational synthesis from systems science, cybernetics, and organizational development
+source:
+  Educational synthesis from systems science, cybernetics, and organizational
+  development
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
 created: 2025-10-02
 modified: 2025-10-02
@@ -24,11 +26,21 @@ modified: 2025-10-02
 
 ### 🧩 Definition and Core Themes
 
-**Systems Thinking** is a holistic analytical framework that focuses on the way a system's constituent parts interrelate, and how the system as a whole works over time and within the context of larger systems. It is a philosophy and a set of tools used to understand **complex problems** by looking at **patterns, relationships, and feedback loops**, rather than isolating and analyzing individual, discrete events.
+**Systems Thinking** is a holistic analytical framework that focuses on the way a
+system's constituent parts interrelate, and how the system as a whole works over time
+and within the context of larger systems. It is a philosophy and a set of tools used to
+understand **complex problems** by looking at **patterns, relationships, and feedback
+loops**, rather than isolating and analyzing individual, discrete events.
 
-- **Core Goal:** To move from **linear, cause-and-effect thinking** (A causes B) to **circular, dynamic thinking** (A and B mutually influence each other within a context C). The focus is on the **interactions** rather than the parts themselves.
-- **The Whole is Greater than the Sum of its Parts:** A key tenet is that the system exhibits properties (called **emergent properties**) that the individual parts do not possess on their own. For example, a flock of birds exhibits "flocking behavior" that no single bird can perform.
-- **Application:** It is foundational to fields from biology and ecology to engineering, organizational management, and **Family Systems Therapy**.
+- **Core Goal:** To move from **linear, cause-and-effect thinking** (A causes B) to
+  **circular, dynamic thinking** (A and B mutually influence each other within a context
+  C). The focus is on the **interactions** rather than the parts themselves.
+- **The Whole is Greater than the Sum of its Parts:** A key tenet is that the system
+  exhibits properties (called **emergent properties**) that the individual parts do not
+  possess on their own. For example, a flock of birds exhibits "flocking behavior" that
+  no single bird can perform.
+- **Application:** It is foundational to fields from biology and ecology to engineering,
+  organizational management, and **Family Systems Therapy**.
 
 ---
 
@@ -48,16 +60,32 @@ Systems Thinking provides a vocabulary for analyzing complexity:
 
 ### 🧠 Psychological and Relational Impact
 
-Systems Thinking fundamentally shifts the approach to psychological distress and relational conflict.
+Systems Thinking fundamentally shifts the approach to psychological distress and
+relational conflict.
 
-- **De-Pathologizing the Individual:** In relational therapy, a system view insists that the client's "symptom" (e.g., anxiety, anger) is often an **adaptive response** to a dysfunctional system, rather than an inherent personal flaw. The system (the relationship, the family, the workplace) is the identified client.
-- **Circular Causality:** It replaces the blame-oriented "Who started it?" with the question: **"What is the pattern, and how does each person contribute to the continuation of the pattern?"** This fosters mutual responsibility for change.
-- **IPNB and Co-Regulation:** The concept is fundamental to **Interpersonal Neurobiology (IPNB)** and **Polyvagal Theory (PVT)**, which view the brain and nervous system as being dynamically regulated by the external social system (i.e., we **co-regulate** our nervous system with others).
+- **De-Pathologizing the Individual:** In relational therapy, a system view insists that
+  the client's "symptom" (e.g., anxiety, anger) is often an **adaptive response** to a
+  dysfunctional system, rather than an inherent personal flaw. The system (the
+  relationship, the family, the workplace) is the identified client.
+- **Circular Causality:** It replaces the blame-oriented "Who started it?" with the
+  question: **"What is the pattern, and how does each person contribute to the
+  continuation of the pattern?"** This fosters mutual responsibility for change.
+- **IPNB and Co-Regulation:** The concept is fundamental to **Interpersonal Neurobiology
+  (IPNB)** and **Polyvagal Theory (PVT)**, which view the brain and nervous system as
+  being dynamically regulated by the external social system (i.e., we **co-regulate**
+  our nervous system with others).
 
 ---
 
 ### 🛠️ Strategies and Practices
 
-- **Prompt (Tracking the Loop):** When a client reports a recurring conflict, ask them to map the interaction: _"What did you do right before the reaction? What did they do in response? How did their response cause you to do the next thing?"_ (This reveals the **Feedback Loop**).
-- **Micro-Skill (Reframing Symptoms):** Help the client reframe their own behavior as a systemic function: _"Your anger is not a flaw; it may be the system's way of trying to call attention to a lack of clear boundaries."_
-- **The System's Rules:** Explicitly ask the client to identify the unwritten rules that govern their relationships. _"What are the unspoken rules about expressing anger in your family? Who set those rules, and who maintains them?"_
+- **Prompt (Tracking the Loop):** When a client reports a recurring conflict, ask them
+  to map the interaction: _"What did you do right before the reaction? What did they do
+  in response? How did their response cause you to do the next thing?"_ (This reveals
+  the **Feedback Loop**).
+- **Micro-Skill (Reframing Symptoms):** Help the client reframe their own behavior as a
+  systemic function: _"Your anger is not a flaw; it may be the system's way of trying to
+  call attention to a lack of clear boundaries."_
+- **The System's Rules:** Explicitly ask the client to identify the unwritten rules that
+  govern their relationships. _"What are the unspoken rules about expressing anger in
+  your family? Who set those rules, and who maintains them?"_

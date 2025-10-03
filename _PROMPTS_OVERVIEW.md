@@ -14,13 +14,16 @@ type: meta
 
 # ⚙️ Prompts Overview and Functional Guide
 
-This guide maps the complete prompt architecture of the vault, organized by **function** in the relational workflow. Use this guide to quickly select the right tool based on your immediate need.
+This guide maps the complete prompt architecture of the vault, organized by **function**
+in the relational workflow. Use this guide to quickly select the right tool based on
+your immediate need.
 
 ---
 
 ## I. Governance & System Management (Meta & Master Prompts)
 
-These prompts define the ethical rules and control the overall workflow of the vault. They are executed by the system, not directly by the user.
+These prompts define the ethical rules and control the overall workflow of the vault.
+They are executed by the system, not directly by the user.
 
 | Prompt Title                                      | Primary Function                                                                              | Workflow Stage        |
 | :------------------------------------------------ | :-------------------------------------------------------------------------------------------- | :-------------------- |
@@ -32,7 +35,8 @@ These prompts define the ethical rules and control the overall workflow of the v
 
 ## II. Diagnostic Tools (Specialized Analysis Prompts)
 
-These twelve prompts are the analytical engine. They are run by the **Triage Engine** to diagnose a specific, narrow problem.
+These twelve prompts are the analytical engine. They are run by the **Triage Engine** to
+diagnose a specific, narrow problem.
 
 | Prompt Title                                                    | Focus Area                                                                             | When to Use                                                        |
 | :-------------------------------------------------------------- | :------------------------------------------------------------------------------------- | :----------------------------------------------------------------- |
@@ -53,7 +57,8 @@ These twelve prompts are the analytical engine. They are run by the **Triage Eng
 
 ## III. Operational Tools (Utility Prompts)
 
-These prompts are used directly by the user or the system to manage content, practice skills, and deliver feedback safely.
+These prompts are used directly by the user or the system to manage content, practice
+skills, and deliver feedback safely.
 
 | Prompt Title                                                | Primary Function                                                                               | Output/Action           |
 | :---------------------------------------------------------- | :--------------------------------------------------------------------------------------------- | :---------------------- |

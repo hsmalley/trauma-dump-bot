@@ -11,11 +11,9 @@ type: reference
 
 ## Transcript Excerpt
 
-> A: 'Why are you ignoring me?'
-> B: 'I just can’t deal with this right now.'
-> A: 'So you’re shutting me out again.'
-> B: 'I feel trapped when you raise your voice.'
-> A: 'I only raise my voice because I feel desperate.'
+> A: 'Why are you ignoring me?' B: 'I just can’t deal with this right now.' A: 'So
+> you’re shutting me out again.' B: 'I feel trapped when you raise your voice.' A: 'I
+> only raise my voice because I feel desperate.'
 
 ## Observations
 
@@ -34,4 +32,5 @@ type: reference
 - B can signal presence nonverbally to reduce A’s panic.
 - A can soften protest with needs language (NVC).
 
-**Related:** [[Attachment Theory]], [[Emotionally Focused Therapy]], [[Analysis Prompt - Attachment Cycle Mapping]]
+**Related:** [[Attachment Theory]], [[Emotionally Focused Therapy]],
+[[Analysis Prompt - Attachment Cycle Mapping]]

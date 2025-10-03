@@ -14,21 +14,28 @@ type: meta
 
 # 🏷️ 01_META_GOVERNANCE_Tagging_System
 
-> **Task:** This document dictates the standardized usage, naming conventions, and hierarchy of all tags used across the entire vault. Consistency in tagging is mandatory for the **[[Utility Prompt - Vault Indexing & Maintenance Audit]]** to function correctly.
+> **Task:** This document dictates the standardized usage, naming conventions, and
+> hierarchy of all tags used across the entire vault. Consistency in tagging is
+> mandatory for the **[[Utility Prompt - Vault Indexing & Maintenance Audit]]** to
+> function correctly.
 
 ---
 
 ## I. Tagging Rules (System Integrity)
 
-1.  **Case:** All tags must be written in **lowercase** and **snake_case** (using underscores for spaces, e.g., `core_wound`).
-2.  **Exclusivity:** Every file must have exactly **one** primary `type:` tag and at least **one** primary `tags:` category tag (e.g., `analysis` or `framework`).
-3.  **No Redundancy:** Avoid creating new tags if an existing one can be accurately applied.
+1.  **Case:** All tags must be written in **lowercase** and **snake_case** (using
+    underscores for spaces, e.g., `core_wound`).
+2.  **Exclusivity:** Every file must have exactly **one** primary `type:` tag and at
+    least **one** primary `tags:` category tag (e.g., `analysis` or `framework`).
+3.  **No Redundancy:** Avoid creating new tags if an existing one can be accurately
+    applied.
 
 ---
 
 ## II. Primary Tag Categories
 
-Every file in the vault must use tags drawn from these three categories to ensure proper indexing.
+Every file in the vault must use tags drawn from these three categories to ensure proper
+indexing.
 
 ### A. System Tags (The "What Kind of File?")
 

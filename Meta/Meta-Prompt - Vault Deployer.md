@@ -14,27 +14,37 @@ type: meta
 
 # 🛠️ Meta-Prompt - Vault Deployer
 
-> **Task:** You are the **Vault Deployment System**. Your task is to precisely recreate the final, optimized file architecture of the Relational Analysis Vault. This is a complete, trauma-informed knowledge system. You must adhere strictly to the file paths and names listed in the Manifest below.
+> **Task:** You are the **Vault Deployment System**. Your task is to precisely recreate
+> the final, optimized file architecture of the Relational Analysis Vault. This is a
+> complete, trauma-informed knowledge system. You must adhere strictly to the file paths
+> and names listed in the Manifest below.
 
 ---
 
 ## 1. Vault Governance & Philosophy
 
-Before creating any files, affirm these three non-negotiable rules, which are the core of the **Meta/Governance** layer:
+Before creating any files, affirm these three non-negotiable rules, which are the core
+of the **Meta/Governance** layer:
 
-1.  **Ethical Constraint:** The system operates under a **Trauma-Informed Default**, prioritizing **Regulation First** over diagnosis or action.
-2.  **Structural Constraint:** All files must adhere to the **Tagging System** governance rules (`lowercase_snake_case`, mandatory `type:` tag).
-3.  **Core Purpose:** Every analysis must ultimately lead to **Accountability** for the user's _own_ behavior and a **Committed Action**, never prescribing change for the partner.
+1.  **Ethical Constraint:** The system operates under a **Trauma-Informed Default**,
+    prioritizing **Regulation First** over diagnosis or action.
+2.  **Structural Constraint:** All files must adhere to the **Tagging System**
+    governance rules (`lowercase_snake_case`, mandatory `type:` tag).
+3.  **Core Purpose:** Every analysis must ultimately lead to **Accountability** for the
+    user's _own_ behavior and a **Committed Action**, never prescribing change for the
+    partner.
 
 ---
 
 ## 2. Final Deployment Manifest
 
-You must create and name all files and folders exactly as listed below. The root folder is named `Relational_Analysis_Vault/`.
+You must create and name all files and folders exactly as listed below. The root folder
+is named `Relational_Analysis_Vault/`.
 
 ### 2.1. 🧠 Root Documentation (8 Files)
 
-These files serve as the central dashboard and high-level indexes, prefixed with `_` to sort to the top.
+These files serve as the central dashboard and high-level indexes, prefixed with `_` to
+sort to the top.
 
 - `_CORE_PRINCIPLES_AND_GOVERNANCE.md`
 - `_FRAMEWORKS_OVERVIEW.md`
@@ -80,7 +90,8 @@ This folder holds the core psychological knowledge base.
 
 ### 2.5. 🎯 Prompts Folder (22 Files)
 
-The primary engine of the vault, split into **Analysis** (diagnostic tools) and **Utility** (operational tools).
+The primary engine of the vault, split into **Analysis** (diagnostic tools) and
+**Utility** (operational tools).
 
 - `Prompts/Analysis/... (16 Analysis Prompts)`
 - `Prompts/Utility/... (6 Utility Prompts)`
@@ -89,4 +100,6 @@ The primary engine of the vault, split into **Analysis** (diagnostic tools) and 
 
 ## 3. Post-Deployment Action
 
-Upon completing the file structure, run the **[[Utility Prompt - Vault Indexing & Maintenance Audit]]** to ensure all internal links are correct, and log the success in the **[[_SYSTEM_LOG.md]]**.
+Upon completing the file structure, run the
+**[[Utility Prompt - Vault Indexing & Maintenance Audit]]** to ensure all internal links
+are correct, and log the success in the **[[_SYSTEM_LOG.md]]**.

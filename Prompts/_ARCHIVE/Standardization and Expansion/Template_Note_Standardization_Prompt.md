@@ -10,7 +10,8 @@ type: template
 
 ## 🧩 Template Note Standardization Prompt
 
-> **Objective:** Normalize all files in the `Templates/` directory to conform to a consistent format, improve usability, and enable reliable internal linking.
+> **Objective:** Normalize all files in the `Templates/` directory to conform to a
+> consistent format, improve usability, and enable reliable internal linking.
 
 ---
 
@@ -51,10 +52,12 @@ Links must be relative or Obsidian-compatible (e.g., `[[Frameworks/NVC]]`).
 
 #### 3. **Add Execution or Usage Block**
 
-- Ensure every template file includes a final section (e.g., '## Usage' or '## Execution Notes') with a clear summary:
+- Ensure every template file includes a final section (e.g., '## Usage' or '## Execution
+  Notes') with a clear summary:
   - **Intended Output:** (e.g., "A summary of needs using NVC format.")
   - **Target User:** (e.g., "Partner A during conflict cool-down.")
-  - **Fill-in Method:** (e.g., "Fill out the sections with brief bullet points; use 'self-talk' for the Reflection Template.")
+  - **Fill-in Method:** (e.g., "Fill out the sections with brief bullet points; use
+    'self-talk' for the Reflection Template.")
 
 ---
 
@@ -73,4 +76,5 @@ Links must be relative or Obsidian-compatible (e.g., `[[Frameworks/NVC]]`).
 
 ---
 
-This prompt ensures templates are coherent, rich, and cross-linked for analysis and learning.
+This prompt ensures templates are coherent, rich, and cross-linked for analysis and
+learning.

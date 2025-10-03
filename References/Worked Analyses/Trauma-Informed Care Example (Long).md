@@ -11,10 +11,9 @@ type: reference
 
 ## Transcript Excerpt
 
-> A: 'I can’t handle surprise feedback sessions.'
-> B: 'We thought spontaneity kept it casual.'
-> A: 'It spikes my anxiety.'
-> B: 'Let’s schedule and share agenda ahead of time.'
+> A: 'I can’t handle surprise feedback sessions.' B: 'We thought spontaneity kept it
+> casual.' A: 'It spikes my anxiety.' B: 'Let’s schedule and share agenda ahead of
+> time.'
 
 ## Observations
 
@@ -32,4 +31,5 @@ type: reference
 - Offer alternatives and pacing options.
 - Use strengths-based, non-pathologizing framing.
 
-**Related:** [[Polyvagal Theory]], [[Consent Culture]], [[Analysis Prompt - Multi-Modal Conflict Assessment]]
+**Related:** [[Polyvagal Theory]], [[Consent Culture]],
+[[Analysis Prompt - Multi-Modal Conflict Assessment]]

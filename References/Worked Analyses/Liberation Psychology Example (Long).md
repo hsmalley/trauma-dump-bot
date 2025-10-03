@@ -11,10 +11,8 @@ type: reference
 
 ## Transcript Excerpt
 
-> A: 'I’m the only person like me at work.'
-> B: 'I don’t get why that matters in our team.'
-> A: 'It affects how safe I feel speaking up.'
-> B: 'I hadn’t considered that.'
+> A: 'I’m the only person like me at work.' B: 'I don’t get why that matters in our
+> team.' A: 'It affects how safe I feel speaking up.' B: 'I hadn’t considered that.'
 
 ## Observations
 
@@ -32,4 +30,5 @@ type: reference
 - Create structures for voice and safety.
 - Co-design norms that counter structural risks.
 
-**Related:** [[Intersectional Feminist Psychology]], [[Consent Culture]], [[Analysis Prompt - Multi-Modal Conflict Assessment]]
+**Related:** [[Intersectional Feminist Psychology]], [[Consent Culture]],
+[[Analysis Prompt - Multi-Modal Conflict Assessment]]

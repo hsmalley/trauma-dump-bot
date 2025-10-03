@@ -25,38 +25,72 @@ modified: 2025-10-02
 
 ### 🧩 Definition and Core Themes
 
-The **Klein Sexual Orientation Grid (KSOG)**, or the **Klein Grid**, is a system for describing and measuring sexual orientation developed by Dr. Fritz Klein in 1978. It was created as an evolution and critique of the Kinsey Scale, which only measured sexual behavior on a single continuum from 0 (exclusively heterosexual) to 6 (exclusively homosexual). The Klein Grid recognizes the complexity and **fluidity of sexual identity** by breaking down orientation into **seven variables** and measuring each variable across **three distinct time periods.**
+The **Klein Sexual Orientation Grid (KSOG)**, or the **Klein Grid**, is a system for
+describing and measuring sexual orientation developed by Dr. Fritz Klein in 1978. It was
+created as an evolution and critique of the Kinsey Scale, which only measured sexual
+behavior on a single continuum from 0 (exclusively heterosexual) to 6 (exclusively
+homosexual). The Klein Grid recognizes the complexity and **fluidity of sexual
+identity** by breaking down orientation into **seven variables** and measuring each
+variable across **three distinct time periods.**
 
-- **Core Goal:** To provide a comprehensive, multidimensional, and dynamic assessment of sexual orientation that accounts for personal change over time and the difference between fantasy, behavior, and social identity.
-- **Key Shift:** It moves from a single, static measure (like the Kinsey Scale) to a **21-point spectrum** (7 variables $\times$ 3 time periods), reflecting that a person's orientation is not fixed.
+- **Core Goal:** To provide a comprehensive, multidimensional, and dynamic assessment of
+  sexual orientation that accounts for personal change over time and the difference
+  between fantasy, behavior, and social identity.
+- **Key Shift:** It moves from a single, static measure (like the Kinsey Scale) to a
+  **21-point spectrum** (7 variables $\times$ 3 time periods), reflecting that a
+  person's orientation is not fixed.
 
 ---
 
 ### 🌿 Traits and Lived Experience
 
-The Klein Grid validates the lived experience of **sexual fluidity** and the distinction between internal desires and external actions.
+The Klein Grid validates the lived experience of **sexual fluidity** and the distinction
+between internal desires and external actions.
 
-- **Multidimensional Identity:** The experience is one of validation for individuals who feel their identity cannot be captured by simple labels. For instance, a person might identify as primarily heterosexual but experience highly homosexual fantasies. The grid allows these facets to coexist.
-- **Temporal Awareness:** By asking individuals to score their orientation for the **Past (before a year ago), Present (last 12 months), and Ideal Future**, the grid helps a client recognize and map their own personal evolution, normalizing change and growth in identity.
-- **Challenging Binary Thinking:** The grid is a powerful tool for deconstructing rigid binary views of sexuality, affirming that people exist in diverse and shifting gray areas.
+- **Multidimensional Identity:** The experience is one of validation for individuals who
+  feel their identity cannot be captured by simple labels. For instance, a person might
+  identify as primarily heterosexual but experience highly homosexual fantasies. The
+  grid allows these facets to coexist.
+- **Temporal Awareness:** By asking individuals to score their orientation for the
+  **Past (before a year ago), Present (last 12 months), and Ideal Future**, the grid
+  helps a client recognize and map their own personal evolution, normalizing change and
+  growth in identity.
+- **Challenging Binary Thinking:** The grid is a powerful tool for deconstructing rigid
+  binary views of sexuality, affirming that people exist in diverse and shifting gray
+  areas.
 
 ---
 
 ### 🧠 Nervous System and Parts Work Lens
 
-The grid supports internal integration by externalizing and validating complex or conflicting desires.
+The grid supports internal integration by externalizing and validating complex or
+conflicting desires.
 
-- **Integration of Desire (IFS):** For individuals whose **Internal Family Systems (IFS) Parts** are in conflict—such as a rigid **Manager Part** enforcing a conservative sexual identity, while an **Exile Part** holds forbidden homosexual or bisexual desires—the grid provides a safe, structured way to acknowledge and validate all parts of the sexual self.
-- **Reduced Shame:** By acknowledging the divergence between behavior (what one has done) and fantasy (what one desires), the grid reduces the intense **shame** often attached to "unacceptable" internal fantasies, allowing the nervous system to relax and accept the full range of desire.
+- **Integration of Desire (IFS):** For individuals whose **Internal Family Systems (IFS)
+  Parts** are in conflict—such as a rigid **Manager Part** enforcing a conservative
+  sexual identity, while an **Exile Part** holds forbidden homosexual or bisexual
+  desires—the grid provides a safe, structured way to acknowledge and validate all parts
+  of the sexual self.
+- **Reduced Shame:** By acknowledging the divergence between behavior (what one has
+  done) and fantasy (what one desires), the grid reduces the intense **shame** often
+  attached to "unacceptable" internal fantasies, allowing the nervous system to relax
+  and accept the full range of desire.
 
 ---
 
 ### 💞 Attachment and Relational Patterns
 
-The Klein Grid is essential for partners negotiating relational structures that acknowledge sexual diversity and fluidity.
+The Klein Grid is essential for partners negotiating relational structures that
+acknowledge sexual diversity and fluidity.
 
-- **Relational Honesty:** The detailed variables (especially **Social Preference** and **Community Identification**) compel an individual to engage in a high level of **relational honesty** with themselves and their partners, ensuring that external behavior aligns with internal feelings and community needs.
-- **Negotiating Change:** In relationships, the grid's temporal measurement is a non-shaming way to talk about evolving needs. For example, a partner can use the "Ideal Future" variable to express a desired direction of change in their sexuality without implying the current relationship is failing.
+- **Relational Honesty:** The detailed variables (especially **Social Preference** and
+  **Community Identification**) compel an individual to engage in a high level of
+  **relational honesty** with themselves and their partners, ensuring that external
+  behavior aligns with internal feelings and community needs.
+- **Negotiating Change:** In relationships, the grid's temporal measurement is a
+  non-shaming way to talk about evolving needs. For example, a partner can use the
+  "Ideal Future" variable to express a desired direction of change in their sexuality
+  without implying the current relationship is failing.
 
 ---
 
@@ -79,8 +113,13 @@ The Klein Grid is essential for partners negotiating relational structures that 
 
 ### 🛠️ Strategies, Prompts, and Practices
 
-- **Micro-Skill (Charting the Fluidity):** Have the client fill out the grid for a past period (e.g., 5 years ago) and the present, and compare the scores for a specific variable (e.g., Sexual Fantasy) to illustrate their **fluidity** and growth.
-- **Prompt (The Ideal Future):** Focus on the "Ideal Future" column and ask: _"If there were no constraints of fear or shame, what would be the single highest score you'd give yourself on the 'Sexual Fantasy' variable? What part of you is excited about that score, and what part is afraid?"_
+- **Micro-Skill (Charting the Fluidity):** Have the client fill out the grid for a past
+  period (e.g., 5 years ago) and the present, and compare the scores for a specific
+  variable (e.g., Sexual Fantasy) to illustrate their **fluidity** and growth.
+- **Prompt (The Ideal Future):** Focus on the "Ideal Future" column and ask: _"If there
+  were no constraints of fear or shame, what would be the single highest score you'd
+  give yourself on the 'Sexual Fantasy' variable? What part of you is excited about that
+  score, and what part is afraid?"_
 
 ---
 

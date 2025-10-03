@@ -11,11 +11,9 @@ type: reference
 
 ## Transcript Excerpt
 
-> A: 'Procrastination ruins my life.'
-> B: 'So the Problem convinces you to delay?'
-> A: 'It tells me I’ll fail anyway.'
-> B: 'When have you acted despite it?'
-> A: 'When I text a friend to co-work.'
+> A: 'Procrastination ruins my life.' B: 'So the Problem convinces you to delay?' A: 'It
+> tells me I’ll fail anyway.' B: 'When have you acted despite it?' A: 'When I text a
+> friend to co-work.'
 
 ## Observations
 
@@ -33,4 +31,5 @@ type: reference
 - Collect exceptions; re-author preferred identity.
 - Invite witnesses to thicken the preferred story.
 
-**Related:** [[Internal Family Systems]], [[Nonviolent Communication]], [[Analysis Prompt - Multi-Modal Conflict Assessment]]
+**Related:** [[Internal Family Systems]], [[Nonviolent Communication]],
+[[Analysis Prompt - Multi-Modal Conflict Assessment]]

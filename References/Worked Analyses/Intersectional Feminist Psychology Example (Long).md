@@ -11,10 +11,8 @@ type: reference
 
 ## Transcript Excerpt
 
-> A: 'When jokes target my identity, I freeze.'
-> B: 'We tease everyone; it’s not personal.'
-> A: 'It lands differently for me.'
-> B: 'I didn’t realize the impact.'
+> A: 'When jokes target my identity, I freeze.' B: 'We tease everyone; it’s not
+> personal.' A: 'It lands differently for me.' B: 'I didn’t realize the impact.'
 
 ## Observations
 
@@ -32,4 +30,5 @@ type: reference
 - Add consent checks for humor topics.
 - Include identity-informed safety agreements.
 
-**Related:** [[Liberation Psychology]], [[Consent Culture]], [[Analysis Prompt - Repair Attempts]]
+**Related:** [[Liberation Psychology]], [[Consent Culture]],
+[[Analysis Prompt - Repair Attempts]]

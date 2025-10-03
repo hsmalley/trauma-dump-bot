@@ -11,10 +11,8 @@ type: reference
 
 ## Transcript Excerpt
 
-> A: 'Why didn’t you text me back?'
-> B: 'I felt overwhelmed and needed space.'
-> A: 'It makes me feel like you don’t care.'
-> B: 'I do care, I just freeze.'
+> A: 'Why didn’t you text me back?' B: 'I felt overwhelmed and needed space.' A: 'It
+> makes me feel like you don’t care.' B: 'I do care, I just freeze.'
 
 ## Observations
 
@@ -33,4 +31,5 @@ type: reference
 - Coach B to give consistent micro-reassurances.
 - Introduce rituals of connection (EFT, Gottman).
 
-**Related:** [[Attachment Theory]], [[Emotionally Focused Therapy]], [[Analysis Prompt - Attachment Cycle Mapping]]
+**Related:** [[Attachment Theory]], [[Emotionally Focused Therapy]],
+[[Analysis Prompt - Attachment Cycle Mapping]]

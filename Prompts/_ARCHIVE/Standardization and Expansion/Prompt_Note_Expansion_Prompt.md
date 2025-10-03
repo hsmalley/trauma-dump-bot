@@ -10,7 +10,8 @@ type: template
 
 ## 🎯 Prompt Note Expansion & Standardization
 
-> **Task:** Standardize and enrich notes in the `Prompts/` directory using vault-wide clarity and relational insight standards.
+> **Task:** Standardize and enrich notes in the `Prompts/` directory using vault-wide
+> clarity and relational insight standards.
 
 ---
 
@@ -53,8 +54,11 @@ type: template
 
 #### 6. Explicitly Define Output Constraints and Failure Modes
 
-- State the exact **required output format** (e.g., JSON schema, specific Markdown headings).
-- Add a constraint instructing the model on **fallback behavior** if critical input fields are missing (e.g., “If `conversation` is empty, return only a JSON object with `status: 'error'` and a human-readable explanation in the `notes` field.”).
+- State the exact **required output format** (e.g., JSON schema, specific Markdown
+  headings).
+- Add a constraint instructing the model on **fallback behavior** if critical input
+  fields are missing (e.g., “If `conversation` is empty, return only a JSON object with
+  `status: 'error'` and a human-readable explanation in the `notes` field.”).
 
 ---
 

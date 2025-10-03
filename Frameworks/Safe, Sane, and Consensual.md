@@ -14,7 +14,9 @@ related:
   - Personal_Responsibility,_Informed_Consensual_Kink_PRICK
   - FRIES_Consent
   - BDSM
-source: Educational synthesis from BDSM and kink community culture and literature (The older, traditional model)
+source:
+  Educational synthesis from BDSM and kink community culture and literature (The older,
+  traditional model)
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
 created: 2025-10-02
 modified: 2025-10-02
@@ -24,19 +26,28 @@ modified: 2025-10-02
 
 ### 🧩 Definition and Core Themes
 
-**Safe, Sane, and Consensual (SSC)** is a foundational ethical and safety framework traditionally used within the BDSM and kink communities. It was one of the earliest models used to articulate a boundary between voluntary, healthy BDSM play and abuse, distinguishing it primarily by the requirement of **consent**.
+**Safe, Sane, and Consensual (SSC)** is a foundational ethical and safety framework
+traditionally used within the BDSM and kink communities. It was one of the earliest
+models used to articulate a boundary between voluntary, healthy BDSM play and abuse,
+distinguishing it primarily by the requirement of **consent**.
 
-The model holds that for any kink activity to be considered ethical, it must adhere to three non-negotiable standards:
+The model holds that for any kink activity to be considered ethical, it must adhere to
+three non-negotiable standards:
 
-1.  **Safe:** All participants must take reasonable steps to ensure the physical and mental well-being of everyone involved, actively minimizing risk of injury.
-2.  **Sane:** All participants must be of sound mind, fully aware of their actions and the potential consequences, and engaging the activity in a rational state.
-3.  **Consensual:** The activity must be fully and enthusiastically agreed upon by all participants, and that consent must be freely and continuously given (revocable at any time via a safe word).
+1.  **Safe:** All participants must take reasonable steps to ensure the physical and
+    mental well-being of everyone involved, actively minimizing risk of injury.
+2.  **Sane:** All participants must be of sound mind, fully aware of their actions and
+    the potential consequences, and engaging the activity in a rational state.
+3.  **Consensual:** The activity must be fully and enthusiastically agreed upon by all
+    participants, and that consent must be freely and continuously given (revocable at
+    any time via a safe word).
 
 ---
 
 ### 🌿 Evolution and Critique
 
-While historically vital for establishing a clear ethical line, the SSC model has largely been superseded by newer frameworks due to several key critiques:
+While historically vital for establishing a clear ethical line, the SSC model has
+largely been superseded by newer frameworks due to several key critiques:
 
 | Critique of SSC                                                                                                                                                                                                                                               | Modern Framework Response                                                                                                                                                                          |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -48,10 +59,14 @@ While historically vital for establishing a clear ethical line, the SSC model ha
 
 ### 🛠️ Legacy and Continued Relevance
 
-Despite its critiques, the **C** in SSC remains the **most important and enduring legacy** of the framework.
+Despite its critiques, the **C** in SSC remains the **most important and enduring
+legacy** of the framework.
 
-- **Consent as the Anchor:** SSC solidified the requirement that all power exchange and intense play must be rooted in **enthusiastic, ongoing, and revocable consent**. This principle is universal across all ethical kink frameworks.
-- **Minimal Standard:** SSC still serves as an effective, easily digestible entry point for newcomers to understand the basic ethical boundaries of kink.
+- **Consent as the Anchor:** SSC solidified the requirement that all power exchange and
+  intense play must be rooted in **enthusiastic, ongoing, and revocable consent**. This
+  principle is universal across all ethical kink frameworks.
+- **Minimal Standard:** SSC still serves as an effective, easily digestible entry point
+  for newcomers to understand the basic ethical boundaries of kink.
 
 ---
 

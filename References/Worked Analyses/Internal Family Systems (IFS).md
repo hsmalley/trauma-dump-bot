@@ -11,11 +11,9 @@ type: reference
 
 ## Transcript Excerpt
 
-> A: 'You never support me when I’m stressed.'
-> B: 'That’s unfair—I do a lot for you.'
-> A: 'But when I cry, you disappear.'
-> B: 'A part of me just freezes and wants to leave.'
-> A: 'And a part of me feels abandoned all over again.'
+> A: 'You never support me when I’m stressed.' B: 'That’s unfair—I do a lot for you.' A:
+> 'But when I cry, you disappear.' B: 'A part of me just freezes and wants to leave.' A:
+> 'And a part of me feels abandoned all over again.'
 
 ## Observations
 
@@ -34,4 +32,5 @@ type: reference
 - Pause for unblending and Self-access.
 - Encourage Self-to-Self dialogue: curiosity, compassion.
 
-**Related:** [[Narrative Therapy]], [[Nonviolent Communication]], [[Analysis Prompt - Multi-Modal Conflict Assessment]]
+**Related:** [[Narrative Therapy]], [[Nonviolent Communication]],
+[[Analysis Prompt - Multi-Modal Conflict Assessment]]

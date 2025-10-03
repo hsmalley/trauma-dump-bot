@@ -11,7 +11,8 @@ type: template
 
 ## 🧱 Analysis Expansion & Standardization Prompt
 
-> **Task:** Standardize and enrich all notes that start with `Analysis Prompt` in the `Prompts/` directory based on the vault’s conventions.
+> **Task:** Standardize and enrich all notes that start with `Analysis Prompt` in the
+> `Prompts/` directory based on the vault’s conventions.
 
 ---
 
@@ -48,10 +49,12 @@ Use consistent markdown headings:
 #### 3. Frameworks Referenced
 
 - Improve Cross-Linking
-- Update Frameworks Referenced to include additional or missed frameworks from `Frameworks/` folder.
+- Update Frameworks Referenced to include additional or missed frameworks from
+  `Frameworks/` folder.
 - Link to related notes using Obsidian’s double-bracket style:
   - e.g., `[[Polyvagal Theory]]`, `[[Consent Culture]]`, `[[Reflection Prompts]]`
-  - Consider what frameworks may be most useful in the context of this prompt, sort them at the top of the list, sort the rest of the list in A-Z style
+  - Consider what frameworks may be most useful in the context of this prompt, sort them
+    at the top of the list, sort the rest of the list in A-Z style
 
 #### 4. Use Cases
 
@@ -68,8 +71,11 @@ Use consistent markdown headings:
 #### 5. Optional Enhancements
 
 - Add tentative limitations or assumptions of the model.
-- Consider whether this framework is best used individually, relationally, or systemically.
-- When possible provide additional frameworks in the `# Frameworks Referenced` section that are not in the `/Framworks` folder but could be helpful and fit the theme of this model.
+- Consider whether this framework is best used individually, relationally, or
+  systemically.
+- When possible provide additional frameworks in the `# Frameworks Referenced` section
+  that are not in the `/Framworks` folder but could be helpful and fit the theme of this
+  model.
 
 #### 6. Provide User with the files
 
@@ -83,7 +89,8 @@ Use consistent markdown headings:
 - Keep the tone of the prompt friendly and educational
 - Use plain language were possible, use clinical language when needed.
 - Use web.run when needed
-- If there are ethical concerns create/update an `# ⚠️ Ethical Concerns` section at the **BOTTOM** of the note
+- If there are ethical concerns create/update an `# ⚠️ Ethical Concerns` section at the
+  **BOTTOM** of the note
 
 ---
 

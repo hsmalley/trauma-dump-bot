@@ -11,12 +11,10 @@ type: reference
 
 ## Transcript Excerpt
 
-> A: 'You didn’t text me back before bed.'
-> B: 'I needed quiet after the meeting.'
-> A: 'Silence makes me feel abandoned.'
-> B: 'When I feel pressure, I shut down.'
-> A: 'I just want to know you’re there for me.'
-> B: 'I want that too—I get scared I’ll say the wrong thing.'
+> A: 'You didn’t text me back before bed.' B: 'I needed quiet after the meeting.' A:
+> 'Silence makes me feel abandoned.' B: 'When I feel pressure, I shut down.' A: 'I just
+> want to know you’re there for me.' B: 'I want that too—I get scared I’ll say the wrong
+> thing.'
 
 ## Observations
 
@@ -35,4 +33,5 @@ type: reference
 - Coach A to express needs directly without accusation.
 - Coach B to provide short, reliable responsiveness signals.
 
-**Related:** [[Emotionally Focused Therapy]], [[Gottman Method]], [[Analysis Prompt - Attachment Cycle Mapping]]
+**Related:** [[Emotionally Focused Therapy]], [[Gottman Method]],
+[[Analysis Prompt - Attachment Cycle Mapping]]

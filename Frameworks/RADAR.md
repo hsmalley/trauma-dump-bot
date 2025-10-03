@@ -15,7 +15,8 @@ related:
   - Boundary_Models
   - Nonviolent_Communication_NVC
   - Polyvagal Theory
-source: Educational synthesis from The Mandt System, Multiamory, and academic methodology
+source:
+  Educational synthesis from The Mandt System, Multiamory, and academic methodology
 citation: ChatGPT-assisted summary with links to external frameworks
 created: 2025-10-02
 modified: 2025-10-02
@@ -25,13 +26,19 @@ modified: 2025-10-02
 
 ### 🧩 Definition and Core Themes
 
-**RADAR** is an acronym used across multiple disciplines (psychology, crisis management, relationship coaching) to denote a structured, five-step process for either **managing conflict** or **improving communication**. The specific meaning of the letters changes based on the context, but the core function is always to shift from reactive to **reflective** behavior.
+**RADAR** is an acronym used across multiple disciplines (psychology, crisis management,
+relationship coaching) to denote a structured, five-step process for either **managing
+conflict** or **improving communication**. The specific meaning of the letters changes
+based on the context, but the core function is always to shift from reactive to
+**reflective** behavior.
 
 ---
 
 ### 💖 1. RADAR for Relational Check-ins (Multiamory Model)
 
-This is a structured, regular process used by partners to intentionally process grievances, plan logistics, and ensure the emotional health of the relationship. It is often used in **Ethical Non-Monogamy (ENM)** but is applicable to all relationships.
+This is a structured, regular process used by partners to intentionally process
+grievances, plan logistics, and ensure the emotional health of the relationship. It is
+often used in **Ethical Non-Monogamy (ENM)** but is applicable to all relationships.
 
 | Step  | Principle            | Purpose in Communication                                                                                                                                               |
 | :---- | :------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -45,7 +52,8 @@ This is a structured, regular process used by partners to intentionally process 
 
 ### 🛡️ 2. RADAR for Situational Awareness and Crisis (Mandt System)
 
-This model is a safety and de-escalation tool used to guide a person's behavior in potentially risky, threatening, or emotionally escalating situations.
+This model is a safety and de-escalation tool used to guide a person's behavior in
+potentially risky, threatening, or emotionally escalating situations.
 
 | Step  | Principle          | Focus                                                                                                                                                                          |
 | :---- | :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

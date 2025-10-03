@@ -11,8 +11,7 @@ type: reference
 
 ## Transcript Excerpt
 
-> A: 'You never help around the house!'
-> B: 'Why are you always nagging me?'
+> A: 'You never help around the house!' B: 'Why are you always nagging me?'
 
 ## Observations
 

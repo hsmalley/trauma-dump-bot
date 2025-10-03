@@ -11,12 +11,9 @@ type: reference
 
 ## Transcript Excerpt
 
-> A: 'Why do our fights always spiral?'
-> B: 'Because you won’t drop things.'
-> A: 'I push because you avoid.'
-> B: 'I avoid because you push.'
-> A: 'We’re stuck in a loop.'
-> B: 'I don’t know how to change it.'
+> A: 'Why do our fights always spiral?' B: 'Because you won’t drop things.' A: 'I push
+> because you avoid.' B: 'I avoid because you push.' A: 'We’re stuck in a loop.' B: 'I
+> don’t know how to change it.'
 
 ## Observations
 

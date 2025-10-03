@@ -11,10 +11,8 @@ type: reference
 
 ## Transcript Excerpt
 
-> A: 'I didn’t mean to snap earlier.'
-> B: 'You always say that but never change.'
-> A: 'I really am sorry.'
-> B: 'I can’t trust it yet.'
+> A: 'I didn’t mean to snap earlier.' B: 'You always say that but never change.' A: 'I
+> really am sorry.' B: 'I can’t trust it yet.'
 
 ## Observations
 
@@ -33,4 +31,5 @@ type: reference
 - Reinforce repair by pairing apology with action.
 - Add structured debrief ritual after conflict.
 
-**Related:** [[Gottman Method]], [[Nonviolent Communication]], [[Analysis Prompt - Repair Attempts]]
+**Related:** [[Gottman Method]], [[Nonviolent Communication]],
+[[Analysis Prompt - Repair Attempts]]

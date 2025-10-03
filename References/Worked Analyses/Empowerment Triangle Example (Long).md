@@ -11,11 +11,9 @@ type: reference
 
 ## Transcript Excerpt
 
-> A: 'This problem is impossible.'
-> B: 'What’s one small next step we could try?'
-> A: 'Maybe we can draft a plan.'
-> B: 'I can ask a few guiding questions.'
-> A: 'Challenge me if I avoid the hard parts.'
+> A: 'This problem is impossible.' B: 'What’s one small next step we could try?' A:
+> 'Maybe we can draft a plan.' B: 'I can ask a few guiding questions.' A: 'Challenge me
+> if I avoid the hard parts.'
 
 ## Observations
 
@@ -33,4 +31,5 @@ type: reference
 - Use coaching questions before advice.
 - Offer caring challenge with consent.
 
-**Related:** [[Karpman Drama Triangle]], [[Systems Thinking]], [[Analysis Prompt - Repair Attempts]]
+**Related:** [[Karpman Drama Triangle]], [[Systems Thinking]],
+[[Analysis Prompt - Repair Attempts]]

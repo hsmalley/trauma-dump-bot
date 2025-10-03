@@ -2,9 +2,18 @@
 
 ### Framework_Note_Expansion_Prompt
 
-When expanding a new framework for the vault, follow this comprehensive, cross-linkable format. Prioritize educational clarity, trauma-informed language, and relational utility. All content should be non-pathologizing, grounded in systemic awareness, and suitable for identity-conscious relational reflection.
+When expanding a new framework for the vault, follow this comprehensive, cross-linkable
+format. Prioritize educational clarity, trauma-informed language, and relational
+utility. All content should be non-pathologizing, grounded in systemic awareness, and
+suitable for identity-conscious relational reflection.
 
-This prompt supports **therapeutic**, **identity-based**, **kink-informed**, **relationship structure**, **mutual aid**, **creative practice**, **spiritual**, and **symbolic narrative** frameworks (e.g., Polyamory, Relationship Anarchy, Dungeons & Dragons, Cuckolding, BDSM, Disability Justice). Optional sections for consent, roles, ritual, story arcs, care practices, and agreements are noted below. Only include sections when content exists. Never insert instructional or placeholder text into user-facing notes.
+This prompt supports **therapeutic**, **identity-based**, **kink-informed**,
+**relationship structure**, **mutual aid**, **creative practice**, **spiritual**, and
+**symbolic narrative** frameworks (e.g., Polyamory, Relationship Anarchy, Dungeons &
+Dragons, Cuckolding, BDSM, Disability Justice). Optional sections for consent, roles,
+ritual, story arcs, care practices, and agreements are noted below. Only include
+sections when content exists. Never insert instructional or placeholder text into
+user-facing notes.
 
 ---
 
@@ -49,7 +58,8 @@ modified: YYYY-MM-DD
 ---
 ```
 
-Use only `A-Z`, `a-z`, `0-9`, and `_` in tags, related, and file names. Aliases may include spaces and capitalization for readability.
+Use only `A-Z`, `a-z`, `0-9`, and `_` in tags, related, and file names. Aliases may
+include spaces and capitalization for readability.
 
 ---
 
@@ -83,9 +93,9 @@ Use only `A-Z`, `a-z`, `0-9`, and `_` in tags, related, and file names. Aliases 
 
 ### Media Embeds
 
-Only embed media if valid educational video, podcast, or article is found.
-Use valid embeds only in the format: `![](https://...)`
-Never include standard share links (e.g., `https://youtube.com/watch?...`). Embed only.
+Only embed media if valid educational video, podcast, or article is found. Use valid
+embeds only in the format: `![](https://...)` Never include standard share links (e.g.,
+`https://youtube.com/watch?...`). Embed only.
 
 ---
 
@@ -96,8 +106,9 @@ Apply sanitization to:
 - `tags`: allow only letters, numbers, and `_`
 - File names should match the sanitized title with `_`
 
-Use the vault as source of truth. Prioritize integration, clarity, and relational utility.
-Use `web.run` for accurate external info when citations, media, or current definitions are required.
+Use the vault as source of truth. Prioritize integration, clarity, and relational
+utility. Use `web.run` for accurate external info when citations, media, or current
+definitions are required.
 
 ---
 
@@ -140,7 +151,8 @@ Use `web.run` for accurate external info when citations, media, or current defin
 ### 🛠️ Strategies, Prompts, and Practices
 
 - Provide reflection questions (for journaling or self-inquiry)
-- Include 2–4 short skill practices or scripts (reframes, repair openers, boundary statements)
+- Include 2–4 short skill practices or scripts (reframes, repair openers, boundary
+  statements)
 - Anchor these to framework theory when possible
 
 ---
@@ -198,7 +210,8 @@ Use `web.run` for accurate external info when citations, media, or current defin
 ### 🔍 Vault Crosswalk _(Optional)_
 
 - Show how this note links to themes, tags, or personas elsewhere in the vault
-- Example: “Common in notes tagged with `#containment`, `#rupture`, `#neurodivergent_mapping`.”
+- Example: “Common in notes tagged with `#containment`, `#rupture`,
+  `#neurodivergent_mapping`.”
 
 ### 🧪 Practitioner Use Cases _(Optional)_
 
@@ -237,8 +250,8 @@ Use `web.run` for accurate external info when citations, media, or current defin
 
 ### 🔗 Related Frameworks and Further Reading
 
-Cross-link to 3–6 frameworks using `[[WikiLink_Title]]` format.
-Example: [[Internal Family Systems]]
+Cross-link to 3–6 frameworks using `[[WikiLink_Title]]` format. Example:
+[[Internal Family Systems]]
 
 ### 📚 Citations & Sources
 
@@ -258,4 +271,5 @@ Example: [[Internal Family Systems]]
 - Center autonomy, agency, and systemic compassion
 - Cross-link terms wherever possible to support intra-vault coherence
 
-If there are ethical concerns create/update an `# ⚠️ Ethical Concerns` section at the **BOTTOM** of the note
+If there are ethical concerns create/update an `# ⚠️ Ethical Concerns` section at the
+**BOTTOM** of the note

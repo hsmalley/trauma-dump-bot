@@ -16,9 +16,12 @@ tags:
 
 # 🎭 Drama Triangle & Empowerment Triangle
 
-The **Drama Triangle** (Stephen Karpman) describes common reactive roles in relational conflict. The **Empowerment Triangle** (David Emerald) reframes those roles into conscious, creative alternatives rooted in agency and boundaries.
+The **Drama Triangle** (Stephen Karpman) describes common reactive roles in relational
+conflict. The **Empowerment Triangle** (David Emerald) reframes those roles into
+conscious, creative alternatives rooted in agency and boundaries.
 
-These models help identify **cyclical power struggles**, **unmet needs**, and paths to **relational repair**.
+These models help identify **cyclical power struggles**, **unmet needs**, and paths to
+**relational repair**.
 
 ---
 
@@ -44,7 +47,8 @@ Three reactive roles that maintain conflict and dependency:
 - Uses power or authority to restore order.
 - Belief: “It’s your fault.”
 
-> ⚠️ People often switch roles rapidly—e.g., a rescuer becomes a persecutor when overwhelmed.
+> ⚠️ People often switch roles rapidly—e.g., a rescuer becomes a persecutor when
+> overwhelmed.
 
 ---
 

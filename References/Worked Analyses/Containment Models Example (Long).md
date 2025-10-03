@@ -11,10 +11,8 @@ type: reference
 
 ## Transcript Excerpt
 
-> A: 'We keep arguing past midnight.'
-> B: 'I’m exhausted and say things I regret.'
-> A: 'Let’s try a 30-minute cap and a pause word.'
-> B: 'And a recap at the end.'
+> A: 'We keep arguing past midnight.' B: 'I’m exhausted and say things I regret.' A:
+> 'Let’s try a 30-minute cap and a pause word.' B: 'And a recap at the end.'
 
 ## Observations
 
@@ -32,4 +30,5 @@ type: reference
 - Define pause words and cooldown protocols.
 - Schedule debrief and next steps.
 
-**Related:** [[Boundary Models]], [[Trauma Informed Care]], [[Analysis Prompt - Multi-Modal Conflict Assessment]]
+**Related:** [[Boundary Models]], [[Trauma Informed Care]],
+[[Analysis Prompt - Multi-Modal Conflict Assessment]]

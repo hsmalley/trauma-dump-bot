@@ -11,8 +11,7 @@ type: reference
 
 ## Transcript Excerpt
 
-> A: 'I'm sorry I snapped at you earlier.'
-> B: 'Yeah, whatever.'
+> A: 'I'm sorry I snapped at you earlier.' B: 'Yeah, whatever.'
 
 ## Observations
 

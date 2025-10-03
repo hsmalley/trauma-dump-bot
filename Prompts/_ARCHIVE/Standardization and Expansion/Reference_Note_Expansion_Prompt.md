@@ -19,7 +19,8 @@ related:
 
 ## 🛠 Reference Note Expansion & Standardization Prompt
 
-> **Task:** Standardize and enrich all notes in the `References/` directory according to vault conventions.
+> **Task:** Standardize and enrich all notes in the `References/` directory according to
+> vault conventions.
 
 ---
 
@@ -59,7 +60,8 @@ related:
 #### 3. Link Cross-References
 
 - Use Obsidian-style wikilinks:
-  - e.g., `[[Attachment Theory]]`, `[[Reflection Template]]`, `[[GPT Relational Analysis Prompt]]`
+  - e.g., `[[Attachment Theory]]`, `[[Reflection Template]]`,
+    `[[GPT Relational Analysis Prompt]]`
 
 #### 4. Citations
 
@@ -81,4 +83,5 @@ related:
 
 ---
 
-This prompt supports consistent formatting and educational richness across all reference material.
+This prompt supports consistent formatting and educational richness across all reference
+material.

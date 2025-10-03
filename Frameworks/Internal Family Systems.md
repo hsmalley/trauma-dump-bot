@@ -25,44 +25,87 @@ modified: 2025-10-02
 
 ### 🧩 Definition and Core Themes
 
-**Internal Family Systems (IFS)**, developed by Dr. Richard Schwartz, is a non-pathologizing, evidence-based model of psychotherapy that views the mind as being naturally subdivided into a large number of semi-autonomous inner personalities or "parts." It operates on the core belief that every individual possesses a **Core Self**—a source of innate wisdom, compassion, and confidence—and that psychological distress arises when these inner **parts** are forced into extreme, protective roles due to trauma or relational injury.
+**Internal Family Systems (IFS)**, developed by Dr. Richard Schwartz, is a
+non-pathologizing, evidence-based model of psychotherapy that views the mind as being
+naturally subdivided into a large number of semi-autonomous inner personalities or
+"parts." It operates on the core belief that every individual possesses a **Core
+Self**—a source of innate wisdom, compassion, and confidence—and that psychological
+distress arises when these inner **parts** are forced into extreme, protective roles due
+to trauma or relational injury.
 
-- **Core Goal:** To help the client access the **Core Self** and use its resources to heal and integrate the wounded, exiled parts, thereby calming and unburdening the protective parts. The goal is to achieve **Self-leadership** and internal harmony.
-- **No Bad Parts:** A central premise is that there are "no bad parts." All parts, even those that lead to destructive behaviors (e.g., self-harm, addiction, rage), are attempting to help or protect the system from pain.
+- **Core Goal:** To help the client access the **Core Self** and use its resources to
+  heal and integrate the wounded, exiled parts, thereby calming and unburdening the
+  protective parts. The goal is to achieve **Self-leadership** and internal harmony.
+- **No Bad Parts:** A central premise is that there are "no bad parts." All parts, even
+  those that lead to destructive behaviors (e.g., self-harm, addiction, rage), are
+  attempting to help or protect the system from pain.
 - **The Three Categories of Parts:**
-  1.  **Exiles:** Wounded, often young parts holding pain, shame, fear, or trauma memory. They are often isolated and hidden by the Protectors.
-  2.  **Managers:** Proactive parts that work to prevent pain and shame from Exiles from being triggered. They are often critical, controlling, achieving, or people-pleasing.
-  3.  **Firefighters:** Reactive parts that rush in to suppress or numb the pain when an Exile is triggered (e.g., addiction, dissociation, rage, binge eating).
+  1.  **Exiles:** Wounded, often young parts holding pain, shame, fear, or trauma
+      memory. They are often isolated and hidden by the Protectors.
+  2.  **Managers:** Proactive parts that work to prevent pain and shame from Exiles from
+      being triggered. They are often critical, controlling, achieving, or
+      people-pleasing.
+  3.  **Firefighters:** Reactive parts that rush in to suppress or numb the pain when an
+      Exile is triggered (e.g., addiction, dissociation, rage, binge eating).
 
 ---
 
 ### 🌿 Traits and Lived Experience
 
-IFS transforms the lived experience from internal conflict and self-criticism to one of compassionate curiosity and internal dialogue.
+IFS transforms the lived experience from internal conflict and self-criticism to one of
+compassionate curiosity and internal dialogue.
 
-- **Self-Leadership:** The client learns to engage with their feelings and thoughts from the eight **C-Qualities of the Self:** **C**almness, **C**uriosity, **C**onfidence, **C**ompassion, **C**onnectedness, **C**reativity, **C**ourage, and **C**larity.
-- **Unblending:** The experience involves learning to **unblend** from a part—recognizing that "I am not my anxiety; I am the Self experiencing anxiety through a part." This creates the necessary **space and compassion** to work with the part without being overwhelmed by it.
-- **The Healing Process:** The core therapeutic sequence involves: **A**ccessing Self $\rightarrow$ **F**inding the Part $\rightarrow$ **G**etting its permission $\rightarrow$ **W**itnessing the Exile's story $\rightarrow$ **R**etrieving the Exile $\rightarrow$ **U**nburdening the Part (releasing its pain).
+- **Self-Leadership:** The client learns to engage with their feelings and thoughts from
+  the eight **C-Qualities of the Self:** **C**almness, **C**uriosity, **C**onfidence,
+  **C**ompassion, **C**onnectedness, **C**reativity, **C**ourage, and **C**larity.
+- **Unblending:** The experience involves learning to **unblend** from a
+  part—recognizing that "I am not my anxiety; I am the Self experiencing anxiety through
+  a part." This creates the necessary **space and compassion** to work with the part
+  without being overwhelmed by it.
+- **The Healing Process:** The core therapeutic sequence involves: **A**ccessing Self
+  $\rightarrow$ **F**inding the Part $\rightarrow$ **G**etting its permission
+  $\rightarrow$ **W**itnessing the Exile's story $\rightarrow$ **R**etrieving the Exile
+  $\rightarrow$ **U**nburdening the Part (releasing its pain).
 
 ---
 
 ### 🧠 Nervous System and Parts Work Lens
 
-IFS is a powerful model for intentional self-regulation, using internal dialogue to soothe nervous system responses.
+IFS is a powerful model for intentional self-regulation, using internal dialogue to
+soothe nervous system responses.
 
-- **Core Self as Ventral Vagal Anchor (PVT):** The eight C-Qualities of the Self directly map to the regulated state of the **Ventral Vagal (Safe and Social)** system. Accessing the Self is the ultimate act of **self-regulation** that allows the client to observe the protective parts without triggering a panic or shame spiral.
-- **De-Pathologizing Defense:** IFS provides a profound **reframing** for the behaviors generated by the **Sympathetic (Fight/Flight)** or **Dorsal Vagal (Freeze)** responses. The rage (Fight) or the numbness (Freeze) is viewed as a brilliant survival strategy from a dedicated protector, leading to less self-judgment and greater capacity for change.
-- **Trauma Integration:** By allowing the **Exile** to witness its story to the Self and then symbolically retrieve its pain and shame, IFS facilitates the integration of trauma memory, moving it from an active threat to a past experience.
+- **Core Self as Ventral Vagal Anchor (PVT):** The eight C-Qualities of the Self
+  directly map to the regulated state of the **Ventral Vagal (Safe and Social)** system.
+  Accessing the Self is the ultimate act of **self-regulation** that allows the client
+  to observe the protective parts without triggering a panic or shame spiral.
+- **De-Pathologizing Defense:** IFS provides a profound **reframing** for the behaviors
+  generated by the **Sympathetic (Fight/Flight)** or **Dorsal Vagal (Freeze)**
+  responses. The rage (Fight) or the numbness (Freeze) is viewed as a brilliant survival
+  strategy from a dedicated protector, leading to less self-judgment and greater
+  capacity for change.
+- **Trauma Integration:** By allowing the **Exile** to witness its story to the Self and
+  then symbolically retrieve its pain and shame, IFS facilitates the integration of
+  trauma memory, moving it from an active threat to a past experience.
 
 ---
 
 ### 💞 Attachment and Relational Patterns
 
-IFS can be used to heal relational injuries and improve current attachment dynamics by addressing the internal split.
+IFS can be used to heal relational injuries and improve current attachment dynamics by
+addressing the internal split.
 
-- **Internal Secure Base:** By nurturing the relationship between the **Self** and the **Exiled** child, the client establishes a reliable, non-abandoning **Internal Secure Base**. This reduces the reliance on external relationships (partners) to regulate the wounded parts.
-- **Managing Projection:** Conflict in external relationships is often a battle between one partner's activated **Manager** (e.g., the Critic) and the other partner's activated **Manager/Firefighter**. IFS teaches the client to identify the part that is projecting, **unblend** from it, and respond to the partner from a place of **Self** (Curiosity, Calm).
-- **Differentiating Parts:** When working with couples, IFS helps partners recognize that their rigid, cycling behaviors (e.g., **Pursuer-Distancer**) are driven by their own protective parts, not by the true nature of their partner.
+- **Internal Secure Base:** By nurturing the relationship between the **Self** and the
+  **Exiled** child, the client establishes a reliable, non-abandoning **Internal Secure
+  Base**. This reduces the reliance on external relationships (partners) to regulate the
+  wounded parts.
+- **Managing Projection:** Conflict in external relationships is often a battle between
+  one partner's activated **Manager** (e.g., the Critic) and the other partner's
+  activated **Manager/Firefighter**. IFS teaches the client to identify the part that is
+  projecting, **unblend** from it, and respond to the partner from a place of **Self**
+  (Curiosity, Calm).
+- **Differentiating Parts:** When working with couples, IFS helps partners recognize
+  that their rigid, cycling behaviors (e.g., **Pursuer-Distancer**) are driven by their
+  own protective parts, not by the true nature of their partner.
 
 ---
 
@@ -86,9 +129,17 @@ IFS can be used to heal relational injuries and improve current attachment dynam
 
 ### 🛠️ Strategies, Prompts, and Practices
 
-- **Micro-Skill (Finding Self-Energy):** When a strong part is present, ask the client: _"Can you thank that part for its protection, and ask it to step back just a little bit so you can see the situation with a little more **Curiosity** and **Calmness**?"_
-- **Prompt (The Unblending Question):** When a client says "I am so mad at him," prompt: _"I hear that the mad part of you is present. Is there any part of you that **doesn't** feel mad right now? How do you feel toward the mad part?"_ (This seeks the Self).
-- **Micro-Skill (Check-In for Extremity):** When a part's behavior is extreme (e.g., extreme people-pleasing, extreme rigidity), ask the part: _"How old do you feel right now? What are you afraid will happen if you don't do this job?"_ (This points toward the **Exile** it is trying to protect).
+- **Micro-Skill (Finding Self-Energy):** When a strong part is present, ask the client:
+  _"Can you thank that part for its protection, and ask it to step back just a little
+  bit so you can see the situation with a little more **Curiosity** and **Calmness**?"_
+- **Prompt (The Unblending Question):** When a client says "I am so mad at him," prompt:
+  _"I hear that the mad part of you is present. Is there any part of you that
+  **doesn't** feel mad right now? How do you feel toward the mad part?"_ (This seeks the
+  Self).
+- **Micro-Skill (Check-In for Extremity):** When a part's behavior is extreme (e.g.,
+  extreme people-pleasing, extreme rigidity), ask the part: _"How old do you feel right
+  now? What are you afraid will happen if you don't do this job?"_ (This points toward
+  the **Exile** it is trying to protect).
 
 ---
 
@@ -101,5 +152,7 @@ IFS can be used to heal relational injuries and improve current attachment dynam
 ### 📚 Citations & Sources
 
 - Schwartz, R. C. (1995). _Internal Family Systems Therapy._
-- Schwartz, R. C. (2021). _No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model._
-- Fisher, J. (2017). _Healing the Fragmented Selves of Trauma Survivors: Overcoming Internal Self-Alienation._ (Context for trauma and parts).
+- Schwartz, R. C. (2021). _No Bad Parts: Healing Trauma and Restoring Wholeness with the
+  Internal Family Systems Model._
+- Fisher, J. (2017). _Healing the Fragmented Selves of Trauma Survivors: Overcoming
+  Internal Self-Alienation._ (Context for trauma and parts).

@@ -14,13 +14,16 @@ type: meta
 
 # 📖 Frameworks Overview
 
-This guide maps the vault's core psychological models by their **primary function**. Use this overview to quickly select the right theoretical lens when you are analyzing a conflict or planning a session.
+This guide maps the vault's core psychological models by their **primary function**. Use
+this overview to quickly select the right theoretical lens when you are analyzing a
+conflict or planning a session.
 
 ---
 
 ## I. Body & Regulation Models (What is my state?)
 
-These frameworks help you understand and manage the physical, biological state of the nervous system. They are crucial for **self-soothing and co-regulation**.
+These frameworks help you understand and manage the physical, biological state of the
+nervous system. They are crucial for **self-soothing and co-regulation**.
 
 | Framework                      | Primary Focus                                                         | Key Utility                                                                    |
 | :----------------------------- | :-------------------------------------------------------------------- | :----------------------------------------------------------------------------- |
@@ -31,7 +34,8 @@ These frameworks help you understand and manage the physical, biological state o
 
 ## II. Internal Structure & Story Models (What is driving me?)
 
-These frameworks help you understand the internal architecture of the self, emotional burdens, and the source of emotional intensity.
+These frameworks help you understand the internal architecture of the self, emotional
+burdens, and the source of emotional intensity.
 
 | Framework                             | Primary Focus                                                      | Key Utility                                                                                   |
 | :------------------------------------ | :----------------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
@@ -42,7 +46,8 @@ These frameworks help you understand the internal architecture of the self, emot
 
 ## III. Relational Cycles & Needs Models (What is our pattern?)
 
-These frameworks are essential for mapping the external dynamic between partners, understanding core relational needs, and predicting cycles.
+These frameworks are essential for mapping the external dynamic between partners,
+understanding core relational needs, and predicting cycles.
 
 | Framework                              | Primary Focus                                                                            | Key Utility                                                                   |
 | :------------------------------------- | :--------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------- |
@@ -53,7 +58,8 @@ These frameworks are essential for mapping the external dynamic between partners
 
 ## IV. Behavior & Change Models (What do I do next?)
 
-These frameworks are used to drive conscious, deliberate change and ensure accountability.
+These frameworks are used to drive conscious, deliberate change and ensure
+accountability.
 
 | Framework                     | Primary Focus                                            | Key Utility                                                                                         |
 | :---------------------------- | :------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |

@@ -11,11 +11,8 @@ type: reference
 
 ## Transcript Excerpt
 
-> A: 'My chest tightens when we argue.'
-> B: 'My stomach drops and I go numb.'
-> A: 'I can’t think clearly.'
-> B: 'I want to run away.'
-> A: 'Maybe we can slow down.'
+> A: 'My chest tightens when we argue.' B: 'My stomach drops and I go numb.' A: 'I can’t
+> think clearly.' B: 'I want to run away.' A: 'Maybe we can slow down.'
 
 ## Observations
 
@@ -33,4 +30,5 @@ type: reference
 - Resource before content (touch object, lengthen exhale).
 - Complete small defensive impulses (press, step, shake).
 
-**Related:** [[Polyvagal Theory]], [[Trauma Informed Care]], [[Analysis Prompt - Multi-Modal Conflict Assessment]]
+**Related:** [[Polyvagal Theory]], [[Trauma Informed Care]],
+[[Analysis Prompt - Multi-Modal Conflict Assessment]]

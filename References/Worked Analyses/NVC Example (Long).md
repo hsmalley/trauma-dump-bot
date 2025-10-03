@@ -11,12 +11,9 @@ type: reference
 
 ## Transcript Excerpt
 
-> A: 'You’re selfish; you never think of me.'
-> B: 'You’re always judging me.'
-> A: 'I want you to show you care.'
-> B: 'I do care, but I feel attacked.'
-> A: 'I’m scared I don’t matter.'
-> B: 'I want to get this right but I don’t know how.'
+> A: 'You’re selfish; you never think of me.' B: 'You’re always judging me.' A: 'I want
+> you to show you care.' B: 'I do care, but I feel attacked.' A: 'I’m scared I don’t
+> matter.' B: 'I want to get this right but I don’t know how.'
 
 ## Observations
 
@@ -32,7 +29,9 @@ type: reference
 ## Insights
 
 - Translate to OFNR: observation, feeling, need, request.
-- Model: 'When the dishes pile up, I feel overwhelmed; I need support; would you wash them tonight?'
+- Model: 'When the dishes pile up, I feel overwhelmed; I need support; would you wash
+  them tonight?'
 - Practice empathy before problem-solving.
 
-**Related:** [[Transactional Analysis]], [[Gottman Method]], [[Analysis Prompt - Multi-Modal Conflict Assessment]]
+**Related:** [[Transactional Analysis]], [[Gottman Method]],
+[[Analysis Prompt - Multi-Modal Conflict Assessment]]

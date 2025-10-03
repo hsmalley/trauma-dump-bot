@@ -17,11 +17,16 @@ tags:
 
 # 🧠 Intersectional Psychology
 
-**Intersectional Psychology** is a framework that explores how **multiple, overlapping identities** (e.g., race, gender, class, disability, sexuality, age, migration status) interact with **systems of power and oppression** to influence psychological well-being.
+**Intersectional Psychology** is a framework that explores how **multiple, overlapping
+identities** (e.g., race, gender, class, disability, sexuality, age, migration status)
+interact with **systems of power and oppression** to influence psychological well-being.
 
-It challenges traditional psychology’s tendency to decontextualize suffering, offering a lens that is **identity-aware, power-conscious, and justice-oriented**.
+It challenges traditional psychology’s tendency to decontextualize suffering, offering a
+lens that is **identity-aware, power-conscious, and justice-oriented**.
 
-> Coined by Kimberlé Crenshaw, _intersectionality_ describes how people experience layered systems of marginalization—not as additive identities, but as **interdependent experiences**.
+> Coined by Kimberlé Crenshaw, _intersectionality_ describes how people experience
+> layered systems of marginalization—not as additive identities, but as **interdependent
+> experiences**.
 
 ---
 
@@ -34,7 +39,8 @@ It challenges traditional psychology’s tendency to decontextualize suffering, 
 
 ### 2. **Systems Shape Symptoms**
 
-- Emotions and behaviors arise in **response to social conditions**, not just internal pathology.
+- Emotions and behaviors arise in **response to social conditions**, not just internal
+  pathology.
 - Racism, transphobia, ableism, and poverty affect mental health and coping styles.
 
 ### 3. **Power and Access Matter**
@@ -52,15 +58,18 @@ It challenges traditional psychology’s tendency to decontextualize suffering, 
 ## 🧠 Trauma-Informed Applications
 
 - Historical and generational trauma affect body, identity, and trust.
-- **Code-switching, hypervigilance, or emotional suppression** may reflect adaptations to unsafe environments.
-- Consent and repair must account for **power asymmetries** in relationships and systems.
+- **Code-switching, hypervigilance, or emotional suppression** may reflect adaptations
+  to unsafe environments.
+- Consent and repair must account for **power asymmetries** in relationships and
+  systems.
 
 ---
 
 ## 🛠 Relational Tools
 
 - **Contextual Validation**: “Of course this is hard—given what you’ve lived through.”
-- **Power Mapping**: Identify where relational or systemic power is being exercised or erased.
+- **Power Mapping**: Identify where relational or systemic power is being exercised or
+  erased.
 - **Cultural Awareness**: Whose norms are being centered or imposed?
 
 ---
@@ -78,7 +87,8 @@ It challenges traditional psychology’s tendency to decontextualize suffering, 
 
 - [[Consent_Culture]] — collaborative check-ins around needs, pacing, and support
 - [[Containment_Models]] — where emotional energy needs boundaries or holding
-- [[Internal_Family_Systems]] — exploring parts involved (insecure, excited, voyeur, self-critical)
+- [[Internal_Family_Systems]] — exploring parts involved (insecure, excited, voyeur,
+  self-critical)
 - [[Liberation_&_Intersectional_Feminist_Psychology]] — politicized mental health
 - [[Trauma-Informed Care (TIC)]] — systemic and environmental trauma response
 

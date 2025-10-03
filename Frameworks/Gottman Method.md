@@ -14,7 +14,9 @@ related:
   - Emotionally_Focused_Therapy_EFT
   - Conflict_Repair_Template
   - Crucial_Conversations
-source: Educational synthesis from validated public sources (John and Julie Gottman's research)
+source:
+  Educational synthesis from validated public sources (John and Julie Gottman's
+  research)
 citation: ChatGPT-assisted summary with links to academic and practitioner materials
 created: 2025-10-02
 modified: 2025-10-02
@@ -24,10 +26,18 @@ modified: 2025-10-02
 
 ### 🧩 Definition and Core Themes
 
-The **Gottman Method** is an evidence-based approach to couples therapy developed by Dr. John M. Gottman and Dr. Julie Schwartz Gottman. It is based on over forty years of research studying thousands of couples, which identified the specific behaviors and relational patterns that distinguish "masters" (stable, happy couples) from "disasters" (couples who separate or remain unhappy). The model uses the framework of the **Sound Relationship House** to build a strong, resilient relationship.
+The **Gottman Method** is an evidence-based approach to couples therapy developed by Dr.
+John M. Gottman and Dr. Julie Schwartz Gottman. It is based on over forty years of
+research studying thousands of couples, which identified the specific behaviors and
+relational patterns that distinguish "masters" (stable, happy couples) from "disasters"
+(couples who separate or remain unhappy). The model uses the framework of the **Sound
+Relationship House** to build a strong, resilient relationship.
 
-- **Core Goal:** To disarm conflicting verbal communication, increase intimacy and affection, remove barriers to empathy, and create a heightened sense of shared meaning. It focuses on **friendship, managing conflict, and creating life purpose**.
-- **The Sound Relationship House (SRH):** The primary metaphor, a seven-story house detailing the components of a healthy relationship:
+- **Core Goal:** To disarm conflicting verbal communication, increase intimacy and
+  affection, remove barriers to empathy, and create a heightened sense of shared
+  meaning. It focuses on **friendship, managing conflict, and creating life purpose**.
+- **The Sound Relationship House (SRH):** The primary metaphor, a seven-story house
+  detailing the components of a healthy relationship:
   1.  **Build Love Maps** (Know each other's inner worlds).
   2.  **Share Fondness and Admiration** (The antidote to contempt).
   3.  **Turn Towards** (Respond to bids for connection).
@@ -40,10 +50,16 @@ The **Gottman Method** is an evidence-based approach to couples therapy develope
 
 ### 🌿 Traits and Lived Experience
 
-The Gottman Method shifts the lived experience of conflict from destructive patterns to constructive, de-escalated conversation.
+The Gottman Method shifts the lived experience of conflict from destructive patterns to
+constructive, de-escalated conversation.
 
-- **The 5:1 Ratio:** Happy couples maintain a ratio of at least five positive interactions for every one negative interaction, even during conflict. The method trains couples to increase their positive interactions and **"bids for connection"** (small attempts to get a partner's attention, affection, or humor).
-- **Managing the "Four Horsemen":** The model identifies four behaviors that are highly predictive of relationship failure. The lived experience shifts when couples learn the **antidotes** to these patterns:
+- **The 5:1 Ratio:** Happy couples maintain a ratio of at least five positive
+  interactions for every one negative interaction, even during conflict. The method
+  trains couples to increase their positive interactions and **"bids for connection"**
+  (small attempts to get a partner's attention, affection, or humor).
+- **Managing the "Four Horsemen":** The model identifies four behaviors that are highly
+  predictive of relationship failure. The lived experience shifts when couples learn the
+  **antidotes** to these patterns:
 
 | Horseman (Destructive Pattern)               | Antidote (Constructive Skill)                                   |
 | :------------------------------------------- | :-------------------------------------------------------------- |
@@ -56,21 +72,41 @@ The Gottman Method shifts the lived experience of conflict from destructive patt
 
 ### 🧠 Nervous System and Parts Work Lens
 
-The Gottman Method directly addresses the physiological hyper-arousal that derails conflict resolution.
+The Gottman Method directly addresses the physiological hyper-arousal that derails
+conflict resolution.
 
-- **Flooding and Arousal (PVT):** Gottman research identified **"flooding"**—a state of intense physiological arousal (heart rate over 100 bpm, stress hormones released)—as the main reason for destructive conflict. Flooded partners cannot process information rationally and often resort to the Four Horsemen.
-- **Self-Soothing and Time-Out:** The **Stonewalling** antidote—taking a 20-minute break—is a deliberate, necessary intervention to allow the **Sympathetic Nervous System (Fight/Flight)** to downregulate and for the **Ventral Vagal (Safe and Social)** system to re-engage the prefrontal cortex.
-- **Managing Defensive Parts (IFS):** The model's emphasis on **Fondness and Admiration** and the use of **Repair Attempts** serves to soothe the **Protector Parts** (like the Inner Critic or The Defender) by consistently delivering cues of love and safety, reducing the need for aggressive or withdrawn defense mechanisms.
+- **Flooding and Arousal (PVT):** Gottman research identified **"flooding"**—a state of
+  intense physiological arousal (heart rate over 100 bpm, stress hormones released)—as
+  the main reason for destructive conflict. Flooded partners cannot process information
+  rationally and often resort to the Four Horsemen.
+- **Self-Soothing and Time-Out:** The **Stonewalling** antidote—taking a 20-minute
+  break—is a deliberate, necessary intervention to allow the **Sympathetic Nervous
+  System (Fight/Flight)** to downregulate and for the **Ventral Vagal (Safe and
+  Social)** system to re-engage the prefrontal cortex.
+- **Managing Defensive Parts (IFS):** The model's emphasis on **Fondness and
+  Admiration** and the use of **Repair Attempts** serves to soothe the **Protector
+  Parts** (like the Inner Critic or The Defender) by consistently delivering cues of
+  love and safety, reducing the need for aggressive or withdrawn defense mechanisms.
 
 ---
 
 ### 💞 Attachment and Relational Patterns
 
-The Gottman Method creates a robust framework for maintaining the security of the relational bond, crucial for **Secure Attachment**.
+The Gottman Method creates a robust framework for maintaining the security of the
+relational bond, crucial for **Secure Attachment**.
 
-- **Turning Towards Bids:** The "Turn Towards" principle directly addresses the responsiveness and accessibility required for a secure bond, core to **Emotionally Focused Therapy (EFT)**. Consistently responding to a partner's bids validates their attachment need: _"I see you, I hear you, I'm here for you."_
-- **Repair Attempts:** Gottman found that the _success_ of a relationship is not measured by the absence of conflict but by the **willingness and ability to repair** after a rupture. Effective repair attempts (e.g., humor, apology, de-escalation statements) reduce the time spent in **Attachment Anxiety** after a conflict.
-- **Conflict as Growth:** By distinguishing between solvable problems and **perpetual problems** (which make up 69% of conflict and are rooted in fundamental personality differences), the method teaches couples to accept and work around unresolvable differences, enhancing acceptance and mutual respect.
+- **Turning Towards Bids:** The "Turn Towards" principle directly addresses the
+  responsiveness and accessibility required for a secure bond, core to **Emotionally
+  Focused Therapy (EFT)**. Consistently responding to a partner's bids validates their
+  attachment need: _"I see you, I hear you, I'm here for you."_
+- **Repair Attempts:** Gottman found that the _success_ of a relationship is not
+  measured by the absence of conflict but by the **willingness and ability to repair**
+  after a rupture. Effective repair attempts (e.g., humor, apology, de-escalation
+  statements) reduce the time spent in **Attachment Anxiety** after a conflict.
+- **Conflict as Growth:** By distinguishing between solvable problems and **perpetual
+  problems** (which make up 69% of conflict and are rooted in fundamental personality
+  differences), the method teaches couples to accept and work around unresolvable
+  differences, enhancing acceptance and mutual respect.
 
 ---
 
@@ -94,9 +130,17 @@ The Gottman Method creates a robust framework for maintaining the security of th
 
 ### 🛠️ Strategies, Prompts, and Practices
 
-- **Micro-Skill (Gentle Startup):** When bringing up an issue, use this structure: _"I feel **[emotion]** about **[specific situation]**, and I need **[positive need]**."_ (Example: "I feel **stressed** about **the budget deficit**, and I need us to **set aside an hour to review the numbers**.")
-- **Prompt (The Repair Attempt):** During a conflict where the partner is flooded, use a soft, validating statement to de-escalate: _"I hear that I hurt your feelings. Let's take a break. I love you, and I promise we will come back to this when we are both calm."_
-- **Micro-Skill (Building a Love Map):** Once a week, ask your partner a question about their current internal life: _"What is one major stressor you’re dealing with right now? What is your biggest goal for the next two months? How can I support that goal?"_
+- **Micro-Skill (Gentle Startup):** When bringing up an issue, use this structure: _"I
+  feel **[emotion]** about **[specific situation]**, and I need **[positive need]**."_
+  (Example: "I feel **stressed** about **the budget deficit**, and I need us to **set
+  aside an hour to review the numbers**.")
+- **Prompt (The Repair Attempt):** During a conflict where the partner is flooded, use a
+  soft, validating statement to de-escalate: _"I hear that I hurt your feelings. Let's
+  take a break. I love you, and I promise we will come back to this when we are both
+  calm."_
+- **Micro-Skill (Building a Love Map):** Once a week, ask your partner a question about
+  their current internal life: _"What is one major stressor you’re dealing with right
+  now? What is your biggest goal for the next two months? How can I support that goal?"_
 
 ---
 
@@ -110,5 +154,6 @@ The Gottman Method creates a robust framework for maintaining the security of th
 ### 📚 Citations & Sources
 
 - Gottman, J. M., & Silver, N. (2012). _The Seven Principles for Making Marriage Work._
-- Gottman, J. M., & DeClaire, J. (2001). _The Relationship Cure: A 5 Step Guide to Strengthening Your Marriage, Family, and Friendships._
+- Gottman, J. M., & DeClaire, J. (2001). _The Relationship Cure: A 5 Step Guide to
+  Strengthening Your Marriage, Family, and Friendships._
 - Gottman, J. M. (1994). _Why Marriages Succeed or Fail._

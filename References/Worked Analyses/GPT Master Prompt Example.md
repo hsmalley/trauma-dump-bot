@@ -11,10 +11,8 @@ type: reference
 
 ## Transcript Excerpt
 
-> A: 'You always leave when I need you.'
-> B: 'I feel trapped when you cry.'
-> A: 'So I’m too much for you.'
-> B: 'I don’t know how to help.'
+> A: 'You always leave when I need you.' B: 'I feel trapped when you cry.' A: 'So I’m
+> too much for you.' B: 'I don’t know how to help.'
 
 ## Observations
 
@@ -33,4 +31,5 @@ type: reference
 - Coach presence cues (Polyvagal/EFT).
 - Translate judgments into needs/requests (NVC).
 
-**Related:** [[Internal Family Systems]], [[Polyvagal Theory]], [[Analysis Prompt - Multi-Modal Conflict Assessment]]
+**Related:** [[Internal Family Systems]], [[Polyvagal Theory]],
+[[Analysis Prompt - Multi-Modal Conflict Assessment]]

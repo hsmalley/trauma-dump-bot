@@ -11,10 +11,8 @@ type: reference
 
 ## Transcript Excerpt
 
-> A: 'You ruined the evening.'
-> B: 'It’s all my fault; I’m useless.'
-> C: 'A, stop attacking B—I’ll fix this.'
-> A: 'Fine, I’ll do everything myself.'
+> A: 'You ruined the evening.' B: 'It’s all my fault; I’m useless.' C: 'A, stop
+> attacking B—I’ll fix this.' A: 'Fine, I’ll do everything myself.'
 
 ## Observations
 
@@ -32,4 +30,5 @@ type: reference
 - Shift to [[Empowerment Triangle]] (Creator/Coach/Challenger).
 - Establish boundaries and clarity of responsibilities.
 
-**Related:** [[Empowerment Triangle]], [[Transactional Analysis]], [[Analysis Prompt - Multi-Modal Conflict Assessment]]
+**Related:** [[Empowerment Triangle]], [[Transactional Analysis]],
+[[Analysis Prompt - Multi-Modal Conflict Assessment]]

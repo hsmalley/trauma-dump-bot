@@ -11,10 +11,8 @@ type: reference
 
 ## Transcript Excerpt
 
-> A: 'You’re late again!'
-> B: 'Stop treating me like a child.'
-> A: 'If you respected me, you’d be on time.'
-> B: 'Maybe if you weren’t so controlling…'
+> A: 'You’re late again!' B: 'Stop treating me like a child.' A: 'If you respected me,
+> you’d be on time.' B: 'Maybe if you weren’t so controlling…'
 
 ## Observations
 
@@ -32,4 +30,5 @@ type: reference
 - Make clean contracts: who/what/when/how.
 - Balance appreciation with clear requests.
 
-**Related:** [[Nonviolent Communication]], [[Karpman Drama Triangle]], [[Analysis Prompt - Multi-Modal Conflict Assessment]]
+**Related:** [[Nonviolent Communication]], [[Karpman Drama Triangle]],
+[[Analysis Prompt - Multi-Modal Conflict Assessment]]
