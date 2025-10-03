@@ -18,8 +18,8 @@ MessagePack storage and the expanded JSON representation.
   optional tar extraction and directory exclusion controls.
 - `diff_vault.py` – appends a unified diff of `vault.yaml` changes to
   `vault-changelog.md`.
-- `vault_schema.json` – JSON Schema definition describing a single vault entry
-  (see [`docs/vault-schema.md`](../../docs/vault-schema.md)).
+- `vault_schema.json` – JSON Schema definition describing a single vault entry (see
+  [`docs/vault-schema.md`](../../docs/vault-schema.md)).
 - `test/test_vault_loader.py` – pytest coverage for round-trip conversion, hashing, and
   schema validation.
 

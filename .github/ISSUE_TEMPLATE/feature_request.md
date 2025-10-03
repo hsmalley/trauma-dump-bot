@@ -2,8 +2,10 @@
 name: Feature request
 about: Suggest an idea or improvement for the vault tooling
 labels: enhancement
-assignees: ''
+assignees: ""
 ---
+
+<!-- @format -->
 
 ## Summary
 

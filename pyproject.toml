@@ -50,3 +50,15 @@ addopts = "-q"
 testpaths = [
     "tools/vault/test",
 ]
+# Restrict package discovery to the tools namespace and avoid dragging in vault content.
+[tool.setuptools.packages.find]
+include = ["tools", "tools.*"]
+exclude = [
+    "Data",
+    "Meta",
+    "Utility",
+    "Prompts",
+    "Templates",
+    "References",
+    "Frameworks",
+]

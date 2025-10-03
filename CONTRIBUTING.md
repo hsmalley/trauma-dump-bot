@@ -1,13 +1,18 @@
+<!-- @format -->
+
 # Contributing Guide
 
-Thanks for helping improve the Relational Analysis Vault tooling! This guide explains how to set up your environment, run checks, and propose changes.
+Thanks for helping improve the Relational Analysis Vault tooling! This guide explains
+how to set up your environment, run checks, and propose changes.
 
 ## Prerequisites
 
 - Python 3.12+
 - [direnv](https://direnv.net/) (optional, but recommended)
-- [ruff](https://docs.astral.sh/ruff/) (installed via `pip install ruff` or the Makefile)
-- [markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2) and [Prettier](https://prettier.io/) if you plan to format Markdown locally
+- [ruff](https://docs.astral.sh/ruff/) (installed via `pip install ruff` or the
+  Makefile)
+- [markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2) and
+  [Prettier](https://prettier.io/) if you plan to format Markdown locally
 
 ## Initial Setup
 
@@ -19,7 +24,8 @@ direnv allow
 make install
 ```
 
-The project uses a `.env` file (loaded by direnv) for optional overrides. Copy `.env.example` to `.env` and update paths as needed.
+The project uses a `.env` file (loaded by direnv) for optional overrides. Copy
+`.env.example` to `.env` and update paths as needed.
 
 ## Development Workflow
 
@@ -45,7 +51,8 @@ Follow these steps before submitting a pull request.
 
 ## Testing Tips
 
-Test fixtures live under `tools/vault/test`. You can add new fixtures in `tools/vault/test/fixtures/` for additional coverage. Run a specific test file with:
+Test fixtures live under `tools/vault/test`. You can add new fixtures in
+`tools/vault/test/fixtures/` for additional coverage. Run a specific test file with:
 
 ```bash
 PYTHONPATH=. pytest tools/vault/test/test_vault_loader.py

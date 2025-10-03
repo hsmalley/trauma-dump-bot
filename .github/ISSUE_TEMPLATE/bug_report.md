@@ -2,8 +2,10 @@
 name: Bug report
 about: Help us fix problems in the vault tooling
 labels: bug
-assignees: ''
+assignees: ""
 ---
+
+<!-- @format -->
 
 ## Description
 
@@ -11,9 +13,9 @@ A clear and concise description of the bug.
 
 ## Steps to Reproduce
 
-1. 
-2. 
-3. 
+1.
+2.
+3.
 
 ## Expected Behaviour
 

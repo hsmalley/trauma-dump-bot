@@ -1,3 +1,5 @@
+<!-- @format -->
+
 ## Summary
 
 <!-- Describe the changes in this PR. Include context, screenshots, or references when helpful. -->
@@ -5,6 +7,7 @@
 ## Testing
 
 <!-- List the tests you ran or steps taken to verify the change. -->
+
 - [ ] `make check`
 - [ ] `task check`
 - [ ] Other (describe):
