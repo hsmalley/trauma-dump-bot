@@ -1,0 +1,40 @@
+version: '3'
+
+tasks:
+  install:
+    desc: Create virtualenv and install project dependencies
+    cmds:
+      - python3 -m venv .venv
+      - . .venv/bin/activate && pip install --upgrade pip
+      - . .venv/bin/activate && pip install -e .
+
+  lint:
+    desc: Run Ruff and markdownlint on the repository
+    cmds:
+      - direnv exec . ruff check
+      - direnv exec . markdownlint-cli2 "**/*.md" "!node_modules"
+
+  format:
+    desc: Format Python and Markdown sources
+    cmds:
+      - direnv exec . ruff format
+      - direnv exec . prettier --write "**/*.md"
+      - direnv exec . markdownlint-cli2 --fix "**/*.md" "!node_modules"
+
+  test:
+    desc: Execute pytest suite
+    cmds:
+      - direnv exec . pytest
+
+  check:
+    desc: Run lint and tests together
+    deps: [lint]
+    cmds:
+      - task: test
+
+  clean:
+    desc: Remove virtualenvs, caches, and build artifacts
+    cmds:
+      - rm -rf .venv .mypy_cache .pytest_cache dist build
+      - find . -name '__pycache__' -type d -prune -exec rm -rf {} +
+      - rm -rf tools/vault/extracted

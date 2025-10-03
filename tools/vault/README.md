@@ -18,7 +18,8 @@ MessagePack storage and the expanded JSON representation.
   optional tar extraction and directory exclusion controls.
 - `diff_vault.py` – appends a unified diff of `vault.yaml` changes to
   `vault-changelog.md`.
-- `vault_schema.json` – JSON Schema definition describing a single vault entry.
+- `vault_schema.json` – JSON Schema definition describing a single vault entry
+  (see [`docs/vault-schema.md`](../../docs/vault-schema.md)).
 - `test/test_vault_loader.py` – pytest coverage for round-trip conversion, hashing, and
   schema validation.
 
@@ -36,6 +37,13 @@ Install dependencies, for example:
 
 ```bash
 pip install msgpack PyYAML jsonschema pytest
+```
+
+Or use the project-level helper targets defined in the repository `Makefile`:
+
+```bash
+make install   # create venv and install dependencies
+make check     # run linters and tests
 ```
 
 ## Common Workflows
