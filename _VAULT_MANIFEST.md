@@ -1,3 +1,10 @@
+---
+title: _VAULT_MANIFEST
+tags:
+  - meta
+type: meta
+---
+
 <!-- @format -->
 
 # 📂 VAULT DEPLOYMENT MANIFEST: Relational Analysis System

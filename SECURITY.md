@@ -1,3 +1,10 @@
+---
+title: SECURITY
+tags:
+  - meta
+type: meta
+---
+
 <!-- @format -->
 
 # Security Policy

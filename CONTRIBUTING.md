@@ -1,3 +1,10 @@
+---
+title: CONTRIBUTING
+tags:
+  - meta
+type: meta
+---
+
 <!-- @format -->
 
 # Contributing Guide

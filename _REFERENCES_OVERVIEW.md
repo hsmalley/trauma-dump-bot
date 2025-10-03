@@ -6,6 +6,7 @@ tags:
   - compiled
 created: 2025-10-02
 modified: 2025-10-02
+type: meta
 ---
 
 <!-- @format -->
