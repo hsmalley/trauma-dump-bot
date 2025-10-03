@@ -17,15 +17,15 @@ install:
 
 lint:
 	@$(call RUN,ruff check)
-	@$(call RUN,npx --yes markdownlint-cli2 --config .markdownlint-cli2.yaml "**/*.md" "!node_modules")
+	@$(call RUN,npx --yes markdownlint-cli2 --config .markdownlint-cli2.yaml)
 
 format:
 	@$(call RUN,ruff format)
 	@$(call RUN,npx --yes prettier --write "**/*.md")
-	@$(call RUN,npx --yes markdownlint-cli2 --config .markdownlint-cli2.yaml --fix "**/*.md" "!node_modules")
+	@$(call RUN,npx --yes markdownlint-cli2 --config .markdownlint-cli2.yaml --fix)
 
 test:
-	@$(call RUN,pytest)
+	@$(call RUN,env PYTHONPATH=. pytest)
 
 check: lint test
 

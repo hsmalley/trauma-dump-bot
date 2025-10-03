@@ -4,20 +4,20 @@ tasks:
   lint:
     desc: Run Ruff and markdownlint on the repository
     cmds:
-      - direnv exec . ruff check --fix
-      - direnv exec . npx --yes markdownlint-cli2 --config .markdownlint-cli2.yaml "**/*.md" "!node_modules"
+      - direnv exec . ruff check
+      - direnv exec . npx --yes markdownlint-cli2 --config .markdownlint-cli2.yaml
 
   format:
     desc: Format Python and Markdown sources
     cmds:
       - direnv exec . ruff format
       - direnv exec . npx --yes prettier --write "**/*.md"
-      - direnv exec . npx --yes markdownlint-cli2 --config .markdownlint-cli2.yaml --fix "**/*.md" "!node_modules"
+      - direnv exec . npx --yes markdownlint-cli2 --config .markdownlint-cli2.yaml --fix
 
   test:
     desc: Execute pytest suite
     cmds:
-      - direnv exec . pytest
+      - direnv exec . env PYTHONPATH=. pytest
 
   check:
     desc: Run lint and tests together

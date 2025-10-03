@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: General question
+    url: https://github.com/hugh/trauma-dump-bot/discussions
+    about: Ask questions or discuss ideas.

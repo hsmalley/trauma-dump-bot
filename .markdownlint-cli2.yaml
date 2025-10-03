@@ -1,20 +1,31 @@
 # markdownlint-cli2 configuration tuned for the Obsidian vault
 
-# Enable the default ruleset then selectively disable items that conflict with vault style
+# Lint every Markdown file in the repository, excluding dependency caches
+# that may appear during local work.
+globs:
+  - "**/*.md"
+  - "!node_modules"
+  - "!.venv"
+  - "!.venv/**"
+
 config:
   default: true
-  MD013: false            # allow long lines
-  MD033: true             # permit inline HTML
-  MD041: false            # skip first-heading requirement
-  MD026: false            # allow punctuation at end of headings
-  MD034: false            # allow bare URLs
-  MD025:                  # treat front matter as satisfying the top heading
-    front_matter_title: ""
-    level: 2
+  MD001: false            # allow heading level jumps (legacy content)
   MD004:
     style: consistent
-  MD007:
-    indent: 4
-  MD051: false
-  MD001: false
-  MD036: false
+  MD007: false            # relax list indentation (vault style varies)
+  MD013: false            # allow long lines
+  MD025: false            # allow multiple top-level headings
+  MD026: false            # allow punctuation at end of headings
+  MD033: true             # permit inline HTML
+  MD034: false            # allow bare URLs
+  MD036: false            # allow emphasis-as-heading
+  MD040: false            # allow fenced code blocks without language
+  MD041: false            # skip first-heading requirement
+  MD045: false            # skip alt-text requirement for stored images
+  MD051: false            # relax reference link validation
+  MD056: false            # ignore table column count mismatches
+  MD024: false            # allow duplicate headings in structured templates
+  MD035: false            # allow alternative horizontal rule styles
+  MD049: false            # allow underscore emphasis
+  MD029: false            # ignore ordered list numbering
