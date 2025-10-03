@@ -1,7 +1,22 @@
+# General stuff
+.DS_Store
 *.lock
 *.json
+*.log
+
+# Data is for the users
+Data
+Data/**
+
+# Obsdian folder not needed for this
 .obsidian
 .obsidian/**
-.DS_Store
 
+# Python stuff
+__pycache__/
+__pycache__/**
+
+# Stuff to keep
 !vault.json
+!Relational_Analysis_Vault.json
+!tools/vault/vault_schema.json

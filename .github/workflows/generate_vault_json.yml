@@ -14,7 +14,7 @@ on:
       - main
     paths:
       # Rebuild when the conversion script changes
-      - "Meta/Tools/vault_to_json.py"
+      - "tools/vault_to_json.py"
       # Rebuild when any markdown or vault data changes
       - "**/*.md"
       - "**/*.tar"
@@ -38,8 +38,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          # The conversion script can optionally use PyYAML for frontmatter parsing.
-          pip install pyyaml
+          pip install pyyaml jsonschema msgpack
 
       - name: Generate JSON from vault
         run: |
@@ -48,7 +47,7 @@ jobs:
           # Run the conversion script on the entire repository.  The --root flag
           # tells the tool to scan the current directory.  Adjust the output
           # filename as desired.
-          python Meta/Tools/vault_to_json.py --root . --output vault.json
+          python tools/vault_to_json.py --root . --output vault.json
 
       - name: Upload JSON as artifact
         # Use v4 of the artifact action because v3 is deprecated as of Jan 30 2025.
