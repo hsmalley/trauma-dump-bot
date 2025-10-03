@@ -18,8 +18,14 @@ type: meta
 ## Why?
 
 I made this for myself first and foremost. I needed a way to better understand the
-people in my life. Once I did that, I realized _Hey! This might make a really cool tool
+people in my life. 
+
+Once I did that, I realized _Hey! This might make a really cool tool
 for so many different things!_
+
+So, now I've spent WAAAY to much time adding stuff to this. I also started adding anything that could be interesting or helpful to people I know too.
+
+The idea is to have something that is able to deal with a lot of `non-vanilla` topics in a way that respects people and their lives. ... at least that's the idea; I don't really know if it will be useful to anyone. However if anything it's a fun exercise and taught me how to build a really kick ass research tool!
 
 ## How to use
 
