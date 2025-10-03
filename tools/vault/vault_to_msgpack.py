@@ -10,6 +10,7 @@ from typing import List
 
 
 def _import_loader():
+    """Import load/save helpers, supporting script-style execution."""
     try:
         from .vault_loader import load_vault, save_vault
 
@@ -32,12 +33,14 @@ def convert(
     pretty: bool = False,
     validate: bool = False,
 ) -> None:
+    """Convert between vault formats with optional validation/pretty output."""
     vault = load_vault(input_path, validate=validate)
     save_vault(vault, output_path, pretty=pretty, validate=validate)
     print(f"✅ Converted: {input_path} → {output_path}")
 
 
 def main(argv: List[str] | None = None) -> int:
+    """CLI entry point for the vault-to-MessagePack converter."""
     parser = argparse.ArgumentParser(
         description="Convert a vault between JSON and MessagePack formats."
     )

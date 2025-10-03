@@ -46,6 +46,7 @@ REVERSE_ALIAS_MAP = {v: k for k, v in ALIAS_MAP.items()}
 
 
 def aliasify_object(obj: Dict[str, Any]) -> Dict[str, Any]:
+    """Recursively replace verbose keys with their compact aliases."""
     result: Dict[str, Any] = {}
     for long_key, val in obj.items():
         if val is None or (isinstance(val, (list, dict)) and not val):
@@ -60,6 +61,7 @@ def aliasify_object(obj: Dict[str, Any]) -> Dict[str, Any]:
 
 
 def de_aliasify_object(obj: Dict[str, Any]) -> Dict[str, Any]:
+    """Restore aliased keys back to their expanded form."""
     result: Dict[str, Any] = {}
     for short_key, val in obj.items():
         long_key = REVERSE_ALIAS_MAP.get(short_key, short_key)
@@ -81,6 +83,7 @@ def validate_vault(vault: Dict[str, Any]) -> Dict[str, Any]:
 
 
 def load_vault(path: str, *, validate: bool = False) -> Dict[str, Any]:
+    """Load a vault JSON/MessagePack file, optionally validating it."""
     _, ext = os.path.splitext(path.lower())
     if ext == ".json":
         with open(path, "r", encoding="utf-8") as f:
@@ -97,6 +100,7 @@ def load_vault(path: str, *, validate: bool = False) -> Dict[str, Any]:
 def save_vault(
     vault: Dict[str, Any], path: str, pretty: bool = False, validate: bool = False
 ) -> None:
+    """Persist a vault object to disk, optionally validating and pretty-printing."""
     _, ext = os.path.splitext(path.lower())
     if validate:
         validate_vault(vault)

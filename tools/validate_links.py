@@ -86,6 +86,7 @@ def extract_links(text: str) -> Set[str]:
 
 
 def candidate_targets(raw: str) -> Set[str]:
+    """Return possible note targets for a raw wiki-style link."""
     target = raw.split("|", 1)[0].strip()
     if not target or target.startswith("#") or target.startswith("^"):
         return set()
@@ -129,6 +130,7 @@ def validate_links(vault: Dict[str, Any], path: Path) -> List[Dict[str, str]]:
 
 
 def main():
+    """CLI entry point for validating markdown links."""
     parser = argparse.ArgumentParser(description="Validate markdown links in a vault.")
     parser.add_argument("vault_path", type=str, help="Path to the markdown vault")
     args = parser.parse_args()

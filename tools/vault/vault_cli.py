@@ -65,6 +65,7 @@ def _import_loader():
 
 
 def run_cli(argv: List[str] | None = None) -> int:
+    """Parse CLI arguments and perform the requested vault conversion."""
     parser = argparse.ArgumentParser(
         description="Vault converter for JSON ↔ MessagePack"
     )
@@ -147,6 +148,7 @@ def run_cli(argv: List[str] | None = None) -> int:
 
 
 def check_sync(json_path: str, msgpack_path: str, *, validate: bool = False) -> bool:
+    """Verify two vault files resolve to the same canonical hash."""
     try:
         vault_json = load_vault(json_path, validate=validate)
         vault_msgpack = load_vault(msgpack_path, validate=validate)

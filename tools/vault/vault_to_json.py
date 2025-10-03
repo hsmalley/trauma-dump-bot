@@ -38,6 +38,7 @@ except Exception:
 
 
 def default_converter(o):
+    """Convert datetime values to ISO strings for JSON dumping."""
     if isinstance(o, (datetime, date)):
         return o.isoformat()
     raise TypeError(f"Object of type {o.__class__.__name__} is not JSON serializable")
@@ -197,6 +198,7 @@ def build_md_tree(root_dir: str, tagfiles: Set[str]):
     """
 
     def dir_contains_tag(path: str) -> bool:
+        """Return True if the directory directly contains any exclusion tag."""
         try:
             names = os.listdir(path)
             for tag in tagfiles:
@@ -207,6 +209,7 @@ def build_md_tree(root_dir: str, tagfiles: Set[str]):
             return False
 
     def node_for_dir(path: str, relbase: str):
+        """Build a tree node for a directory unless it is excluded."""
         if dir_contains_tag(path):
             return None
         node = {
@@ -258,6 +261,7 @@ def build_md_tree(root_dir: str, tagfiles: Set[str]):
 
 
 def main():
+    """CLI entry point for building a JSON tree from a vault archive or folder."""
     p = argparse.ArgumentParser(
         description="Extract tar and build markdown JSON, excluding directories that contain one or more tag files."
     )

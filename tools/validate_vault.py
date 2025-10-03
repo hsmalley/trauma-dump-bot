@@ -13,12 +13,14 @@ except Exception:  # pragma: no cover - optional dependency
 
 
 def default_converter(o):
+    """Serialize datetime values to ISO strings when dumping JSON."""
     if isinstance(o, (datetime, date)):
         return o.isoformat()
     raise TypeError(f"Object of type {o.__class__.__name__} is not JSON serializable")
 
 
 def read_text(p):
+    """Read text from a path using UTF-8 with lenient error handling."""
     return Path(p).read_text(encoding="utf-8", errors="ignore")
 
 
@@ -26,6 +28,7 @@ FRONT_MATTER_PATTERN = re.compile(r"^---\s*\n(.*?)\n---\s*\n?", re.S)
 
 
 def parse_frontmatter(text: str) -> Tuple[Dict, str]:
+    """Parse YAML-style front matter and return the metadata dict plus body."""
     match = FRONT_MATTER_PATTERN.match(text)
     if not match:
         return {}, text
@@ -72,6 +75,7 @@ def parse_frontmatter(text: str) -> Tuple[Dict, str]:
 
 
 def index_notes(root: Path):
+    """Index markdown files by stem and collect declared aliases."""
     files = list(root.rglob("*.md"))
     by_stem = {f.stem: f for f in files}
     aliases = {}
@@ -91,6 +95,7 @@ def index_notes(root: Path):
 
 
 def candidate_targets(raw: str) -> Set[str]:
+    """Normalize a wiki-link into possible note identifiers."""
     target = raw.split("|", 1)[0].strip()
     if not target or target.startswith("#") or target.startswith("^"):
         return set()
@@ -105,6 +110,7 @@ def candidate_targets(raw: str) -> Set[str]:
 
 
 def find_broken_links(root: Path, by_stem, aliases):
+    """Return unresolved wiki-links found within the vault."""
     broken = []
     valid_relative = {
         str(path.relative_to(root)).rsplit(".", 1)[0] for path in by_stem.values()
@@ -124,6 +130,7 @@ def find_broken_links(root: Path, by_stem, aliases):
 
 
 def find_duplicate_titles(root: Path):
+    """Detect notes that share the same title metadata."""
     seen = {}
     dups = []
     for f in root.rglob("*.md"):
@@ -146,6 +153,7 @@ def find_duplicate_titles(root: Path):
 
 
 def main():
+    """CLI entry point to validate duplicated titles and broken links."""
     root = Path(sys.argv[1]) if len(sys.argv) > 1 else Path(".")
     files, by_stem, aliases = index_notes(root)
     report = {

@@ -14,6 +14,7 @@ def visible_text(el):
 
 
 def media_placeholders(msg_el):
+    """Render placeholders for media attachments inside a message."""
     placeholders = []
     # images
     for img in msg_el.find_all("img"):
@@ -45,6 +46,7 @@ def media_placeholders(msg_el):
 
 
 def extract_messages(soup):
+    """Extract structured message data from Telegram export HTML."""
     out = []
     # heuristic: messages are top-level divs with class "message"
     candidates = soup.find_all(
@@ -94,6 +96,7 @@ def extract_messages(soup):
 
 
 def main():
+    """Parse Telegram HTML and write a simplified text transcript."""
     if len(sys.argv) < 3:
         print("Usage: telegram_html_to_txt.py input.html output.txt")
         sys.exit(1)
