@@ -54,7 +54,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           # Name of the downloadable artifact shown in the GitHub UI
-          name: vault-json
+          name: Relational_Analysis_Vault.json
           # Path to the generated JSON file
           path: Relational_Analysis_Vault.json
 
