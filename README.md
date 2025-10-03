@@ -38,4 +38,3 @@ Okay, so this is kinda tricky
 
 Setup some kind of Obsidian friendly github pages
 And maybe more...
-
