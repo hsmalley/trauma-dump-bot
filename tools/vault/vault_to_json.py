@@ -251,7 +251,7 @@ def build_md_tree(root_dir: str, tagfiles: Set[str]):
                         "type": "file",
                         "relpath": rel,
                         "size_bytes": stat.st_size,
-                        "mtime_utc": datetime.utcfromtimestamp(stat.st_mtime).isoformat() + "Z",
+                        "mtime_utc": datetime.fromtimestamp(stat.st_mtime, datetime.UTC).isoformat() + "Z",
                         "frontmatter": fm,
                         "content": body,
                     }
