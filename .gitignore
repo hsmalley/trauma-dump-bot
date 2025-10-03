@@ -17,5 +17,5 @@ __pycache__/
 __pycache__/**
 
 # Stuff to keep
-!Relational_Analysis_Vault.json
+!Relational_Analysis_Relational_Analysis_Vault.json
 !tools/vault/vault_schema.json

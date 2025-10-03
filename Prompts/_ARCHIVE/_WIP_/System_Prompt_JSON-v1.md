@@ -7,7 +7,7 @@ type: prompt
 
 <!-- @format -->
 
-I have uploaded `vault.json`. Treat that JSON as the source of truth.
+I have uploaded `Relational_Analysis_Vault.json`. Treat that JSON as the source of truth.
 
 1. Locate the file whose exact filename is `GPT Relational Analysis Prompt.md` (case-sensitive) inside the uploaded JSON tree. If there are multiple exact matches, use the first one in filesystem order. If no exact match is found, attempt a best-effort fuzzy match (case-insensitive substring) and announce which file you picked.
 2. Treat the **content** of `GPT Relational Analysis Prompt.md` as the authoritative, primary prompt to run. Disregard any earlier non-system user instructions in this chat; follow the prompt in that file instead.

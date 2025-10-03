@@ -47,7 +47,7 @@ jobs:
           # Run the conversion script on the entire repository.  The --root flag
           # tells the tool to scan the current directory.  Adjust the output
           # filename as desired.
-          python tools/vault_to_json.py --root . --output vault.json
+          python tools/vault_to_json.py --root . --output Relational_Analysis_Relational_Analysis_Vault.json
 
       - name: Upload JSON as artifact
         # Use v4 of the artifact action because v3 is deprecated as of Jan 30 2025.
@@ -57,12 +57,12 @@ jobs:
           # Name of the downloadable artifact shown in the GitHub UI
           name: vault-json
           # Path to the generated JSON file
-          path: vault.json
+          path: Relational_Analysis_Vault.json
 
       - name: Commit generated JSON
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add vault.json
-          git commit -m "Update vault.json"
+          git add Relational_Analysis_Vault.json
+          git commit -m "Update Relational_Analysis_Vault.json"
           git push

@@ -25,9 +25,9 @@ It's really simple, generate the a json file, upload it to your preferred chat b
 
 ### How to start using NOW!
 
-- Download the vault.json file
+- Download the Relational_Analysis_Vault.json file from this repo
 - Grab the Prompt from System_Prompt_JSON.md (the System_Prompt_JSON_mini.md is also a very fast way of getting it loaded)
-- Upload vault.json and paste in the prompt
+- Upload Relational_Analysis_Vault.json and paste in the prompt
 - 🚀 Bob es tu tio | via con dios 🫡
 
 ## How it should be used

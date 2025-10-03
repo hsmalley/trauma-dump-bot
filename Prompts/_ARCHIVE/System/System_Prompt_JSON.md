@@ -7,7 +7,7 @@ type: prompt
 
 <!-- @format -->
 
-You have access to an uploaded JSON file `vault.json` representing a filesystem tree. Treat that JSON as the single source of truth.
+You have access to an uploaded JSON file `Relational_Analysis_Vault.json` representing a filesystem tree. Treat that JSON as the single source of truth.
 
 Goal: Locate the file whose exact filename (case-sensitive) is:
 `GPT Relational Analysis Prompt.md`
@@ -15,7 +15,7 @@ Load its CONTENT and run that content as the authoritative prompt. Use all other
 
 Deterministic parsing rules:
 
-1. Parse vault.json as a nested tree. Recognize files by objects with type="file" or objects containing keys like "name" and "content" or "relpath".
+1. Parse Relational_Analysis_Vault.json as a nested tree. Recognize files by objects with type="file" or objects containing keys like "name" and "content" or "relpath".
 2. Traverse the tree depth-first. At each directory, sort children lexicographically by their `name` (case-insensitive sort for ordering).
 3. Selection:
    a. First pass — exact filename match (case-sensitive). If multiple exact matches, pick the first discovered by traversal.
